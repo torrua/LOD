@@ -1,0 +1,2 @@
+# LOD
+Loglan Dictionary
