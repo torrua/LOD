@@ -18164,8 +18164,7 @@
 9773@1@@av@«far from» this region, before predicates.@@
 9773@2@@c@«far from» where, of extensive events.@@
 9773@3@@pp@«far from»..., a large space, before terms.@@
-9774@1@@l@«X», Latin upper case letter, one of a pool of symbols.  The former Xai is no longer suitable as X is no longer a Loglan letter..
-@@
+9774@1@@l@«X», Latin upper case letter, one of a pool of symbols.  The former Xai is no longer suitable as X is no longer a Loglan letter..@@
 9775@1@@2n@B is some «X radiation» from source S.@@B-S
 9775@2@nu %@n@an «X ray» source.@@
 9776@1@@l@«x», Latin lower case letter, one of a pool of symbols. [original xei no longer suitable as x is not a Loglan letter any more]@@
@@ -18540,8 +18539,7 @@
 10053@1@@af@a combining form of vidre «idea»@@
 10054@1@@af@a combining form of vidju, «view».@@
 10055@1@@af@a combining form of volsi, «voice».@@
-10056@1@@4v@X is a «complex» (Loglan grammatical term) containing primitive Y via affix Z in
-> loglandical language W@@
+10056@1@@4v@X is a «complex» (Loglan grammatical term) containing primitive Y via affix Z in loglandical language W@@
 10057@1@@4v@X is a «primitive» «predicate» (root word) with meaning Y, number of places Z, in language W@@
 10058@1@@3v@X is the «word class» of word Y in language Z@@
 10059@1@@3v@X is the «structure word class» of structure word Y in language Z@@
@@ -18578,8 +18576,7 @@
 10090@1@@LW@separator of components of foreign names and strong quotations@@
 10091@1@@LW@alternative separator between components of strong quotations@@
 10092@1@@LW@subordinate clause former, defines the subordinated argument in terms of the argument it is subordinated to@@
-10093@1@@LW@attitudinal expressing apology, I'm «sorry»
-@@
+10093@1@@LW@attitudinal expressing apology, I'm «sorry»@@
 10094@1@@LW@LW for constructing compounds from predicate words (and LWs under some circumstances)@@
 10095@1@@LW@initial marker for acronyms, proposed mandatory for acronyms used as dimensions@@
 10096@1@@3n@ b is a blog/ computer web log about V by S@@
@@ -18589,8 +18586,7 @@
 10100@1@@LW@short scope  «event» predicate constructor, modification of po@@
 10101@1@@LW@short scope «quality» abstractor, variant of pu@@
 10102@1@@LW@short scope «quantity» abstractor, variant of zo@@
-10103@1@@LW@attitudinal marking «answer»s
-@@
+10103@1@@LW@attitudinal marking «answer»s@@
 10104@1@@LW@medial marker (comma) for unordered lists = finite sets@@
 10105@1@@LW@medial marker (comma) for ordered lists@@
 10106@1@@2v@X «may» do, is «permitted» to do, Y@@
