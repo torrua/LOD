@@ -8834,7 +8834,7 @@
 4721@1@@1n@B is a «lunch»/«luncheon»/«snack», a small meal taken at any time.@@B-
 4722@1@@2v@K «lunch» upon B  eat a small meal at any time.@@K-B
 4723@1@@1v@K «doze»/«nod off».@@K-
-4724@1@@art@The left hand identifier of an unordered set (a series of pause separated words or equivalent).«»@@
+4724@1@@art@The left hand identifier of an unordered «set» (a series of pause separated words or equivalent).@@
 4725@1@@1n@B is some «lawrencium», a transuranic artificial element (Lw).@@B-
 4726@1@@1n@B is a «laurel»/«bay »(tree).@@B-
 4727@1@@art@«the» (one or more things I mean which seem to be)..., the general descriptive operator. (see lee and laa)@@
@@ -8992,7 +8992,7 @@
 4825@3@lo %@n@«left», mass term for the direction.@@
 4826@1@@2v@N «turn» B left/«laevorotate»/«levorotate» (polarized light in the last instances)@@N-B
 4826@2@@a@«laevorotatory»/«levorotatory», pert. to a substance that rotates polarized light anticlockwise@@
-4827@1@@pm@ <em class="key">quote</em>/(&ldquo;), the utterance which looks/sounds like..., the left quotation mark, used with <b>lu</b>. &nbsp;&nbsp;@@
+4827@1@@pm@ «quote»/(“), the utterance which looks/sounds like..., the left «quotation» mark, used with <b>lu</b>.@@
 4828@1@@c@«like»/(just) «as»/in the «way that». .@@
 4828@2@@pp@«like»/«similar to», before clauses/terms.@@
 4828@3@% ba@av@«anyway»/in some «manner».@@
@@ -9467,12 +9467,12 @@
 5070@1@@2n@B is a «loris» from S, an East Indian lemur.@@B-S
 5071@1@@3v@K «pick» flowers B from S.@@K-BS
 5072@1@@1n@B is a «lei»/«wreath»/«ring» of flowers.@@B-
-5073@1@@pm@The left hand marker of an ordered list.«»@@
-5074@1@@pm@ end <em class="key">quote</em>/(&rdquo;) (the right quotation mark, used with <b>li</b>.). &nbsp;&nbsp;@@
-5075@1@@op@the right hand closure of an unordered set.«»@@
+5073@1@@pm@The left hand marker of an ordered «list».@@
+5074@1@@pm@ end «quote»/(”) (the right «quotation» mark, used with <b>li</b>.).@@
+5075@1@@op@the right hand closure of an unordered «set».@@
 5076@1@@2a@G is more «feathery»/like a feather than J is.@@G-J
 5076@2@pu %@n@a «featheriness», a spec. property.@@
-5077@1@@pm@the address of...(&), inverse of indirect designation.«».@@
+5077@1@@pm@the «address» of...(&), inverse of indirect designation.@@
 5078@1@@af@a combining form of lufta, «lift».@@
 5079@1@@1v@K «shrug»@@K-
 5079@2@po %@n@a «shrug» (lifting of the shoulders gesture)@@
@@ -9507,7 +9507,7 @@
 5096@3@lo %@n@«wool», mass term.@@
 5097@1@@2n@V is some «moonlight» falling on D.@@V-D
 5098@1@@1a@V is «lunar», pert. to the natural satellite of the earth.@@V-
-5099@1@@pm@the right hand marker of an ordered list.«»@@
+5099@1@@pm@the right hand marker of an ordered «list».@@
 5100@1@@af@a combining form of lupsu, «wolf».@@
 5101@1@@1n@B is a female «wolf», a wolf «bitch».@@B-
 5102@1@@1a@B is «lupine»/«wolf like», pertaining to wolves.@@B-
@@ -12018,8 +12018,8 @@
 6386@1@@c@«whether»...,...as one wd. between modifiers.@@
 6387@1@@c@«whether»...not..., between modified/ fying words.@@
 6388@1@@h@«Mr»/«Ms»/«Mrs», an attitudinal indicating both distance and neutrality;  part of the series 'rie/kae/nue/fie/die', q.v.;  always follows a designation/vocative. E.g., 'Smiq, Nue'.  'Smith, Mr.' ('Mr. Smith');  'Ne nu sange nue' 'A suggestion toward which@@
-6389@1@@op@reorders the 1st three places of a preda as 231«»@@
-6390@1@@op@exchanges the 2nd and 3rd places of a predicate«»@@
+6389@1@@op@reorders the 1st three places of a preda as 231.@@
+6390@1@@op@exchanges the 2nd and 3rd places of a predicate.@@
 6391@1@@aux@«may»/is «permitted to»..., objective sense used before predicates (PA). E.g., Tu nui godzi daYou may/are permitted to go to X. Cf. oi for subjective sense: Oi tu godzi daYou may go to X.@@
 6391@2@@pp@«in»/«during»/«under»..., used before event/state terms to specify the conditions of a permission.@@
 6392@1@@2n@B is the «nucleus» of (cell/atom) F.@@B-F
@@ -12059,7 +12059,7 @@
 6412@4@po %@n@an «approximation», an act/process of -ing.@@
 6413@1@@3v@K «reckon»/«calculate» B by V.@@K-BV
 6414@1@@1n@F is «calculus», a mathematical calculation system@@F-
-6415@1@@af@a combining form of nu, 2nd place passive, before 'r'.«»@@
+6415@1@@af@a combining form of nu, 2nd place «passive», before 'r'.@@
 6416@1@@pp@«nevertheless» (unexpected effect).@@
 6417@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even »(so), of unexpected events, as in 'nunokouki...ki;  best translated ...despite(cause)...'.@@
 6418@1@@pp@«nevertheless» (unexpected action).@@
@@ -12472,7 +12472,7 @@
 6654@1@@av@«before», tense operator before predicates.@@
 6654@2@@c@«before», conjunction before clauses.@@
 6654@3@@pp@«before», operator before event terms.@@
-6654@4@@va@...-ed, sign of the past tense.«».@@
+6654@4@@va@...-ed, sign of the «past» tense.@@
 6654@5@% ta@av ph@«formerly»/«before» that.@@
 6654@6@% ti@av ph@«before this».@@
 6655@1@@af@a combining form of patce, «apparatus».@@
@@ -15213,7 +15213,7 @@
 8185@3@po %@n@an instance of «synthesis».@@
 8186@1@@av@«certainly»/«certain to be», the objective sense. E.g., Da sio mamla  X is certainly/certain to be a mammal. Cf. ia for the subjective sense.@@
 8186@2@@in@«certainly», is certainly true/will certainly happen (under the circumstances implied by speech) (PA). E.g., Ta sio mamla  That's certainly a mammal.@@
-8186@3@@pp@(that...is )certain under conditions..., used before state/event terms. E.g., Da mamla sio ta  (That) X is a mammal is certain under those conditions.«»@@
+8186@3@@pp@(that...is ) «certain» under conditions..., used before state/event terms. E.g., Da mamla sio ta  (That) X is a mammal is certain under those conditions.@@
 8187@1@@2v@D «know»/«comprehend»/«understand» N.@@D-N
 8187@2@lopu %@n@«understanding», mass prop.@@
 8187@3@nu %@a@«understood», of known systems.@@
@@ -15625,7 +15625,7 @@
 8390@3@no %@n@«improper» social behaviour in situation...@@
 8390@4@no po %@n@an «impropriety»/«gaucherie»/«gaffe», a state or event of acting/being socially improper.@@
 8390@5@no pu %@n@«impropriety», a property.@@
-8390@6@po %@n@a state or event of acting/being socially proper/correct.«».@@
+8390@6@po %@n@a state or event of acting/being socially «proper»/«correct».@@
 8390@7@pu %@n@«propriety», a property.@@
 8391@1@@1n@B is «politics», a branch of philosophy. @@B-
 8392@1@@3a@G is more «shy»/«bashful» than J in/about V. @@G-JV
@@ -16218,7 +16218,7 @@
 8702@2@@2n@a «pulse» of...@@
 8703@1@@2n@D have a sudden «insight» about N, a "Eureka" incident. @@D-N
 8704@1@@2n@V is a «torrent» of F.@@V-F
-8705@1@@op@ converts a onamatopoetic sound to a predicate 'Le katma pa sue miao.' 'The cat meouwed.'<!-- inserted missing quotes 3/1/12 JPJ --> (PREDA).<em class="key"></em>. &nbsp;&nbsp;@@
+8705@1@@op@ converts a «onamatopoetic» sound to a predicate 'Le katma pa sue miao.' 'The cat meouwed.'<!-- inserted missing quotes 3/1/12 JPJ --> (PREDA).@@
 8706@1@@av@«also»/«too»/«moreover»/«besides»/«as well»/in «addition»/«furthermore», a discourse operator (UI).@@
 8706@2@@av@«neither»/«either»/«nor», in the senses 'He didn't either/Neither did he/Nor did he'.@@
 8706@3@% ue@av@«even», as in 'I couldn't remember even the simplest tunes.'@@
@@ -18579,14 +18579,14 @@
 10093@1@@LW@attitudinal expressing apology, I'm «sorry»@@
 10094@1@@LW@LW for constructing compounds from predicate words (and LWs under some circumstances)@@
 10095@1@@LW@initial marker for acronyms, proposed mandatory for acronyms used as dimensions@@
-10096@1@@3n@ b is a blog/ computer web log about V by S@@
-10097@1@@2n@B is a kaleidoscope of type N@@
+10096@1@@3n@ b is a «blog»/computer web log about V by S@@
+10097@1@@2n@B is a «kaleidoscope» of type N@@
 10098@1@@2n (3n)@X is more «aerodynamic» than Y (in medium Z)@@
 10099@1@@2n@X is a «battery» for appliance Y@@
 10100@1@@LW@short scope  «event» predicate constructor, modification of po@@
 10101@1@@LW@short scope «quality» abstractor, variant of pu@@
 10102@1@@LW@short scope «quantity» abstractor, variant of zo@@
 10103@1@@LW@attitudinal marking «answer»s@@
-10104@1@@LW@medial marker (comma) for unordered lists = finite sets@@
-10105@1@@LW@medial marker (comma) for ordered lists@@
+10104@1@@LW@medial marker («comma») for unordered lists = finite sets@@
+10105@1@@LW@medial marker («comma») for ordered lists@@
 10106@1@@2v@X «may» do, is «permitted» to do, Y@@
