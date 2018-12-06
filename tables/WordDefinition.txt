@@ -691,7 +691,7 @@
 450@2@lopo %@n@«interposition», placing...between...and...@@
 451@1@@av@«possible»/«perhaps»/«maybe», the objective sense. E.g., Da biu mamla  X is possibly a mammal. Cf. ii for the subjective sense.@@
 451@2@@in@«possibly», is possibly true/may happen (under the circumstances implied by speech) (PA). E.g., Ta biu mamla  That's possibly a mammal.@@
-451@3@@pp@(that...is )possible under conditions..., used before state/event terms. E.g., Da mamla biu ta  (That) X is a mammal is possible under those conditions.«»@@
+451@3@@pp@(that...is )«possible» under conditions..., used before state/event terms. E.g., Da mamla biu ta  (That) X is a mammal is possible under those conditions.@@
 452@1@@3v@K «judge» (s) the behavior of D about N.@@K-DN
 452@2@@n@«arbiter»/«arbitrator», one who judges behaviour.@@
 452@3@po %@n@«arbitration», a spec. instance of -ing.@@
@@ -2342,7 +2342,7 @@
 1323@1@@3n@B is a «document»/«deed»/«contract»/«covenant» expressing action V by party(ies) K.@@B-VK
 1324@1@@4v@K «transcribe» speech P by speaker D on/in V.@@K-PDV
 1324@2@po %@n@an instance of «transcription».@@
-1325@1@@pm@(left mark of a left connectand in word strings)«».@@
+1325@1@@pm@(left mark of a left connectand in word strings).@@
 1326@1@@2a@G is more «watery»/«thin» than J is.@@G-J
 1326@2@nu %@a@«thick», less watery than...@@
 1326@3@pu %@n@a «wateriness», sp. prop.@@
@@ -4603,7 +4603,7 @@
 2451@2@@a@«coal», made of coal.@@
 2451@3@lo %@n@«coal», mass term.@@
 2452@1@@3n@B is a/the «colour»/«color»/«color value»/«hue» of F to/as perceived by K@@B-FK
-2452@2@fu %@3v@perceive object(s) to have colours/colors/hues...«»@@
+2452@2@fu %@3v@perceive object(s) to have colours/colors/hues...@@
 2452@3@lo %@n@«colour»/«color», the mass of all colours.@@
 2452@4@lo fu %@n@the mass of all «colour perceivers».@@
 2452@5@lo nu %@n@the mass of all «coloured»/«colored» things.@@
@@ -4809,7 +4809,7 @@
 2583@1@@af@a combining form of madzo, «make».@@
 2584@1@@2n@B is the «formula»/«recipe»/«method»/«procedure» for doing/making P.@@B-P
 2585@1@@3v@K «reconcile» V with V.@@K-VV
-2586@1@@op@changes a name to a predicate. «».@@
+2586@1@@op@changes a name to a predicate.@@
 2587@1@@pm@makes a predicate from an argument, with fuzzier meaning. e.g. mea Ford, 'is like a Ford, Fordish'«»@@
 2588@1@@2n@B is a «month» in year F.@@B-F
 2589@1@@2n@B is a «monthly ticket»/«monthly pass» on system N@@B-N
@@ -5088,9 +5088,9 @@
 2741@1@@3v@K «should»/«ought to» do V under circumstances N.@@K-VN
 2742@1@@3n@K feel(s) «obliged»/«obligated» by rule/custom S to do P.@@K-SP
 2742@2@fu %@n@a «obligation» by rule or custom.@@
-2743@1@@op@reorders the 1st three places of a predicate as 312«»@@
-2744@1@@mod.@3rd reflexive, equivalent to inserting a third argument identical to the first argument. c.f. nuo«»@@
-2745@1@@af@a combining form of fu, third place passive.«»@@
+2743@1@@op@reorders the 1st three places of a predicate as 312@@
+2744@1@@mod.@3rd «reflexive», equivalent to inserting a third argument identical to the first argument. c.f. nuo@@
+2745@1@@af@a combining form of fu, third place «passive».@@
 2746@1@@3n@N is a «condition»/«circumstance»/«factor» in the situation V of F.@@N-VF
 2746@2@po %@a@is «conditional», an event of something being a condition.@@
 2747@1@@2n@N is a/the «position»/«situation»/set of «circumstances» of V.@@N-V
@@ -5468,10 +5468,10 @@
 2911@2@pu %@n@a «steeliness», steel likeness, a property.@@
 2912@1@@af@a combining form of garti, «grateful».@@
 2913@1@@3v@K «thank»/give «thanks» to D for V.@@K-DV
-2914@1@@op@strong potentiality marker: operator between predicates. «».@@
+2914@1@@op@strong potentiality marker: operator between predicates.@@
 2914@2@@va@«can»...@@
-2915@1@@op@ <em class="key">for a</em>/<em class="key">type of</em>, as in 'large for a girls school', the grouping oper. &nbsp;&nbsp;@@
-2915@2@-ge@af@ connective suffix: as in <b>age</b> <em class="key"></em>. @@
+2915@1@@op@«for a»/«type of», as in 'large for a girls school', the grouping oper.@@
+2915@2@-ge@af@ connective suffix: as in <b>age</b>.@@
 2916@1@@av@«again»/I «repeat», a discourse operator (UI).@@
 2918@1@@l@«g», Latin lower case letter, one of a pool of symbols.@@
 2919@1@@3a@K is «acquisitive» of B in conditions N.@@K-BN
@@ -5576,10 +5576,10 @@
 2965@5@po %@n@an «acquisition», an act of acquiring.@@
 2966@1@@4v@K «transmit»/«relay» B to D from S@@K-BDS
 2966@2@@n@K is a «messenger»/«courier» of B to D from S@@
-2967@1@@pm@(right mark of a GE group). «»@@
-2968@1@@pm@(,) right mark of displaced object(s) «».@@
-2969@1@@va@am/is/are -ing, continuous in a time free sense.«».@@
-2970@1@@ms@initial (left) bracket , in mathematical contexts;  used with giu.«».@@
+2967@1@@pm@(right mark of a GE group).@@
+2968@1@@pm@(,) right mark of displaced object(s).@@
+2969@1@@va@am/is/are -ing, continuous in a time free sense.@@
+2970@1@@ms@initial (left) «bracket», in mathematical contexts;  used with giu.@@
 2971@1@@af@a combining form of gigdo, «billionfold» (US).@@
 2972@1@@2n@F is 2E30 fold «quantity» of B (ISV gibi).@@F-B
 2973@1@@2n@F is a «billionfold» (US)/«thousand million» fold/«milliard» of B, (10E9) international prefix @@F-B
@@ -6051,8 +6051,8 @@
 3194@1@@3v@K «benefit» D by doing V.@@K-DV
 3194@2@@n@«benefactor», one who -s.@@
 3194@3@po %@n@a spec. «benefit» instance.@@
-3195@1@@pm@(right boundary mark for je/jue phrases only)«».@@
-3196@1@@pm@(right boundary mark for ji/ja/jiV/jaV clauses only)«».@@
+3195@1@@pm@(right boundary mark for je/jue phrases only).@@
+3196@1@@pm@(right boundary mark for ji/ja/jiV/jaV clauses only).@@
 3197@1@@1n@B is a «patriot», one who loves his country dearly.@@B-
 3197@2@@a@«patriotic», pert. to a —.@@
 3197@3@lopu %@n@«patriotism», mass property of -s.@@
@@ -6147,7 +6147,7 @@
 3239@5@pu %@n@an «oddity»/«strangeness»/«weirdness»/«mysteriousness», a spec. property.@@
 3240@1@@3v@K «taste»/sense flavor P in substance B.@@K-PB
 3240@2@@n@a «taster», one who tastes...in...@@
-3241@1@@pm@(right boundary mark for termsets only)«».@@
+3241@1@@pm@(right boundary mark for termsets only).@@
 3242@1@@q@«is-how-connected-to»?, connective interrogative. E.g., Tu danza lo skafi ha lo tcati?  You want coffee how-connected to tea?  Do you want coffee or tea?)@@
 3243@1@@af@a combining form of hasfa, «house».@@
 3244@1@@af@a combining form of hardu, «hard».@@
@@ -6563,7 +6563,7 @@
 3475@1@@3v@K treat D for N with «hydrotherapy».@@K-DN
 3475@2@@n@a «hydrotherapist».@@
 3475@3@po %@n@an instance of «hydrotherapy».@@
-3476@1@@ms@initial close parenthesis, in mathematical contexts;  used with hiu.«».@@
+3476@1@@ms@initial close «parenthesis», in mathematical contexts;  used with hiu.@@
 3477@1@@1n@B is some «mercury», element 80 (Hg).@@B-
 3478@1@@af@a combining form of hijra, «here».@@
 3479@1@@3v@K «invite» B to go with him/her to D@@K-BD
@@ -6642,7 +6642,7 @@
 3521@1@@1n@B is a «butterfly», non specific term.@@B-
 3522@1@@1a@«fluttery»@@K-
 3522@2@@1v@K «flutter».@@
-3523@1@@ms@final close parenthesis,in mathematical contexts;  used with hie«».@@
+3523@1@@ms@final close «parenthesis», in mathematical contexts;  used with hie.@@
 3524@1@@q@«How many», quantifier interrogative. E.g., Tu danza hu pligo?  You want how many apples?@@
 3525@1@@af@a combining form of horma, «horse».@@
 3526@1@@ms@«Hey»/«O», vocative mark.@@
@@ -6935,7 +6935,7 @@
 3709@1@@3n@B is an «alley» between S and D.@@B-SD
 3710@1@@2n@F is 10E24 fold «quantity» of B. (ISV yotta)@@F-B
 3711@1@@pr@«of»/«by»/«for»/«from»/«of»/«to»<, before 2nd arguments in descriptions.>.@@
-3711@2@@pr@linking oper.:a generalized preposition before 2nd args. in descr'ns. «».@@
+3711@2@@pr@linking oper.:a generalized preposition before 2nd args. in descr'ns.@@
 3712@1@@l@«j», Latin lower case letter, one of a pool of symbols.@@
 3713@1@@af@a combining form of djela, «well».@@
 3714@1@@2a@G is «prettier»/more «comely»/healthily beautiful than J is.@@G-J
@@ -7135,13 +7135,13 @@
 3826@5@lopo %@n@«youth», mass term of states.@@
 3826@6@po %@n@«youth», a spec. state of being young.@@
 3826@7@pu %@n@the «youth»/«youthfulness», a spec. property of being young.@@
-3827@1@@mod.@4th reflexive.  Equivalent to inserting a fourth argument identical to the first argument. c.f. nuo«»@@
+3827@1@@mod.@4th reflexive.  Equivalent to inserting a fourth argument identical to the first argument. c.f. nuo@@
 3828@1@@af@a combining form of djupo, «support».@@
 3829@1@@3v@K «rally» behind D for P, get together for support.@@K-DP
 3830@1@@3v@K «think»/«opine»/tentatively «believe» that N is true of S,@@K-NS
 3830@2@lo nu %@n@«opinion», mass term.@@
 3830@3@nu %@n@an «opinion»/tentative «belief», an opinion.@@
-3831@1@@af@a combining form of ju, 4th place passive.«»@@
+3831@1@@af@a combining form of ju, 4th place passive.@@
 3832@1@@2n@B is a «remedy» of/for medical condition N.@@B-N
 3833@1@@3n@B is a «bond»/«tie »(line)/«connection» between S and D.@@B-SD
 3834@1@@4n@N is a «permission» for act D by person V granted by K@@N-DVK
@@ -7963,7 +7963,7 @@
 4237@1@@2v@K «class discover», discover the class to which B belongs.@@K-B
 4238@1@@3v@K «cool» D with/by V.@@K-DV
 4238@2@po %@n@a «cooling», a spec. act.@@
-4239@1@@2n@N is a classifier symbolizing a member of object class F.«»@@N-F
+4239@1@@2n@N is a «classifier» symbolizing a member of object class F.@@N-F
 4240@1@@2v@K «order»/«classify»/make a classification system for F.@@K-F
 4240@2@@n@a «classification», an act of system making.@@
 4240@3@@n@«classifier», classification system maker.@@
@@ -8659,7 +8659,7 @@
 4614@1@@1n@B is a «nit», a louse egg or young «louse».@@B-
 4615@1@@1n@B is a male «louse», an insect of order Mallophaga or Anoplura.@@B-
 4616@1@@1n@B is any «louse», non specific term.@@B-
-4617@1@@pm@the addressee of..., indirect designation.«».@@
+4617@1@@pm@the «addressee» of..., indirect designation.@@
 4618@1@@af@a combining form of langa, «long».@@
 4619@1@@2v@K «stride» over/across B.@@K-B
 4619@2@@n@a «strider», one who walks with long steps.@@
