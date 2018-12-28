@@ -5230,7 +5230,7 @@
 2792@1@@2v@K «rise»/«get up» later than average C.@@K-C
 2793@1@@4a@B is «due»/«payable» at (time) N to (payee) D for (goods/services) V.@@B-NDV
 2794@1@@2n@P is the «track»/«spoor»/«trace»/«trail» of S.@@P-S
-2795@1@@op@sign of the timeless tense: operator between predicates. «».@@
+2795@1@@op@sign of the timeless tense: operator between predicates.@@
 2795@2@@va@«is» (a)@@
 2796@1@@af@a combining form of ganta, «high».@@
 2797@1@@af@a combining form of gancu, «win».@@
