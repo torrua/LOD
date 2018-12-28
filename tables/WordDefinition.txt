@@ -4810,7 +4810,7 @@
 2584@1@@2n@B is the «formula»/«recipe»/«method»/«procedure» for doing/making P.@@B-P
 2585@1@@3v@K «reconcile» V with V.@@K-VV
 2586@1@@op@changes a name to a predicate.@@
-2587@1@@pm@makes a predicate from an argument, with fuzzier meaning. e.g. mea Ford, 'is like a Ford, Fordish'«»@@
+2587@1@@pm@makes a predicate from an argument, with fuzzier meaning. e.g. mea Ford, 'is like a Ford, Fordish'.@@
 2588@1@@2n@B is a «month» in year F.@@B-F
 2589@1@@2n@B is a «monthly ticket»/«monthly pass» on system N@@B-N
 2590@1@@2n@B is a «skunk»/«polecat» from S.@@B-S
