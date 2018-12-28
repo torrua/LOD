@@ -1218,7 +1218,7 @@
 736@1@@2v@B is «tangled» by N.@@B-N
 736@2@po %@n@a «tangle», a specific instance.@@
 736@3@po nu %@n@a «tangle» of ..., when material specified.@@
-737@1@@pm@(emphasizes next word;  turns 'cao <word>' into 'WORD' or '#word#' or doesn't change it depending on which transcription switch is on.)«»@@
+737@1@@pm@«emphasis»/(emphasizes next word;  turns 'cao <word>' into 'WORD' or '#word#' or doesn't change it depending on which transcription switch is on.).@@
 738@1@@2v@N «burn» D, nonintentional.@@N-D
 738@2@@a@«incendiary», that which causes -ing.@@
 738@3@@n@a «burner»/«incendiary»/«incinerator», an apparatus for -ing.@@
