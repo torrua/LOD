@@ -1263,7 +1263,7 @@
 763@1@@2n@B is a male «otter» of region/range S.@@B-S
 764@1@@2n@B is an «otter», non specific of region/range S.@@B-S
 765@1@@1n@B is an «otter-dog».@@B-
-766@1@@pp@Quantities/Amounts/Values, case tag (DIO)«».@@
+766@1@@pp@Quantities/Amounts/Values, case tag (DIO) («quantity»/«amount»/«value»).@@
 767@1@@af@a combining form of cavle, «shovel».@@
 768@1@@2n@C is a «shovelful»/«spadeful» of B.@@C-B
 769@1@@3v@K «shovel» (s) B into D.@@K-BD
