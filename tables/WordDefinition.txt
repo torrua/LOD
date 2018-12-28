@@ -5078,7 +5078,7 @@
 2735@5@po %@n@a «womanhood», a spec. state/condition.@@
 2735@6@pu %@n@a «womanhood», a property of being a woman,.@@
 2736@1@@3n@K is the «maid»/«womanservant» of D to do V.@@K-DV
-2737@1@@af@a combining form of fu, 3rd place passive, before 'r'.«»@@
+2737@1@@af@a combining form of fu, 3rd place «passive», before 'r'.@@
 2738@1@@3v@K «like» G more than J/«prefer»...to.../is/are «fonder» of...than of...@@K-GJ
 2738@2@@v@have a «taste for»/be «fond of»/«care for»/«like»/«prefer»...@@
 2738@3@nu %@n@«preference», a...ed object/person@@
