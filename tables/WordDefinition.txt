@@ -4272,7 +4272,7 @@
 2295@2@@af@the «digit four» (4), as in fofeso (456).@@
 2295@3@@l@«four» (4) (of), a description quantifier. E.g., Fo le fumna pa merji  (Some) Four of the women were married;  Fo fumna pa hijra  (Some) Four women were here independently. Cf., focu.@@
 2295@4@lio %@ph@«four» (4), the number four, non math.@@
-2296@1@@pp@Wholes/Sets/Collectives, case tag.«».@@
+2296@1@@pp@Wholes/Sets/Collectives, case tag («whole»/«set»/«collective»).@@
 2297@1@@a@«four»/«quadruple»/«quartet», a «tetrad» of...acting together, an indefinite set describer. E.g., Focu mrenu pa hijra  Some four men/A group of four men were here together. Cf., Fo mrenu pa hijra  Some four men were here independently.@@
 2298@1@@af@a combining form of foldi, «fold».@@
 2299@1@@2v@B «fold» (self). (Da —. X -s itself.) (B-) @@B-B
