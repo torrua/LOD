@@ -5007,7 +5007,7 @@
 2706@3@po %@n@a «reaping»/«harvest», a spec. event of -ing.@@
 2707@1@@a@«less»...than..., antonym of some predicates.@@
 2707@2@@af@«un»—<,antonym of some preds.: 2nd conv. op.>.@@
-2707@3@@op@conversion of 1st & 3rd places of a predicate, passives/antonyms/etc. «».@@
+2707@3@@op@conversion of 1st & 3rd places of a predicate, «passive»s/antonyms/etc.@@
 2707@4@@va@«is  ed», passive of some predicates.@@
 2708@1@@va@will be «habitually» -ing, continuous future tense (PA). .@@
 2709@1@@2a@G is more «feminine»/«womanly»/«womanish»+than J, of non women. @@G-J
