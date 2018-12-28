@@ -1826,7 +1826,7 @@
 1070@1@@3v@K «remove»/get «rid»/«dispose» of B from F,intentional.@@K-BF
 1070@2@po %@n@an instance of «removal»/«riddance»/«disposal».@@
 1071@1@@2pp@D is «without»/«quit of»/«less»/«free of» quality/feature/object B.@@D-B
-1071@2@@af@less, without quality/feature...«»@@
+1071@2@@af@«less»/«without» quality/feature...@@
 1071@3@@av@for «want of»/«without»/«lacking».@@
 1071@4@@v@«lack», be without feature/quality...@@
 1071@5@nu %@n@a «lack», a missing feature/quality.@@
