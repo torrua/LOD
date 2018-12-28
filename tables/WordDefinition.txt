@@ -1449,7 +1449,7 @@
 880@3@nu %@n@«delegate»/«deputy» (by...to do...for...), the one -ed.@@
 880@4@po %@n@an instance of «delegation»/«deputizing» (...to do...for...).@@
 881@1@@1@B is a «dinosaur», an extinct reptile.@@B-
-882@1@@pp@Destinations/Receivers, case tag.«».@@
+882@1@@pp@Destinations/Receivers, case tag («destination»/«receiver»).@@
 883@1@@2v@K «look at» B.@@K-B
 884@1@@3v@K «fire»/«shoot» weapon B at D.@@K-BD
 884@2@fu %@a@«shot» (by weapon...fired by...), describing a thing or person shot at.@@
