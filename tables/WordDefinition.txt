@@ -2663,7 +2663,7 @@
 1494@1@@2v@K «brush teeth» with tool/substance B.@@K-B
 1495@1@@av@«probably»/«likely to be», the objective sense. E.g., Da dau mamla  X is probably/likely to be a mammal. Cf. io for the subjective sense.@@
 1495@2@@in@«probably», is probably true/will probably happen (under the circumstances implied by speech) (PA). E.g., Ta dau mamla  That's probably a mammal.@@
-1495@3@@pp@(that...is )certain under conditions..., used before state/event terms. E.g., Da mamla dau ta  (That) X is a mammal is likely under those conditions.«»@@
+1495@3@@pp@(that...is) «probable»/«likely» under conditions..., used before state/event terms. E.g., Da mamla dau ta  (That) X is a mammal is likely under those conditions.@@
 1496@1@@pp@«should»/«would probably», a probability specific subjective subjunctive operator;  used before an argument, usually a lepo clause, to give the accompanying predicate a subjunctive sense (PA). E.g., Mi hapci daumia lepo mi bragaiI am probably happy in the mental place where I am king (I would probably be happy if I were king).@@
 1497@1@@pp@«should»/«would probably», a probability specific objective subjunctive operator;  used before an argument, usually a lepo clause, to give the accompanying predicate a subjunctive sense (PA). E.g., Mi hapci dauvie lepo mi bragaiI am probably happy in the possible world where I am king (I would probably be happy if I were king). Cf. daumia for the subjective sense of this subjunctive.@@
 1497@2@% ba@ph@«should»/«would probably», as used in objective subjunctive sentences in which the causal condition is missing. E.g., Mi hapci dauvie baI would probably be happy (in some possible world/under some unspecified condition x). Cf. daumia ba for the suobjective sense of this subjunctive.@@
