@@ -2586,7 +2586,7 @@
 1456@1@@4a@G is «farther»/«further»/more «distant»/«distal» from B than J is by C.@@G-BJC
 1456@2@@a@«far» from...@@
 1456@3@fu nu %@a@«near», nearer than...to...by..., dbl. conv.@@
-1456@4@ju %@n@the difference in distance of...from...and...«»@@
+1456@4@ju %@n@the difference in distance of...from...and...@@
 1456@5@nu %@a@«distant»/«far»/«further», farther from...than from...by...@@
 1456@6@nu fu %@a@«near», nearer to...than to...by..., dbl. conv.@@
 1456@7@pu %@n@a «distance», a spec. property of being far.@@
