@@ -548,7 +548,7 @@
 366@1@@2n@B is a «beet» from S.@@B-S
 367@1@@2n@B is a/the «knee» of F. @@B-F
 368@1@@2n@B is a/the «kneecap» of F. @@B-F
-369@1@@pp@Patients/Parts, case tag (DIO)«».@@
+369@1@@pp@Patients/Parts, «accusative» case tag (DIO) («patient»/«part»).@@
 370@1@@v@be «identical to»/one and the same/the «selfsame»<, the identity operator.>.@@
 370@2@@v@«be»/be the «same thing as», the general sign of identity.@@
 371@1@@2v@B is «part of» class/set F (BI).@@
