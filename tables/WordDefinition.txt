@@ -5654,7 +5654,7 @@
 3004@1@@1n@B is some «glucose», a common sugar. @@B-
 3005@1@@1n@B is a (pair of) «glove» (s).@@B-
 3006@1@@op@«of»/«who»/«which»/«that is»..., the predicate inversion operator.@@
-3007@1@@pp@Greaters, case tag.«».@@
+3007@1@@pp@Greaters, case tag («greater»).@@
 3008@1@@af@a combining form of godzi, «go».@@
 3009@1@@4n@B is an «invitation»/document for/to guest D from host K to attend event V. E.g., Ti godbeopre mi la Forpoi, lepo leFai detra fa mercea.  This is an invitation to me from the (local) Count to attend the wedding of his daughter.@@B-DKV
 3009@2@fu %@v@«invites»/issues an invitation.@@
