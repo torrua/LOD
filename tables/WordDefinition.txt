@@ -691,7 +691,7 @@
 450@2@lopo %@n@«interposition», placing...between...and...@@
 451@1@@av@«possible»/«perhaps»/«maybe», the objective sense. E.g., Da biu mamla  X is possibly a mammal. Cf. ii for the subjective sense.@@
 451@2@@in@«possibly», is possibly true/may happen (under the circumstances implied by speech) (PA). E.g., Ta biu mamla  That's possibly a mammal.@@
-451@3@@pp@(that...is )«possible» under conditions..., used before state/event terms. E.g., Da mamla biu ta  (That) X is a mammal is possible under those conditions.@@
+451@3@@pp@(that...is) «maybe»/«possible» under conditions..., used before state/event terms. E.g., Da mamla biu ta  (That) X is a mammal is possible under those conditions.@@
 452@1@@3v@K «judge» (s) the behavior of D about N.@@K-DN
 452@2@@n@«arbiter»/«arbitrator», one who judges behaviour.@@
 452@3@po %@n@«arbitration», a spec. instance of -ing.@@
