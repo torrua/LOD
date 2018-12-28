@@ -5578,7 +5578,7 @@
 2966@2@@n@K is a «messenger»/«courier» of B to D from S@@
 2967@1@@pm@(right mark of a GE group).@@
 2968@1@@pm@(,) right mark of displaced object(s).@@
-2969@1@@va@am/is/are -ing, continuous in a time free sense.@@
+2969@1@@va@am/is/are «-ing», continuous in a time free sense.@@
 2970@1@@ms@initial (left) «bracket», in mathematical contexts;  used with giu.@@
 2971@1@@af@a combining form of gigdo, «billionfold» (US).@@
 2972@1@@2n@F is 2E30 fold «quantity» of B (ISV gibi).@@F-B
