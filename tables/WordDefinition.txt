@@ -8761,7 +8761,7 @@
 4682@1@@3v@K «harpoon»/«lance»/«spear» D with V.@@K-DV
 4683@1@@1n@B is some «lanthanum», element 57 (La).@@B-
 4684@1@@3n@B is a «landscape» in region F as seen from S.@@B-FS
-4685@1@@art@the Linnaean taxon...(LA).«».@@
+4685@1@@art@the Linnaean taxon...(LA).@@
 4686@1@@2v@N «age» D, make...old, nonintentional.@@N-D
 4686@2@@a@«aged», made old.@@
 4687@1@@2n@B is a «rag»/«tatter» from S.@@B-S
