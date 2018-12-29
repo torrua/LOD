@@ -14700,7 +14700,7 @@
 7884@4@po %@n@a «start»/«initiation», an act of -ing.@@
 7885@1@@2n@B is the «opening» of F i.e. a play,meeting,opera etc.@@B-F
 7886@1@@1v@V «begin»/«start»/«commence»@@V-
-7886@2@napa %@v@V has started to happen«»@@
+7886@2@napa %@v@V has «started» to happen.@@
 7887@1@@v@K «catch sight of» D.@@K-D
 7888@1@@1v@V «begin»/«start»/«commence», involuntary.@@V-
 7889@1@@3v@N «initiate»/«start»..., cause D to start doing V, non intentional@@N-DV
