@@ -14348,7 +14348,7 @@
 7670@1@@af@a combining form of prizi, «private».@@
 7671@1@@2n@B is a «club»/private «association»/«society» including member(s) F.@@B-F
 7672@1@@a@«many»/a large number of set..., a quantifying operator.@@
-7672@2@-ro@af@...-st/-nd/-rd/-th, the quality ordinal suffix, postfixed to integers e.g. le tori gudbi bedpu - the second-best bed«».@@
+7672@2@-ro@af@...-st/-nd/-rd/-th, the quality ordinal suffix, postfixed to integers e.g. le tori gudbi bedpu - the second-best bed.@@
 7673@1@@af@a combining form of rodja, «grow».@@
 7674@1@@2n@S is a «culture»/«medium»/«substrate» for growing P.@@S-P
 7675@1@@1n@B is a/the «grain», growth mark(s) of, as of wood.@@B-
