@@ -18579,7 +18579,7 @@
 10093@1@@LW@attitudinal expressing apology, I'm «sorry»@@
 10094@1@@LW@LW for constructing compounds from predicate words (and LWs under some circumstances).@@
 10095@1@@LW@initial marker for acronyms, proposed mandatory for acronyms used as «dimension»s.@@
-10096@1@@3n@ b is a «blog»/computer web log about V by S@@
+10096@1@@3n@B is a «blog»/computer web log about V by S.@@
 10097@1@@2n@B is a «kaleidoscope» of type N@@
 10098@1@@2n (3n)@X is more «aerodynamic» than Y (in medium Z)@@
 10099@1@@2n@X is a «battery» for appliance Y@@
