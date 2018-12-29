@@ -11722,7 +11722,7 @@
 6233@2@nu %@n@a «seizure»/«appropriation», a thing seized from...@@
 6233@3@po %@n@a «seizure»/«appropriation», an act of seizing...from...@@
 6234@1@la %@na@«Count»/«Earl»/«Lord»/«Baron»/«Duke», etc. (a generalized nobility title/name/name part.).@@
-6235@1@@af@a combining form of po, state particle.«»@@
+6235@1@@af@a combining form of po, state particle.@@
 6236@1@@3n@B is a «poriferan»/«sponge» of genus/type F from S, one of the phylum of Porifera@@B-FS
 6237@1@lao %@na@the phylum of «Porifera», sponges etc.@@
 6238@1@@1n@B is a «sow»/female «hog».@@B-
