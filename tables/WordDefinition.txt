@@ -14452,7 +14452,7 @@
 7739@1@@af@a combining form of romna/e/i/o, "«Roman»/«Latin»".@@
 7740@1@la %@na@«Rome» (the city).@@
 7741@1@@1n@B is the «gypsy language»@@B-
-7741@2@nu %@a@relating to the gypsy language«»@@
+7741@2@nu %@a@relating to the «gypsy language».@@
 7742@1@@1n@B is a «gypsy person»@@B-
 7743@1@@1@B is «gypsy culture»@@B-
 7744@1@@1n@B is an element/instance of «Latin», the «Roman» language.@@B-
