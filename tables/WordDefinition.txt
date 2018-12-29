@@ -11468,7 +11468,7 @@
 6113@2@@c@no eng. equiv. means '«neither»...nor...' as one word between terms.@@
 6114@1@@i@I «request» not, denial of request for permission. "I'm not requesting, I'm demanding"@@
 6115@1@@i@I don't «suppose»/I don't «imagine», denial of supposition.@@
-6116@1@-noi@af@connective suffix as in anoi, kanoi etc. (A)«».@@
+6116@1@-noi@af@connective suffix as in anoi, kanoi etc. (A).@@
 6117@1@@i@I'm not «sure»/«certain», an denial of conviction.@@
 6118@1@@i@not «possibly»/it «couldn»'t be that..., denial of possibility.@@
 6119@1@@i@I don't «expect»...<, exp. of moderate disbelief.>.@@
