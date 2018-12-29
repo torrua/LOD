@@ -11758,7 +11758,7 @@
 6254@1@@4v@K «mail»/«post» B to D from S.@@K-BDS
 6254@2@lo nu %@n@«post»/«mail», mass term of instances.@@
 6254@3@nu %@n@some «mail», material sent by post@@
-6255@1@@pp@Products/Purposes, case tag.«».@@
+6255@1@@pp@Products/Purposes, case tag («product»/«purpose»).@@
 6256@1@@af@a combining form of pozvo, «positive».@@
 6257@1@@2v@V is «fast»/«over» by C, have a positive error in... e.g. Lemi jokla ga povnurtse lio fe minta, My watch is 5 minutes fast.@@V-C
 6258@1@@af@a combining form of pozfa, «oppose».@@
