@@ -12084,7 +12084,7 @@
 6429@2@lopu %@n@«frivolity»/«frivolousness» (about...), mass prop.@@
 6429@3@po %@n@a «frivolity», a spec. state/event.@@
 6430@1@@mod.@2nd «reflexive», equivalent to inserting a second argument identical to the 1st argument e.g. Da nuo ditka  he bit himself.@@
-6431@1@@af@a combining form of nu, 2nd place passive.«»@@
+6431@1@@af@a combining form of nu, 2nd place «passive».@@
 6432@1@@pp@«therefore» (decision)...@@
 6433@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of justification, with ki in 'nurauki...ki...;  best translated ...because(reason)...'.@@
 6434@1@@2n@B is a «porter»/«concierge»/«superintendent» of F.@@B-F
