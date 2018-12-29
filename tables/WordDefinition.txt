@@ -13269,7 +13269,7 @@
 7081@1@@3v@K «perfume»/«scent» D with B.@@K-DB
 7082@1@@1n@B is some «plutonium», element 94 (Pu).@@B-
 7083@1@@c@«that», event op., as in 'x said that y came'.@@
-7083@2@@op@...-ing/-hood/-ion/-ment/-ness to...  the event/act/state/condition oper.«».@@
+7083@2@@op@...«-ing»/«-hood»/«-ion»/«-ment»/«-ness» to...  the «event»/act/state/condition oper.@@
 7083@3@@va@«to»...  infinitive, as in 'to swim is good'.@@
 7083@4@% da fremi de@ph@a sp. «friendship» between x and y.@@
 7084@1@@af@a combining form of ponda, «respond».@@
