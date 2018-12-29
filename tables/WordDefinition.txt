@@ -11235,7 +11235,7 @@
 5986@3@lo %@n@«net», mass term.@@
 5987@1@@2n@F is a «network» of/composed of/including B (pl.)@@F-B
 5988@1@@2v@K «net» D, catches...with a net.@@K-D
-5989@1@@pp@Conditions/Circumstances/Fields, case tag.«».@@
+5989@1@@pp@Conditions/Circumstances/Fields, case tag («condition»/«circumstance»/«field»).@@
 5990@1@@1n@D has «neurasthenia», a nervous debility.@@D-
 5990@2@po %@n@a case of «neurasthenia».@@
 5991@1@@1n@B is a «neuron».@@B-
