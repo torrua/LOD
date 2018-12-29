@@ -17885,7 +17885,7 @@
 9631@4@po %@n@an «actualization»/«realization», an act of making...real.@@
 9632@1@@2v@K «witness» V/sees event... @@K-V
 9632@2@@n@a «witness», one who -es...@@
-9633@1@@pp@Events/States/Effects/Deeds/Means/Routes, case tag.«».@@
+9633@1@@pp@Events/States/Effects/Deeds/Means/Routes, case tag («event»/«state»/«effect»/«deed»/«mean»/«route»).@@
 9634@1@@av@«here»/«close by»/«at this place», before predicates.@@
 9634@2@@c@at/«close by» the place where, before event clauses.@@
 9634@3@@c@«where»<, before event clauses, general.>.@@
