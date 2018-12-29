@@ -5576,7 +5576,7 @@
 2965@5@po %@n@an «acquisition», an act of acquiring.@@
 2966@1@@4v@K «transmit»/«relay» B to D from S@@K-BDS
 2966@2@@n@K is a «messenger»/«courier» of B to D from S@@
-2967@1@@pm@(right mark of a GE group).@@
+2967@1@@pm@(right «mark» of a GE group).@@
 2968@1@@pm@(,) right mark of displaced object(s).@@
 2969@1@@va@am/is/are «-ing», continuous in a time free sense.@@
 2970@1@@ms@initial (left) «bracket», in mathematical contexts;  used with giu.@@
