@@ -11420,7 +11420,7 @@
 6088@3@nu %@n@an «arrangement», an arranged thing.@@
 6088@4@po %@n@an «arrangement», an act of -ing.@@
 6088@5@po nu %@n@an «arrangement», a state of being -ed.@@
-6089@1@@sw@quotes the following utterance as a non L formation«»@@
+6089@1@@sw@«quote»s the following utterance as a non L formation.@@
 6090@1@@af@in—/non—/un—, forms negative of any predicate. «».@@
 6090@2@@av@«not»/«never», as in 'x is not...', before predicates/operators & after indicators.@@
 6090@3@@op@«no», generalized negative, before terms/sents or alone.@@
