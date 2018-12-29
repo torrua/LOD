@@ -16218,7 +16218,7 @@
 8702@2@@2n@a «pulse» of...@@
 8703@1@@2n@D have a sudden «insight» about N, a "Eureka" incident. @@D-N
 8704@1@@2n@V is a «torrent» of F.@@V-F
-8705@1@@op@ converts a «onamatopoetic» sound to a predicate 'Le katma pa sue miao.' 'The cat meouwed.'<!-- inserted missing quotes 3/1/12 JPJ --> (PREDA).@@
+8705@1@@op@ converts a «onamatopoetic» sound to a predicate 'Le katma pa sue miao.' 'The cat meouwed.' (PREDA).@@
 8706@1@@av@«also»/«too»/«moreover»/«besides»/«as well»/in «addition»/«furthermore», a discourse operator (UI).@@
 8706@2@@av@«neither»/«either»/«nor», in the senses 'He didn't either/Neither did he/Nor did he'.@@
 8706@3@% ue@av@«even», as in 'I couldn't remember even the simplest tunes.'@@
