@@ -5676,7 +5676,7 @@
 3017@3@ju %@n@is a/the «route» taken during an act of going/coming, q.v.@@
 3017@4@nu %@n@a/the «destination», of an act of going/coming to it, q.v.@@
 3018@1@@1n@B is a «gopher», a burrowing rodent@@B-
-3019@1@@pm@(right mark of a sentence quantifier)«».@@
+3019@1@@pm@(right mark of a sentence «quantifier»).@@
 3020@1@@2v@K «catch up with»/«join» (and stays with) D, something in motion.@@K-D
 3022@1@@2n@F is a «troop»/moving band of individuals B.@@F-B
 3023@1@@af@a combining form of gokru, «hook».@@
@@ -6097,7 +6097,7 @@
 3216@1@@2n@B is a «statesman» of S, one whose political opinions are respected.@@B-S
 3217@1@@2n@B is a/the «country»/«land»/«nation»/«territory» of people F.@@B-F
 3217@2@@a@«national»/«domestic», pert. to the country of...@@
-3218@1@@pm@(right boundary mark for lepo type clauses only)«».@@
+3218@1@@pm@(right boundary mark for lepo type clauses only).@@
 3219@1@@2a@B is «tasteless»/«flat tasting» to K.@@B-K
 3220@1@@2n@B is a «sauce»/«gravy» for P.@@B-P
 3221@1@@1a@B is «harsh» to the taste, see specific sense words.@@B-
@@ -6719,7 +6719,7 @@
 3576@1@@2n@B is a «garter»/«suspender» (U.K.)@@B-K
 3577@1@@q@«who»/«whom»/«what», the argument interrogative. E.g., Hu fa godzi?  Who will go?;  Da merji hu?  X is married to whom?;  Hu fa durzo hu?  Who will do what?@@
 3577@2@% namci tu?@ph@What names you? «What is your name»?@@
-3578@1@@op@an addressor, indicating the speaker/writer 'Mi godzi hue da gu, le vemsia'  'I am going', he said, 'to the store' (HUE)«».@@
+3578@1@@op@an addressor, indicating the speaker/writer 'Mi godzi hue da gu, le vemsia'  'I am going', he said, 'to the store' (HUE).@@
 3579@1@@af@a combining form of hutri, «destroy».@@
 3580@1@@3v@K «wash away» D with V.@@K-DV
 3581@1@@2v@K «devour»/«gobble» B.@@K-B
