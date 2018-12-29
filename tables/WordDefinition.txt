@@ -11260,7 +11260,7 @@
 6002@1@@av@«meanwhile», concurrent with a given interval.@@
 6002@2@@c@all the «while»/as «long as»/«when»/«while»/«all along».@@
 6002@3@@pp@«during»/«throughout».@@
-6002@4@@va@am/is/are+(now) -ing, continuous present tense.«».@@
+6002@4@@va@am/is/are+(now) «-ing», continuous present tense.@@
 6002@5@% hu@q@«when»?/«throughout what interval» in time?.@@
 6002@6@% ta@av@«all along», throughout that interval.@@
 6002@7@% ti@av@«all along», throughout this interval.@@
