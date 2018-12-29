@@ -7048,7 +7048,7 @@
 3779@4@po %@n@a «darn»/«patch», an instance of -ing.@@
 3780@1@@a@«less»...than..., antonym of some predicates.@@
 3780@2@@af@«un»—<,antonym of some preds.: 3rd conv. op.>.@@
-3780@3@@op@conversion of 1st & 4th places of a pred. making passives/antonyms/etc. «».@@
+3780@3@@op@conversion of 1st & 4th places of a pred. making «passive»s/antonyms/etc.@@
 3780@4@@va@«is  ed», passive of some predicates.@@
 3781@1@@af@a combining form of jugra, «grab».@@
 3782@1@@3a@K «grip» D strongly in conditions N.@@K-DN
