@@ -7783,7 +7783,7 @@
 4146@2@@v@give an «alarm to»/«warn»...of...@@
 4146@3@po %@n@an «alarm»/«warning»/«shout», a sp. act of -ing. e.g. "Watch out"@@
 4147@1@@c@«then»/«or»/«and»/«nor» etc., infix mark of forethought connections.@@
-4148@1@@pm@(delete previous word).«».@@
+4148@1@@pm@(«delete» previous word).@@
 4149@1@@af@a combining form of kicmu, «doctor».@@
 4150@1@@4n@B is a (doctor's) «prescription» given by S to P, prescribing treatment N.@@B-SPN
 4150@2@ju %@n@a «treatment»/(medical) «regime»@@
