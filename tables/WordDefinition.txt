@@ -15695,7 +15695,7 @@
 8425@1@@1n@B is a (pair of) «earring» (s). @@B-
 8426@1@@2v@B have an «earache», feel pain in ear S.@@B-S
 8426@2@po %@n@an «earache», a state of having an earache.@@
-8427@1@@op@converts a predicate to an imagined act of the speaker/writer 'soi crano!Smile!' (UI).«».@@
+8427@1@@op@converts a predicate to an imagined act of the speaker/writer 'soi crano!Smile!' (UI).@@
 8428@1@@3v@V put to «sleep» D under conditions N.@@V-DN
 8429@1@@1a@K is/are «sleepy»@@K-
 8429@2@@av@«sleepily»@@
