@@ -7067,7 +7067,7 @@
 3794@1@@1n@B is a «vise»/«pliers»/«pincers»/«clamp», generic for any grasping tool.@@B-
 3795@1@@3v@K «nab»/«seize»/«grab» B from D.@@K-BD
 3795@2@po %@n@a «seizure»/«grab», an act of grabbing.@@
-3796@1@@pp@Lessers, case tag.«».@@
+3796@1@@pp@Lessers, case tag («less»/«lesser»).@@
 3797@1@@3v@K «impress»/«influence»/«sway» D in matter B.@@K-DB
 3797@2@@a@«influential», pert. to influences.@@
 3797@3@@n@an «influence», that which influences.@@
