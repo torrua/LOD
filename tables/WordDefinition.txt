@@ -7902,7 +7902,7 @@
 4203@1@@3v@K «collaborate»/«assist»/«work»/coöperate with K on P.@@K-KP
 4203@2@@n@a «colleague»/«fellow worker»/«collaborator», one who -s.@@
 4203@3@po %@n@some «collaboration»/«assistance», an act of -ing.@@
-4204@1@@pm@(delete this utterance).«».@@
+4204@1@@pm@(«delete» this utterance).@@
 4205@1@@2n@B is a «coyote» from S, a feral canine.@@B-S
 4206@1@@1n@B is a «schist» of type...from..., any fine grained metamorphic rock.@@B-
 4207@1@@2n@B is the «shell»/«exoskeleton»/«chitin» of an arthropod F.@@B-F
