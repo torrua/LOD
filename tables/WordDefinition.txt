@@ -14892,7 +14892,7 @@
 7987@2@fu %@n@«embroidery», the object decorated.@@
 7987@3@nu %@n@«embroidery», the pattern -ed.@@
 7987@4@po %@n@an instance of «embroidery».@@
-7988@1@@p@turns the next foreign word in original form to a L predicate. e.g. sao dharma«»@@
+7988@1@@p@turns the next foreign word in original form to a L predicate. e.g. sao dharma.@@
 7989@1@@3v@D «know» the identity of S to be P. @@D-SP
 7989@2@nu %@a@«known»/«identifiable», of persons/things.@@
 7990@1@@3n @B is a «half sibling» of B through father S.@@B-BS
