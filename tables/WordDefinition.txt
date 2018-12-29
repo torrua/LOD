@@ -14949,7 +14949,7 @@
 8024@1@@1v@V «creak»/«grate», a frictional sound. @@V-
 8024@2@@a@«creaking»/«grating», pert. to the sound.@@
 8024@3@po %@n@a «creak», an instance of the sound.@@
-8025@1@@pp@Sources/Reasons/Causes, case tag.«».@@
+8025@1@@pp@Sources/Reasons/Causes, case tag («source»/«reason»/«cause»).@@
 8026@1@@a@«seven» (7), in math. expressions.@@
 8026@2@@af@the «digit seven» (7), as in sevove (789).@@
 8026@3@@l@«seven» (7) (of), a description quantifier. E.g., Se le fumna pa merji  (Some) Seven of the women were married;  Se fumna pa hijra  (Some) Seven women were here independently. Cf., secu.@@
