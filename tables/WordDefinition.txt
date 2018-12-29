@@ -7599,7 +7599,7 @@
 4053@2@nu %@a@«qualitative», of properties generally.@@
 4053@3@nu %@av@«qualitatively», by means of qualities.@@
 4053@4@nu %@n@a «characteristic»/«feature»/«property»/«quality»/«attribute» of..., a property.@@
-4053@5@pa %@vt@had..., was characterized by feature...«»@@
+4053@5@pa %@vt@had..., was «characterized» by feature...@@
 4054@1@@1n@B is a «queen»/«tabby», a female domestic «cat»/«feline».@@B-
 4055@1@@2a@G is more «feline»/«cat like» than J.@@G-J
 4056@1@@3v@K «statistically analyse» N with result P.@@K-NP
