@@ -18169,7 +18169,7 @@
 9775@2@nu %@n@an «X ray» source.@@
 9776@1@@l@«x», Latin lower case letter, one of a pool of symbols. [original xei no longer suitable as x is not a Loglan letter any more]@@
 9777@1@@1n@B is some «xenon», element 54 (Xe). @@B-
-9778@1@-za@af@the short interval space time suffix, as in faza, 'soon'.«».@@
+9778@1@-za@af@the short interval space time suffix, as in faza, 'soon'.@@
 9779@1@@af@a combining form of zakra, «crush» to pulp@@
 9780@1@@l@«Z», Latin upper case letter, one of a pool of symbols.@@
 9781@1@@3v@K «crush»/«pulverize» D into particles F. @@K-DF
