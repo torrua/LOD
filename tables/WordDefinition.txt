@@ -18298,15 +18298,15 @@
 9841@3@po %@n@an instance of a «buzz»/«hum».@@
 9842@1@-zu@af@the long interval space time suffix as in fazu  'eventually'.@@
 9843@1@@af@attached to <predy>, means «female of this animal»/animallike species/taxon;  e.g., mamlyzua  is a female mammal.@@
-9843@2@@pp@(sign of the 1st argument DIO)«».@@
+9843@2@@pp@(sign of the 1st argument DIO).@@
 9844@1@@af@attached to <predy>, means «like this animal»/animallike species/taxon;  e.g., mamlyzue  is mammalian/like a mammal.@@
-9844@2@@pp@(sign of the 2nd argument DIO)«».@@
+9844@2@@pp@(sign of the 2nd argument DIO).@@
 9845@1@@af@attached to <predy>, means «baby»/«infant of this animal»/animallike species/taxon;  e.g., mamlyzui  is a baby/infant mammal.@@
-9845@2@@pp@(sign of the 3rd argument DIO)«».@@
+9845@2@@pp@(sign of the 3rd argument DIO).@@
 9846@1@@2n@B is some «zucchini» from S.@@B-S
 9847@1@@af@attached to <predy>, means «male of this animal»/animallike species/taxon;  e.g., mamlyzuo  is a male mammal.@@
-9847@2@@pp@(sign of the 4th argument DIO)«».@@
-9848@1@@pp@(sign of the 5th argument DIO)«».@@
+9847@2@@pp@(sign of the 4th argument DIO).@@
+9848@1@@pp@(sign of the 5th argument DIO).@@
 9849@1@@af@a combining form of zvoto, «outside».@@
 9850@1@@4v@K «export» B from S into D. @@K-BSD
 9850@2@@n@an «exporter», one who exports.@@
