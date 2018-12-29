@@ -18280,7 +18280,7 @@
 9826@1@@2n@B is the 10E 21st «quantity» of F (ISV zepto)@@B-F
 9827@1@@2n@F is 10E21 fold «quantity» of B ( ISV zetta)@@F-B
 9828@1@-zi@af@the mark of «Greek» lower case vowel names as in azi/ezi/izi/etc.@@
-9828@2@-zi@af@the point like interval space time suffix, as in fazi  'right away'.«».@@
+9828@2@-zi@af@the point like interval space time suffix, as in fazi  'right away'.@@
 9829@1@@af@attached to <predy>, means «part of »<preda> «language»; e.g., lepsyzia  rabbit language.@@
 9830@1@@af@attached to <predy>, means «part of »<preda> «territory»; e.g., lepsyzie  rabbit territory.@@
 9831@1@@1n@B is some «zinc», element 30 (Zn). @@B-
