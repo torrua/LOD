@@ -219,7 +219,7 @@
 162@1@@art@«a»/«an», in 'a man...'ba mrenu, some x is a man'.@@
 162@2@@ph@at «least» one /some...<, a non designating variable>.@@
 162@3@@pr@«anybody»/«anything», as in 'Get anybody'.@@
-162@4@@pr@«something»/«someone» x,1st non designating variable of the ba series.@@
+162@4@@pr@«something»/«someone» x, 1st non designating variable of the ba series.@@
 162@5@% crina@ph@It is «raining», 'some x is -ing'.@@
 162@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
 163@1@@af@a combining form of barma, «arm»@@
@@ -417,7 +417,7 @@
 284@1@@2n@B is some «bauxite», an aluminium ore from S.@@B-S
 285@1@@art@«a»/«an», in 'a man...'ba mrenu, some x is a man'.@@
 285@2@@pr@«anybody»/«anything», as in 'Get anybody'.@@
-285@3@@pr@«something»/«someone» x,2nd non designating variable of the ba series.@@
+285@3@@pr@«something»/«someone» x, 2nd non designating variable of the ba series.@@
 285@4@% crina@ph@It is «raining», 'some x is -ing'.@@
 285@5@su %@ph@at «least» one /some...<, a non designating variable>.@@
 285@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
@@ -840,7 +840,7 @@
 524@5@po %@n@a «haemhorrhage», an instance of -ing.@@
 525@1@@art@«a»/«an», in 'a man...'ba mrenu, some x is a man'.@@
 525@2@@ph@at «least» one /some...<, a non designating variable>.@@
-525@3@@pr@«something»/«someone» x,3rd non designating variable of the ba series.@@
+525@3@@pr@«something»/«someone» x, 3rd non designating variable of the ba series.@@
 525@4@@pr@«anybody»/«anything», as in 'Get anybody'.@@
 525@5@% crina@ph@It is «raining», 'some x is -ing'.@@
 525@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
@@ -956,11 +956,11 @@
 593@3@po %@n@a «preparation»/«preparedness»/«readiness», a specific state/condition.@@
 593@4@pu %@n@a «preparedness»/«readiness», a specific property.@@
 594@1@@2n@B is a/the «brake» (s) of F.@@B-F
-595@1@@3v@K «prepare»/«ready» (object,system) D for/event V, intentional.@@K-DV
+595@1@@3v@K «prepare»/«ready» (object, system) D for/event V, intentional.@@K-DV
 595@2@@3v@make ... «ready» for...@@
 595@3@po %@n@a «preparation», sp inst.@@
 596@1@@af@a combining form of brize, «wind»@@
-597@1@@2v@K «blow» (s) at/on D,such as with mouth or fan.@@K-D
+597@1@@2v@K «blow» (s) at/on D, such as with mouth or fan.@@K-D
 597@2@@a@«blowing», pertaining to -ing.@@
 597@3@@n@«blower», that which -s.@@
 598@1@@2a@G is «windier»/«breezier» than J.@@G-J
@@ -1043,7 +1043,7 @@
 633@1@@2n@B is a «rib» of F.@@B-F
 634@1@@art@«a»/«an», in 'a man...'ba mrenu, some x is a man'.@@
 634@2@@pr@«anybody»/«anything», as in 'Get anybody'.@@
-634@3@@pr@«something»/«someone» x,4th non designating variable of the ba series.@@
+634@3@@pr@«something»/«someone» x, 4th non designating variable of the ba series.@@
 634@4@@pr@at «least» one /some...<, a non designating variable>.@@
 634@5@% crina@ph@It is «raining», 'some x is -ing'.@@
 634@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
@@ -1122,7 +1122,7 @@
 679@2@po %@n@a «step»/«tread», an act of -ing.@@
 680@1@@1n@B is a «boot», a piece of footwear.@@B-
 681@1@@af@a combining form of bukcu, «book»@@
-682@1@@1n@B is a «library»,any collection of books.@@B-
+682@1@@1n@B is a «library», any collection of books.@@B-
 683@1@@c@«or »(else)/«and or»/«comma», between modifiers as in 'tall, wise or good man'.@@
 683@2@@c@«either or»/«otherwise» inclusive<, between mods.>.@@
 684@1@@af@a combining form of cabro, «burn»@@
@@ -1274,7 +1274,7 @@
 773@1@@4v@N «convert»/«change»/«alter»/«transform»/«vary» B into P from S - (nonintentional cause).@@N-BPS
 773@2@@n@a «converter»/«transformer», that which -s.@@
 773@3@fu %@n@an «alteration», an altered thing.@@
-773@4@no nu %@a@«unalterable», neg. of alterable,q.v.@@
+773@4@no nu %@a@«unalterable», neg. of alterable, q.v.@@
 773@5@nu %@a@«alterable»/«convertible»/«changeable»/«transformable», can be altered.@@
 773@6@nu %@a@«converted», conv. of convert.@@
 773@7@nu %@n@a «convert», one who is -ed.@@
@@ -1386,7 +1386,7 @@
 839@5@po %@n@«tilling»/«cultivation» of field/parcel...for planting/growing crop...— the -ing event.@@
 840@1@@4v@(aircraft) K «taxi» to D from S via V@@K-DSV
 841@1@@1n@B is «geothermal energy»@@B-
-842@1@@1n@B is a «pick»,a tool for loosening the soil@@B-
+842@1@@1n@B is a «pick», a tool for loosening the soil@@B-
 843@1@@2n@V is an «earthquake» of intensity C.@@V-C
 844@1@@1n@K is a «land soldier», as distinct from navy or airmen.@@K-
 844@2@lo %@n@the «land forces».@@
@@ -1823,7 +1823,7 @@
 1069@1@@2v@K «part»/go «without»/«leave behind» B.@@K-B
 1069@2@lopo %@n@«parting», mass term.@@
 1069@3@po %@n@a «parting», an act of leaving.@@
-1070@1@@3v@K «remove»/get «rid»/«dispose» of B from F,intentional.@@K-BF
+1070@1@@3v@K «remove»/get «rid»/«dispose» of B from F, intentional.@@K-BF
 1070@2@po %@n@an instance of «removal»/«riddance»/«disposal».@@
 1071@1@@2pp@D is «without»/«quit of»/«less»/«free of» quality/feature/object B.@@D-B
 1071@2@@af@«less»/«without» quality/feature...@@
@@ -2986,7 +2986,7 @@
 1640@3@lo %@n@«German» culture, mass term.@@
 1641@1@@2n@V is the «springtime» of year C, any «spring».@@V-C
 1641@2@@a@«vernal», pert. to spring seasons.@@
-1642@1@@2n@V is the «winter» (time) of year C,any winter season.@@V-C
+1642@1@@2n@V is the «winter» (time) of year C, any winter season.@@V-C
 1643@1@@2v@K «winter», spend the winter at D.@@K-D
 1644@1@@av@«given»/(by)(per)«hypothesis»/«assumption», a discourse operator (UI).@@
 1645@1@@af@a combining form of drani, «dry».@@
@@ -4568,7 +4568,7 @@
 2432@1@@1n@B is a «squab», an infant «dove»/«pigeon».@@B-
 2433@1@@1n@B is a male «dove»/«pigeon».@@B-
 2434@1@@2n@C is a value on «brilliance» scale N, from white to black.@@C-N
-2434@2@@n@a «brilliance», one of the three properties of colour,value of whiteness scale.@@
+2434@2@@n@a «brilliance», one of the three properties of colour, value of whiteness scale.@@
 2434@3@lo %@n@«brilliance», mass of such properties.@@
 2434@4@nu %@n@a «brilliance scale», of colours.@@
 2435@1@@1n@B is a «dove»/«pigeon» , non specific@@B-
@@ -4635,7 +4635,7 @@
 2464@2@@n@B is the «body »(work) of vehicle F@@
 2465@1@@af@a combining form of magne, «magnet».@@
 2466@1@@2n@B is/are the «pole» (s) of magnet F.@@B-F
-2467@1@@2n@F is some «magnetic memory» of type B, e.g. disk,tape,card etc.@@F-B
+2467@1@@2n@F is some «magnetic memory» of type B, e.g. disk, tape, card, etc.@@F-B
 2468@1@@4v@K «measure» the magnetism of B to be C on scale/dimension N@@K-BCN
 2469@1@@1n@B is a «magnet».@@B-
 2469@2@@a@«magnetic», pert. to magnets.@@
@@ -4682,7 +4682,7 @@
 2498@2@lo %@n@(the) «mark», mass term.@@
 2499@1@@2n@B is a «maximum» of C.@@B-C
 2499@2@@a@«maximal», pert. to a maximum@@
-2500@1@@2n@B is a/the «cheek»,the side of the face of F.@@B-F
+2500@1@@2n@B is a/the «cheek», the side of the face of F.@@B-F
 2501@1@@1v@K «yawn».@@K-
 2501@2@po %@n@a «yawn», a specific instance.@@
 2502@1@@2n@B is a/the «palate» of F@@B-F
@@ -5841,7 +5841,7 @@
 3104@5@pu %@n@a «greyness», a spec. property.@@
 3105@1@@3v@K «sing» to D about V.@@K-DV
 3105@2@@n@a «singer», narrator in song.@@
-3106@1@@3v@K «sing»/produce melodic sounds P to D,as a bird.@@K-PD
+3106@1@@3v@K «sing»/produce melodic sounds P to D, as a bird.@@K-PD
 3106@2@@n@a «singer», maker of singing sound.@@
 3106@3@lo nu %@n@«song», the mass of such sounds.@@
 3106@4@lopo %@n@«song», mass term of singing acts.@@
@@ -6845,8 +6845,8 @@
 3654@1@@c@«whether»...,..., a single word used between sentences/clauses.@@
 3655@1@@c@«whether»..., not..., a single word used between sents./clauses.@@
 3656@1@@c@«hence»/«consequently»<, of physical consequences, as in 'so it rained'>.@@
-3656@2@@c@«therefore»/«thus»/«so», of physical consequences,between sents. as in 'so it rained'.@@
-3657@1@@c@«therefore»/«thus»/«so», of motivated consequences,between sents. as in 'so i went'.@@
+3656@2@@c@«therefore»/«thus»/«so», of physical consequences, between sents. as in 'so it rained'.@@
+3657@1@@c@«therefore»/«thus»/«so», of motivated consequences, between sents. as in 'so i went'.@@
 3657@2@@c@«consequently»/«hence»<, of motivated consequences, as in 'so i went'>.@@
 3658@1@@av@«even», use sent. op. 'even so', phys. cause.@@
 3658@2@@c@«still»/«yet», of unexpected events ('even so, it's wet').@@
@@ -6986,7 +6986,7 @@
 3742@1@@1a@«major», <of more importance than>.@@G-BJB
 3742@2@@4a@G is more «important»/«significant» to B than J is to B.@@
 3742@3@no %@1a@«minor», <of less importance than.>.@@
-3742@4@nu %@a@«unimportant»/«insignificant», less important than,q.v.@@
+3742@4@nu %@a@«unimportant»/«insignificant», less important than, q.v.@@
 3742@5@pu nu %@n@«unimportance»/«insignificance», a spec. property.@@
 3743@1@@2v@V «impress»/seem «important» to D.@@V-D
 3743@2@@a@«impressive», that which/one who -es.@@
@@ -7247,7 +7247,7 @@
 3882@1@@4v@K «convert»/«change»/«alter»/«transform»/«vary» D into P from S - (intentional act).@@K-DPS
 3882@2@@n@a «converter»/«transformer», one who -s.@@
 3882@3@fu %@n@an «alteration», an altered thing.@@
-3882@4@no nu %@a@«unalterable», neg. of alterable,q.v.@@
+3882@4@no nu %@a@«unalterable», neg. of alterable, q.v.@@
 3882@5@nu %@a@«alterable»/«convertible»/«changeable»/«transformable», can be altered.@@
 3882@6@nu %@a@«converted», conv. of convert.@@
 3882@7@nu %@n@a «convert», one who is -ed.@@
@@ -7337,7 +7337,7 @@
 3917@2@@vt@«define», be a definition of...@@
 3918@1@@2a@D is «exhausted»/«spent»/«tired out» by V.@@D-V
 3918@2@lopo %@n@«exhaustion», mass term of states.@@
-3919@1@@2v@D are/become«exhausted»,completely tired by V, intransitive.@@D-V
+3919@1@@2v@D are/become«exhausted», completely tired by V, intransitive.@@D-V
 3920@1@@2v@V «exhaust» D, make...completely tired, nonintentional.@@V-D
 3921@1@@3v@K «exhaust» D , make...completely tired by V, intentional.@@K-DV
 3922@1@@2v@K «devour»/«eat up» B, totally.@@K-B
@@ -7742,7 +7742,7 @@
 4124@1@@2a@G is more «airy»/full of air than J.@@G-J
 4124@2@po %@n@an «airiness», a state of being full of air.@@
 4125@1@@1n@B is a «hovercraft».@@B-
-4126@1@@1@B is some «keratin», component of skin,horn etc.@@B-
+4126@1@@1@B is some «keratin», component of skin, horn etc.@@B-
 4127@1@@2v@K «keep»/take care of/«care for» D.@@K-D
 4127@2@@n@a «custodian»/«keeper»/«caretaker», one who takes care of...@@
 4127@3@po %@n@the «care», a spec. act of taking care of...@@
@@ -8042,7 +8042,7 @@
 4275@2@po %@n@an instance of «circulation».@@
 4276@1@@af@a combining form of kutla, «cut».@@
 4277@1@@1n@B is an «ax»/«axe»/«hatchet», a tool for chopping.@@B-
-4278@1@@2n@B is a «cut»/«division»/«piece»/«section»/«segment» of F,a part obtained by cutting.@@B-F
+4278@1@@2n@B is a «cut»/«division»/«piece»/«section»/«segment» of F, a part obtained by cutting.@@B-F
 4278@2@nu %@a@«cuttable», capable of being cut.@@
 4279@1@@1a@N is «round»/«circular»/«cylindrical»/«spherical», i.e. circular in at least one dimension.@@N-
 4280@1@@c@«if and only if»/«mean», forethought equivalence with ki as in 'ko...ki...'.@@
@@ -8413,7 +8413,7 @@
 4477@1@@2a@B is «extensive»/«wide ranging» in area/subject F.@@B-F
 4477@2@pu %@n@an «extensiveness», a spec. prop.@@
 4478@1@@af@a combining form of kunci, «kin».@@
-4479@1@@3v@K «relate» B to B,find a relation between...and@@K-BB
+4479@1@@3v@K «relate» B to B, find a relation between...and@@K-BB
 4480@1@@ms@...«under»/«dividing»...— the inverse division operator (\), math.@@
 4481@1@@af@a combining form of kunci, «kin».@@
 4482@1@@1n@B is some «quinine», an antimalarial drug.@@B-
@@ -8713,7 +8713,7 @@
 4654@1@@2v@K «yearn»/«long» for V, that...should come about.@@K-V
 4654@2@nu %@n@a «yearning», that which is -ed for.@@
 4654@3@po %@n@a «yearning»/«longing», an act/state of -ing.@@
-4655@1@@3a@G is «older»/«senior»,organically less young than J by C.@@G-JC
+4655@1@@3a@G is «older»/«senior», organically less young than J by C.@@G-JC
 4655@2@@a@«old»/«aged», older than...@@
 4655@3@lopu %@n@«age», mass term of properties.@@
 4655@4@nu %@a@«junior»/«younger than»...@@
@@ -9450,7 +9450,7 @@
 5061@2@@a@«local »(to...), limited to locality...@@
 5061@3@@av@«from here»/«locally», local, incomplete form.@@
 5061@4@nu %@n@a «locality», a place to which...is local.@@
-5062@1@@art@massifies a name, as in 'lola Bragai pe la Xi,as, the Kings of Xia, as a collection.@@
+5062@1@@art@massifies a name, as in 'lola Bragai pe la Xi, as, the Kings of Xia, as a collection.@@
 5063@1@@2a@G is «blonder»/«fairer» than J is.@@G-J
 5063@2@@n@«blonde»/«fair», one who is blond(e).@@
 5063@3@lopo %@n@a «blondeness»/«fairness», the mass of such props.@@
@@ -9657,7 +9657,7 @@
 5187@1@@2n@B is a «can»/«tin» of/containing P.@@B-P
 5188@1@@1n@K is a «metal» «detector»@@K-
 5189@1@@af@a combining form of mrenu, «man».@@
-5190@1@@2a@G is more «masculine»/«manly»/«mannish»,like a man than J is.@@G-J
+5190@1@@2a@G is more «masculine»/«manly»/«mannish», like a man than J is.@@G-J
 5190@2@lopu %@n@«masculinity»/«manliness», mass term of properties@@
 5190@3@pu %@n@a «masculinity»/«manliness», a spec. property@@
 5191@1@@p@«I»/«me»/«myself», the singular 1st person variable, uninflected for position.@@
@@ -9731,7 +9731,7 @@
 5227@1@@c@«whether» not..., not..., a transform, reduces to nuunoi, q.v.@@
 5228@1@@c@«exclusive or», x or y but not both.@@
 5229@1@@i@I/he/they are not «required» to..., denial of ethical obligation.@@
-5230@1@@i@It isn't the case that I/he/they «should»...,denial of ethical preference.@@
+5230@1@@i@It isn't the case that I/he/they «should»..., denial of ethical preference.@@
 5231@1@@c@«not»...means not...', reduces to o, q.v.@@
 5232@1@@i@it does «matter whether»..., an denial of ethical indifference.@@
 5233@1@@af@a combining form of «no».@@
@@ -10348,7 +10348,7 @@
 5542@1@@1n@B is a female «mosquito».@@B-
 5543@1@@1a@B is «mosquito like», pertains to mosquitos.@@B-
 5544@1@@1n@B is some «muskatel», a dessert wine.@@B-
-5545@1@@1n@B is a «mosquito» larva, an insect larva of various Spp. particularly Culex,Aedes &Anopheles.@@B-
+5545@1@@1n@B is a «mosquito» larva, an insect larva of various Spp. particularly Culex, Aedes &Anopheles.@@B-
 5546@1@@1n@B is a male «mosquito».@@B-
 5547@1@@1n@B is any «mosquito», non specific term.@@B-
 5548@1@@1n@B is an «engine»/«motor», any torque producing machine.@@B-
@@ -12027,7 +12027,7 @@
 6393@1@@pp@«therefore» (effect)...@@
 6394@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», causal, as used with ki in 'nukouki...ki...;  best translated ...because(cause)...'.@@
 6395@1@@c@«whether»...,..., used with ki in 'nuku...ki...'@@
-6396@1@@c@«whether»...,not..., with ki in 'nukunoi...ki...'.@@
+6396@1@@c@«whether»..., not..., with ki in 'nukunoi...ki...'.@@
 6397@1@@af@a combining form of numcu, «number».@@
 6398@1@@1v@V become «rare»/«scarce»/«few» in number.@@V-
 6399@1@@1n@C is a «number»/«figure», the numerical value of any math. expression.@@C-
@@ -12136,7 +12136,7 @@
 6461@1@@2a@G is «sicker»/less «well» than J.@@G-J
 6461@2@@a@«sick»/«unfit»/«unhealthy»/«ill», sicker/less well than..., conv. of welln.@@
 6461@3@po %@n@«illness», a state of ill health.@@
-6462@1@@2n@F is a «set», include element(s),member(s) B, cf. setci.@@F-B
+6462@1@@2n@F is a «set», include element(s), member(s) B, cf. setci.@@F-B
 6462@2@@vt@«include», as a member, conv. of member, q.v.@@
 6463@1@@3n@B is a «highboy»/«chest-of drawers»/«dresser» in N for P.@@B-NP
 6464@1@@3n@B is a «creature» created by K for P.@@B-KP
@@ -12370,7 +12370,7 @@
 6589@1@@2a@B is «interested» in/by V.@@B-V
 6589@2@po %@n@an «interest»/«interestedness», a spec. state.@@
 6590@1@@3v@K «value»/«prize» B at equivalent value C.@@K-BC
-6591@1@@2n@B are some/the «goods»/«merchandise»/«wares»/«purchase» (s) sold by K,that which is sold, conv. of sell.@@B-K
+6591@1@@2n@B are some/the «goods»/«merchandise»/«wares»/«purchase» (s) sold by K, that which is sold, conv. of sell.@@B-K
 6591@2@lo %@n@«merchandise», goods, mass term.@@
 6592@1@@3v@K «tip over»/«overturn»/«upset»/«spill» contents B onto D.@@K-BD
 6593@1@@2n@B is a «catalog» from vendor S@@B-S
@@ -14039,8 +14039,8 @@
 7498@1@@2v@D «blush»/become «red» from S.@@D-S
 7498@2@@a@«blushing», pertaining to one that -s.@@
 7498@3@po %@n@a «blush», an instance of -ing.@@
-7499@1@@2v@N «redden» D,makes...red, nonintentional.@@N-D
-7500@1@@2v@K «redden» D,makes...red, intentional.@@K-D
+7499@1@@2v@N «redden» D, makes...red, nonintentional.@@N-D
+7500@1@@2v@K «redden» D, makes...red, intentional.@@K-D
 7501@1@@2a@G is «redder» than J.@@G-J
 7501@2@@a@«red», redder than...@@
 7501@3@@n@a «red», a red colored thing/person.@@
@@ -14158,7 +14158,7 @@
 7570@1@@4n@B is a «holiday»/«vacation» from S to D for V.@@B-SDV
 7571@1@@1h@D is at «leisure», enjoying leisure time.@@D-
 7572@1@@4n@K is a «tourist» visiting D from S via V@@K-DSV
-7573@1@@3n@K «discharge»/let «go»/«release» D from B (court,prison etc.).@@K-DB
+7573@1@@3n@K «discharge»/let «go»/«release» D from B (court, prison etc.).@@K-DB
 7573@2@po %@n@a «discharge»/«release» (of...from...).@@
 7574@1@@1a@B is «wild»/«untame»/«free»/«undomesticated».@@B-
 7574@2@@n@some «wildlife», any instance of untamed life.@@
@@ -14698,7 +14698,7 @@
 7884@2@@n@a «starter»/«initiator», one who -s.@@
 7884@3@nu %@n@«initiate», one who/that which is -ed.@@
 7884@4@po %@n@a «start»/«initiation», an act of -ing.@@
-7885@1@@2n@B is the «opening» of F i.e. a play,meeting,opera etc.@@B-F
+7885@1@@2n@B is the «opening» of F i.e. a play, meeting, opera etc.@@B-F
 7886@1@@1v@V «begin»/«start»/«commence»@@V-
 7886@2@napa %@v@V has «started» to happen.@@
 7887@1@@v@K «catch sight of» D.@@K-D
@@ -15287,7 +15287,7 @@
 8208@1@@3n@F is a «system»/«network» of relations with function P and elements B.@@F-PB
 8208@2@@a@«systematic», pert. to systems.@@
 8209@1@@a@«exactly»...of..., a quantifier prefix, usually omitted.@@
-8209@2@@a@«just»/«only»/«exactly», as in 'exactly(just,only) 2 of us went'.@@
+8209@2@@a@«just»/«only»/«exactly», as in 'exactly(just, only) 2 of us went'.@@
 8210@1@@af@a combining form of sitfa, «location».@@
 8211@1@@2n@B is a «town»/«city» serving region/hinterland F.@@B-F
 8211@2@@a@«urban», pert. to cities/towns.@@
@@ -15420,7 +15420,7 @@
 8280@1@@2v@N «slow down»/«slacken» D, (nonintentional cause) i.e. The wind slows down the cyclist.@@N-D
 8281@1@@4v@K «stroll» to D from S via V@@K-DSV
 8282@1@@2v@K«slow down»/«slacken» D, (intentional act).@@K-D
-8283@1@@3a@G is «slower»,less fast than J by C.@@G-JC
+8283@1@@3a@G is «slower», less fast than J by C.@@G-JC
 8283@2@@a@«slow», less fast than...in...@@
 8283@3@lopu %@n@«slowness», collective prop.@@
 8283@4@pu %@n@«slowness», a spec. property.@@
@@ -15430,13 +15430,13 @@
 8287@1@@2a@G is «prettier»/more «darling» than J@@G-J
 8288@1@@2v@N «sweeten» B, cause...to be sweet, nonintentional.@@N-B
 8288@2@@n@a «sweetener», that which sweetens.@@
-8288@3@no nu %@a@«unsweetened», neg. of sweetened,q.v.@@
+8288@3@no nu %@a@«unsweetened», neg. of sweetened, q.v.@@
 8288@4@nu %@a@«sweetened», conv. of sweeten.@@
 8289@1@@2n@B is «syrup» from S.@@B-S
 8290@1@@2n@B is some «licorice»/«liquorice» from S.  (The English word is derived from a Greek word meaning 'sweet root').@@B-S
 8291@1@@1n@B is a portion/quantity of «liqueur», sweetened liquor.@@B-
 8292@1@@3v@K «sweeten» D , makes...sweet by/with B, intentional.@@K-DB
-8292@2@no nu %@a@«unsweetened», neg. of sweetened,q.v.@@
+8292@2@no nu %@a@«unsweetened», neg. of sweetened, q.v.@@
 8292@3@nu %@a@«sweetened», conv. of sweeten.@@
 8293@1@@3a@G is «sweeter» than J to D.@@G-JD
 8293@2@@a@«sweet»/«sugary», i.e., sweeter than...@@
@@ -15459,7 +15459,7 @@
 8302@1@@2v@K «lock »(up) B.@@K-B
 8303@1@@2n@B is a/the «lock» of/on/in F.@@B-F
 8304@1@@af@a combining form of smano, «smoke».@@
-8305@1@@2a@K is more «smoky»,full of smoke than J.@@K-J
+8305@1@@2a@K is more «smoky», full of smoke than J.@@K-J
 8305@2@po %@n@a «smokiness», a spec. condition.@@
 8306@1@@2n@B is a quantity/expanse of «smoke» from fire/source S.@@B-S
 8306@2@@a@«smoke», made of/pert. to smoke.@@
@@ -15836,7 +15836,7 @@
 8514@4@@n@a (breeding) «population»/«people»/«race».@@
 8514@5@fu %@n@a «habitat», of breeding population.@@
 8514@6@ju %@a@a «characteristic»/«racial»/racial «trait».@@
-8514@7@nu %@a@«racial»,of species having races.@@
+8514@7@nu %@a@«racial», of species having races.@@
 8515@1@@2v@K «knows»/«recognizes»/is «familiar-with»/«acquainted » with B by/through direct experience.@@K-B
 8515@2@no nu %@v@«unknown»/«unfamiliar» to...by direct experience.@@
 8515@3@nu %@a@«known»/«recognizable»/«familiar» to...by experience.@@
@@ -16118,7 +16118,7 @@
 8650@1@@3v@K «preserve» (s) D, cause...to survive from danger/threat N, non intentional.@@K-DN
 8650@2@po %@n@an instance of «preservation».@@
 8650@3@po nu %@n@«preservation», a state of being -ed.@@
-8651@1@@3v@K «preserve» (s) D, cause...to survive from danger/threat N ,intentional.@@K-DN
+8651@1@@3v@K «preserve» (s) D, cause...to survive from danger/threat N , intentional.@@K-DN
 8651@2@po %@n@an act of «preservation».@@
 8651@3@po nu %@n@«preservation», a state of being -ed.@@
 8652@1@@2v@K «abide»/«last»/«remain»/«stay»/«sojourn» with/at B.@@K-B
@@ -16299,11 +16299,11 @@
 8747@6@po nu %@n@a/the «damage»/«hurt»/«injury», a state of being -ed.@@
 8748@1@@2n@B is a/the «brigadier general»/«major general»/«lieutenant general»/«general» of F, rank identified by number.@@B-F
 8749@1@@2n@B is a «corps»/«division»/«regiment»/«company»/«platoon» of F, any army part, identify by number.@@B-F
-8750@1@@2n@B is a «lord»/«peer» of vassals/domain/realm N, i.e. a member of its peerage;  for specific ranks, prefix ner , tor ,...,sor  to -poi.@@
+8750@1@@2n@B is a «lord»/«peer» of vassals/domain/realm N, i.e. a member of its peerage;  for specific ranks, prefix ner , tor ,..., sor  to -poi.@@
 8750@2@Hoi % je mi, rie@ph@«M»'Lord/My «Lord»  O Lord of me, Respected One, a form used by inferiors to address the male peerage;  cf. Femsurpoi@@
 8751@1@@2n@B is a «count»/«earl»/«lord»/«duke»/«baron»/«nobleman»/«peer», of land/estate F, any peer, identify by number.@@B-F
 8751@2@lo %@n@the «nobility»/«peerage».@@
-8752@1@@2n@B is an «NCO»/«non com»/«non commissioned officer» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed. For non commissioned ranks, viz. nertro, tortro, ..., sortro. For commissioned officer ranks, see nerkoi, torkoi,...,sorkoi@@B-F
+8752@1@@2n@B is an «NCO»/«non com»/«non commissioned officer» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed. For non commissioned ranks, viz. nertro, tortro, ..., sortro. For commissioned officer ranks, see nerkoi, torkoi,..., sorkoi@@B-F
 8753@1@@3v@K «serve»/«service» D by doing V.@@K-DV
 8753@2@@n@a «servant», server, general term.@@
 8753@3@lopo %@n@«servitude», mass term of states.@@
@@ -17089,7 +17089,7 @@
 9207@2@fu %@n@a «torque», an applied load twisting.@@
 9207@3@nu %@a@«twisted», of that which is made -ed.@@
 9208@1@@2v@B «weigh»  C in «ton» (s) Specify gleco or merko, or better yet megygramo.@@B-C
-9208@2@gleco %@2v@weigh in British «ton» (s) (20cwt,160 stones 2240lbs)...@@
+9208@2@gleco %@2v@weigh in British «ton» (s) (20cwt, 160 stones 2240lbs)...@@
 9208@3@merko %@2v@weigh in US «ton» (s) (2000 lbs)...@@
 9209@1@@2n@B is a «tornado» in F, e.g. Mu pa nu tontetri. We had a tornado.@@B-F
 9209@2@@a@«stormy» (of the type specified).@@
@@ -17230,7 +17230,7 @@
 9290@7@po %@n@a «journey»/«travel»/«trip», a spec. act/event of -ing.@@
 9291@1@@3v@K «declare»/«state»/«affirm»/«assert»/«maintain»/«allege»/«profess» sentence B to N.@@K-BN
 9291@2@nu %@n@a «statement»/«assertion», an affirmed sentence.@@
-9291@3@po %@n@a «statement»/«assertion»/«affirmation»/«declaration»/«allegation»,an act of -ing a sentence.@@
+9291@3@po %@n@a «statement»/«assertion»/«affirmation»/«declaration»/«allegation», an act of -ing a sentence.@@
 9292@1@@2av@B is «genuine», a genuine instance of N.@@B-N
 9293@1@@2v@K «pledge»/«guarantee»/«warrant» the authenticity of B.@@K-B
 9293@2@@n@«guarantor», one who -s...@@
