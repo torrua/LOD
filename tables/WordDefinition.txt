@@ -9450,7 +9450,7 @@
 5061@2@@a@«local »(to...), limited to locality...@@
 5061@3@@av@«from here»/«locally», local, incomplete form.@@
 5061@4@nu %@n@a «locality», a place to which...is local.@@
-5062@1@@art@massifies a name, as in 'lola Bragai pe la Xi,as, the Kings of Xia, as a collection«»@@
+5062@1@@art@massifies a name, as in 'lola Bragai pe la Xi,as, the Kings of Xia, as a collection.@@
 5063@1@@2a@G is «blonder»/«fairer» than J is.@@G-J
 5063@2@@n@«blonde»/«fair», one who is blond(e).@@
 5063@3@lopo %@n@a «blondeness»/«fairness», the mass of such props.@@
