@@ -7453,7 +7453,7 @@
 3977@3@lopo %@n@«accounting», collective term for -ing.@@
 3977@4@nu %@a@«accountable», billable.@@
 3977@5@pu nu %@n@an «accountability», a spec. property.@@
-3978@1@@pp@Actors/Agents/Doers, case tag.«».@@
+3978@1@@pp@Actors/Agents/Doers, «nominative» case tag («actor»/«agent»/«doer»).@@
 3979@1@@2n@K «fan up»/«activate» D.@@K-D
 3980@1@@2a@G is more «urgent»/«pressing»/needful of action than J.@@G-J
 3980@2@pu %@n@an «urgency», a property of needing action.@@
