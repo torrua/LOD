@@ -18575,7 +18575,7 @@
 10089@1@@LW@The letter «Y» -- letteral and pronoun -- upper case@@
 10090@1@@LW@separator of components of foreign names and strong quotations.@@
 10091@1@@LW@alternative separator between components of strong quotations.@@
-10092@1@@LW@subordinate clause former, defines the subordinated argument in terms of the argument it is subordinated to@@
+10092@1@@LW@subordinate clause former, defines the subordinated argument in terms of the argument it is subordinated to.@@
 10093@1@@LW@attitudinal expressing apology, I'm «sorry»@@
 10094@1@@LW@LW for constructing compounds from predicate words (and LWs under some circumstances)@@
 10095@1@@LW@initial marker for acronyms, proposed mandatory for acronyms used as dimensions@@
