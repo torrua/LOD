@@ -1158,7 +1158,7 @@
 704@1@@1n@B is some «calcium», the 20th element. (Ca).@@B-
 704@2@% oksidi@ph@some «lime», Calcium oxide (CaO).@@
 705@1@@2n@B is a/the «gate»/«portal» in wall F.@@B-F
-706@1@@1n@B is a «gateway» of F..@@B-F
+706@1@@1n@B is a «gateway» of F.@@B-F
 707@1@@1n@B is some «californium», element 98 (Cf)@@B-
 708@1@@1n@B is a «recess»/«alcove», a depression in a wall.@@B-
 709@1@@2n@N measure(s) C in «calorie» (s), default 1, a unit of heat@@N-C
@@ -5611,7 +5611,7 @@
 2983@2@@a@«radical», pert. to roots.@@
 2983@3@fu %@n@a/the «substrate», locale of the roots.@@
 2984@1@@1n@B is a «guitar».@@B-
-2985@1@@ms@final (right) «bracket», in mathematical contexts;  used with gie..@@
+2985@1@@ms@final (right) «bracket», in mathematical contexts;  used with gie.@@
 2986@1@@3a@G is more «radical»/«fundamental»/«basic» to N than J is.@@G-NJ
 2986@2@@n@«root», fig., fundamental to…@@
 2987@1@@2a@N is «well rooted»/«established»/«grounded» in F.@@N-F
@@ -5774,7 +5774,7 @@
 3077@5@pu nu %@n@a «celebrity», a prop. of celebrities.@@
 3078@1@@2v@K «celebrate»/«remember» event V.@@K-V
 3078@2@nu %@a@«celebrated», of…events.@@
-3078@3@po %@n@a «celebration», an act of…ing some event..@@
+3078@3@po %@n@a «celebration», an act of…ing some event.@@
 3079@1@@3v@K «esteem»/«honor» D for doing/being V.@@K-DV
 3079@2@lopo %@n@«esteem»/«honour»/«honor», mass term of acts.@@
 3079@3@lopu nu %@n@«honor»/«honour», mass term of properties.@@
@@ -7794,7 +7794,7 @@
 4151@5@nu %@n@a «patient», medical, conv. of doctor.@@
 4151@6@po %@n@a «treatment», medical, a spec. event.@@
 4152@1@@av@«parenthetically», parentheses as spoken.@@
-4152@2@@pm@(left «parenthesis»), used with kiu as in 'kie…kiu'..@@
+4152@2@@pm@(left «parenthesis»), used with kiu as in 'kie…kiu'.@@
 4153@1@@pp@«with»/«accompanied by», a relative oper. before design'ns (PA).@@
 4154@1@@1@K «walk together»@@K-
 4155@1@@af@a combining form of kinku, «sharp».@@
@@ -9064,7 +9064,7 @@
 4865@2@lopo %@n@«sin», the mass of all —ful acts.@@
 4865@3@po %@n@«sin», a sinful act.@@
 4865@4@pu %@n@«sin», a spec. property of sins.@@
-4866@1@@pm@(strong «quotation mark»)..@@
+4866@1@@pm@(strong «quotation mark»).@@
 4867@1@@pm@The opening 'strong' «quotation mark» of a non Loglandic spoken specimen.@@
 4868@1@@pm@The opening 'strong' «quotation mark» of a written non Loglandic specimen.@@
 4869@1@@af@a combining form of clife, «leaf».@@
@@ -9557,7 +9557,7 @@
 5126@4@po %@n@a «representation», an act of symboling.@@
 5126@5@po nu %@n@a «representation», state of being -ized.@@
 5127@1@@2n@B is a «factory» making P.@@B-P
-5128@1@@4v@K «make» state/object B out of material(s)/existing condition(s) S for purpose P..@@K-BSP
+5128@1@@4v@K «make» state/object B out of material(s)/existing condition(s) S for purpose P.@@K-BSP
 5128@2@@n@a «maker», general term.@@
 5128@3@fu %@n@a «material», from which…is made by…@@
 5128@4@nu %@a@«artificial».@@
@@ -10859,7 +10859,7 @@
 5814@2@@a@«a»/«an»/«any»/«some-one»/«one» (1)/«exactly one» of…, a description quantifier. E.g., Ne le mrenu pa kicmu  Exactly one of the men was a doctor;  Ne mrenu pa hijra  Some one man was here <> Ne ba ji mrenu pa hijra  Exactly one someone x who is a man was here.@@
 5814@3@@af@the «digit one» (1), as in netote (123).@@
 5814@4@lio %@ph@«one» (1), the number one, in non math. expressions.@@
-5815@1@@ms@("-") «negative sign»/«minus sign», sign of a negative number..@@
+5815@1@@ms@("-") «negative sign»/«minus sign», sign of a negative number.@@
 5816@1@@3v@V just «precede» B in series F.@@V-BF
 5816@2@@a@«preceding»/«previous»/«former», just preceding.@@
 5816@3@@n@a/the «former», a just preceding person/thing.@@
@@ -12770,7 +12770,7 @@
 6823@2@nu %@a@«impatient» than…with…@@
 6823@3@pu nu %@n@an «impatience», a spec. property.@@
 6824@1@@pp@«of», the general possessive word, as in 'the boat of john'.@@
-6825@1@@ms@("+") «positive sign», sign of a positive number..@@
+6825@1@@ms@("+") «positive sign», sign of a positive number.@@
 6826@1@@3n@B is a/the «acute angle» between S and D.@@B-SD
 6826@2@@a@«acute», as of angles.@@
 6826@3@pu %@n@an «acuteness», as of angles, a property.@@
@@ -16962,7 +16962,7 @@
 9141@2@@a@«selective», of one who -s.@@
 9141@3@@n@a «selector», one who/that which -s.@@
 9141@4@fu %@n@«choices»/«alternatives»/«menu», a set of choices.@@
-9141@5@fu %@n@a set of «alternatives»/«choices», conv. of select,…v..@@
+9141@5@fu %@n@a set of «alternatives»/«choices», conv. of select,…v.@@
 9141@6@nu %@a@«alternative», selectable, converse form.@@
 9141@7@nu %@n@a «choice»/«selection», a chosen thing.@@
 9141@8@po %@n@a «choice»/«selection», an act of -ing.@@
@@ -17058,7 +17058,7 @@
 9191@2@po %@n@a «spin» (uncontrolled rotating descent of aircraft)@@
 9192@1@@a@«two hundred» of…, a quantifying operator, in math. exp.@@
 9192@2@@n@«two» hundred, the number, math. exp.@@
-9192@3@lio %@n@«two» hundred, the number, non math..@@
+9192@3@lio %@n@«two» hundred, the number, non math.@@
 9193@1@@2a@B is «automatic» in function N, self moving/acting.@@B-N
 9193@2@po %@n@an «automation», a state of being automatic.@@
 9193@3@pu %@n@an «automaticity», a spec. property.@@
@@ -18164,7 +18164,7 @@
 9773@1@@av@«far from» this region, before predicates.@@
 9773@2@@c@«far from» where, of extensive events.@@
 9773@3@@pp@«far from»…, a large space, before terms.@@
-9774@1@@l@«X», Latin upper case letter, one of a pool of symbols.  The former Xai is no longer suitable as X is no longer a Loglan letter..@@
+9774@1@@l@«X», Latin upper case letter, one of a pool of symbols.  The former Xai is no longer suitable as X is no longer a Loglan letter.@@
 9775@1@@2n@B is some «X radiation» from source S.@@B-S
 9775@2@nu %@n@an «X ray» source.@@
 9776@1@@l@«x», Latin lower case letter, one of a pool of symbols. [original xei no longer suitable as x is not a Loglan letter any more]@@
@@ -18290,8 +18290,8 @@
 9835@1@@1n@B is a «jug».@@B-
 9836@1@@1n@B is a quantity of «lipstick».@@B-
 9837@1@@op@an «amount»/«quantity» of…  as in 'the amount of blue', an abstraction operator.@@
-9838@1@@ms@«double prime», mathematical sign..@@
-9839@1@@ms@«single prime», mathematical sign..@@
+9838@1@@ms@«double prime», mathematical sign.@@
+9839@1@@ms@«single prime», mathematical sign.@@
 9840@1@@av@«by the way»/«incidentally», a discourse operator (UI).@@
 9841@1@@1v@B «buzz»/«hum», a droning sound.@@B-
 9841@2@@n@«buzzer», a device which -es.@@
