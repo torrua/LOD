@@ -11126,7 +11126,7 @@
 5933@2@@a@«first», of 1st members.@@
 5933@3@% genza@ph@first «occasion»/«time».@@
 5933@4@da pa % genza godzi@Ph@X went for the «first» time.@@
-5934@1@@2v@K  «meet for the first time» D  [RH recommends <neri jmite>]@@K-D
+5934@1@@2v@K  «meet for the first time» D  [RH recommends <neri jmite>].@@K-D
 5935@1@@2n@G has more «energy»/capacity for doing work than J (physics) by amount C.@@G-JC
 5935@2@@a@«energetic»/«vehement», having energy/capacity for work.@@
 5935@3@lopu %@n@«energy», mass term.@@
@@ -18167,7 +18167,7 @@
 9774@1@@l@«X», Latin upper case letter, one of a pool of symbols.  The former Xai is no longer suitable as X is no longer a Loglan letter.@@
 9775@1@@2n@B is some «X radiation» from source S.@@B-S
 9775@2@nu %@n@an «X ray» source.@@
-9776@1@@l@«x», Latin lower case letter, one of a pool of symbols. [original xei no longer suitable as x is not a Loglan letter any more]@@
+9776@1@@l@«x», Latin lower case letter, one of a pool of symbols. [original xei no longer suitable as x is not a Loglan letter any more].@@
 9777@1@@1n@B is some «xenon», element 54 (Xe).@@B-
 9778@1@-za@af@the short interval space time suffix, as in faza, 'soon'.@@
 9779@1@@af@a combining form of zakra, «crush» to pulp@@
