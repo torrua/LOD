@@ -483,7 +483,7 @@
 321@1@@2v@K «ring» D.@@K-D
 322@1@@2n@B is a/the «belly»/«abdomen»/«stomach» of F.@@B-F
 322@2@@a@«abdominal», pert. to the belly.@@
-323@1@@2v@K «ring»/«toll» B(a bell).@@K-B
+323@1@@2v@K «ring»/«toll» B (a bell).@@K-B
 324@1@@3v@K «creep»/«crawl» flat to D from S.@@K-DS
 324@2@@n@a «crawler»/«creeper».@@
 324@3@lopo %@n@«crawling»/«creeping», collective term for the act.@@
@@ -1455,7 +1455,7 @@
 884@2@fu %@a@«shot» (by weapon…fired by…), describing a thing or person shot at.@@
 884@3@nu %@a@«shot» (by…at…), describing a weapon.@@
 884@4@po %@a@a «shot»/«shooting»/«discharge» (of a weapon).@@
-885@1@@3v@K «fire»/«shoot» bullet/projectile B at D(non intentional, of a weapon).@@K-BD
+885@1@@3v@K «fire»/«shoot» bullet/projectile B at D (non intentional, of a weapon).@@K-BD
 885@2@fu %@a@a «target».@@
 885@3@nu %@a@a «bullet»/«projectile» shot by…at…@@
 885@4@po %@a@a «shot»/«shooting»/«discharge» (of a projectile).@@
@@ -2440,7 +2440,7 @@
 1380@1@@p@«him»(self)/«her»(self)/«them»(selves)<, 1st free variable of the da-series>.@@
 1380@2@@p@«he»/«she»/«it»(self)/«they», 1st free variable of the da-series.@@
 1381@1@@af@a combining form of danza, «want».@@
-1382@1@@3v@V «tempt» K to do P(nonintentionally) e.g. The heat tempts me to go swimming.@@V-KP
+1382@1@@3v@V «tempt» K to do P (nonintentionally) e.g. The heat tempts me to go swimming.@@V-KP
 1382@2@@n@«tempter», that which -s.@@
 1382@3@fu %@n@a «temptation», that to which one is -ed.@@
 1382@4@nu %@3a@«tempted» by…to…@@
@@ -6943,7 +6943,7 @@
 3714@3@pu %@n@a «comeliness»/«prettiness», a spec. property.@@
 3715@1@@2v@D «recover»/be «cured»/«healed» from illness B.@@D-B
 3715@2@po %@n@an instance of «recovery» (from illness…).@@
-3716@1@@3v@N «cure»/«heal» D of B(external cause).@@N-DB
+3716@1@@3v@N «cure»/«heal» D of B (external cause).@@N-DB
 3716@2@@n@«cure», that which -s.@@
 3717@1@@2n@B is a «personal hygiene» product for doing P.@@B-P
 3718@1@@1n@B is a «medicine cabinet»/chest.@@B-
