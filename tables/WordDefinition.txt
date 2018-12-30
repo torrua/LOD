@@ -18561,14 +18561,14 @@
 10075@1@@LW@«more than», quantifier prefix.@@
 10076@1@@LW@«less than», quantifier prefix.@@
 10077@1@@LW@«thousand», quantifier suffix, formerly mo.@@
-10078@1@@LW@the letter «a» -- letteral and pronoun, lower case.@@
-10079@1@@LW@the letter «A», letteral and pronoun, upper case.@@
-10080@1@@LW@the letter «e», letteral and pronoun, lower case.@@
-10081@1@@LW@the letter «E»- letteral and pronoun -- upper case.@@
-10082@1@@LW@the letter «i» - letteral and pronoun - lower case.@@
-10083@1@@LW@the letter «I» - letteral and pronoun - upper case.@@
-10084@1@@LW@the letter «o»-- letteral and pronoun -- lower case.@@
-10085@1@@LW@the letter «O» - letteral and pronoun -  upper case.@@
+10078@1@@LW@the letter «a» -- letteral and pronoun -- lower case.@@
+10079@1@@LW@the letter «A» -- letteral and pronoun -- upper case.@@
+10080@1@@LW@the letter «e» -- letteral and pronoun -- lower case.@@
+10081@1@@LW@the letter «E» -- letteral and pronoun -- upper case.@@
+10082@1@@LW@the letter «i» -- letteral and pronoun -- lower case.@@
+10083@1@@LW@the letter «I» -- letteral and pronoun -- upper case.@@
+10084@1@@LW@the letter «o» -- letteral and pronoun -- lower case.@@
+10085@1@@LW@the letter «O» -- letteral and pronoun -- upper case.@@
 10086@1@@LW@the letter «u» -- letteral and pronoun -- lower case.@@
 10087@1@@LW@the letter «U» -- letteral and pronoun -- upper case.@@
 10088@1@@LW@the letter «y» -- letteral and pronoun -- lower case.@@
