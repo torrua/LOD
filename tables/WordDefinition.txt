@@ -1556,7 +1556,7 @@
 931@1@@1n@B is an «easy chair»/«overstuffed chair».@@B-
 932@1@@1a@B is «flabby».@@B-
 933@1@@af@a combining form of fo, «four».@@
-934@1@@2n@is a «quartet»/«tetrad»/«foursome»/«4 member subset» of set..., a cardinal pred.;  e.g., Da fora lea bridiji  X is a foursome at bridge/of bridge players.@@
+934@1@@2n@is a «quartet»/«tetrad»/«foursome»/«4 member subset» of set..., a cardinal pred.; e.g., Da fora lea bridiji  X is a foursome at bridge/of bridge players.@@
 935@1@@2n@V is a «Thursday» of week/month F.@@V-F
 935@2@la %@na@«Thursday» (the fifth day of the week).@@
 936@1@@2n@B is a/the «floor» of room/building/storey F, its bottom surface. 'Fordi' may also be used as one of the countable levels in a multi story building.@@B-F
@@ -3895,7 +3895,7 @@
 2108@4@pu %@n@a «truth», empirical, a property.@@
 2109@1@@2n@B is 10E 15th «quantity» of F. (ISV femti)@@B-F
 2110@1@@af@a combining form of fe, «five».@@
-2111@1@@2n@B is a «quintet»/«pentad»/«five member» subset of set F, a cardinal predicate;  e.g., Da fera lea golfu  X is a fivesome at golf/of golfers.@@
+2111@1@@2n@B is a «quintet»/«pentad»/«five member» subset of set F, a cardinal predicate; e.g., Da fera lea golfu  X is a fivesome at golf/of golfers.@@
 2112@1@@2n@C measures five «cents», 5/100ths of monetary unit F.@@C-F
 2112@2@@n@«nickel», Can currency.@@
 2113@1@@2n@V is an «affair»/«matter»/«concern»/«interest» of person(s) D.@@V-D
@@ -3904,12 +3904,12 @@
 2113@4@pu nu %@n@«involvement».@@
 2114@1@@2n@B is a «Friday» of week/month F.@@B-F
 2114@2@la %@na@«Friday» (the 6th day of the week).@@
-2115@1@@2n@B is a «battalion»/«air force», the 5th smallest military unit in some larger «military organization»/«ferce» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., kerforgru  air force. Cf. surgru.@@B-F
+2115@1@@2n@B is a «battalion»/«air force», the 5th smallest military unit in some larger «military organization»/«ferce» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., kerforgru  air force. Cf. surgru.@@B-F
 2116@1@@a@«fifth», of 5th members, before predicates.@@
 2116@2@@n@V is a/the «fifth» term/member of series..., an ordinal predicate.@@
 2117@1@@2n@B is a «pentagon» with vertices C.@@B-C
 2117@2@@a@«pentagonal», pert. to pentagons.@@
-2118@1@@2n@B is a «lieutenant colonel»/«commander»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murferkoi  naval commander. Use surkoi. q.v., for officers in general.@@B-F
+2118@1@@2n@B is a «lieutenant colonel»/«commander»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murferkoi  naval commander. Use surkoi. q.v., for officers in general.@@B-F
 2119@1@@2n@B is a «May» of year F.@@B-F
 2119@2@la %@na@«May» (the 5th month of the year).@@
 2120@1@@1n@B is some «fermium», a transuranic element (Fm).@@B-
@@ -3924,7 +3924,7 @@
 2123@6@po %@n@a «fertility», a state of being fertile.@@
 2123@7@pu %@n@a «fertility», a prop. of a specific soil.@@
 2123@8@pu nu %@n@an «infertility», a spec. property.@@
-2124@1@@2n@B is a «staff sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murfertro  petty officer first class@@B-F
+2124@1@@2n@B is a «staff sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murfertro  petty officer first class@@B-F
 2125@1@@af@a combining form of festi, «waste».@@
 2126@1@@1n@B is a piece of «scrapiron»/waste «iron»/«junk».@@B-
 2126@2@lo %@n@«scrapiron», mass term.@@
@@ -4450,7 +4450,7 @@
 2374@2@@n@a «carpetseller».@@
 2375@1@@2v@K «brush»/«scrub» the floor of D.@@K-D
 2376@1@@1n@B is a «mop»@@B-
-2377@1@@2n@B is a «regiment»/«wing», the 4th smallest military unit in some larger «military organization»/«force» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., kerforgru  air wing. Cf. surgru.@@B-F
+2377@1@@2n@B is a «regiment»/«wing», the 4th smallest military unit in some larger «military organization»/«force» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., kerforgru  air wing. Cf. surgru.@@B-F
 2378@1@@1n@B is a «tetrahedron».@@B-
 2379@1@@2n@«fourth »(4th) term/member of series y, an ordinal predicate.@@
 2380@1@@2n@B is a «quadrangle» with vertices C.@@B-C
@@ -4462,7 +4462,7 @@
 2384@1@@2v@K «quarter» D, cut into four equal parts.@@K-D
 2384@2@nu %@a@«quartered», cut into 4 parts.@@
 2385@1@@2n@B is a «quarter» of F.@@B-F
-2386@1@@2n@B is a «major»/«lieutenant commander»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murforkoi  naval lieutenant commander. Use surkoi. q.v., for officers in general.@@B-F
+2386@1@@2n@B is a «major»/«lieutenant commander»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murforkoi  naval lieutenant commander. Use surkoi. q.v., for officers in general.@@B-F
 2387@1@@2n@B is a «quarter»/«fourth» of F.@@B-F
 2388@1@@2n@B is a «twenty five cent piece»/«quarter», 25/100ths of monetary unit F.@@B-F
 2389@1@@3a@G is «stronger» than J by C.@@G-JC
@@ -4483,7 +4483,7 @@
 2394@1@@2n@N is a (space time) «region» occupied by system/process B.@@N-B
 2394@2@@n@a «space time» region occupied by system/process...@@
 2394@3@lo %@n@«space time», mass term.@@
-2395@1@@2n@B is a «sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murfortro  petty officer second class@@B-F
+2395@1@@2n@B is a «sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murfortro  petty officer second class@@B-F
 2396@1@@af@a combining form of fosli, «force».@@
 2397@1@@2v@K «subjugate»/«impose rule» on D.@@K-D
 2397@2@nu %@n@a «subject», of subjugation, conv. form.@@
@@ -11121,7 +11121,7 @@
 5930@3@nu %@n@a «monarchy»/«dictatorship»/«autocracy», that which is ruled.@@
 5930@4@po %@n@a «monarchy»/«dictatorship»/«autocracy», a state of ruling.@@
 5931@1@@2n@B is a «monomer» of F, the repeating unit of a polymer@@B-F
-5932@1@@2n@B is a «squad»/«squadron»/«flight», the smallest military unit of some larger «military force» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murnergru  naval squadron. Cf. surgru@@B-F
+5932@1@@2n@B is a «squad»/«squadron»/«flight», the smallest military unit of some larger «military force» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murnergru  naval squadron. Cf. surgru@@B-F
 5933@1@@2n@a/the «first» term/member of series..., ordinal predicate.@@
 5933@2@@a@«first», of 1st members.@@
 5933@3@% genza@ph@first «occasion»/«time».@@
@@ -11139,7 +11139,7 @@
 5939@1@@2n@B is an «elementary»/«grammar» school, first school of community F.@@B-F
 5940@1@@2n@B is «first» class accommodation on conveyance F@@B-F
 5940@2@@a@«first» class@@
-5941@1@@2n@B is a «second lieutenant»/«ensign»/«flying officer» commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murnerkoi  ensign. Use surkoi. q.v., for officers in general.@@B-F
+5941@1@@2n@B is a «second lieutenant»/«ensign»/«flying officer» commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murnerkoi  ensign. Use surkoi. q.v., for officers in general.@@B-F
 5942@1@@2n@B is a 1st degree/close+«relative» of B, a son/brother/father/etc.@@B-B
 5942@2@@ph@immediate «family» of...@@
 5943@1@@2n@B is a «parent»/«child»/immediate «relative» of B, a 1 step lineal relation.@@B-B
@@ -11150,11 +11150,11 @@
 5945@1@@2n@B is a «January» of year F.@@B-F
 5945@2@la %@na@«January» (the 1st month of the year).@@
 5946@1@@2v@B is «married»/«monogamous» only to/with B.@@B-B
-5947@1@@2v@B is «only»/for one «motive» N  e.g. Da nermoi nerbi lepo preda, It is only necessary for....@@B-N
-5948@1@@2n@B is a «general of the army»/«admiral of the fleet»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murnernerkoi  admiral of the fleet. Use surkoi. q.v., for officers in general.@@B-F
+5947@1@@2v@B is «only»/for one «motive» N. E.g. Da nermoi nerbi lepo preda, It is only necessary for....@@B-N
+5948@1@@2n@B is a «general of the army»/«admiral of the fleet»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murnernerkoi  admiral of the fleet. Use surkoi. q.v., for officers in general.@@B-F
 5949@1@@2n@B is a «November» of year F.@@B-F
 5949@2@la %@na@«November» (the 11th month of the year).@@
-5950@1@@2n@B is a «general»/«admiral»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murnernirkoi  admiral. Use surkoi. q.v., for officers in general@@B-F
+5950@1@@2n@B is a «general»/«admiral»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murnernirkoi  admiral. Use surkoi. q.v., for officers in general@@B-F
 5951@1@@2n@B is an «October» of year F.@@B-F
 5951@2@la %@na@«October» (the 10th month of the year).@@
 5952@1@@3n@P is the «only»/is «exactly one» «effect»/«result» of cause S under conditions N@@P-SN
@@ -11185,7 +11185,7 @@
 5965@1@@1n@B is a «dodecahedron».@@B-
 5966@1@@2n@B is a «December» of year F.@@B-F
 5966@2@la %@na@«December» (the 12th month of the year).@@
-5967@1@@2n@B is a «private first class» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murnertro  seaman spprentice.@@B-F
+5967@1@@2n@B is a «private first class» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murnertro  seaman spprentice.@@B-F
 5968@1@@1v@K «hop», on one leg.@@K-
 5969@1@@2n@B is a «nerve» fiber of organism F.@@B-F
 5969@2@@a@«neural», pert. to nerves.@@
@@ -11397,7 +11397,7 @@
 6078@2@po %@n@a specific act of «meditation» <thought excluding sense input.>.@@
 6079@1@@1@B is «vacant», as a vacant lot.@@B-
 6080@1@@1n@B is a «void»/«vacuum».@@B-
-6081@1@@2n@B is a «private» «attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murnirtro  seaman recruit@@B-F
+6081@1@@2n@B is a «private» «attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murnirtro  seaman recruit@@B-F
 6082@1@@3v@K «empty» B in/on D@@K-BD
 6083@1@@1v@B is/are «empty», contain(s) nothing.@@B-
 6083@2@@a@«vacant»/«empty», contains nothing.@@
@@ -12925,7 +12925,7 @@
 6903@1@@2n@B is a «pearl» from S.@@B-S
 6904@1@@1n@B is a/some «person»/«people».@@B-
 6904@2@lo %@n@«people», mass term.@@
-6905@1@@1a@V is «personal», referring to a person;  e.g. a personal remark.@@V-
+6905@1@@1a@V is «personal», referring to a person; e.g. a personal remark.@@V-
 6906@1@@4v@K «employ»/«engage»/«hire» person D to do P for salary/wage C.@@K-DPC
 6906@2@@n@an «employer», one who hires.@@
 6906@3@fu %@n@a «work»/«job», that for which...is employed.@@
@@ -15031,16 +15031,16 @@
 8073@1@@2n@B is a «sanctuary» of/for N, a sacred/holy place.@@B-N
 8074@1@@2n@B is an «altar» in church/religion F.@@B-F
 8075@1@@af@a combining form of se, «seven».@@
-8076@1@@2n@B is a «septet»/«seven member» subset of set..., a cardinal predicate;  e.g., Da sera lea atletu.  X is a septet of athletes.@@
+8076@1@@2n@B is a «septet»/«seven member» subset of set..., a cardinal predicate; e.g., Da sera lea atletu.  X is a septet of athletes.@@
 8077@1@@2n@B is a «Sunday» of week/month F.@@B-F
 8077@2@la %@na@«Sunday» (the 1st day of the week).@@
 8078@1@@2n@B is some «serum» of/from S.@@B-S
 8079@1@@2n@a/the «seventh» term/member of series..., an ordinal pred.@@
 8079@2@@a@«seventh», of 7th members, before predicates.@@
-8080@1@@2n@B is a «brigadier»/«brigadier general»/«commodore»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murserkoi  commodore. Use surkoi. q.v., for officers in general@@B-F
+8080@1@@2n@B is a «brigadier»/«brigadier general»/«commodore»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murserkoi  commodore. Use surkoi. q.v., for officers in general@@B-F
 8081@1@@2n@B is a «July» of year F.@@B-F
 8081@2@la %@na@«July» (the name of the 4th month of the year).@@
-8082@1@@2n@B is a «first»/«master sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., mursertro  senior chief petty officer@@B-F
+8082@1@@2n@B is a «first»/«master sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., mursertro  senior chief petty officer@@B-F
 8083@1@@af@a combining form of sensi, «science».@@
 8084@1@@3v@K «experiment» with V to find P@@K-VP
 8085@1@@2n@B is a «scientist» in field N, a contributor to science...@@B-N
@@ -15062,7 +15062,7 @@
 8096@3@nu %@n@the «components»/«constituents» of a set, q.v.@@
 8097@1@@3v@K «set»/«put»/«place» B at/on D.@@K-BD
 8097@2@fu %@n@a «placing»/«localization» (of...by...), pert. to the -ing process.@@
-8098@1@@1n@J is «included» in/a «subset of» (set) F  e.g. mice are included among the rodents.@@F-
+8098@1@@1n@J is «included» in/a «subset of» (set) F. E.g. mice are included among the rodents.@@F-
 8099@1@@a@«one or none»/at «most one» of..., abbrev. of sine, a quantifying operator.@@
 8099@2@@af@at «most»/«only»/«just»... of, upper bound marker, prefixed to quantifiers.@@
 8100@1@@i@«thanks»/«thank you»/I am «gratefulfor»/that, expression of gratitude.@@
@@ -15754,11 +15754,11 @@
 8465@4@po %@n@a «recording» (act of).@@
 8466@1@@3v@V «sound» like B to D, appears by its sound to be...to...@@V-BD
 8467@1@@af@a combining form of so, «six».@@
-8468@1@@2n@B is a «sextet»/«hexad»/«six member» subset of set F, a cardinal predicate;  e.g., Da sora lea muzmao  X is a sextet of musicians.@@
+8468@1@@2n@B is a «sextet»/«hexad»/«six member» subset of set F, a cardinal predicate; e.g., Da sora lea muzmao  X is a sextet of musicians.@@
 8469@1@@2n@B is a «Saturday» of week/month F.@@B-F
 8469@2@la %@na@«Saturday» (the 7th day of the week).@@
 8470@1@@3n@F is a «store»/«reserve»/«deposit»/«depot» of B made/kept by D.@@F-BD
-8471@1@@2n@B is a «brigade», the 6th smallest military unit of some larger «military force» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., lansorgru  army brigade. Cf. surgru.@@B-F
+8471@1@@2n@B is a «brigade», the 6th smallest military unit of some larger «military force» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., lansorgru  army brigade. Cf. surgru.@@B-F
 8472@1@@2n@B is an «ear» of F.@@B-F
 8472@2@@a@«aural», pert. to ears.@@
 8473@1@@1n@B is a «cube»/«hexahedron».@@B-
@@ -15766,13 +15766,13 @@
 8474@2@@a@«sixth», of 6th members, before predicates.@@
 8475@1@@2n@F is a «hexagon» with vertices B, pl.set.@@F-B
 8475@2@@a@«hexagonal», pertaining to hexagons.@@
-8476@1@@2n@B is a «colonel»/«captain»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., mursorkoi  naval captain. Use surkoi. q.v., for officers in general.@@B-F
+8476@1@@2n@B is a «colonel»/«captain»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., mursorkoi  naval captain. Use surkoi. q.v., for officers in general.@@B-F
 8477@1@@3n@B is a «sister» of B through parents S.@@B-BS
 8477@2@@a@«sororal», pert. to sisters, q.v.@@
 8478@1@@2n@B is a «June» of year F.@@B-F
 8478@2@la %@na@«June» (the name of the 4th month of the year).@@
 8479@1@@2n@B is a/the «prince» of domain N@@B-N
-8480@1@@2n@B is a «platoon»/«technical sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., mursortro  chief petty officer.@@B-F
+8480@1@@2n@B is a «platoon»/«technical sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., mursortro  chief petty officer.@@B-F
 8481@1@@af@a combining form of solte, «salt».@@
 8482@1@@2a@G is more «salty»/«saline», full of salt than J.@@G-J
 8482@2@pu %@n@a «saltiness», a spec. property.@@
@@ -16289,7 +16289,7 @@
 8742@1@@2n@B is a «military unit» of some larger «military force»/ «organization» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is added. For specific military units, viz. sergru, torgru, ..., sorgru@@B-F
 8743@1@@1a@a «considerable» amount of...@@
 8744@1@@2n@B is a/the «air marshal» of F, rank identified by number.@@B-F
-8745@1@@2n@B is a «second lieutenant»/«ensign»/«flying officer» commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murnerkoi  ensign. Use surkoi. q.v., for officers in general.@@B-F
+8745@1@@2n@B is a «second lieutenant»/«ensign»/«flying officer» commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murnerkoi  ensign. Use surkoi. q.v., for officers in general.@@B-F
 8746@1@@2n@B is a «sector»/«quadrant»/«octant», a pie shaped fraction of a circle with radius C.@@B-C
 8747@1@@3v@K «hurt»/«harm»/«injure»/«damage» D at/in V.@@K-DV
 8747@2@@a@«injurious», of that which -s.@@
@@ -16584,7 +16584,7 @@
 8906@1@@2v@B run «through» (body) D, as a sword might.@@B-D
 8907@1@@2n@B is some «Cheddar» from S, a cheese.@@B-S
 8908@1@@4v@K «walk through» N on the way to D from S@@K-NDS
-8909@1@@2v@B «go through»/«run through» N to D from S  e.g. La Tigris tcegoi la Irak lo mursi lo monca the Tigris runs through Iraq to the sea from the mountains.@@B-N
+8909@1@@2v@B «go through»/«run through» N to D from S. E.g. La Tigris tcegoi la Irak lo mursi lo monca.  The Tigris runs through Iraq to the sea from the mountains.@@B-N
 8910@1@@2v@N «pierce»/«puncture»/«perforate»/make a «hole» in D, nonintentional.@@N-D
 8910@2@@n@a «punch», any device for making holes.@@
 8910@3@nu %@a@«punctured»/«perforated».@@
@@ -16615,7 +16615,7 @@
 8927@2@@a@«penetrative»/«penetrating», pert. to that which -s.@@
 8927@3@nu %@a@«penetratable», conv. of penetrate.@@
 8927@4@po %@n@a «penetration», a spec. act of -ing.@@
-8928@1@@3n@B is a «passage»/«thoroughfare»/«way» through S to D;  e.g. the Northwest Passage.@@B-SD
+8928@1@@3n@B is a «passage»/«thoroughfare»/«way» through S to D; e.g. the Northwest Passage.@@B-SD
 8929@1@@2n@B is the «chest»/«breast»/«thorax» of F.@@B-F
 8929@2@@a@«thoracic», pert. to chests.@@
 8929@3@% angini@ph@«angina pectoris», chest pain.@@
@@ -16736,7 +16736,7 @@
 8996@1@@2n@B is a «cleric»/«clergyperson»/«priest» of religion N.@@B-N
 8997@1@la %@na@(the planet) «Earth».@@
 8998@1@@af@a combining form of te, «three».@@
-8999@1@@2n@is a «triple»/«trio»/«triad»/«threesome»/3 member subset of set..., a cardinal predicate;  e.g., Da tera lea murki  X is a trio of monkeys.@@
+8999@1@@2n@is a «triple»/«trio»/«triad»/«threesome»/3 member subset of set..., a cardinal predicate; e.g., Da tera lea murki  X is a trio of monkeys.@@
 9000@1@@2n@F is 2E40 fold «quantity» of B (ISV tebi).@@F-B
 9001@1@@1n@B is some «terbium», element 65 (Tb).@@B-
 9002@1@@3n@B is the «great granddaughter» of grandfather S and grandmother S.@@B-SS
@@ -16746,7 +16746,7 @@
 9005@1@@1n@B is a «tripod»@@B-
 9006@1@@2n@S is a «great grandfather» of P, similarly for older ancestors.@@S-P
 9007@1@@2n@B is the «day after the day after tomorrow» of day F.@@B-F
-9008@1@@2n@B is a «company»/«group», the 3rd smallest military unit in some larger «military organization»/ «force» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., kertergru  air group. Cf. surgru@@B-F
+9008@1@@2n@B is a «company»/«group», the 3rd smallest military unit in some larger «military organization»/ «force» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., kertergru  air group. Cf. surgru@@B-F
 9009@1@@1n@B is a «terrapin», a variety of «turtle».@@B-
 9010@1@@2n@F is a «trillionfold»(US)/«billionfold»(UK) of B, (10E12) international prefix.@@F-B
 9011@1@@2n@a/the «third» term/member of series..., an ordinal predicate.@@
@@ -16759,7 +16759,7 @@
 9015@1@@3n@B is a «college» of/specializing in teaching P at (location) N.@@B-PN
 9016@1@@1n@B is a «turkey», a large American fowl.@@B-
 9017@1@@3v@K «trisect» D, cut...into three equal parts along lines N.@@K-DN
-9018@1@@2n@B is a «captain»/«army captain»/«lieutenant senior grade»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murterkoi  naval lieutenant senior grade. Use surkoi. q.v., for officers in general.@@B-F
+9018@1@@2n@B is a «captain»/«army captain»/«lieutenant senior grade»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murterkoi  naval lieutenant senior grade. Use surkoi. q.v., for officers in general.@@B-F
 9019@1@@1a@B is «terrestrial»/«earthbound»/«earth»/«world», pert. to the planet earth.@@B-
 9020@1@@2n@S is a «great grandmother» of P, similarly for older ancestors.@@S-P
 9021@1@@1v@K «triplicate»/«triple», multiply threefold.@@K-
@@ -16778,7 +16778,7 @@
 9030@1@@3n@P is a «statue» of B by K.@@P-BK
 9031@1@@3n@P is the «great grandson» of grandfather S and grandmother S.@@P-SS
 9032@1@@3n@P is the «great grandchild» of grandfather S and grandmother S.@@P-SS
-9033@1@@2n@B is a «corporal» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murtertro  petty officer third class@@B-F
+9033@1@@2n@B is a «corporal» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murtertro  petty officer third class@@B-F
 9034@1@@4v@K «canter» to D from S via V, a gait@@K-DSV
 9035@1@@2n@B is a «testicle»/«ovary»/«gonad» of F.@@B-F
 9035@2@@a@«gonadal», pert. to gonads.@@
@@ -17097,7 +17097,7 @@
 9210@2@% he?@ph@«How-are-you-all»?/«What-are-you-individually»?/«What-does-each-of-you do»?.@@
 9210@3@Hu namci %?@ph@«What-are-your»(-individual) names?.@@
 9211@1@@af@a combining form of to, «two».@@
-9212@1@@2n@is a «pair»/«dyad»/«twosome»/«couple», a two member subset of set..., a cardinal predicate;  e.g., Da tora lea blanirda  X is a pair of bluebirds.@@
+9212@1@@2n@is a «pair»/«dyad»/«twosome»/«couple», a two member subset of set..., a cardinal predicate; e.g., Da tora lea blanirda  X is a pair of bluebirds.@@
 9212@2@@a@«dyadic»/«dual», pert. to pairs/dyads /two somes/.@@
 9212@3@@n@«both», as in 'both went', the twosome.@@
 9213@1@@1a@B is «binary»@@B-
@@ -17117,7 +17117,7 @@
 9220@1@@2n@S is a «grandfather» of P.@@S-P
 9221@1@@1n@V is the «day after tomorrow».@@V-
 9221@2@@1n@the day after «tomorrow».@@
-9222@1@@2n@B is a «platoon»/«squadron», the 2nd smallest military unit of some larger «military force» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., kertorgru  air squadron. Cf. surgru.@@B-F
+9222@1@@2n@B is a «platoon»/«squadron», the 2nd smallest military unit of some larger «military force» F, without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., kertorgru  air squadron. Cf. surgru.@@B-F
 9223@1@@2n@N is a «treaty»/«accord»/«agreement»/«entente»/«settlement»/«pact» between countries F.@@N-F
 9224@1@@1n@B is some «thorium», element 90 (Th).@@B-
 9225@1@@2n@the «second» term/member of series..., an ordinal predicate.@@
@@ -17131,7 +17131,7 @@
 9229@2@nu %@n@a «rival», one who -s with another... for...@@
 9230@1@@2n@B is a secondary «school»/«high school» of community F.@@B-F
 9231@1@@2v@K «bisect», cut D into two equal parts.@@K-D
-9232@1@@2n@B is a «first lieutenant»/«lieutenant junior grade»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murtorkoi  naval lieutenant junior grade. Use surkoi. q.v., for officers in general@@B-F
+9232@1@@2n@B is a «first lieutenant»/«lieutenant junior grade»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murtorkoi  naval lieutenant junior grade. Use surkoi. q.v., for officers in general@@B-F
 9233@1@@1n@B is a «bicycle», or any two wheeled vehicle.@@B-
 9234@1@@2n@C is a «half hour»/thirty «minute» period of hour B.@@C-B
 9235@1@@3v@K «invert» D/«turn»...«upsidedown», rotates 180° with respect to some axis N (the horizontal axis being the default).@@K-DN
@@ -17172,7 +17172,7 @@
 9255@2@fu %@n@a/the «area» measured.@@
 9256@1@@3n@P is the «grandson» of grandfather S and grandmother S.@@P-SS
 9257@1@@3n@P is the «grandchild» of grandfather S and grandmother S.@@P-SS
-9258@1@@2n@B is a «lance corporal» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murtortro  seaman.@@B-F
+9258@1@@2n@B is a «lance corporal» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murtortro  seaman.@@B-F
 9259@1@@1v@V «happen» twice/two times.@@V-
 9259@2@@av@«twice», two times.@@
 9260@1@@2n@B is the «skull» of F.@@B-F
@@ -17840,17 +17840,17 @@
 9609@2@po %@n@a «sting», an event of -ing.@@
 9610@1@@l@«psi», Greek lower case letter, one of a pool of symbols.@@
 9611@1@@af@a combining form of ve, «nine».@@
-9612@1@@2n@B is a «nine member» subset of set F, a cardinal predicate;  e.g., Da besbo vera.  X is a baseball nine;  Da vera lea besbo.  X is a nine member group of baseball players.@@
+9612@1@@2n@B is a «nine member» subset of set F, a cardinal predicate; e.g., Da besbo vera.  X is a baseball nine;  Da vera lea besbo.  X is a nine member group of baseball players.@@
 9613@1@@2n@a/the «ninth» term/member of series..., an ordinal predicate.@@
 9613@2@@a@«ninth», of 9th members, before predicates.@@
-9614@1@@2n@B is a «lieutenant general»/«vice admiral»/etc. commanding/«attached to» military unit F, within a military vorvice addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murserkoi  vice admiral. Use surkoi. q.v., for officers in general.@@B-F
+9614@1@@2n@B is a «lieutenant general»/«vice admiral»/etc. commanding/«attached to» military unit F, within a military vorvice addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murserkoi  vice admiral. Use surkoi. q.v., for officers in general.@@B-F
 9615@1@@2n@V is a «September» of year F.@@V-F
 9615@2@la %@na@«September» (the name of the 9th month of the year).@@
 9616@1@@2n@B is some «vermouth» from S.@@B-S
 9617@1@@3n@P is a «poem»/«verse»/a piece of «poetry» about V by poet K.@@P-VK
 9617@2@@a@«poetical», of poems/verse.@@
 9617@3@lo %@n@«poetry»/«verse», mass term.@@
-9618@1@@2n@B is a «sergeant major of the army» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murvertro  master chief petty officer of the navy.@@B-F
+9618@1@@2n@B is a «sergeant major of the army» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murvertro  master chief petty officer of the navy.@@B-F
 9619@1@@af@a combining form of versa, «verse».@@
 9620@1@@2v@B «hold»/«contain» N, a container of...@@B-N
 9620@2@@n@a «container»/«vessel», vessel of...@@
@@ -18110,10 +18110,10 @@
 9744@2@@a@«eighth», of 8th members, before predicates.@@
 9745@1@@2n@B is an «octagon» with vertices F.@@B-F
 9745@2@@a@«octagonal» with vertices...@@
-9746@1@@2n@B is a «major general»/«rear admiral»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murvorkoi  rear admiral. Use surkoi. q.v., for officers in general@@B-F
+9746@1@@2n@B is a «major general»/«rear admiral»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murvorkoi  rear admiral. Use surkoi. q.v., for officers in general@@B-F
 9747@1@@2n@V is an «August» of year F.@@V-F
 9747@2@la %@na@«August» (the name of the 8th month of the year).@@
-9748@1@@2n@B is a «sergeant major» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed;  e.g., murvortro  master chief petty officer@@B-F
+9748@1@@2n@B is a «sergeant major» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murvortro  master chief petty officer@@B-F
 9749@1@@2n@B is the «liver» of F.@@B-F
 9750@1@@af@a combining form of vreti, «vertical».@@
 9751@1@@2a@G is «shorter»/vertically shorter than J.@@G-J
@@ -18297,14 +18297,14 @@
 9841@2@@n@«buzzer», a device which -es.@@
 9841@3@po %@n@an instance of a «buzz»/«hum».@@
 9842@1@-zu@af@the long interval space time suffix as in fazu  'eventually'.@@
-9843@1@@af@attached to <predy>, means «female of this animal»/animallike species/taxon;  e.g., mamlyzua  is a female mammal.@@
+9843@1@@af@attached to <predy>, means «female of this animal»/animallike species/taxon; e.g., mamlyzua  is a female mammal.@@
 9843@2@@pp@(sign of the 1st argument DIO).@@
-9844@1@@af@attached to <predy>, means «like this animal»/animallike species/taxon;  e.g., mamlyzue  is mammalian/like a mammal.@@
+9844@1@@af@attached to <predy>, means «like this animal»/animallike species/taxon; e.g., mamlyzue  is mammalian/like a mammal.@@
 9844@2@@pp@(sign of the 2nd argument DIO).@@
-9845@1@@af@attached to <predy>, means «baby»/«infant of this animal»/animallike species/taxon;  e.g., mamlyzui  is a baby/infant mammal.@@
+9845@1@@af@attached to <predy>, means «baby»/«infant of this animal»/animallike species/taxon; e.g., mamlyzui  is a baby/infant mammal.@@
 9845@2@@pp@(sign of the 3rd argument DIO).@@
 9846@1@@2n@B is some «zucchini» from S.@@B-S
-9847@1@@af@attached to <predy>, means «male of this animal»/animallike species/taxon;  e.g., mamlyzuo  is a male mammal.@@
+9847@1@@af@attached to <predy>, means «male of this animal»/animallike species/taxon; e.g., mamlyzuo  is a male mammal.@@
 9847@2@@pp@(sign of the 4th argument DIO).@@
 9848@1@@pp@(sign of the 5th argument DIO).@@
 9849@1@@af@a combining form of zvoto, «outside».@@
