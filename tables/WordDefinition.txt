@@ -72,7 +72,7 @@
 47@1@@1n@B is some «acetone», a common solvent@@B-
 48@1@@1a@B is «acinaciform», scimitar shaped (Bot.).@@B-
 49@1@@1n@B is an «acipenserid», a fish of the genus Acipenser.@@B-
-50@1@@1n@B is some «actinium», (Ac), element 89@@B-
+50@1@@1n@B is some «actinium», (Ac), element 89.@@B-
 51@1@@i@«yes»/I «wish to»…, an expression of hope/weak intention/desire.@@B-
 51@2@@i@I «hope» so/that/to…<, an expression of hope/weak intention/desire.>.@@
 51@3@% no@i@«no»/I «hope»/«wish not to», an expression of mild refusal.@@
@@ -1705,7 +1705,7 @@
 1018@1@@2v@K is «inconsiderate»/«thoughtless» about V, not kind about.@@K-V
 1019@1@@2n@B is a «cafe»/«coffee house» of place/community F.@@B-F
 1020@1@@2av@G is more «kindly» than J.@@G-J
-1021@1@@4a@G is «kinder»/more «kindly» to D1 than J is to D2.  G may be the same person as J or D1 may be the same as D2@@G-DJD
+1021@1@@4a@G is «kinder»/more «kindly» to D1 than J is to D2.  G may be the same person as J or D1 may be the same as D2.@@G-DJD
 1021@2@nu %@a@«less kind to»…than…is to…, conv. form.@@
 1022@1@@2a@K is «kind» to D.@@K-D
 1022@2@@av@«kindly», pert. to those who are kind.@@
@@ -5088,7 +5088,7 @@
 2741@1@@3v@K «should»/«ought to» do V under circumstances N.@@K-VN
 2742@1@@3n@K feel(s) «obliged»/«obligated» by rule/custom S to do P.@@K-SP
 2742@2@fu %@n@a «obligation» by rule or custom.@@
-2743@1@@op@reorders the 1st three places of a predicate as 312@@
+2743@1@@op@reorders the 1st three places of a predicate as 312.@@
 2744@1@@mod.@3rd «reflexive», equivalent to inserting a third argument identical to the first argument. c.f. nuo@@
 2745@1@@af@a combining form of fu, third place «passive».@@
 2746@1@@3n@N is a «condition»/«circumstance»/«factor» in the situation V of F.@@N-VF
@@ -7810,9 +7810,9 @@
 4161@1@@af@a combining form of kilto, «thousandfold».@@
 4162@1@@2n@F is 2E10 fold «quantity» of B (ISV kibi).@@F-B
 4163@1@@2n@B measure(s) C in «kilocalorie» (s), default 1.@@B-C
-4164@1@@2n@B measure(s) C in «kilogram» (s), default 1@@B-C
-4165@1@@2n@B measure(s) C in «kilohertz» (kilocycles), default 1@@B-C
-4166@1@@2n@B measure(s) C in «kilometer» (s), default 1@@B-C
+4164@1@@2n@B measure(s) C in «kilogram» (s), default 1.@@B-C
+4165@1@@2n@B measure(s) C in «kilohertz» (kilocycles), default 1.@@B-C
+4166@1@@2n@B measure(s) C in «kilometer» (s), default 1.@@B-C
 4167@1@@2n@B measure(s) C in «millenium» (millenia), default 1.@@B-C
 4168@1@@2n@B is a «millenium» of epoch F.@@B-F
 4169@1@@2n@F is a «thousandfold» of B, (10E3) international prefix@@F-B
@@ -10112,9 +10112,9 @@
 5412@1@@2v@K «tremble» from V.@@K-V
 5412@2@po %@n@an instance of «trembling».@@
 5413@1@@2n@F is a «meal» composed of food/ s B.@@F-B
-5414@1@@2n@B measures C in «milligram» (s), default 1@@B-C
+5414@1@@2n@B measures C in «milligram» (s), default 1.@@B-C
 5415@1@@2n@B is a «thousandth» part of F, (10E 3) international prefix@@B-F
-5416@1@@2n@B measures C «milliliter» (s) in volume, default 1@@B-C
+5416@1@@2n@B measures C «milliliter» (s) in volume, default 1.@@B-C
 5417@1@@af@a combining form of minmi, «minimum».@@
 5418@1@@2n@B is a «particle» of F.@@B-F
 5418@2@@a@«particle», pert. to -s.@@
