@@ -8397,7 +8397,7 @@
 4469@2@po %@n@a «wide eyed look».@@
 4470@1@@1n@B has «open»/«outstretched» arms. (e.g. to welcome).@@B-
 4471@1@@2v@K «meditate» about V - wide ranging thought about.@@K-V
-4471@2@po %@n@a specific act of «meditation» <wide ranging thought>@@
+4471@2@po %@n@a specific act of «meditation» <wide ranging thought>.@@
 4472@1@@3v@K «scatter»/«strew»/«disperse» D over N.@@K-DN
 4472@2@@n@a «scatterer»/«strewer»/«disperser», that which/one who -s.@@
 4472@3@nu %@a@«scatterable»/«scattered»/«strewn»/«dispersed», conv. of disperse.@@
@@ -8543,7 +8543,7 @@
 4553@2@pu %@n@a «squarishness», a prop. of being —.@@
 4554@1@@2n@F is a «square» with vertices B, alternatively, of side…@@F-B
 4554@2@@a@«square»/«quadratic», pert. to squares.@@
-4554@3@pu %@n@a «squareness», a prop. of being square. <F-B>@@
+4554@3@pu %@n@a «squareness», a prop. of being square. <F-B>.@@
 4555@1@@2n@F is a «right angle» formed by points B.@@F-B
 4555@2@@a@«rectangular», pert. to right angles.@@
 4556@1@@2n@F is a «rectangle» with vertices B.@@F-B
