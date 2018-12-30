@@ -15338,7 +15338,7 @@
 8235@2@nu %@n@a «term»/«time»/«interval», in the units of some scale.@@
 8236@1@@3n@N is a «scale»/«system of units» for measuring C among F.@@N-CF
 8237@1@@1n@B is «scandium», made of scandium, element 21 (Sc).@@B-
-8238@1@@2n@B is the «hide»/skin/«rind», outer covering of F, general term, the external surface material on a living plant or animal that defines and protects it as an individual organism;@@B-F
+8238@1@@2n@B is the «hide»/skin/«rind», outer covering of F, general term, the external surface material on a living plant or animal that defines and protects it as an individual organism.@@B-F
 8239@1@@2v@K «peel»/«pare»/«husk»/«scrape» B.@@K-B
 8240@1@@3v@K «bruise» D by V.@@K-DV
 8240@2@@a@«bruising», that which -s.@@
