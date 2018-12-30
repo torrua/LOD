@@ -10117,7 +10117,7 @@
 5416@1@@2n@B measures C «milliliter» (s) in volume, default 1@@B-C
 5417@1@@af@a combining form of minmi, «minimum».@@
 5418@1@@2n@B is a «particle» of F.@@B-F
-5418@2@@a@«particle», pert. to -s/@@
+5418@2@@a@«particle», pert. to -s.@@
 5418@3@% fizsensi@ph@an inst. of «particle physics».@@
 5419@1@@af@a combining form of smina, «mind».@@
 5420@1@@2a@K has/have «presence of mind», thinks clearly in situation V.@@K-V
@@ -12800,7 +12800,7 @@
 6837@3@po %@n@an instance of «injustice», being unjust to…@@
 6837@4@po nu %@n@an instance of «injustice», receiving injustice.@@
 6838@1@@3v@K «despecialize»/«make ordinary» B just like any other thing of the same type by doing V@@K-BV
-6839@1@@2a@G is more «special»/«specifically important» than J/@@G-J
+6839@1@@2a@G is more «special»/«specifically important» than J.@@G-J
 6839@2@@a@«special»/«important», special.@@
 6839@3@@av@«especially», in an important manner.@@
 6840@1@@3n@B is a «costume» of S for P.@@B-SP
