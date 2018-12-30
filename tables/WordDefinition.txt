@@ -2146,7 +2146,7 @@
 1217@1@@af@a combining version of comtu, «ashamed».@@
 1218@1@@2v@D is/becomes «shamed» by V, intransitive.@@D-V
 1218@2@po %@n@a «shame», a state of being/becoming shamed.@@
-1219@1@@2v@V «shame»/«disgrace» D, nonintentional;  'that act shamed him'@@V-D
+1219@1@@2v@V «shame»/«disgrace» D, nonintentional;  'that act shamed him'.@@V-D
 1219@2@@a@«disgracing» (of…).@@
 1219@3@lopu %@n@«disgrace», mass property.@@
 1219@4@nu %@a@«disgraced» (by…).@@
@@ -4197,7 +4197,7 @@
 2255@2@@n@a «condensation»/«melting», that which condenses.@@
 2255@3@nu %@n@a «condensation»/«melt», the product of -ation.@@
 2255@4@po %@n@a specific instance of «melting»/«dissolution»/«condensation»/«liquefaction».@@
-2256@1@@4v@N «liquefy»/«melt»/make liquid S into D under conditions N, nonintentional;  'the sun melts the ice'@@N-SDN
+2256@1@@4v@N «liquefy»/«melt»/make liquid S into D under conditions N, nonintentional;  'the sun melts the ice'.@@N-SDN
 2256@2@po %@n@a «melting»/«dissolution»/«liquefaction», an act of -ing.@@
 2257@1@@2a@B is normally «liquid», i.e., under conditions (of temerature and pressure) N.@@B-N
 2257@2@@n@a «liquid», a quantity of liquid.@@
@@ -4764,7 +4764,7 @@
 2551@1@@1n@B is an «artisan»/«craftsman».@@B-
 2551@2@@a@«ingenious»/«artistic».@@
 2552@1@@af@a combining form of marka, «mark».@@
-2553@1@@2v@N «mark»/«spot» D, make a mark on…, nonintentional;  'Blood spots cloth'@@N-D
+2553@1@@2v@N «mark»/«spot» D, make a mark on…, nonintentional;  'Blood spots cloth'.@@N-D
 2553@2@@n@a «marker», that which -s.@@
 2554@1@@3n@B is a «spot»/«mark» on D made by S.@@B-DS
 2554@2@nu %@n@«spotted»/«marked», having a mark.@@
@@ -4846,7 +4846,7 @@
 2617@2@@n@a «pacer», one who takes measured steps.@@
 2617@3@po %@n@a «pace», a spec. act/process of -ing.@@
 2618@1@@2n@B has a measured «temperature» of C.@@B-C
-2619@1@@3n@B is a shade of «hue»/«colour»/«color»…with lightness C and saturation C, e.g., 'Lopu labredro ga melkoo lopu redro lio savo lio sanene'  'Pink is a shade of red with lightness of about 8 and saturation of about 11'@@B-CC
+2619@1@@3n@B is a shade of «hue»/«colour»/«color»…with lightness C and saturation C, e.g., 'Lopu labredro ga melkoo lopu redro lio savo lio sanene'  'Pink is a shade of red with lightness of about 8 and saturation of about 11'.@@B-CC
 2620@1@@2n@B has a measured «width» of C.@@B-C
 2621@1@@2v@B has a measured «speed» of C@@B-C
 2622@1@@1n@B is a «melon»/quantity of melons from source F.@@B-F
@@ -6196,7 +6196,7 @@
 3271@2@@v@be «gay», act happy.@@
 3271@3@lopu %@n@«gaiety»/«heartiness», mass prop.@@
 3271@4@po %@n@some «gaiety», state of merriment.@@
-3272@1@@2v@K «enjoy»/«welcome» V, get enjoyment from (doing)…;  'I welcome the end of the war'@@K-V
+3272@1@@2v@K «enjoy»/«welcome» V, get enjoyment from (doing)…;  'I welcome the end of the war'.@@K-V
 3272@2@lopo %@n@«enjoyment», mass term of states.@@
 3272@3@nu %@a@«enjoyable»/«welcome», conv. of enjoy;  'The end of the war is welcome'.@@
 3272@4@po %@n@some «enjoyment», a spec. state of -ing.@@
@@ -6781,7 +6781,7 @@
 3608@2@@c@«or»/«and or»/«otherwise», inclusive sense, alternation between sentences/clauses.@@
 3608@3@@c@or «else», inclusive sense between terms.@@
 3608@4@@pm@«comma».@@
-3609@1@@c@«if»/«or not», converse implication between sentences/clauses, as in 'Da clivi, icanoi da brute.''X is alive if X breathes.'@@
+3609@1@@c@«if»/«or not», converse implication between sentences/clauses, as in 'Da clivi, icanoi da brute.''X is alive if X breathes.'.@@
 3610@1@@c@«and», logical conjunction between sentences/clauses.@@
 3610@2@@c@«both»…and, one word between clauses.@@
 3610@3@@pm@«comma».@@
@@ -7435,7 +7435,7 @@
 3969@4@no %@v@«cannot», not be able to do…under…@@
 3969@5@pu %@n@an «ability»/«capability»/«talent»/«faculty», a spec. property.@@
 3969@6@pu no %@n@an «incapacity»/«inability», a spec. property.@@
-3970@1@@c@«if», in 'if…then…', forethought implication;  the material conditional, as in 'Kanoi da brute ki da clivi.'  'If X  breathes, then X is alive.'@@
+3970@1@@c@«if», in 'if…then…', forethought implication;  the material conditional, as in 'Kanoi da brute ki da clivi.'  'If X  breathes, then X is alive.'.@@
 3971@1@@3v@K «contend»/«compete»/«rival» with K over/about/for B.@@K-KB
 3971@2@@n@a «contender»/«competitor», one who competes.@@
 3971@3@fu %@n@a «goal», object of a competition, q.v.@@
@@ -11592,7 +11592,7 @@
 6174@1@@2v@K «pity»/feel «sorry for» D, i.e., feels…'s sorrow.@@K-D
 6174@2@lopu %@n@«pity», general property.@@
 6174@3@nu %@a@«pitiable», conv. of pity.@@
-6174@4@po %@n@a «pity», a state/condition/instance of -ing. 'That's a pity'@@
+6174@4@po %@n@a «pity», a state/condition/instance of -ing. 'That's a pity'.@@
 6175@1@@33v@K «care for»/be «custodian» of D for third party B.@@K-DB
 6176@1@@3v@K «persecute» D on pretext N, e.g. different religion.@@K-DN
 6176@2@@n@«persecutor», one who -s.@@
@@ -12026,7 +12026,7 @@
 6392@2@% acdi@ph@a «nucleic acid», the basic genetic material.@@
 6393@1@@pp@«therefore» (effect)…@@
 6394@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», causal, as used with ki in 'nukouki…ki…;  best translated …because(cause)…'.@@
-6395@1@@c@«whether»…,…, used with ki in 'nuku…ki…'@@
+6395@1@@c@«whether»…,…, used with ki in 'nuku…ki…'.@@
 6396@1@@c@«whether»…, not…, with ki in 'nukunoi…ki…'.@@
 6397@1@@af@a combining form of numcu, «number».@@
 6398@1@@1v@V become «rare»/«scarce»/«few» in number.@@V-
@@ -13713,14 +13713,14 @@
 7315@1@@1n@B is a «scoop», an instrument/tool for scooping.@@B-
 7316@1@@af@a combining form of puntu, «pain».@@
 7317@1@@a@«all»/«each»/«every»/«apiece» (member of set…), before ba series every something…@@
-7317@2@-ra@af@-some/-ad/-et, as in 'tora: «twosome»/«dyad»/«duo»/«pair»/«couple» ', the cardinal suffix;  makes 2 place predicates of the form '…is a N member subset of set…'@@
+7317@2@-ra@af@-some/-ad/-et, as in 'tora: «twosome»/«dyad»/«duo»/«pair»/«couple» ', the cardinal suffix;  makes 2 place predicates of the form '…is a N member subset of set…'.@@
 7318@1@@af@a combining form of grasa, «grass».@@
 7319@1@@p@«whatever»/«whichever»/«whoever», every…, 'Whatever runs, eats'.@@
 7319@2@@p@«anything»/«anyone»/«anybody», every…, as in 'anything wins'.@@
 7319@3@@p@«you», anyone ('When you're in Rome, you —').@@
 7319@4@@p@«everything»/«everyone»/«everybody», literally, every something…@@
 7319@5@@p@«one», «anyone», as in 'When one's in Rome —'.@@
-7319@6@% noa@ph@«all»/«any»/«every»…are…, use all…are…only if…, as 'Every lion eats meat'@@
+7319@6@% noa@ph@«all»/«any»/«every»…are…, use all…are…only if…, as 'Every lion eats meat'.@@
 7319@7@% tcucli@a@«any such»/«one such»/«such», any…as previously described.@@
 7319@8@% tcucli ta@p@«anything» like/such as that, as described there.@@
 7320@1@@p@«everything»/«everyone»/«everybody», literally, every something…@@
@@ -14484,7 +14484,7 @@
 7758@3@nu %@n@a «piece»/«fragment», piece of something shattered.@@
 7759@1@@2v@D «shatter»/«smash» into fragments B, be -ed, cause unknown or unspecified.@@D-B
 7760@1@@3v@N «shatter»/«smash» D into fragments B, nonintentional.@@N-DB
-7761@1@@3v@K «shatter»/«smash» D into fragments B, intentional 'Would we not shatter it to bits'@@K-DB
+7761@1@@3v@K «shatter»/«smash» D into fragments B, intentional 'Would we not shatter it to bits'.@@K-DB
 7762@1@@1n@B is a «lottery»/«sweepstakes».@@B-
 7763@1@@1v@K «multiply»/«reproduce», e.g. Bacteria multiply rapidly.@@K-
 7763@2@lopu %@n@mass property of «multiplication»/«reproduction». .@@
@@ -14572,7 +14572,7 @@
 7820@1@@4v@K «direct» (s), give directions to D from S to (person) B.@@K-DSB
 7820@2@@n@a «director», one who/that which -s.@@
 7820@3@po %@n@a «direction», an act of giving directions.@@
-7821@1@@3v@N «obstruct»/«block» K's way to D, nonintentional;  'water blocked the road'@@N-KD
+7821@1@@3v@N «obstruct»/«block» K's way to D, nonintentional;  'water blocked the road'.@@N-KD
 7821@2@@av@in the «way», blocking…'s way to…@@
 7821@3@@n@a «bar»/«barrier»/«obstacle»/«obstruction», obstacle to…in going to…@@
 7821@4@nu %@a@«obstructed», conv. of obstruct.@@
@@ -16221,7 +16221,7 @@
 8705@1@@op@ converts a «onamatopoetic» sound to a predicate 'Le katma pa sue miao.' 'The cat meouwed.' (PREDA).@@
 8706@1@@av@«also»/«too»/«moreover»/«besides»/«as well»/in «addition»/«furthermore», a discourse operator (UI).@@
 8706@2@@av@«neither»/«either»/«nor», in the senses 'He didn't either/Neither did he/Nor did he'.@@
-8706@3@% ue@av@«even», as in 'I couldn't remember even the simplest tunes.'@@
+8706@3@% ue@av@«even», as in 'I couldn't remember even the simplest tunes.'.@@
 8707@1@@2n@D is «checked» baggage containing B@@D-B
 8708@1@@3v@K «order»/«send for» B from S.@@K-BS
 8708@2@po %@n@an «order», an act of sending for something.@@
