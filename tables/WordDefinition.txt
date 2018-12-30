@@ -1163,7 +1163,7 @@
 708@1@@1n@B is a «recess»/«alcove», a depression in a wall.@@B-
 709@1@@2n@N measure(s) C in «calorie» (s), default 1, a unit of heat@@N-C
 709@2@@a@«caloric», pert. to calories@@
-709@3@@n@n «calories», something that measures/contains n.... E.g., Mi pa titci tomo calri na lena denli  I ate 2,000 calories (food containing 2,000 calories) today@@
+709@3@@n@n «calories», something that measures/contains n... . E.g., Mi pa titci tomo calri na lena denli  I ate 2,000 calories (food containing 2,000 calories) today@@
 710@1@@3n@B is a «bill»/«poster» announcing V produced/posted by S.@@B-VS
 711@1@@2v@K «enclose»/«wall up» D, put a wall around...@@K-D
 711@2@nu %@n@an «enclosure», the area enclosed.@@
@@ -2363,7 +2363,7 @@
 1338@1@@2n@B is a «pane» of a window F.@@B-F
 1339@1@@af@a combining version of cundo, «window».@@
 1340@1@@af@a combining version of cupro, «copper».@@
-1341@1@@2a@G is (more) «coppery» than J, more like copper than....@@G-J
+1341@1@@2a@G is (more) «coppery» than J, more like copper than... .@@G-J
 1342@1@@1@B is some «copper», element 29 (Cu).@@B-
 1342@2@@a@«cupric» / ous, pert. to copper@@
 1343@1@@af@a combining version of curca, «safe».@@
@@ -2814,7 +2814,7 @@
 1567@1@@4n@V is a «combining form» or «affix» (deprecated Loglan jargon) of B in context X in language Y@@
 1567@2@@n@an «affix» (Loglan), a combining form of a predicate.@@
 1568@1@@2n@F is a «union»/«confederacy»/«confederation» of members/groups B.@@F-B
-1568@2@nu %@n@«confederate», member of a ....@@
+1568@2@nu %@n@«confederate», member of a ... .@@
 1568@3@nu %@n@a «member» of union/confederation...@@
 1568@4@po %@n@a «union»/«confederation», state of being a ...@@
 1569@1@@4n@K is an «ally» of D in doing V for cause/goal P.@@K-DVP
@@ -4506,7 +4506,7 @@
 2401@3@@av@«forcefully», in a forceful manner.@@
 2401@4@@n@«force», a spec. factor forcing...to do/be@@
 2401@5@fu %@a@«forced», of forced actions/effects.@@
-2401@6@lo %@n@«force in general», the mass of spec....s@@
+2401@6@lo %@n@«force in general», the mass of spec... .s@@
 2401@7@nu %@a@«forced», of one forced to do something.@@
 2401@8@po %@n@«compulsion», an act of compelling/forcing, q.v.@@
 2401@9@pu %@n@«forcefulness», a spec. property.@@
@@ -5277,7 +5277,7 @@
 2820@1@@1@B is a «galaxy».@@B-
 2821@1@@1@B is some «gallium», element 31 (Ga).@@B-
 2822@1@@1n@B measures C in «gallon» (s), a unit of liquid volume more or less than 4 liters, depending on location. Specify merko or gleco.@@B-C
-2822@2@@n@n «gallons», something measuring n.... E.g., Vedma dio mi fe galno je gasoline  Sell to me five gallons of gasoline.@@
+2822@2@@n@n «gallons», something measuring n... . E.g., Vedma dio mi fe galno je gasoline  Sell to me five gallons of gasoline.@@
 2822@3@gleco %@2n@...measure(s)...in Imperial «gallon» (s) (80 Imperial Fl. oz.), default 1.@@
 2822@4@merko %@2n@...measure(s)...in US «gallon» (s) (64 US Fl. oz.), default 1.@@
 2823@1@@2n@B is a «department»/«faculty»/«division»/«branch»/«section» of organization F.@@B-F
@@ -11150,7 +11150,7 @@
 5945@1@@2n@B is a «January» of year F.@@B-F
 5945@2@la %@na@«January» (the 1st month of the year).@@
 5946@1@@2v@B is «married»/«monogamous» only to/with B.@@B-B
-5947@1@@2v@B is «only»/for one «motive» N. E.g. Da nermoi nerbi lepo preda, It is only necessary for....@@B-N
+5947@1@@2v@B is «only»/for one «motive» N. E.g. Da nermoi nerbi lepo preda, It is only necessary for... .@@B-N
 5948@1@@2n@B is a «general of the army»/«admiral of the fleet»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murnernerkoi  admiral of the fleet. Use surkoi. q.v., for officers in general.@@B-F
 5949@1@@2n@B is a «November» of year F.@@B-F
 5949@2@la %@na@«November» (the 11th month of the year).@@
@@ -14774,7 +14774,7 @@
 7931@3@po %@n@a specific instance of «freezing»/«solidification»/«crystallization» <unintentional>.@@
 7932@1@@2a@B is normally «solid», i.e., below conditions N pl.set (e.g. temperature and pressure)@@B-N
 7932@2@@a@«solid»/«frozen»/«firm», solid in conditions...@@
-7932@3@@vi@«freeze», of normal solids, under conditions....@@
+7932@3@@vi@«freeze», of normal solids, under conditions... .@@
 7932@4@pu %@n@a «solidity», property of the solid state.@@
 7933@1@@2n@B is a «sail» of boat F.@@B-F
 7934@1@@1n@B is a quantity of «grease», solid fat.@@B-
@@ -15831,7 +15831,7 @@
 8512@1@@1a@B is «extinct» (of a species)@@B-
 8513@1@@1v@B become «extinct» (of a species)@@B-
 8514@1@@2n@B is a «race»/«variety» (subspecies) of F in habitat S with traits N.@@B-FSN
-8514@2@@4n@a «race»/«variety» of species...in habitat...showing traits....@@
+8514@2@@4n@a «race»/«variety» of species...in habitat...showing traits... .@@
 8514@3@@a@«racial», pertaining to races.@@
 8514@4@@n@a (breeding) «population»/«people»/«race».@@
 8514@5@fu %@n@a «habitat», of breeding population.@@
