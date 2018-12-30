@@ -16446,7 +16446,7 @@
 8824@2@@a@«Italian», pert. to the Italian language.@@
 8824@3@lo %@n@«Italian», the mass of such elements.@@
 8825@1@@1a@B is an «Italian» place/territory, a region inhabited by Italians.@@B-
-8826@1@@1n@B is an «Italian person»/«Italian»:man/woman.@B-
+8826@1@@1n@B is an «Italian person»/«Italian»:man/woman.@@B-
 8826@2@@a@«Italian», of Italian origin.@@
 8826@3@lo %@n@(the) «Italians», the mass of such persons.@@
 8827@1@@1n@B is an element/feature/expression of the «Italian» culture.@@B-
