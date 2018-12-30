@@ -764,7 +764,7 @@
 483@2@@i@«look»!.@@
 483@3@nu %@n@a «view», something looked at.@@
 483@4@po %@n@a «look», an act of -ing.@@
-484@1@@1v@K «look at each other»,@@K-
+484@1@@1v@K «look at each other».@@K-
 485@1@@3v@K «show» (person) D (thing) B@@K-DB
 486@1@@3n@V is a «viewpoint»/«point of view»/«perspective» of K on D.@@V-KD
 487@1@@af@a combining form of blicu, «possible».@@
@@ -1547,7 +1547,7 @@
 925@1@@3n@V is a «dinner»/«banquet»/«formal meal» of B for D.@@V-BD
 925@2@nu %@n@«menu», the food served at a banquet ?@@
 926@1@@2n@S is a «model»/«pattern» for P.@@S-P
-927@1@@3n@P is a «document» about N by S,@@P-NS
+927@1@@3n@P is a «document» about N by S.@@P-NS
 927@2@lo %@n@«documentation», mass term@@
 928@1@@n@the number «forty» (40), in math. expressions.@@
 928@2@lio %@n@the number «forty» (40), non math.@@
@@ -2714,7 +2714,7 @@
 1527@1@@3a@K is «strong willed» about V in circumstances N.@@K-VN
 1528@1@@3n@B is an «office» (room) occupied by K in (organization) S.@@B-KS
 1528@2@nu %@n@an «office worker».@@
-1529@1@@1v@F is a «council», convened to make decisions e.g. La Purtia Disgru,@@F-
+1529@1@@1v@F is a «council», convened to make decisions e.g. La Purtia Disgru.@@F-
 1530@1@@2n@N is «crisis», a turning point of situation V.@@N-V
 1530@2@@a@«critical», pertaining to a crisis.@@
 1531@1@@3v@K «discuss»/«talk about» topic V with K.@@K-VK
@@ -4044,7 +4044,7 @@
 2178@4@po %@n@an «encouragement» (of…by…).@@
 2179@1@@2v@K «move»/«touch» D, make one feel emotion…, intentional.@@K-D
 2179@2@@a@«moving»/«touching», emotionally touching.@@
-2179@3@nu %@v@«touched»/made to feel emotion by…,@@
+2179@3@nu %@v@«touched»/made to feel emotion by….@@
 2180@1@@3v@K «feel» D about V.@@K-DV
 2180@2@@a@«emotional»/«feeling», able to feel…about…@@
 2180@3@lo nu %@n@«feeling», mass term of felt emotions.@@
@@ -4058,7 +4058,7 @@
 2183@1@@af@a combining form of filmo, «feel».@@
 2184@1@@3v@S «move»/«touch»/cause «emotion» in D causing emotions P, nonintentional@@S-DP
 2184@2@@a@«moving»/«touching», emotionally touching, of an incident.@@
-2184@3@nu %@v@«touched»/made to feel emotion by incident…,@@
+2184@3@nu %@v@«touched»/made to feel emotion by incident….@@
 2184@4@po %@n@«emotion», brought about in…by…@@
 2185@1@@2a@K is «indifferent» to V  complete lack of feeling about…e.g. I'm indifferent to Third World poverty.@@K-V
 2185@2@po %@n@an «indifference» to /about…  lack of feeling for…@@
@@ -5126,7 +5126,7 @@
 2754@1@@3n@B is a «department»/«section»/«administrative unit» in company/university/organization F, with functions/duties P.@@B-FP
 2754@2@@a@«departmental», pert. to departments@@
 2755@1@@3n@B is an «organization» of elements/parts/people B with purpose/function P.@@F-BP
-2755@2@@a@«organizational», pert. to organizations,@@
+2755@2@@a@«organizational», pert. to organizations.@@
 2756@1@@2v@F is the «substrate»/«parent» of B.@@F-B
 2756@2@nu %@2v@be «rooted» in, e.g. Physics is rooted in mathematics.@@
 2757@1@@3n@P is a/the «goal»/«purpose»/«end in view» of action V by actor K.@@P-VK
@@ -5380,7 +5380,7 @@
 2866@1@@2v@K «perch» on B.@@K-B
 2866@2@nu %@n@a «perch», a high place for sitting.@@
 2867@1@@2n@B is a «perch» on N.@@B-N
-2868@1@@3n@F is a/the «upper class» with members B of social system N,@@F-BN
+2868@1@@3n@F is a/the «upper class» with members B of social system N.@@F-BN
 2868@2@nu %@1a@«upper class».@@
 2869@1@@2n@N is the «top» of B, upper surface of object…@@N-B
 2870@1@@4a@G is «higher than»/«superior to» J by C in gravity field N.@@G-JCN
@@ -6359,7 +6359,7 @@
 3351@2@@av@at «home»/«indoors», in one's own home or other structure.@@
 3352@1@@1n@B is an infant «ass»/«donkey»/«foal».@@B-
 3353@1@@2n@B is a «pet»/tamed animal of household/person F.@@B-F
-3354@1@@1n@B is a male «ass»/«donkey»,@@B-
+3354@1@@1n@B is a male «ass»/«donkey».@@B-
 3355@1@@1n@B is an «ass»/«donkey», the generic term for this equine quadruped.@@B-
 3356@1@@af@a combining form of hatro, «hot».@@
 3357@1@@2v@B «warm»/«heat» (up)/becomes «warmer» by increment C, unspecified cause.@@B-C
@@ -6885,7 +6885,7 @@
 3683@1@@p@«who»/«which»/«that»/«incidentally» is one of, non restrictive set membership.@@
 3684@1@@af@a combining form of jaglo, «angle».@@
 3685@1@@1n@C is a measure in «angular degree» (s).@@C-
-3686@1@@1n@B is a «zigzag»,@@B-
+3686@1@@1n@B is a «zigzag».@@B-
 3687@1@@3n@B is the «angle»/«corner» at S defined by points N (pl.)@@B-SN
 3687@2@@a@«angular», pert. to angles.@@
 3688@1@@l@«J», Latin upper case letter, one of a pool of symbols.@@
@@ -6941,7 +6941,7 @@
 3714@1@@2a@G is «prettier»/more «comely»/healthily beautiful than J is.@@G-J
 3714@2@lopu %@n@«comeliness»/«prettiness», mass term.@@
 3714@3@pu %@n@a «comeliness»/«prettiness», a spec. property.@@
-3715@1@@2v@D «recover»/be «cured»/«healed» from illness B,@@D-B
+3715@1@@2v@D «recover»/be «cured»/«healed» from illness B.@@D-B
 3715@2@po %@n@an instance of «recovery» (from illness…).@@
 3716@1@@3v@N «cure»/«heal» D of B(external cause).@@N-DB
 3716@2@@n@«cure», that which -s.@@
@@ -7138,7 +7138,7 @@
 3827@1@@mod.@4th reflexive.  Equivalent to inserting a fourth argument identical to the first argument. c.f. nuo@@
 3828@1@@af@a combining form of djupo, «support».@@
 3829@1@@3v@K «rally» behind D for P, get together for support.@@K-DP
-3830@1@@3v@K «think»/«opine»/tentatively «believe» that N is true of S,@@K-NS
+3830@1@@3v@K «think»/«opine»/tentatively «believe» that N is true of S.@@K-NS
 3830@2@lo nu %@n@«opinion», mass term.@@
 3830@3@nu %@n@an «opinion»/tentative «belief», an opinion.@@
 3831@1@@af@a combining form of ju, 4th place passive.@@
@@ -9204,7 +9204,7 @@
 4933@5@pu %@n@a «thinness»/«leanness», a spec. property.@@
 4934@1@@3v@K «straighten» up D with V.@@K-DV
 4935@1@@1v@K «straighten» up, intransitive form.@@K-
-4936@1@@5v@K «follow»/go along (route) V to D from S for distance C,@@K-VDSC
+4936@1@@5v@K «follow»/go along (route) V to D from S for distance C.@@K-VDSC
 4937@1@@2n@B is a «line», straight or curved, through pts C.@@B-C
 4938@1@@3v@K «trace» drawing/outline B on D.@@K-BD
 4938@2@@n@a «tracer», one who traces drawings/outlines.@@
@@ -10138,7 +10138,7 @@
 5428@2@@a@«enthusiastic».@@
 5428@3@lopu %@1n@«enthusiasm», mass term.@@
 5429@1@@1n@B is an addictive «drug»@@B-
-5430@1@@2v@K «use drug» B,@@K-B
+5430@1@@2v@K «use drug» B.@@K-B
 5430@2@@n@is «addicted»/an «addict»@@
 5430@3@nidla %@v@«shoot up», use drugs by injection.@@
 5431@1@@2n@P is an «ore»/«mineral» from source S, any mined substance.@@P-S
@@ -10836,7 +10836,7 @@
 5802@1@@2v@K «snort» P.@@K-P
 5802@2@po %@n@a «snort», a specific instance of -ing.@@
 5803@1@@2v@K «sniff» D.@@K-D
-5803@2@po %@n@a «sniff»,@@
+5803@2@po %@n@a «sniff».@@
 5804@1@@2n@B is a «nostril» of F.@@B-F
 5805@1@@2n@N is (a) «pitch» of angle C. (longitudinal up/down angle of aircraft's attitude)@@N-C
 5805@2@nu %@n@C is an angle of «pitch»@@
@@ -11294,7 +11294,7 @@
 6016@1@@av@in «detail»/«looking closely», a discourse oper., used before sentences (UI).@@
 6017@1@@2n@B is a «cohort»/«age group» of F.@@B-F
 6018@1@@af@a combining form of nigro, «black».@@
-6019@1@@2v@B «blacken»/«become black» by V,@@B-V
+6019@1@@2v@B «blacken»/«become black» by V.@@B-V
 6020@1@@3a@G is «darker»/less «brilliant» than J in light N.@@G-JN
 6020@2@@a@«dark»/«sombre», in color, sombre, incomplete form.@@
 6020@3@lopu %@n@«sombreness»/«darkness», the mass of such props.@@
@@ -11476,7 +11476,7 @@
 6120@1@@3v@K «substitute»/«replace»/use replacement B for P.@@K-BP
 6120@2@nu %@n@a «substitute»/«replacement», a substitute, conv. form.@@
 6120@3@po %@n@a «substitution», an act/event of -ing.@@
-6121@1@@2v@B is «consistent» with/in saying P,@@B-P
+6121@1@@2v@B is «consistent» with/in saying P.@@B-P
 6121@2@lopu %@n@«consistency», mass term of props.@@
 6121@3@pu %@n@a «consistency», a property of being -ent.@@
 6122@1@@1a@B is «nonscientific»@@B-
@@ -13443,7 +13443,7 @@
 7174@2@@a@«economical», pert. to economics.@@
 7174@3@lo %@n@«economics», mass term,.@@
 7175@1@@1n@B is an «economist», economic scientist.@@B-
-7176@1@@2n@B is a «prosimian»/«lemur» of type/species F,@@B-F
+7176@1@@2n@B is a «prosimian»/«lemur» of type/species F.@@B-F
 7177@1@lao %@na@a/some «Prosimii», lemurs etc.@@
 7178@1@@2n@N is a/the «economy», the system of production for use or exchange, of people/society/nation F.@@N-F
 7179@1@@1n@V is the science of «economics».@@V-
@@ -15740,7 +15740,7 @@
 8459@3@po %@n@a spec. act of «sleep»/«slumber».@@
 8460@1@@3v@K make(s)/produce(s) «sound» N by V, intentional@@K-NV
 8461@1@@1n@B is a «cymbal»@@B-
-8462@1@@2v@N make/produce «sound» V, nonintentional,@@N-V
+8462@1@@2v@N make/produce «sound» V, nonintentional.@@N-V
 8462@2@@a@«ringing»/«sonorous», sonorous.@@
 8462@3@@vt@«sound»/«ring», produce sound…@@
 8463@1@@3v@B «record» sound/video S as record P, nonintentional@@B-SP
