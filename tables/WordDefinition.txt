@@ -1504,7 +1504,7 @@
 907@1@@2n@an «envelope» of…@@K-D
 907@2@@2v@K «envelop»/«cover»/«contain» shape D.@@
 908@1@@2n@N is a «dogma» of system F.@@N-F
-908@2@pu %@a@«dogmatic», the property of —@@
+908@2@pu %@a@«dogmatic», the property of —.@@
 909@1@@3v@K «document» D for purpose P.@@K-DP
 910@1@@2v@B «fit»/«suit»/«match»/«adapt» N.@@B-N
 910@2@@a@«fitting»/«matching»/«suitable»/«adaptable», matching in form.@@
@@ -3994,7 +3994,7 @@
 2155@1@@2v@K «fish»/«troll» for D.@@K-D
 2155@2@@a@«fishing» (for…).@@
 2155@3@@n@«fisher» (for…), one who -es.@@
-2155@4@lopo %@n@«fishing», the sport, the act of —@@
+2155@4@lopo %@n@«fishing», the sport, the act of —.@@
 2155@5@nu %@n@«catch» (by…), that caught by -ing.@@
 2156@1@@2n@B is a «mermaid» of clan/species/mythical race F.@@B-F
 2157@1@@af@a combining form of fizdi, «physical».@@
