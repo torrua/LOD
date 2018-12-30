@@ -1545,7 +1545,7 @@
 923@2@nu %@n@a «moulding»/«casting» (by…from…), an object produced by -ing.@@
 924@1@@2n@B is a «mould»/hollow form to shape plastic/molten substance P.@@B-P
 925@1@@3n@V is a «dinner»/«banquet»/«formal meal» of B for D.@@V-BD
-925@2@nu %@n@«menu», the food served at a banquet ?@@
+925@2@nu %@n@«menu», the food served at a banquet (?).@@
 926@1@@2n@S is a «model»/«pattern» for P.@@S-P
 927@1@@3n@P is a «document» about N by S.@@P-NS
 927@2@lo %@n@«documentation», mass term.@@
@@ -3629,7 +3629,7 @@
 1966@2@@a@«agrarian», pert. to farming.@@
 1966@3@nu %@a@«rural»/«rustic», pert. to farm country.@@
 1966@4@nu %@n@«farm country», converse of farm.@@
-1966@5@pu %@a@«agricultural», the property of a farm ?@@
+1966@5@pu %@a@«agricultural», the property of a farm (?).@@
 1967@1@@2v@K «undress» (es) D, «remove clothing» from…@@K-D
 1968@1@@2v@K «undress» (by removing)/«remove» clothing B.@@K-B
 1968@2@@v@«strip»/«doff»/«disrobe»/«undress», take off clothing.@@
