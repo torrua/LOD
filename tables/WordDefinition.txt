@@ -151,10 +151,10 @@
 106@1@@1n@B is some «aniline», a coal tar product used in dyes.@@B-
 107@1@@1n@B is an «anode», a negative electrode.@@B-
 108@1@@c@«if»/«or not», between terms, converse implication.@@
-109@1@@2n@B is a «goose» (female), an anseridine bird of species F@@B-F
+109@1@@2n@B is a «goose» (female), an anseridine bird of species F.@@B-F
 110@1@@1a@B is  «goose like».@@B-
-111@1@@1n@B is a «gosling», an immature goose of species F@@B-F
-112@1@@2n@B is a «gander», an male anseridine bird of species F@@B-F
+111@1@@1n@B is a «gosling», an immature goose of species F.@@B-F
+112@1@@2n@B is a «gander», an male anseridine bird of species F.@@B-F
 113@1@@1n@B is a generic member of the«goose» family, an anseridine bird of species F.@@B-F
 114@1@lao %@Na@«Anthropoidea», the suborder of Primates which includes the monkeys, apes and humans.@@
 115@1@@1n@B is an «antigen», a substance provoking formation of an antibody.@@B-
@@ -224,7 +224,7 @@
 162@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
 163@1@@af@a combining form of barma, «arm».@@
 164@1@@af@a combining form of balci, «build».@@
-165@1@@2a@K is «building crazy» about B@@K-B
+165@1@@2a@K is «building crazy» about B.@@K-B
 166@1@@1n@B is a «bacillus», popularly any bacterium.@@B-
 167@1@@af@a combining form of badlo, «bundle».@@
 168@1@@2n@B is a «branch»/«bough»/«limb» of F.@@B-F
@@ -242,7 +242,7 @@
 177@1@@2v@S «branch»/«fork» into P (collective).@@S-P
 177@2@@a@«branched»/«forked».@@
 178@1@@af@a combining form of bakto, «bucket».@@
-179@1@@2n@C is a «bucketful»/«pailful»/«bucket»/«pail» of B@@C-B
+179@1@@2n@C is a «bucketful»/«pailful»/«bucket»/«pail» of B.@@C-B
 180@1@@2v@K «bucket»/«bail», remove water from D.@@K-D
 180@2@nu %@1a@«bailable».@@
 181@1@@2n@D is a «box»/«crate»/«carton» of/containing B.@@D-B
@@ -321,7 +321,7 @@
 226@1@@2n@K is a «banker», owner of bank B.@@K-B
 226@2@lopo %@n@«banking», mass term.@@
 226@3@po %@n@«banking», a sp. event of bank keeping.@@
-227@1@@2v@K «bank» at bank/financial institution D@@K-D
+227@1@@2v@K «bank» at bank/financial institution D.@@K-D
 228@1@@4v@K «bank»/«deposit» money C in/at bank D in account B.@@K-CDB
 228@2@lo nu %@n@«deposits», all such.@@
 228@3@nu %@n@«deposit», money banked.@@
@@ -369,9 +369,9 @@
 252@1@@1n@B is a «bracelet», an arm ornament.@@B-
 253@1@@4v@K «induce» (s) D to do V by offering reward N.@@K-DVN
 253@2@ju %@n@an «inducement».@@
-254@1@@2n@B is a «sleeve» of F@@B-F
+254@1@@2n@B is a «sleeve» of F.@@B-F
 255@1@@2n@B is a «cuff» of sleeve F.@@B-F
-256@1@@2n@B is the «armpit» of F@@B-F
+256@1@@2n@B is the «armpit» of F.@@B-F
 257@1@@1n@B is a «crutch».@@B-
 258@1@@2n@B is an «arm» of F, body part.@@B-F
 259@1@@1n@B is some «barium», element 56 (Ba).@@B-
@@ -396,7 +396,7 @@
 272@1@@af@a combining form of batmi, «trade».@@
 273@1@@5v@K «rebate» amount C to customer D for excess payment F for good/service V.@@K-CDFV
 274@1@@2a@B is the «chamber of commerce» of district/township/area F.@@B-F
-275@1@@2n@B is «business» class accommodation in conveyance F@@B-F
+275@1@@2n@B is «business» class accommodation in conveyance F.@@B-F
 275@2@@a@«business» class@@
 276@1@@3n@B is a «law» dealing with transaction V of country D.@@B-VD
 276@2@lo %@n@commercial «law», mass term.@@
@@ -406,10 +406,10 @@
 277@4@lopo %@n@«barter»/«business»/«commerce», mass term for trading.@@
 277@5@nu %@a@«commercial»/«exchangeable».@@
 277@6@po %@n@a/some «barter»/«business»/«commerce», an act of trading.@@
-278@1@@3n@B is a «trademark» owned by D for product P@@B-DP
+278@1@@3n@B is a «trademark» owned by D for product P.@@B-DP
 279@1@@2n@B is a «port»/«seaport» of city/country/coastline F.@@B-F
 280@1@@2n@D is a «bottle»/«flask» of B.@@D-B
-281@1@@2n@B is some «butter» from source S@@B-S
+281@1@@2n@B is some «butter» from source S.@@B-S
 281@2@@a@«butter», made of butter.@@
 281@3@lo %@n@«butter», mass term.@@
 282@1@@2v@K «butter» (s) D, put butter on…@@K-D
@@ -432,7 +432,7 @@
 294@1@@2v@K «make bed» D, arrange sheets and blankets neatly.@@K-D
 295@1@@1v@K is «in bed».@@K-
 296@1@@1n@B is a «bed», an item of furniture for sleeping.@@B-
-297@1@@3v@K «put to bed» B in/on D@@K-BD
+297@1@@3v@K «put to bed» B in/on D.@@K-BD
 298@1@@af@a combining form of begco, «ask».@@
 299@1@@3v@K «petition»/«ask for»/«request»/«plead» action/object V of/from D.@@K-VD
 299@2@@n@«petitioner», one who -s.@@
@@ -448,8 +448,8 @@
 302@1@@3v@K «deny»/«refuse» request V from D.@@K-VD
 302@2@po %@n@a «refusal»/«denial», an act of -ing a request.@@
 303@1@@l@«b», Latin lower case letter, one of a pool of symbols.@@
-304@1@@2n@B is a «train»/«caravan»/«convoy» of F@@B-F
-305@1@@2n@D is «carry on» baggage containing B@@D-B
+304@1@@2n@B is a «train»/«caravan»/«convoy» of F.@@B-F
+305@1@@2n@D is «carry on» baggage containing B.@@D-B
 306@1@@1n@B is a «yoke», a frame to aid in carrying water etc.@@B-
 307@1@@1n@B is a «truck»/«lorry», any motorized transport.@@B-
 308@1@@af@a combining form of bekti, «thing».@@
@@ -469,7 +469,7 @@
 313@10@pu nu %@n@«perceptibility» (sp. property).@@
 314@1@@1n@B is an «object»/«thing», anything enduring in space time.@@B-
 315@1@@1n@F is a «battery», a group of similar objects working together.@@F-
-316@1@@4v@K «interpret»/«clarify» object B as P for D@@K-BPD
+316@1@@4v@K «interpret»/«clarify» object B as P for D.@@K-BPD
 316@2@@n@an «interpreter».@@
 316@3@fu %@n@an «interpretation»/«clarification» (of…by…for…).@@
 316@4@po %@n@an «interpretation»/«clarification» (of…as…for…).@@
@@ -612,7 +612,7 @@
 412@2@@a/av@«gracious»/«graciously».@@
 412@3@lopu %@n@«grace»/«graciousness» (mass term).@@
 412@4@pu %@n@«grace»/«graciousness» (spec. instance).@@
-413@1@@2n@B is a military «force» of government/power/political entity F@@B-F
+413@1@@2n@B is a military «force» of government/power/political entity F.@@B-F
 413@2@lo %@n@the «military» (mass term).@@
 413@3@lo % je da@ph@the «military» of…, the military forces of some specific power.@@
 414@1@@1v@K become(s) «beautiful», cause unspecified.@@K-
@@ -765,7 +765,7 @@
 483@3@nu %@n@a «view», something looked at.@@
 483@4@po %@n@a «look», an act of -ing.@@
 484@1@@1v@K «look at each other».@@K-
-485@1@@3v@K «show» (person) D (thing) B@@K-DB
+485@1@@3v@K «show» (person) D (thing) B.@@K-DB
 486@1@@3n@V is a «viewpoint»/«point of view»/«perspective» of K on D.@@V-KD
 487@1@@af@a combining form of blicu, «possible».@@
 488@1@@2v@D is/are «enabled» by K, intransitive 'The interrupt was enabled'.@@D-K
@@ -813,7 +813,7 @@
 508@1@@1v@K «stamp» (s), a forceful gait for emotional or footwear cleaning reason.@@K-
 509@1@@2v@K «miss»/«fail to hit» target D.@@K-D
 509@2@po %@n@a «miss», an event of -ing.@@
-510@1@@2n@B is an impact «crater» in F@@B-F
+510@1@@2n@B is an impact «crater» in F.@@B-F
 511@1@@2v@K «chop» (s) D.@@K-D
 511@2@@n@a «chopper», one who/that which -s.@@
 512@1@@2n@B is a «block» of F.@@B-F
@@ -858,7 +858,7 @@
 533@1@@1@B is a «Beaujolais», a French red wine.@@B-
 534@1@@1n@B is a «bomb», an exploding weapon.@@B-
 534@2@lo %@n@«bomb» (s), mass term.@@
-535@1@@2n@B is a «bomber» aircraft of airforce F@@B-F
+535@1@@2n@B is a «bomber» aircraft of airforce F.@@B-F
 536@1@@af@a combining form of bongu, «bone».@@
 537@1@@2a@G is more «bony»/«bonier» than J.@@G-J
 537@2@pu %@n@a/some «boniness», a spec.prop.@@
@@ -912,7 +912,7 @@
 574@3@le fa %@n@a/the «crown» prince, a future king.@@
 574@4@nu %@n@a «domain»/«realm»/«kingdom», that which is ruled.@@
 574@5@po %@n@a «reign», sp. period of rule.@@
-575@1@@2a@G is more «regal»/«kingly» than J@@G-J
+575@1@@2a@G is more «regal»/«kingly» than J.@@G-J
 575@2@pu %@n@a «kingliness», a spec. property.@@
 576@1@@2a@G is more «grand»/«majestic»/«magnificent» than J.@@G-J
 576@2@lopu %@n@«majesty», mass term of properties.@@
@@ -983,7 +983,7 @@
 602@1@@1n@B is a «windmill».@@B-
 603@1@@1a@B is the «British» language.@@B-
 604@1@@1a@B is a «British» locale, a region inhabited by British.@@B-
-605@1@@2a@G is more «stormy»/«boisterous» than J@@G-J
+605@1@@2a@G is more «stormy»/«boisterous» than J.@@G-J
 605@2@@v@«storm», behave stormily .@@
 605@3@pu %@n@a «boisterousness»/«storminess», a spec. property.@@
 606@1@@2n@V is a «windstorm» in F, e.g. Mu pa nu britetriWe had a windstorm.@@V-F
@@ -1148,7 +1148,7 @@
 700@1@@2v@D is «horrified»/«sick with fear» by/from S.@@D-S
 700@2@nu %@a@«ghastly»/«horrible», that which -ies.@@
 700@3@nu %@v@«horrify»…@@
-701@1@@2v@K play «chess» with K@@K-K
+701@1@@2v@K play «chess» with K.@@K-K
 701@2@po %@n@a «chess» game.@@
 702@1@@3v@K «shock»/«startle» D by being/doing V.@@K-DV
 702@2@@a@«shocking»/«startling», of -ing people.@@
@@ -1236,7 +1236,7 @@
 743@6@nu %@n@a «print», that made by -ing.@@
 744@1@@3v@K «print»/impress B on D.@@K-BD
 744@2@po %@n@a «print»/«impression», an instance of -ing.@@
-745@1@@3n@B is a «die» or «stamp» for making imprint P on material D@@B-PD
+745@1@@3n@B is a «die» or «stamp» for making imprint P on material D.@@B-PD
 746@1@@1n@B is a «printing press», of the old fashioned kind, with movable type@@B-
 747@1@@af@a combining form of carbo, «carbon».@@
 748@1@@2n@B is some «carbon», element 6 (C).@@B-C
@@ -1284,7 +1284,7 @@
 775@2@@a@«shaded», of that which is -ed.@@
 776@1@@3v@K «shade» (s) D with V, intentionally.@@K-DV
 776@2@nu %@a@«shaded», of that which is -ed.@@
-777@1@@2n@P is a/the «shadow»/«shade» of B cast by light source S@@P-BS
+777@1@@2n@P is a/the «shadow»/«shade» of B cast by light source S.@@P-BS
 777@2@lo %@n@«shade», mass term.@@
 778@1@@af@a combining form of cefli, «chief».@@
 779@1@@2n@B is a «cephalopod» of species F, the highest class of Mollusca.@@B-F
@@ -1335,7 +1335,7 @@
 812@1@@1n@B is a «ring», a finger ornament.@@B-
 813@1@@3v@K «feel»/«grope» for B in S.@@K-BS
 814@1@@af@a combining form of dekto, «tenfold».@@
-815@1@@2n@B is a «decade» of period/epoch F@@B-F
+815@1@@2n@B is a «decade» of period/epoch F.@@B-F
 815@2@@a@«decennial», pert. to decades.@@
 816@1@@2@B is some «dextrose»/«D glucose», a common sugar.@@B-D
 817@1@@2n@F is «tenfold» of B, international prefix@@F-B
@@ -1384,7 +1384,7 @@
 839@3@@n@«tiller»/«cultivator» of field/parcel…for planting/growing crop…— one who -s.@@
 839@4@no %@a@«untilled»/«uncultivated» field/parcel…@@
 839@5@po %@n@«tilling»/«cultivation» of field/parcel…for planting/growing crop…— the -ing event.@@
-840@1@@4v@(aircraft) K «taxi» to D from S via V@@K-DSV
+840@1@@4v@(aircraft) K «taxi» to D from S via V.@@K-DSV
 841@1@@1n@B is «geothermal energy».@@B-
 842@1@@1n@B is a «pick», a tool for loosening the soil@@B-
 843@1@@2n@V is an «earthquake» of intensity C.@@V-C
@@ -1408,8 +1408,8 @@
 858@1@@af@a combining form of ditca, «teach».@@
 859@1@@3n@B is a «textbook» about subject N by K.@@B-NK
 860@1@@3n@B is a «parable» of/about V by S.@@B-VS
-861@1@@3n@B is a «teaching method» of K in class N@@B-KN
-862@1@@3v@K is a «teacher»'s «aide»/«teaching assistant» for teacher D in subject/class N@@K-DN
+861@1@@3n@B is a «teaching method» of K in class N.@@B-KN
+862@1@@3v@K is a «teacher»'s «aide»/«teaching assistant» for teacher D in subject/class N.@@K-DN
 863@1@@ms@«w sub» 1 an ordered variable, math.@@
 863@2@@p@«he»/«she»/«it»/«they»/«him»/«her»/«them sub one», an ordered var.@@
 864@1@@1n@V is «teacher training»/«education», as in College of Education.@@V-
@@ -1441,7 +1441,7 @@
 876@8@pu nu %@n@«refinement», prop. of being -ed.@@
 877@1@@2a@G is more «exquisite» than J.@@G-J
 878@1@@2a@G is more «dainty» than J.@@G-J
-879@1@@3v@K «represent» person(s) D in matter/situation V@@K-DV
+879@1@@3v@K «represent» person(s) D in matter/situation V.@@K-DV
 879@2@@n@an «agent»/ «representative» of absent person(s)…in matter/situation…@@
 879@3@po %@n@a «representation», general, a spec. act.@@
 880@1@@4v@K «delegate»/«deputize» D to do V for P.@@K-DVP
@@ -1480,7 +1480,7 @@
 894@2@@pp@in «direction»…from…/«toward»…from…, of places/objects.@@
 894@3@le nordi ga % da@ph@da is to/«toward» the north.@@
 894@4@nu %@n@«direction» (of…from…), as in 'north is a direction'.@@
-895@1@@2n@K is a «batman»/landing signaller of flight installation F@@K-F
+895@1@@2n@K is a «batman»/landing signaller of flight installation F.@@K-F
 896@1@@1n@B is a «compass», a device for giving directions@@B-
 897@1@@1n@B is a «directional verb», incorporating pronominal references in its motion@@B-
 898@1@@3v@K «go toward» D from S.@@K-DS
@@ -1562,7 +1562,7 @@
 936@1@@2n@B is a/the «floor» of room/building/storey F, its bottom surface. 'Fordi' may also be used as one of the countable levels in a multi story building.@@B-F
 937@1@@2n@B is a «hypersphere» with characteristics N.@@B-N
 938@1@@2n@B is a «hypercube»/«tesseract» with characteristics N.@@B-N
-939@1@@4n@B is a «degree»/«certificate of achievement» granted to D by school/college/university S for successful completion of a course of study in field/subject/profession N@@B-DSN
+939@1@@4n@B is a «degree»/«certificate of achievement» granted to D by school/college/university S for successful completion of a course of study in field/subject/profession N.@@B-DSN
 939@2@nu %@a@«degreed», of persons with educational degrees@@
 939@3@nu %@n@«graduate», a person with an educational degree@@
 940@1@@2a@B is «dull»/«stupid»/«slow» at task P.@@B-P
@@ -1602,9 +1602,9 @@
 958@3@lopo %@n@«reciprocity», mass term.@@
 958@4@nu %@a@«reciprocal»/«mutual», pert. to -cated actions.@@
 958@5@po %@n@a «reciprocity», a spec. state/condition.@@
-959@1@@3v@D is/are «obliged»/«obligated» to V, to do…because of (reciprocal action) N@@D-VN
+959@1@@3v@D is/are «obliged»/«obligated» to V, to do…because of (reciprocal action) N.@@D-VN
 959@2@fu %@n@a reciprocal «obligation» to…by…because of service…@@
-960@1@@4v@K «equate»/set «equal» C to C in characteristic B@@K-CCB
+960@1@@4v@K «equate»/set «equal» C to C in characteristic B.@@K-CCB
 961@1@@3a@B is «equal»/«same as»/as «much as» B in dimension N.@@B-BN
 961@2@@av@as «much as»/«equally».@@
 961@3@@v@be «quits» with…in…@@
@@ -1614,11 +1614,11 @@
 961@7@pu %@n@an «equality», dimensional, a spec. property.@@
 961@8@pu no %@n@an «inequality», neg. of equality.@@
 962@1@@af@a combining version of citlu, «detail».@@
-963@1@@3v@K «investigate» B for/on behalf of D@@K-BD
+963@1@@3v@K «investigate» B for/on behalf of D.@@K-BD
 963@2@@n@an «investigator»/«researcher».@@
 964@1@@2n@B is an «island»/«isle» in body of water F.@@B-F
 964@2@@a@«insular», pert. to islands.@@
-965@1@@3a@K is «precise»/«exacting» for B in area N@@K-BN
+965@1@@3a@K is «precise»/«exacting» for B in area N.@@K-BN
 966@1@@2a@G is more «detailed», full of details than J.@@G-J
 966@2@pu %@n@«detailedness», a property.@@
 967@1@@af@a combining version of cimra, «summer».@@
@@ -1660,20 +1660,20 @@
 987@2@@n@a «shearer», one who uses shears.@@
 988@1@@a@too«much»/«many» of…, a quantifying operator.@@
 989@1@@af@a combining version of cirna, «learn».@@
-990@1@@2v@K «become aware» of N@@K-N
+990@1@@2v@K «become aware» of N.@@K-N
 991@1@@1a@B is «studious».@@B-
-992@1@@3v@K «discover by learning» knowledge B from S@@K-BS
+992@1@@3v@K «discover by learning» knowledge B from S.@@K-BS
 993@1@@2v@K «practice»/«exercise» new skill P.@@K-P
 993@2@nu %@n@an «exercise»/«practice», something to be practiced@@
 993@3@po %@n@an instance of an «exercise»/«practice» (as in a lesson).@@
 994@1@@2a@B is «learning impaired» by standard N.@@B-N
-995@1@@2v@K is «fond of learning» N@@K-N
+995@1@@2v@K is «fond of learning» N.@@K-N
 996@1@@3v@K «tutor» D in B.@@K-DB
 996@2@@n@a «tutor», one who -s.@@
 997@1@@2v@D suffers from «cirrhosis» of B, a wasting of tissue of an organ.@@D-B
 997@2@lopo %@n@«cirrhosis», collective term for the disease.@@
-998@1@@3n@K is a «fellow learner» with K in subject N@@K-KN
-999@1@@3n@V is a «motive» for K to «learn» B@@V-KB
+998@1@@3n@K is a «fellow learner» with K in subject N.@@K-KN
+999@1@@3n@V is a «motive» for K to «learn» B.@@V-KB
 1000@1@@3v@K «learn» (to do)/«acquire» P from source S.@@K-PS
 1000@2@@n@a «learner», one who learns.@@
 1000@3@fu %@n@«source», of learning, conv. form, q.v.@@
@@ -1715,7 +1715,7 @@
 1022@6@pu %@n@a «kindness», a spec. property.@@
 1023@1@@af@a combining version of ckemo, «interval».@@
 1024@1@@1n@B is a «periodical».@@B-
-1025@1@@3a@J is «briefer»/temporally «shorter» than G by interval C@@J-GC
+1025@1@@3a@J is «briefer»/temporally «shorter» than G by interval C.@@J-GC
 1025@2@@3a@J is «brief»/«short», incomplete form.@@
 1026@1@@2v@K «date»/determine the «date of» V.@@K-V
 1027@1@@2n@B is the «end point»/«termination» of interval/period F.@@B-F
@@ -1723,7 +1723,7 @@
 1027@3@nu %@a@«terminated», of ended entervals.@@
 1028@1@@2n@B is a «school» of community F.@@B-F
 1028@2@@a@«school», pert. to schools.@@
-1029@1@@3n@G is a «long time»/«longer time» than J by interval C@@G-JC
+1029@1@@3n@G is a «long time»/«longer time» than J by interval C.@@G-JC
 1030@1@@2v@N «prolong»/«lengthen» D in time dimension.@@N-D
 1031@1@@3v@J «precede» G in time series C.@@J-GC
 1031@2@@a@«preceding»/«before» in time series.@@
@@ -1741,7 +1741,7 @@
 1037@1@@3v@K «time»/«measure the duration of» V to be C.@@K-VC
 1037@2@@n@a «timer»/«time keeper», one who measures —.@@
 1037@3@fu %@n@a/the «time», as measured by…@@
-1038@1@@3n@C the «time»/«interval»/«period» from S to D@@C-SD
+1038@1@@3n@C the «time»/«interval»/«period» from S to D.@@C-SD
 1038@2@lo %@n@«time», mass term.@@
 1039@1@@1a@V is «continual», unbroken in time.@@V-
 1039@2@lopu %@n@temporal «continuity», mass property.@@
@@ -1816,7 +1816,7 @@
 1065@1@@3v@N get «rid»/«dispose» of B from F (nonintentional) the rain — the snow by melting it.@@N-BF
 1066@1@@2v@K «dispense with»/do «without» B.@@K-B
 1066@2@nu %@a@«dispensable», can be done away with.@@
-1067@1@@2v@K «miss» person/situation N@@K-N
+1067@1@@2v@K «miss» person/situation N.@@K-N
 1068@1@@3v@K «exile» D for reason N.@@K-DN
 1068@2@lopu %@n@«exile», mass property.@@
 1068@3@po %@n@an «exile» (of…for…).@@
@@ -1888,7 +1888,7 @@
 1091@1@@2v@K «fall in love» with D.@@K-D
 1092@1@@2v@K «adore» D.@@K-D
 1093@1@@1n@B is a «nibble»/«nip», an affectionate or playful bite.@@B-
-1094@1@@2v@D is «awed» by K@@D-K
+1094@1@@2v@D is «awed» by K.@@D-K
 1094@2@nu %@a@«awesome», that which -s.@@
 1094@3@nu %@v@«awe»…, cause awe in…@@
 1094@4@po %@n@«awe», a spec. instance of being awed.@@
@@ -1991,7 +1991,7 @@
 1143@2@@a@«discriminating», capable of -tion.@@
 1143@3@lopu %@n@«discrimination», mass property.@@
 1143@4@po %@n@«discrimination», an instance of -ing.@@
-1144@1@@2n@B is a «small rod»/bar for purpose P@@B-P
+1144@1@@2n@B is a «small rod»/bar for purpose P.@@B-P
 1145@1@@2n@B is a «cask» for P.@@B-P
 1146@1@@2n@B is a «town»/«small city» serving region/hinterland F.@@B-F
 1146@2@nu %@n@a/the «hinterland», of town/city…@@
@@ -2021,7 +2021,7 @@
 1161@3@@n@«bankrupt», a person who is —.@@
 1161@4@po %@n@a «bankruptcy», a spec. state of being —.@@
 1162@1@@4v@K «give change» amount C to customer D for excess payment F for good/service V.@@K-CDFV
-1163@1@@4v@K «underwrite»/«subsidize» B in undertaking V with amount C@@K-BVC
+1163@1@@4v@K «underwrite»/«subsidize» B in undertaking V with amount C.@@K-BVC
 1163@2@ju %@n@C is a «subsidy»/«contribution»/«investment».@@
 1164@1@@4n@B is a «fine» of C to D for V.@@B-CDV
 1165@1@@2a@G is more «saving»/«frugal»/«thrifty»/«economical» than J.@@G-J
@@ -2068,7 +2068,7 @@
 1184@6@po %@n@an «amusement»/«fun», a spec. state of having fun.@@
 1185@1@@1n@K is a «practical joker».@@K-
 1186@1@@af@a combining version of canli, «quantity».@@
-1187@1@@4v@K «determine» (s) the magnitude of B on dimension N to be C@@K-BNC
+1187@1@@4v@K «determine» (s) the magnitude of B on dimension N to be C.@@K-BNC
 1187@2@po %@n@a «determination», act of -ing a quantity.@@
 1188@1@@4v@G has/have C «times» as much N as J, e.g. X is 1.1 times Y's height.@@G-CNJ
 1189@1@@2v@K «quantify»/«specify the quantity of» B.@@K-B
@@ -2217,7 +2217,7 @@
 1249@1@@2v@D experience a «shower from»/be «showered»/«rained» on briefly by B.@@D-B
 1250@1@@3v@K «mention»/«speak briefly of» V to D.@@K-VD
 1250@2@po %@n@a «mention» of…to…@@
-1251@1@@4v@K «sum up»/«summarize»/«recapitulate»/«abstract» V by saying N to D@@K-VND
+1251@1@@4v@K «sum up»/«summarize»/«recapitulate»/«abstract» V by saying N to D.@@K-VND
 1251@2@fu %@n@a «recapitulation»/«resume»/«summary», a short account of…@@
 1251@3@lopo %@n@«summarization», mass term.@@
 1251@4@po %@n@a «summarization», an act of -ing.@@
@@ -2280,7 +2280,7 @@
 1289@1@@2a@G is «rainier»/more rain full than J.@@G-J
 1289@2@pu %@n@a «raininess», a spec. property.@@
 1290@1@ba %@ph@it's «raining».@@
-1290@2@@2v@A quantity of «rain»  falls on  victim D from cloud S@@D-S
+1290@2@@2v@A quantity of «rain»  falls on  victim D from cloud S.@@D-S
 1290@3@nu %@n@«rain cloud», something that rains on…@@
 1290@4@lopo %@n@«rain», mass term of events.@@
 1290@5@po %@n@some «rain», a spec. event/act of -ing.@@
@@ -2289,7 +2289,7 @@
 1291@2@@a@«stormy» (of the type specified).@@
 1292@1@@1@B is some «chromium», element 24 (Cr).@@B-
 1293@1@@af@a combining version of cteki, «tax».@@
-1294@1@@2v@B is free of «tax»/«duty» C@@B-C
+1294@1@@2v@B is free of «tax»/«duty» C.@@B-C
 1294@2@@a@«tax»/«duty» free@@
 1294@3@@n@«tax»/«duty» free goods@@
 1294@4@% vedsia@n@«tax»/«duty» free shop@@
@@ -2402,7 +2402,7 @@
 1351@5@po %@n@a «defence», a spec. act of defending.@@
 1352@1@@1@B is some «curium», element 96 (Cm).@@B-
 1353@1@@4a@G is «safer»/more «secure» from N than J is from (danger) N.@@G-NJN
-1354@1@@2n@B is a «seat belt»/«safety belt» of vehicle F@@B-F
+1354@1@@2n@B is a «seat belt»/«safety belt» of vehicle F.@@B-F
 1355@1@@1n@B is a «shirt», an article of clothing.@@B-
 1356@1@@2n@B is «armor» for protection against N.@@B-N
 1357@1@@af@a combining version of cutse, «say».@@
@@ -2533,16 +2533,16 @@
 1426@2@fu %@n@«planner»/«designer» of…@@
 1426@3@nu %@a@«planned»/«designed».@@
 1427@1@@1n@B is a/some «tape»/«ribbon».@@B-
-1428@1@@3v@K «fast forward past»/«zap» record/tape B on machine D@@K-BD
+1428@1@@3v@K «fast forward past»/«zap» record/tape B on machine D.@@K-BD
 1429@1@@2n@B is a «tape drive» in system F.@@B-F
 1430@1@@3n@P is a «tape recording» of B made by S.@@P-BS
 1431@1@@1n@B is a «tape player» (may record, or just play).@@B-
 1432@1@@3v@K «plan»/«design» P for client D.@@K-PD
 1432@2@@n@a «designer»/«planner», one who -s.@@
-1433@1@@2v@K «compose»/«outline» B@@K-B
+1433@1@@2v@K «compose»/«outline» B.@@K-B
 1434@1@@3a@G is more «trite»/«ordinary»/«vulgar»/«common»(place)/«usual»/«banal»/«mundane» than J in features B.@@G-JB
 1434@2@nu %@a@«uncommon», conv. of ordinary, q.v.@@
-1435@1@@2n@B is «tourist»/«coach»/«second» class accommodation in conveyance F@@B-F
+1435@1@@2n@B is «tourist»/«coach»/«second» class accommodation in conveyance F.@@B-F
 1435@2@@a@«tourist»/«coach»/«second» class@@
 1436@1@@2n@B is a «commoner»/common «person» of place S.@@B-S
 1436@2@lo %@n@(common) «folk»/(common) «people»/«masses» of place…@@
@@ -2602,7 +2602,7 @@
 1461@1@@3v@K «flee»/«run away» from S to D.@@K-SD
 1461@2@po %@n@a «flight»/«rout», an act of «fleeing».@@
 1462@1@@2v@K «push away» B.@@K-B
-1463@1@@3v@K is «telepathically aware» of event V at N@@K-VN
+1463@1@@3v@K is «telepathically aware» of event V at N.@@K-VN
 1463@2@lepo %@n@an instance of «telepathy».@@
 1464@1@@2n@V is a «distance» scale, a system of units and zero point for measuring distances on surface/through medium N.@@V-N
 1465@1@@1n@B is a «telegraph».@@B-
@@ -2706,8 +2706,8 @@
 1519@1@@2v@K «feel»/«touch» D with fingers.@@K-D
 1520@1@@2v@K «feel»/«hunt» for B with fingers.@@K-B
 1521@1@@l@«d», Latin lower case letter, one of a pool of symbols.@@
-1522@1@@2n@B is the «steering system» of device/vehicle F@@B-F
-1523@1@@4v@K «travel toward» D from S via V@@K-DSV
+1522@1@@2n@B is the «steering system» of device/vehicle F.@@B-F
+1523@1@@4v@K «travel toward» D from S via V.@@K-DSV
 1524@1@@af@a combining form of disri, «decide».@@
 1525@1@@3a@K is «weak willed» about V in circumstances N.@@K-VN
 1526@1@@1@K is «decisive», one good at deciding.@@K-
@@ -2748,7 +2748,7 @@
 1544@1@@1n@K is a «metaphysician».@@K-
 1545@1@@3v@K «interrogate»/«inquire of» D about subject V.@@K-DV
 1545@2@po %@n@an «inquiry»/«interrogation» (of…on subject…), a specific instance.@@
-1546@1@@3v@K «learn»/«become knowledgeable» about N from S@@K-NS
+1546@1@@3v@K «learn»/«become knowledgeable» about N from S.@@K-NS
 1547@1@@3v@K «say»/«claim»/«purport to know» N is true of B.@@K-NB
 1547@2@nu %@n@a «claim»/«proposition», a thing -ed to be known true.@@
 1547@3@po %@n@«claim», an act of -ing to know…@@
@@ -2811,7 +2811,7 @@
 1564@7@po %@n@an «indebtedness»/in «debt», a state of owing.@@
 1565@1@@af@a combining form of djine, «join».@@
 1566@1@@3v@K «join» D at joint P, become joined.@@K-DP
-1567@1@@4n@V is a «combining form» or «affix» (deprecated Loglan jargon) of B in context X in language Y@@
+1567@1@@4n@V is a «combining form» or «affix» (deprecated Loglan jargon) of B in context X in language Y.@@
 1567@2@@n@an «affix» (Loglan), a combining form of a predicate.@@
 1568@1@@2n@F is a «union»/«confederacy»/«confederation» of members/groups B.@@F-B
 1568@2@nu %@n@«confederate», member of a … .@@
@@ -2920,7 +2920,7 @@
 1611@2@nu %@a@less «generous» than…in matter…@@
 1611@3@nu %@a@(more) «stingy»/«miserly» (than…in matter…).@@
 1611@4@po %@n@an instance of «generosity».@@
-1612@1@@4v@K «donate» to D a «gift» of C for cause P@@K-DCP
+1612@1@@4v@K «donate» to D a «gift» of C for cause P.@@K-DCP
 1612@2@fu %@n@C is a «contribution»/«donation».@@
 1613@1@@3v@K «contribute» B to D.@@K-BD
 1613@2@@n@«contributor», one who -s.@@
@@ -2929,7 +2929,7 @@
 1613@5@po %@n@a specific act of «contribution».@@
 1614@1@@2v@D «accept» a gift from K.@@D-K
 1614@2@po %@n@«acceptance», of a gift from…@@
-1615@1@@3v@K «give»/«donate» B to D@@K-BD
+1615@1@@3v@K «give»/«donate» B to D.@@K-BD
 1615@2@@n@a «donor»/«giver», one who gives.@@
 1615@3@fu %@n@«receive»/be «given» gift/present/donation…from…@@
 1615@4@fu %@n@a «recipient», a receiver of a gift, 2nd conv. of give.@@
@@ -2966,7 +2966,7 @@
 1629@2@@a@«belligerent», of those who make war on…@@
 1629@3@@n@a «belligerent»/«war maker», one who makes war.@@
 1629@4@pu %@n@a «belligerence», a spec. property.@@
-1630@1@@2n@B is a «prisoner-of-war» of enemy K@@B-K
+1630@1@@2n@B is a «prisoner-of-war» of enemy K.@@B-K
 1631@1@@2n@B is a «site» (e.g. battlefield, bomb site, etc.) of war S.@@B-S
 1632@1@@2n@B is the/an «armory» of military unit S.@@B-S
 1633@1@@1n@B is a «weapon»/«instrument» of war.@@B-
@@ -3032,7 +3032,7 @@
 1673@1@@5a@G is more «just»/«fair» to D than J is to D in dealings V.@@G-DJDV
 1673@2@nu %@a@«unjust»/«unfair», conv. of fairer than…in…@@
 1673@3@pu nu %@n@an «injustice»/«unfairness», being less just than…@@
-1674@1@@2v@K «act properly»/do the «right thing» in action/circumstance V@@K-V
+1674@1@@2v@K «act properly»/do the «right thing» in action/circumstance V.@@K-V
 1674@2@lopo %@n@an occasion of «right» action, e.g. strive to do right.@@
 1675@1@@2n@K «spell» D (in writing).@@K-D
 1675@2@lopu %@n@«spelling»/«orthography», mass term.@@
@@ -3053,17 +3053,17 @@
 1680@4@po %@n@«correctness», a state of being proper.@@
 1680@5@pu %@n@«correctness», a property.@@
 1680@6@pu no %@n@an «incorrectness», a spec. property.@@
-1681@1@@3v@K «choose correctly»/«make the right choice» P for circumstance N@@K-PN
+1681@1@@3v@K «choose correctly»/«make the right choice» P for circumstance N.@@K-PN
 1682@1@@af@a combining form of driki, «remember».@@
 1683@1@@2v@D are/become «reminded» of V.@@D-V
-1684@1@@2v@K «memorize»/«learn» by heart P@@K-P
+1684@1@@2v@K «memorize»/«learn» by heart P.@@K-P
 1685@1@@3v@N «remind» D of V, nonintentional cause, 'that reminds me'.@@N-DV
 1685@2@@n@a «memo»(randum)/«reminder»/«souvenir», a reminder to…of…@@
 1686@1@@3v@K «associate» concept N with N.@@K-NN
 1686@2@po %@n@an «association» (of words), spec. instance.@@
 1687@1@@2n@B is a «drop» of liquid S.@@B-S
 1688@1@@3n@V is a «holiday» of people/nation F to commemorate N.@@V-FN
-1689@1@@2v@K is «familiar»/«acquainted» with B@@K-B
+1689@1@@2v@K is «familiar»/«acquainted» with B.@@K-B
 1690@1@@3v@K «sprinkle» B on D.@@K-BD
 1691@1@@2a@K is «forgetful» about V.@@K-V
 1692@1@@2a@K have a strong/good «memory» for V.@@K-V
@@ -3098,7 +3098,7 @@
 1709@2@@n@«explorer» (of…), one who -s.@@
 1709@3@po %@2n@an «exploration» (of…).@@
 1710@1@@1n@B is a female African «elephant».@@B-
-1711@1@@2a@G is more «elephantine»/«elephant like» than J@@G-J
+1711@1@@2a@G is more «elephantine»/«elephant like» than J.@@G-J
 1712@1@@1n@B is an infant African «elephant».@@B-
 1713@1@@1n@B is a male African «elephant».@@B-
 1714@1@@1n@B is an African «elephant», generic word.@@B-
@@ -3116,8 +3116,8 @@
 1722@2@@pp@in «manner»/«mode»/«style», a relative operator before terms (PA).@@
 1722@3@% hu@q@«how»?/in what «manner»?/in what «way»?.@@
 1723@1@@2v@K is «willing»/«fain» to do/be P.@@K-P
-1724@1@@3v@K «act like»/«imitate» S in action V@@K-SV
-1724@2@@n@S is a «model»/«pattern» followed by K in action V@@
+1724@1@@3v@K «act like»/«imitate» S in action V.@@K-SV
+1724@2@@n@S is a «model»/«pattern» followed by K in action V.@@
 1725@1@@2v@K «know how to do» V/«familiar with procedure»…/«used to procedure»…@@K-V
 1725@2@@a@«accustomed»/«familiar» to/with.@@
 1725@3@nu %@a@«familiar», as of practices.@@
@@ -3262,7 +3262,7 @@
 1786@2@@v@cause «doubt» to…concerning…(intentionally).@@
 1787@1@@af@a combining form of duvri, «discover».@@
 1788@1@@2v@K «learn» about B by «exploration».@@K-B
-1788@2@@n@K is an «explorer» of B@@
+1788@2@@n@K is an «explorer» of B.@@
 1789@1@@2v@K «seek»/«look»/«hunt»/«search» for B.@@K-B
 1789@2@@n@a «seeker»/«hunter»/«searcher», searcher.@@
 1789@3@po %@n@a «hunt»/«search»/«quest», an act of searching.@@
@@ -3270,7 +3270,7 @@
 1790@2@@n@a «discoverer», one who -s.@@
 1790@3@nu %@n@a «discovery»/«find», a spec. -ed thing.@@
 1790@4@po %@n@«discovery»/«find», an act of -ing.@@
-1791@1@@2n@N is a «known»/«explored» area for people K@@N-K
+1791@1@@2n@N is a «known»/«explored» area for people K.@@N-K
 1792@1@@af@a combining form of dzabi, «be».@@
 1793@1@@3v@B «exist»/be for D under metaphysics N.@@B-DN
 1793@2@@a@«actual»/«real»/«existent»/non «fictitious» for…under…@@
@@ -3425,7 +3425,7 @@
 1870@4@nu %@n@a «conclusion», reached by reasoning.@@
 1871@1@@3v@K «hit»/«strike» (with missile) target B at point V.@@K-BV
 1872@1@@av@and «vice versa», a discourse operator (UI).@@
-1873@1@@4v@K «walk back» to D from S via V@@K-DSV
+1873@1@@4v@K «walk back» to D from S via V.@@K-DSV
 1874@1@@va@«will-be going» to…, describes an action which takes place after the (future) time being recounted.@@
 1875@1@@af@a combining form of fagro, «fire».@@
 1876@1@@1v@D «ignite»/catch «fire», intransitive, 'the grass ignited'.@@D-
@@ -3483,7 +3483,7 @@
 1902@5@lopu %@n@«faithlessness», mass term, properties.@@
 1902@6@po %@n@a «betrayal»/«disloyalty», a spec. act of —ing.@@
 1902@7@pu %@n@a «disloyalty»/«faithlessness», a spec. property.@@
-1903@1@@2a@G is more «falcon like» than J@@G-J
+1903@1@@2a@G is more «falcon like» than J.@@G-J
 1904@1@@1n@B is a «falcon chick»/«infant falcon».@@B-
 1905@1@@1n@B is a male «hawk»/«falcon», a bird of the genus Falcon.@@B-
 1906@1@@2v@D is/are «deluded» about N (cause unspecified).@@D-N
@@ -3507,7 +3507,7 @@
 1910@5@po %@n@a «falsification»/«forgery», an act of —ing.@@
 1911@1@@2n@N is a «delusion»/«illusion», false belief about V.@@N-V
 1912@1@@4n@B is a «pretext» for action V by K in circumstances N.@@B-VKN
-1913@1@@2v@K «act falsely» as a «friend»/«pretend to be friendly» to D@@K-D
+1913@1@@2v@K «act falsely» as a «friend»/«pretend to be friendly» to D.@@K-D
 1914@1@@3v@K «slander» D by P.@@K-DP
 1914@2@@n@«slanderer», one who -s/.@@
 1914@3@po %@n@an instance of «slander».@@
@@ -3540,7 +3540,7 @@
 1924@1@@2v@B is the «device»/«emblem»/«motto»/«coat-of arms» of family F.@@B-F
 1925@1@@af@a combining form of fanve, «reverse».@@
 1926@1@@va@«shall»/«will» be then… ing, sign of the future coincident tense.@@
-1927@1@@2v@K «disassemble»/«tear» down (vehicle/structure) B@@K-B
+1927@1@@2v@K «disassemble»/«tear» down (vehicle/structure) B.@@K-B
 1928@1@@3v@K «unpack» B into D.@@K-BD
 1929@1@@1v@K «gets up»/«arises» from bed.@@K-
 1930@1@@4v@K «return»/«carry back» B from S to D.@@K-BSD
@@ -3635,7 +3635,7 @@
 1968@2@@v@«strip»/«doff»/«disrobe»/«undress», take off clothing.@@
 1969@1@@4v@K «rewind» record/tape D to position C on machine B.@@K-DCB
 1970@1@@3v@K «retrieve» B from place N, a place where…had been set/put/hidden@@K-BN
-1971@1@@3v@K «integrate» S into P@@K-SP
+1971@1@@3v@K «integrate» S into P.@@K-SP
 1971@2@fu %@n@an «integral».@@
 1971@3@po %@n@an instance of «integration».@@
 1972@1@@3v@K «decipher»/«decode»/«make out» S into P.@@K-SP
@@ -3668,7 +3668,7 @@
 1984@1@@2n@N is the «reverse»/«inverse»/«opposite» of N, in reverse order from sequence…@@N-N
 1984@2@@a@«opposite», in reverse order from…@@
 1985@1@@3v@K «take out» B from D.@@K-BD
-1986@1@@2v@K «reenter»/«go back in» (location) S@@K-S
+1986@1@@2v@K «reenter»/«go back in» (location) S.@@K-S
 1986@2@po %@n@an instance of «reentry».@@
 1987@1@@av@«finally»/in «conclusion», a discourse operator (UI).@@
 1988@1@@1a@N is «infinite»/«endless»/«unbounded»/without «limit»/end. .@@N-
@@ -3735,7 +3735,7 @@
 2019@1@@af@a combining form of fatru, «trouble».@@
 2020@1@@2v@K «endure»/«resist» trouble N.@@K-N
 2020@2@lopu %@n@«resistance»/«endurance» (of trouble…), mass property.@@
-2021@1@@3v@K is «sorry» to «bother» B by doing V@@K-BV
+2021@1@@3v@K is «sorry» to «bother» B by doing V.@@K-BV
 2022@1@@2v@K «worry»/feel «troubled»/«worried»/«disturbed»/«concerned» about N.@@K-N
 2022@2@@a@«disturbed»/«concerned»/«worried»/«troubled», troubled by…@@
 2022@3@lopo %@n@«worry», mass term of states.@@
@@ -3822,7 +3822,7 @@
 2056@1@@3v@K «load into memory», loads B into memory F, default system RAM.@@K-BF
 2057@1@@2n@B is a «modem» with speed C.@@B-C
 2058@1@@4v@K communicate (s) P by «modem» to D via system/network V.@@K-PDV
-2059@1@@2a@K is «knowledgeable», knows much about B@@K-B
+2059@1@@2a@K is «knowledgeable», knows much about B.@@K-B
 2060@1@@3n@N is a «fact»/«actuality» about event V according to observer(s) K.@@N-VK
 2060@2@@av@«in fact»/«factually»/«actually», factually/in fact.@@
 2060@3@lo %@n@«fact»/«actuality», mass term of facts.@@
@@ -3834,7 +3834,7 @@
 2063@1@@af@a combining form of felda, «fall».@@
 2064@1@@3v@N «drop»/make «fall» B to/onto/into D, nonintentionally.@@N-BD
 2064@2@po %@n@«drop», an event of -ing…, non intentional.@@
-2065@1@@3n@P is a «sediment»/«precipitate» in F produced by process V@@P-FV
+2065@1@@3n@P is a «sediment»/«precipitate» in F produced by process V.@@P-FV
 2066@1@@2n@B is a «waterfall» of river system F.@@B-F
 2067@1@@4v@B «fall» to D from S in gravity field N.@@B-DSN
 2067@2@@vi@«fall» (down), fall down, incomplete form.@@
@@ -3846,7 +3846,7 @@
 2071@2@po %@n@«drop», an event of -ing…deliberately.@@
 2072@1@@v@K «fall in» to D from S via V.@@K-DSV
 2073@1@@1n@B is a «parachute».@@B-
-2074@1@@2n@K is a «paratrooper» of military group F@@K-F
+2074@1@@2n@K is a «paratrooper» of military group F.@@K-F
 2075@1@@1@B is a «feline», one of the cats.@@B-
 2075@2@@a@«feline», pert. to the cat family.@@
 2076@1@@2n@B is a «precipice» of F, distinguished from cliff vrelai.@@B-F
@@ -3860,12 +3860,12 @@
 2081@4@pu %@n@a/the «femaleness», a spec. property.@@
 2082@1@@2n@B is a/the «duchess» of domain N.@@B-N
 2083@1@@2n@B is the «baroness» of S.@@B-S
-2084@1@@2n@B is a/the «marchioness» of domain N@@B-N
+2084@1@@2n@B is a/the «marchioness» of domain N.@@B-N
 2085@1@@2n@B is a «countess» of S.@@B-S
 2086@1@@2n@K is the «goddess» of D.@@K-D
 2087@1@@2n@B is a/the «baroness» of domain N.@@B-N
 2088@1@@2n@B is a/the «princess» of S.@@B-S
-2089@1@@2n@B is a/the «mistress» of «domain»/persons/organization N@@B-N
+2089@1@@2n@B is a/the «mistress» of «domain»/persons/organization N.@@B-N
 2090@1@@2n@B is a/the «princess» of domain N.@@B-N
 2091@1@@3n@K is a «lady»/the wife of S, a/the lord of vassals/domain N, q.v. E.g., La Femsurpoi Maontbetn merji la Surpoi Maontbetn  Lady Mountbatten is married to Lord Mountbatten.@@K-SN
 2091@2@Hoi % je mi, rie@ph@«M»'Lady/«My Lady»  O Lady of me, Respected One, a form used by inferiors to address the female peerage;  cf. Surpoi@@
@@ -3874,7 +3874,7 @@
 2094@1@@2n@B is a/the «marchioness» of S.@@B-S
 2095@1@@2n@B is an «ovary»/female «gonad» of S.@@B-S
 2095@2@@a@«ovarian», pert. to ovaries.@@
-2096@1@@2n@B is a/the «viscountess» of domain N@@B-N
+2096@1@@2n@B is a/the «viscountess» of domain N.@@B-N
 2097@1@@2n@B is a/the «duchess» of S.@@B-S
 2098@1@@af@a combining form of ferno, «iron».@@
 2099@1@@2a@G is more «ferrous»/contains more «iron» than J does.@@G-J
@@ -3886,9 +3886,9 @@
 2102@1@@1n@K is a «blacksmith», a worker in iron.@@K-
 2103@1@@af@a combining form of fekto, «fact».@@
 2104@1@@3v@D «know» (s) B from source S, book learning as opposed to experience (spedja).@@D-BS
-2105@1@@2n@B is a «database» about F@@B-F
+2105@1@@2n@B is a «database» about F.@@B-F
 2106@1@@3v@B are actually «related» to/«occur» in the same world as F according to point-of view/observer/metaphysics/reality N.@@B-FN
-2107@1@@2n@F is a «computer memory» of type B@@F-B
+2107@1@@2n@F is a «computer memory» of type B.@@F-B
 2108@1@@2a@B is «factually»/«empirically» true under epistemology N.@@B-N
 2108@2@@n@a «truth», an empirical truth under rules…@@
 2108@3@lopu %@n@«truth», empirical, mass term.@@
@@ -3915,7 +3915,7 @@
 2120@1@@1n@B is some «fermium», a transuranic element (Fm).@@B-
 2121@1@@1n@B is some «iron», the 26th element (Fe).@@B-
 2121@2@% oksidi@ph@«rust»/«iron oxide» on…@@
-2122@1@@2n@B is a/the «duke» of domain N@@B-N
+2122@1@@2n@B is a/the «duke» of domain N.@@B-N
 2123@1@@3a@G is more «fertile»/«fruitful» than J for crops B.@@G-JB
 2123@2@lopo %@n@«fertility», mass term of states.@@
 2123@3@lopu %@n@«fertility», mass term of properties.@@
@@ -3981,7 +3981,7 @@
 2145@4@lopo %@n@«weakness»/«feebleness», mass term of states.@@
 2145@5@lopu %@n@«weakness», mass term of properties.@@
 2145@6@nu %@a@«tough», «tougher» than, conv. of weak, qv.@@
-2146@1@@3v@K «hint»/«intimate»/«imply» V to D@@K-VD
+2146@1@@3v@K «hint»/«intimate»/«imply» V to D.@@K-VD
 2146@2@nu %@n@«hint»/«intimation», that which is -ed.@@
 2147@1@@af@a combining form of ficli, «fish».@@
 2148@1@@2n@B is a «bone» from fish F.@@B-F
@@ -4119,7 +4119,7 @@
 2214@1@@2n@B is an «ankle» of S.@@B-S
 2215@1@@1n@B is an «anklet», an ankle ornament.@@B-
 2216@1@@af@a combining form of fibru, «weak».@@
-2217@1@@2a@K is «unsure»/«uncertain»/«unconvinced» of/«tentative» about the truth of claim/sentence B@@K-B
+2217@1@@2a@K is «unsure»/«uncertain»/«unconvinced» of/«tentative» about the truth of claim/sentence B.@@K-B
 2217@2@lopo no %@n@«uncertainty»/«unsureness», the gen. state of —ty.@@
 2217@3@no %@a@«not uncertain» of…, a neg. form.@@
 2217@4@nu %@a@«uncertain», thought to be uncertain by…@@
@@ -4160,33 +4160,33 @@
 2235@1@@1n@B is a «puff»/«blurb», an inflated advertisement.@@B-
 2236@1@@af@a combining form of fleti, «fly».@@
 2237@1@@1n@B is a «shell»/«bomb»/«missile», any explosive airborne device.@@B-
-2238@1@@3v@K gives «information» to D concerning flight V@@K-DV
+2238@1@@3v@K gives «information» to D concerning flight V.@@K-DV
 2238@2@@n@a source of «information» (clerk, notice board, TV screen).@@
 2238@3@fu %@n@some «flight» «information», a spec. item.@@
 2238@4@po %@n@an act of giving «information».@@
-2239@1@@2v@K performs «aerobatic» manoevre(s) P@@K-P
-2239@2@@n@K is an «aerobatic» flyer, performing manoevre(s) P@@
+2239@1@@2v@K performs «aerobatic» manoevre(s) P.@@K-P
+2239@2@@n@K is an «aerobatic» flyer, performing manoevre(s) P.@@
 2239@3@lo nu %@n@«aerobatics», mass term for -ic manoevres@@
 2239@4@lopo %@n@«aerobatics», the mass of such events@@
 2239@5@nu %@n@a sp. «aerobatic» manoevre@@
 2239@6@po %@a@«aerobatic», pert. to aerobatic flight@@
 2239@7@po %@n@an event of «aerobatic» flight@@
-2240@1@@2n@B is an «airport» of place F@@B-F
-2241@1@@2n@K is an «airline» of community/country F@@K-F
+2240@1@@2n@B is an «airport» of place F.@@B-F
+2241@1@@2n@K is an «airline» of community/country F.@@K-F
 2242@1@@1n@B is a «javelin».@@B-
 2243@1@@1n@B is an «aircraft»/«airplane»/«aeroplane».@@B-
-2244@1@@3n@B is a «hangar» for aircraft P at (airport) F@@B-PF
-2245@1@@2v@K «check in» for flight F@@K-F
+2244@1@@3n@B is a «hangar» for aircraft P at (airport) F.@@B-PF
+2245@1@@2v@K «check in» for flight F.@@K-F
 2245@2@po %@n@«check in», the procedure@@
-2246@1@@2n@B is a «runway» of (airport) F@@B-F
+2246@1@@2n@B is a «runway» of (airport) F.@@B-F
 2247@1@@4v@K,  aircraft/birds/other flying things, «take off» from airport/runway/surface S for destination N via V.@@K-SNV
 2247@2@po %@n@«take off», an act/event of taking off. V (K-SNV).@@
-2248@1@% grobou@2n@B is an «aircraft carrier» of government F@@B-F
+2248@1@% grobou@2n@B is an «aircraft carrier» of government F.@@B-F
 2249@1@@2n@B is a «terminal» building of airport/facility F.@@B-F
 2250@1@@2v@K «alight»/«land»/«settle» on B, to stop flying.@@K-B
 2250@2@po %@n@«landing», an act/event of a bird/aircraft/other flying thing alighting on some surface/perch. V (K-B).@@
 2251@1@@2n@B is a «runway» of airport F.@@B-F
-2252@1@@2n@K is a «flight attendant»/«steward»(ess)/«air hostess» of aircraft/airline F@@K-F
+2252@1@@2n@K is a «flight attendant»/«steward»(ess)/«air hostess» of aircraft/airline F.@@K-F
 2253@1@@4v@K «fly» to D from S via V.@@K-DSV
 2253@2@@n@a «flier», that which flies.@@
 2253@3@lopo %@n@«flight», mass term of acts.@@
@@ -4239,7 +4239,7 @@
 2274@1@@3v@K «drown» D in B (intentional).@@K-DB
 2274@2@@a@«drowning» (…in…).@@
 2275@1@@4v@K «plunge» D into B for P.@@K-DBP
-2276@1@@4v@K «dip» B in D with purpose P@@K-BDP
+2276@1@@4v@K «dip» B in D with purpose P.@@K-BDP
 2277@1@@3v@K «press»/«express»/«squeeze out» the liquid from S producing juice/liquid output P.@@K-SP
 2278@1@@1n@B is a «pitcher»/«ewer».@@B-
 2279@1@@3v@K «dive»/«plunge» into D for purpose P.@@K-DP
@@ -4248,7 +4248,7 @@
 2281@1@@1n@B is a «vapor», a normal liquid in a gaseous state, e.g. steam.@@B-
 2281@2@@a@«vaporous», of vaporized liquids.@@
 2282@1@@af@a combining form of folma, «full».@@
-2283@1@@2v@D «fill» (up), become filled with B@@D-B
+2283@1@@2v@D «fill» (up), become filled with B.@@D-B
 2283@2@nu %@n@a «filler», any substance which —s.@@
 2284@1@@2v@B, a «filler»/«filling», causes D, a container, to be «full»/«filled up»/«completely full».@@B-D
 2284@2@@n@«filling»/«stuffing», something that causes something else to be «stuffed»/«filled up»/«completely full».@@
@@ -4262,8 +4262,8 @@
 2288@1@@1n@B is a «float» (of seaplane, fishing line etc).@@B-
 2289@1@@3v@K «fill» (up) D completely with B.@@K-DB
 2289@2@nu %@a@«fillable», capable of being —ed.@@
-2290@1@@5a@G is «fuller» of B than J is of B by amount C@@G-BJBC
-2291@1@@2a@container B is «partly full» to the extent C@@B-C
+2290@1@@5a@G is «fuller» of B than J is of B by amount C.@@G-BJBC
+2291@1@@2a@container B is «partly full» to the extent C.@@B-C
 2292@1@@2n@B is a «flower» of F.@@B-F
 2292@2@@a@«floral», pert. to flowers.@@
 2293@1@@af@a combining form of fluro, «fluorine».@@
@@ -4296,14 +4296,14 @@
 2314@1@@av@«fourthly», in the fourth place@@
 2315@1@@aux@«must»/is «obliged to»…, objective sense used before predicates (PA). E.g., Mi foi godzi daI must go to X. Cf. oa for subjective sense: oa mi godzi daI must go to X.@@
 2315@2@@pp@«in»/«during»/«under»…, used before event/state terms to specify the conditions of an obligation.@@
-2316@1@@5v@K «force to walk» B to D from S via V@@K-BDSV
+2316@1@@5v@K «force to walk» B to D from S via V.@@K-BDSV
 2316@2@po %@n@a «forced march», as of prisoners@@
 2317@1@@3v@K «suppress»/«put down»/«diminish» D by force V.@@K-DV
 2317@2@lopo %@n@«suppression», mass term of acts.@@
 2317@3@po %@n@a «suppression», a spec. act of -ing.@@
 2318@1@@3v@K «seize»/«catch»/«capture»/take «captive» D from S.@@K-DS
 2318@2@po %@n@a «seizure», an act of capturing.@@
-2319@1@@3v@K «knock down»/«raze»/«demolish» B by V@@K-BV
+2319@1@@3v@K «knock down»/«raze»/«demolish» B by V.@@K-BV
 2320@1@@3v@K enter by force/«invade» D with (force) V.@@K-DV
 2320@2@@n@«invader», one who -s.@@
 2320@3@lopo %@n@«invasion», mass instances.@@
@@ -4340,7 +4340,7 @@
 2331@6@po %@n@a «conviction»/«certainty», a state of being convinced.@@
 2331@7@pu %@n@a «conviction»/«sureness», certainty, a property@@
 2331@8@pu nu %@n@a «certainty»/«certitude»/«assurance», a property of conviction@@
-2332@1@@3v@D «becomes sure»/ «convinced» of the truth of sentence B from source/through agent S@@D-BS
+2332@1@@3v@D «becomes sure»/ «convinced» of the truth of sentence B from source/through agent S.@@D-BS
 2332@2@@a@D is «convinced», has become - of the truth of some sentence B from source/through agent S.@@
 2332@3@fu %@a@«convincing», of some source/agent by which someone -s himself of the truth of something.@@
 2332@4@po %@n@«becoming convinced», a state/process of becoming convinced of…@@
@@ -4384,7 +4384,7 @@
 2350@5@fu %@v@«mandatory» for…by rule… mandatory.@@
 2350@6@po %@n@«obligation».@@
 2351@1@@af@a combining form of forma, «form».@@
-2352@1@@3v@K «request»/«apply to»/«propose action» P to D@@K-PD
+2352@1@@3v@K «request»/«apply to»/«propose action» P to D.@@K-PD
 2352@2@po %@n@a formal «request»/«application»/«proposal».@@
 2353@1@@2a@G is more «stately»/«dignified» than J.@@G-J
 2353@2@pu %@n@«pomposity», property of being stately.@@
@@ -4446,7 +4446,7 @@
 2371@1@@2n@B is a «floor»/«story»/«storey» of building F, a space between any two of its floors or between its highest floor and its roof.@@B-F
 2372@1@@2n@B is a «floor level» in building F.@@B-F
 2373@1@@1n@B is a/some «carpet»/«rug», a floor covering.@@B-
-2374@1@@3v@K «sell carpets» to D for price C@@K-DC
+2374@1@@3v@K «sell carpets» to D for price C.@@K-DC
 2374@2@@n@a «carpetseller».@@
 2375@1@@2v@K «brush»/«scrub» the floor of D.@@K-D
 2376@1@@1n@B is a «mop».@@B-
@@ -4458,7 +4458,7 @@
 2381@1@@1n@B is a «fork», any tined/pronged instrument.@@B-
 2381@2@pu %@n@a «fork», a splitting or 'Y' shape, "There was a fork in the road."@@
 2382@1@@2n@B is a «four place» property/relation among F, collection.@@B-F
-2383@1@@3v@B «predicate» 4 place relation V among F@@B-VF
+2383@1@@3v@B «predicate» 4 place relation V among F.@@B-VF
 2384@1@@2v@K «quarter» D, cut into four equal parts.@@K-D
 2384@2@nu %@a@«quartered», cut into 4 parts.@@
 2385@1@@2n@B is a «quarter» of F.@@B-F
@@ -4602,7 +4602,7 @@
 2451@1@@2n@B is a piece of «coal» from S.@@B-S
 2451@2@@a@«coal», made of coal.@@
 2451@3@lo %@n@«coal», mass term.@@
-2452@1@@3n@B is a/the «colour»/«color»/«color value»/«hue» of F to/as perceived by K@@B-FK
+2452@1@@3n@B is a/the «colour»/«color»/«color value»/«hue» of F to/as perceived by K.@@B-FK
 2452@2@fu %@3v@perceive object(s) to have colours/colors/hues…@@
 2452@3@lo %@n@«colour»/«color», the mass of all colours.@@
 2452@4@lo fu %@n@the mass of all «colour perceivers».@@
@@ -4624,7 +4624,7 @@
 2458@6@po %@n@a «comfort», a spec. state of being -ble.@@
 2458@7@pu %@n@a «comfort», a prop. of -able person.@@
 2458@8@pu nu %@n@a «comfort», a prop. of a -able object/setting.@@
-2459@1@@3n@B is a «company»/«firm» chartered by country/government/agency K for purpose P@@B-KP
+2459@1@@3n@B is a «company»/«firm» chartered by country/government/agency K for purpose P.@@B-KP
 2459@2@nu %@n@the «host country»/ «governent»/«chartering agency» of company…@@
 2460@1@@2n@B is a «businessman»/«shopowner» of business F.@@B-F
 2461@1@@1n@B is a «computer».@@B-
@@ -4632,11 +4632,11 @@
 2463@1@@2n@B is a/the «vulva»/«vagina» of F.@@B-F
 2463@2@@a@«vaginal», pert. to vaginas.@@
 2464@1@@2n@B is a «shell» of F.@@B-F
-2464@2@@n@B is the «body» (work) of vehicle F@@
+2464@2@@n@B is the «body» (work) of vehicle F.@@
 2465@1@@af@a combining form of magne, «magnet».@@
 2466@1@@2n@B is/are the «pole» (s) of magnet F.@@B-F
 2467@1@@2n@F is some «magnetic memory» of type B, e.g. disk, tape, card, etc.@@F-B
-2468@1@@4v@K «measure» the magnetism of B to be C on scale/dimension N@@K-BCN
+2468@1@@4v@K «measure» the magnetism of B to be C on scale/dimension N.@@K-BCN
 2469@1@@1n@B is a «magnet».@@B-
 2469@2@@a@«magnetic», pert. to magnets.@@
 2470@1@@1n@B is some «magnesium», element 12 (Mg).@@B-
@@ -4685,7 +4685,7 @@
 2500@1@@2n@B is a/the «cheek», the side of the face of F.@@B-F
 2501@1@@1v@K «yawn».@@K-
 2501@2@po %@n@a «yawn», a specific instance.@@
-2502@1@@2n@B is a/the «palate» of F@@B-F
+2502@1@@2n@B is a/the «palate» of F.@@B-F
 2503@1@@2n@P is a «breath» of S, air breathed out.@@P-S
 2504@1@@2n@K «wash» (es) the «mouth» with «mouthwash» V.@@K-V
 2504@2@nu %@n@a «mouthwash».@@
@@ -4713,7 +4713,7 @@
 2518@3@po %@n@an inst. of «infection».@@
 2519@1@@2n@B is a «germ»/«bacillus»/«virus» of/for V.@@B-V
 2520@1@@2n@B is a «boil»/«carbuncle» on D.@@B-D
-2521@1@@2n@B is «malt» from F@@B-F
+2521@1@@2n@B is «malt» from F.@@B-F
 2522@1@@1n@B is some «maltose», a sugar from malt.@@B-
 2523@1@@2a@G is more «malty»/«maltlike» than J.@@G-J
 2524@1@@2v@D is «pale» from N.@@D-N
@@ -4812,7 +4812,7 @@
 2586@1@@op@changes a name to a predicate.@@
 2587@1@@pm@makes a predicate from an argument, with fuzzier meaning. e.g. mea Ford, 'is like a Ford, Fordish'.@@
 2588@1@@2n@B is a «month» in year F.@@B-F
-2589@1@@2n@B is a «monthly ticket»/«monthly pass» on system N@@B-N
+2589@1@@2n@B is a «monthly ticket»/«monthly pass» on system N.@@B-N
 2590@1@@2n@B is a «skunk»/«polecat» from S.@@B-S
 2591@1@@af@a combining form of megdo, «millionfold».@@
 2592@1@@2n@F is 2E20 fold «quantity» of B (ISV mebi).@@F-B
@@ -4821,7 +4821,7 @@
 2595@1@@2v@B have C frequency in «megahertz».@@B-C
 2596@1@@2v@B «weigh» C in «tonne» (s). (1000kg).@@B-C
 2597@1@@l@«m», Latin lower case letter, one of a pool of symbols.@@
-2598@1@@2n@B has a measured «width» of C@@B-C
+2598@1@@2n@B has a measured «width» of C.@@B-C
 2599@1@@2n@B measures C in «age», has a measured age of…@@B-C
 2600@1@@2n@B «lasts»/«endures» C in «time», has a «measured life»/«endurance» of@@B-C
 2601@1@@af@a combining form of menki, «eye».@@
@@ -4848,7 +4848,7 @@
 2618@1@@2n@B has a measured «temperature» of C.@@B-C
 2619@1@@3n@B is a shade of «hue»/«colour»/«color»…with lightness C and saturation C, e.g., 'Lopu labredro ga melkoo lopu redro lio savo lio sanene'  'Pink is a shade of red with lightness of about 8 and saturation of about 11'.@@B-CC
 2620@1@@2n@B has a measured «width» of C.@@B-C
-2621@1@@2v@B has a measured «speed» of C@@B-C
+2621@1@@2v@B has a measured «speed» of C.@@B-C
 2622@1@@1n@B is a «melon»/quantity of melons from source F.@@B-F
 2622@2@lo %@n@«melon» (s), general term.@@
 2623@1@@3n@K «scale» (parameters) B by (factor/ratio) C.@@K-BC
@@ -4925,7 +4925,7 @@
 2664@2@lopo %@n@«progress»/«advancement», mass term of acts.@@
 2664@3@po %@n@a «progress»/«advancement», a spec. act of -ing.@@
 2665@1@@4v@K «advance» B/make…advance from S to D.@@K-BSD
-2666@1@@2n@K «face»/«turn toward» (person/object) B@@K-B
+2666@1@@2n@K «face»/«turn toward» (person/object) B.@@K-B
 2667@1@@2v@K «rush headlong» into V.@@K-V
 2668@1@@4v@K «forerun»/«conduct»/«lead»/«precede»/go in «front of» B to D from S.@@K-BDS
 2668@2@@n@a «leader»/«forerunner», leader.@@
@@ -4933,7 +4933,7 @@
 2668@4@po %@n@a «leadership»/«lead», an act of -ing.@@
 2668@5@pu %@n@a «leadership», a spec. property.@@
 2669@1@@1n@B are a/the «van», forward part.@@B-
-2670@1@@2n@B is the «lobby» of F@@B-F
+2670@1@@2n@B is the «lobby» of F.@@B-F
 2671@1@@2n@B is the «muzzle»/«mouth» of weapon F.@@B-F
 2672@1@@2v@K «summon»/«call» forth/up D.@@K-D
 2672@2@@n@a «summoner», one who -s.@@
@@ -5083,7 +5083,7 @@
 2738@2@@v@have a «taste for»/be «fond of»/«care for»/«like»/«prefer»…@@
 2738@3@nu %@n@«preference», a…ed object/person@@
 2738@4@po %@n@a «liking»/«preference»/«fondness», a state of liking… V (K-GJ).@@
-2739@1@@2v@K grows «fond» of B@@K-B
+2739@1@@2v@K grows «fond» of B.@@K-B
 2740@1@@2n@B is a «mushroom» of species F.@@B-F
 2741@1@@3v@K «should»/«ought to» do V under circumstances N.@@K-VN
 2742@1@@3n@K feel(s) «obliged»/«obligated» by rule/custom S to do P.@@K-SP
@@ -5196,7 +5196,7 @@
 2778@2@@n@a «purchaser»/«buyer», one who -s.@@
 2778@3@nu %@n@a «purchase», the object bought.@@
 2778@4@po %@n@a «purchase», an act of -ing.@@
-2779@1@@4v@K «order» B from S for price C@@K-BSC
+2779@1@@4v@K «order» B from S for price C.@@K-BSC
 2780@1@@3v@K «declare» goods B with value C for customs purposes.@@K-BC
 2780@2@po %@1n@a «declaration» of…for customs.@@
 2781@1@@1n@B is a «background», as something against which a foreground is seen.@@B-
@@ -5245,7 +5245,7 @@
 2803@1@@3v@K «pray» for N from god S.@@K-NS
 2803@2@lopo %@n@«prayer», the mass of such acts.@@
 2803@3@po %@n@a «prayer», an act of praying.@@
-2804@1@@1n@K «hymn»/sing hymn P@@K-P
+2804@1@@1n@K «hymn»/sing hymn P.@@K-P
 2804@2@nu %@n@a «hymn».@@
 2805@1@@2n@N is a «heaven», the home of god(s) B.@@N-B
 2806@1@@1@B is some «gadolinium», element 64 (Gd).@@B-
@@ -5286,7 +5286,7 @@
 2826@1@la %@na@«God», the judeo christian deity.@@
 2827@1@@af@a combining form of ganta, «high».@@
 2828@1@@2n@B is an upper «arm» of F.@@B-F
-2829@1@@3v@K «carry up» B to D@@K-BD
+2829@1@@3v@K «carry up» B to D.@@K-BD
 2830@1@@3v@K «admire»/look «up to» D for action/quality V.@@K-DV
 2830@2@fu %@a@«admirable», of an -ed act/quality.@@
 2830@3@nu %@a@«admirable», of an -ed person/thing.@@
@@ -5393,7 +5393,7 @@
 2871@3@@n@a «projection», that which juts/projects (from…into…).@@
 2871@4@lopu %@n@«projection», the mass property.@@
 2871@5@po %@n@a «projection», a specific instance of -ing.@@
-2872@1@@2v@K «lift» (pivoting barrier or similar) B@@K-B
+2872@1@@2v@K «lift» (pivoting barrier or similar) B.@@K-B
 2873@1@@2n@B is a «shift key» on keyboard/system F, the one used for the upper set of characters on the key, when this function must be differentiated from other modifier keys@@B-F
 2874@1@@2n@B is the top/upper «surface» of F.@@B-F
 2875@1@@2n@B is a «thigh»/upper «leg» of F.@@B-F
@@ -5516,7 +5516,7 @@
 2941@1@@2v@K «resume» V/begin…again/starts…over again.@@K-V
 2941@2@lopo %@n@«resumption», mass term of acts.@@
 2941@3@po %@n@a «resumption», an act of -ing.@@
-2942@1@@3v@K «checks»/«looks again at» B for N@@K-BN
+2942@1@@3v@K «checks»/«looks again at» B for N.@@K-BN
 2942@2@@a@«checking», pertaining to a -er.@@
 2942@3@@c@«checker», one who -s@@
 2942@4@po %@n@a specific «check».@@
@@ -5574,8 +5574,8 @@
 2965@3@nu %@a@«procurable», that which can be -ed.@@
 2965@4@nu %@n@an «acquisition», an acquired thing.@@
 2965@5@po %@n@an «acquisition», an act of acquiring.@@
-2966@1@@4v@K «transmit»/«relay» B to D from S@@K-BDS
-2966@2@@n@K is a «messenger»/«courier» of B to D from S@@
+2966@1@@4v@K «transmit»/«relay» B to D from S.@@K-BDS
+2966@2@@n@K is a «messenger»/«courier» of B to D from S.@@
 2967@1@@pm@(right «mark» of a GE group).@@
 2968@1@@pm@(,) right mark of displaced object(s).@@
 2969@1@@va@am/is/are «-ing», continuous in a time free sense.@@
@@ -5643,7 +5643,7 @@
 2997@6@po %@n@a «guidance»/guided «trip», an act of -ing.@@
 2997@7@po nu %@n@a «guidance», an act of being guided.@@
 2998@1@@4n@V is a «heuristic»/«rule of thumb» that usually produces results P from data B under conditions N.@@V-PBN
-2999@1@@2n@B is a «pulley»/«guide-wheel» for purpose P@@B-P
+2999@1@@2n@B is a «pulley»/«guide-wheel» for purpose P.@@B-P
 3000@1@@1n@B is a «handlebar», as of a cycle.@@B-
 3001@1@@1n@B is a piece of «glass».@@B-
 3001@2@@a@«glass», made of glass.@@
@@ -5683,7 +5683,7 @@
 3024@1@@2v@K «hook» D, catch…with a hook.@@K-D
 3025@1@@1n@B is a «hook»/«crook».@@B-
 3026@1@@2n@B is a «gullet»/«throat» of F.@@B-F
-3027@1@@2v@K «chuckle» at D@@K-D
+3027@1@@2v@K «chuckle» at D.@@K-D
 3028@1@@af@a combining form of gomni, «adhere».@@
 3029@1@@3v@K «stick»/«glue» B to D.@@K-BD
 3030@1@@2v@K «cling» to D.@@K-D
@@ -5719,16 +5719,16 @@
 3046@1@@1n@N is an instance of «industrialism», a system of industries.@@N-
 3046@2@lo %@n@«industrialism», mass term of systems.@@
 3047@1@@af@a combining form of godzi, «go».@@
-3048@1@@4v@K «take along» B/«carry» … away in going to D from S@@K-BDS
+3048@1@@4v@K «take along» B/«carry» … away in going to D from S.@@K-BDS
 3049@1@@3v@K «invite» D to V.@@K-DV
 3049@2@po %@n@«invitation», an act of -ing.@@
 3050@1@@3n@V is the «course» to D from S, navigation.@@V-DS
-3051@1@@2v@K is «on time»/«punctual»/«on schedule» in departure at time C@@K-C
+3051@1@@2v@K is «on time»/«punctual»/«on schedule» in departure at time C.@@K-C
 3051@2@@a@«on time»/«punctual»/«on schedule» in departure@@
 3051@3@po %@n@an event of departing «on time»/schedule@@
-3052@1@@5v@K «go with»/«accompany»/«escort» B to D from S via V@@K-BDSV
+3052@1@@5v@K «go with»/«accompany»/«escort» B to D from S via V.@@K-BDSV
 3053@1@@2v@K «access»/give access to B.@@K-B
-3054@1@@2n@B is a «boarding» pass/card for conveyance F@@B-F
+3054@1@@2n@B is a «boarding» pass/card for conveyance F.@@B-F
 3055@1@@3v@K «chase»/«drive» D out/away from N.@@K-DN
 3056@1@@1n@B is a «spur».@@B-
 3057@1@@2v@D have «access» to B.@@D-B
@@ -5737,7 +5737,7 @@
 3058@2@@2v@«part from»/take «leave of»…@@
 3058@3@lopo %@n@«parting», mass term of acts.@@
 3058@4@po %@n@a «good bye»/«parting»/«farewell», an act/event of leave taking.@@
-3059@1@@2v@G is «later»/«tardier»/more «delayed» in departure than J@@G-J
+3059@1@@2v@G is «later»/«tardier»/more «delayed» in departure than J.@@G-J
 3059@2@@a@«late»/«tardy»/«delayed» in departure@@
 3059@3@lopu %@n@«lateness»/ being «delayed», mass prop.@@
 3059@4@po %@n@a «lateness»/«delay» in departure, an event of being delayed@@
@@ -5761,7 +5761,7 @@
 3068@1@@1n@N is a great «Power».@@N-
 3069@1@@2n@B is a «hall» of building F, as for meetings.@@B-F
 3070@1@@2n@B is a «continent» of planet F.@@B-F
-3071@1@@2n@K is a «wizard» at (activity) P@@K-P
+3071@1@@2n@K is a «wizard» at (activity) P.@@K-P
 3072@1@@1n@B is a «banquet»/«feast», a large meal.@@B-
 3073@1@@2n@B weighs C in «gram» (s), international unit of mass, default 1.@@B-C
 3074@1@@1n@B is some «granite» from…, an igneous rock.@@B-
@@ -5792,7 +5792,7 @@
 3082@1@@1n@B is a (piece of) «cake».@@B-
 3082@2@@a@«cake», made of cake.@@
 3082@3@lo %@n@«cake», mass term.@@
-3083@1@@2n@B ia a «forest» of region F@@B-F
+3083@1@@2n@B ia a «forest» of region F.@@B-F
 3084@1@@2v@K «honor»/«glorify», see D as great.@@K-D
 3084@2@lopu nu %@n@«honour»/«honor»/«glory», mass term of property.@@
 3084@3@nu %@a@«glorious»/«honoured»/«honored», of one who is seen as great.@@
@@ -6105,7 +6105,7 @@
 3222@1@@2v@F «taste like»/produce «flavor» B.@@F-B
 3222@2@@a@«flavorful», having taste…@@
 3222@3@@n@the «taste of», a flavor produced by…@@
-3223@1@@2v@K «taste»/«try» B@@K-B
+3223@1@@2v@K «taste»/«try» B.@@K-B
 3224@1@@2n@B is the sense of «taste» of organism F.@@B-F
 3224@2@@a@«gustatory», pert. to taste.@@
 3225@1@@af@a combining form of gutra, «strange».@@
@@ -6124,7 +6124,7 @@
 3229@4@lopu %@n@«barbarism», mass term of properties.@@
 3229@5@po %@n@a «barbarism»/«barbarity», a spec. act of being -ic.@@
 3229@6@pu %@n@a «barbarism», a spec. property.@@
-3230@1@@2n@B is a «mystery» about P@@B-P
+3230@1@@2n@B is a «mystery» about P.@@B-P
 3230@2@@a@«mysterious».@@
 3231@1@@2n@V is a «mystery» to D, a strange/inexplicable happening/event/incident.@@V-D
 3231@2@@a@«mysterious»/«curious», an inexplicable event.@@
@@ -6191,7 +6191,7 @@
 3269@1@@2a@G is more «joyful»/«joyous» than J is.@@G-J
 3269@2@@a@«joyful»/«joyous», more joyful than…@@
 3269@3@po %@n@some «joy», a spec. state.@@
-3270@1@@2v@K is «glad»/«happy» to «meet» D@@K-D
+3270@1@@2v@K is «glad»/«happy» to «meet» D.@@K-D
 3271@1@@1a@B is «hearty»/«lusty»/«joyful»/«gay»/«jolly»/«merry».@@B-
 3271@2@@v@be «gay», act happy.@@
 3271@3@lopu %@n@«gaiety»/«heartiness», mass prop.@@
@@ -6224,7 +6224,7 @@
 3286@3@nu %@a@«manipulable», can be -ed.@@
 3286@4@po %@n@an inst. of «manipulation».@@
 3286@5@pu nu %@n@a prop. of «manipulability».@@
-3287@1@@3v@K «frisk»/«search» D for B@@K-DB
+3287@1@@3v@K «frisk»/«search» D for B.@@K-DB
 3288@1@@1n@B is a «mitten», fingerless glove.@@B-
 3289@1@@1n@B is a «watch», portable time piece.@@B-
 3290@1@@3n@V is a «craft»/«handicraft»/manual «art» for producing P used by people K.@@V-PK
@@ -6241,7 +6241,7 @@
 3297@1@@2n@B is a «hand shape» of F.@@B-F
 3298@1@@3n@F is a «sign language» used by K in situation N.@@F-KN
 3299@1@@3v@K «gesture»/«sign»/«signal» to D to do V.@@K-DV
-3300@1@@1v@K (pl.) «shake hands» (with each other) v. hansiu  K shakes hands with D@@K-
+3300@1@@1v@K (pl.) «shake hands» (with each other) v. hansiu  K shakes hands with D.@@K-
 3301@1@@2v@K «shake hands» with D.@@K-D
 3301@2@po %@n@a «handshake», an act of -ing.@@
 3302@1@@2v@K «clap» (hands) for purpose P.@@K-P
@@ -6296,9 +6296,9 @@
 3323@2@@a@«cheerful»/«jolly», jolly, of one who cheers.@@
 3323@3@po %@n@some «cheer», an act of being -ful.@@
 3323@4@po nu %@n@an «elation», a state of being made happy.@@
-3324@1@@4a@G is «happier» about V than J (is about) V@@G-VJV
+3324@1@@4a@G is «happier» about V than J (is about) V.@@G-VJV
 3324@2@nu %@a@«unhappy», less happy than, conv. happy.@@
-3325@1@@3v@K «party»/ ies with N for/about V@@K-NV
+3325@1@@3v@K «party»/ ies with N for/about V.@@K-NV
 3326@1@@4n@V is a «party»/«celebration» given by host K for guests D, on occasion N.@@V-KDN
 3326@2@fu %@n@a «guest», at a party.@@
 3326@3@ju %@n@an «occasion», of a party.@@
@@ -6545,7 +6545,7 @@
 3459@1@@2v@K «groom» (hair) D.@@K-D
 3460@1@@2n@B is the «coat»/«fur» of animal S.@@B-S
 3461@1@@2v@K «shave» D.@@K-D
-3462@1@@2n@B is a «lock-of-hair»/«quiff»/«pony-tail» of S@@B-S
+3462@1@@2n@B is a «lock-of-hair»/«quiff»/«pony-tail» of S.@@B-S
 3463@1@@2v@K «scalp» (s) D.@@K-D
 3463@2@nu %@a@«scalped».@@
 3464@1@@2v@K «brush»/«groom» the hair of D.@@K-D
@@ -6566,7 +6566,7 @@
 3476@1@@ms@initial close «parenthesis», in mathematical contexts;  used with hiu.@@
 3477@1@@1n@B is some «mercury», element 80 (Hg).@@B-
 3478@1@@af@a combining form of hijra, «here».@@
-3479@1@@3v@K «invite» B to go with him/her to D@@K-BD
+3479@1@@3v@K «invite» B to go with him/her to D.@@K-BD
 3480@1@@2v@K «attend»/«present» at V.@@K-V
 3480@2@@a@«here»/«present», here, incomplete form.@@
 3480@3@po %@n@a «presence»/«attendance», a state of being present.@@
@@ -6596,7 +6596,7 @@
 3497@2@@a@«auditory»/«aural».@@
 3497@3@lo %@1n@«hearing sense»/«audition», mass term.@@
 3498@1@@1n@B is a «microphone».@@B-
-3499@1@@3n@B is a «communication tool» used by K under conditions N@@B-KN
+3499@1@@3n@B is a «communication tool» used by K under conditions N.@@B-KN
 3500@1@@2v@K «listen» to S.@@K-S
 3500@2@@i@«listen»!/«hark»!, listen, w/o 1st arg., an imperative.@@
 3500@3@@n@a «listener», one who -s.@@
@@ -6612,7 +6612,7 @@
 3503@1@@af@a combining form of hisri, «history».@@
 3504@1@@2a@G is more «impending»/«about to happen» than J is.@@G-J
 3505@1@@2a@G is more «futuristic» than J is.@@G-J
-3506@1@@2n@V is an historical «age»/«epoch»/«period» lasting C@@V-C
+3506@1@@2n@V is an historical «age»/«epoch»/«period» lasting C.@@V-C
 3506@2@@a@«epochal», pert. to historical epochs.@@
 3507@1@@2a@G is more «modern»/«new»/«recent»/«up to date» than J is.@@G-J
 3507@2@lo %@n@«modernness», mass term of properties.@@
@@ -7036,7 +7036,7 @@
 3771@1@@af@a combining form of jokla, «clock».@@
 3772@1@@1n@B is a «clock»/«timepiece», an instrument to measure time.@@B-
 3773@1@@af@a combining form of jokla, «clock».@@
-3774@1@@3v@C is the «clock time» from/beginning at S to/ending at D@@C-SD
+3774@1@@3v@C is the «clock time» from/beginning at S to/ending at D.@@C-SD
 3775@1@@1n@B is a «clock maker».@@B-
 3776@1@@af@a combining form of djoso, «sew».@@
 3777@1@@1n@B is a «sewing machine».@@B-
@@ -7083,7 +7083,7 @@
 3799@3@@n@«consulter», one who -s.@@
 3799@4@nu %@n@«consultant», the person -ed.@@
 3799@5@po %@n@a «consultation»/«conference», an instance of -ing.@@
-3800@1@@2v@K «say»/«express opinion»/«opine» N@@K-N
+3800@1@@2v@K «say»/«express opinion»/«opine» N.@@K-N
 3801@1@@af@a combining form of djula, «jewel».@@
 3802@1@@1n@B is a gem «diamond»/carbon crystal@@B-
 3802@2@@a@«diamond», pertaining to —.@@
@@ -7144,11 +7144,11 @@
 3831@1@@af@a combining form of ju, 4th place passive.@@
 3832@1@@2n@B is a «remedy» of/for medical condition N.@@B-N
 3833@1@@3n@B is a «bond»/«tie» (line)/«connection» between S and D.@@B-SD
-3834@1@@4n@N is a «permission» for act D by person V granted by K@@N-DVK
+3834@1@@4n@N is a «permission» for act D by person V granted by K.@@N-DVK
 3835@1@@3v@K «earn» wages/salary C for work P.@@K-CP
 3835@2@@n@an «earner», one who earns wages.@@
 3836@1@@2n@V is a «remedy» of/for fixing problem B.@@V-B
-3837@1@@3n@S is a means of «earning» (gainful «employment») for K under conditions N@@S-KN
+3837@1@@3n@S is a means of «earning» (gainful «employment») for K under conditions N.@@S-KN
 3838@1@@3n@N a «meaning»/«significance» of/«behavior prompted by» sign V to D.@@N-VD
 3838@2@lo %@n@«meaning», the mass of such meanings.@@
 3839@1@@c@«and»/«or», inclusive sense, forethought connection.@@
@@ -7165,7 +7165,7 @@
 3848@1@@2v@K «realize»/become«conscious»/«aware» of B.@@K-B
 3848@2@po %@n@an «awareness»/«realization», an act of becoming aware.@@
 3849@1@@af@a combining form of kamda, «fight».@@
-3850@1@@2n@B is a «fighter» aircraft of airforce F@@B-F
+3850@1@@2n@B is a «fighter» aircraft of airforce F.@@B-F
 3851@1@@3v@K«defeat»/«prevail»/«beat» D in fight/struggle V.@@K-DV
 3851@2@@a@«victorious», of winning fighters.@@
 3851@3@@n@a/the «victor», one who wins a fight.@@
@@ -7205,7 +7205,7 @@
 3865@1@@2n@B is a «beaver» from S, Castor canadensis.@@B-S
 3866@1@@l@«K», Latin upper case letter, one of a pool of symbols.@@
 3867@1@@af@a combining form of katli, «quality».@@
-3868@1@@3v@K «recognize»/«see»/«know» quality/property N in S@@K-NS
+3868@1@@3v@K «recognize»/«see»/«know» quality/property N in S.@@K-NS
 3869@1@@af@a combining form of kakto, «act».@@
 3870@1@@3v@K «alternate»/take «turns»/«trade places» with K in doing P.@@K-KP
 3870@2@@av@«alternately»/in «turn», by turns.@@
@@ -7260,11 +7260,11 @@
 3884@1@@2v@D «know» (s) F completely, have complete knowledge of…@@D-F
 3885@1@@3@V is an «algorithm» that produces results P from data of type B.@@V-PB
 3886@1@@2v@K «collapse» from condition N.@@K-N
-3887@1@@2v@K practises «circuits and bumps»/«touch and goes» at airport N@@K-N
+3887@1@@2v@K practises «circuits and bumps»/«touch and goes» at airport N.@@K-N
 3888@1@@2a@F is (completely) «full»/«filled» of/with B.@@F-B
 3888@2@lopu %@n@«fullness», mass term of properties.@@
 3888@3@nu %@n@«filler», that used to fill up.@@
-3889@1@@2v@D is/are «filled up» with B@@D-B
+3889@1@@2v@D is/are «filled up» with B.@@D-B
 3890@1@@3v@K «triumph» over D in situation V.@@K-DV
 3890@2@@a@«triumphant»/«victorious» over…@@
 3890@3@lopo %@n@an instance of «triumph», e.g. Arch of Triumph.@@
@@ -7359,7 +7359,7 @@
 3932@3@fu %@n@an/the «issue», that which motivates a fight.@@
 3932@4@lopo %@n@«fight»/«fighting»/«combat», mass term of acts.@@
 3932@5@po %@n@a «fight»/«fighting»/«combat», a spec. act of -ing.@@
-3933@1@@2v@K is «on time»/«punctual»/«on schedule» in arrival at time C@@K-C
+3933@1@@2v@K is «on time»/«punctual»/«on schedule» in arrival at time C.@@K-C
 3933@2@@a@«on time»/«punctual»/«on schedule» in arrival@@
 3933@3@po %@n@an event of arriving «on time»/schedule@@
 3934@1@@3v@K «ply» between D and D, regular travel betwen two points.@@K-DD
@@ -7371,7 +7371,7 @@
 3936@5@lopu %@n@«humor»/«wit», mass term of properties.@@
 3936@6@po %@n@the «humor»/«wit», a comic event.@@
 3936@7@pu %@n@a «humorousness»/«humor»/«funniness», a spec. prop. of a person.@@
-3937@1@@4v@K «recall»/«call back»/«summon» B to D from S@@K-BDS
+3937@1@@4v@K «recall»/«call back»/«summon» B to D from S.@@K-BDS
 3938@1@@4v@K «summon» B to D from S.@@K-BDS
 3938@2@po %@n@a «summons», an call to come.@@
 3939@1@@3n@B a «joke»/«jest»/funny «story» about/concerning N by K.@@B-NK
@@ -7395,13 +7395,13 @@
 3949@1@@2v@K «beckon» to D.@@K-D
 3949@2@po %@n@an instance of «beckoning».@@
 3950@1@@3n@B is a «committee» of organization F with function P.@@B-FP
-3951@1@@2v@G is «later»/«tardier»/more «delayed» in arrival than J@@G-J
+3951@1@@2v@G is «later»/«tardier»/more «delayed» in arrival than J.@@G-J
 3951@2@@a@«late»/«tardy»/«delayed» in arrival@@
 3951@3@lopu %@n@«lateness»/ being «delayed», mass prop.@@
 3951@4@po %@n@a «lateness»/«delay» in arrival, an event of being delayed@@
 3952@1@@3v@K «refuse»/«turn away» D from V, an intentional rejection.@@K-DV
 3953@1@@af@a combining form of kanmo, «can».@@
-3954@1@@3n@N is the «capacity»/«capability» of V to accomplish P@@N-VP
+3954@1@@3n@N is the «capacity»/«capability» of V to accomplish P.@@N-VP
 3955@1@@2a@D is «conscious»/«aware» /«sense» of/that N.@@D-N
 3955@2@@v@«know»/be «conscious»/«aware» /«sense» of/that…@@
 3955@3@lopo %@n@«awareness», mass term of states.@@
@@ -7586,7 +7586,7 @@
 4045@7@pu nu %@n@«observability», a prop., being -able.@@
 4046@1@@4v@K «attribute»/«impute» characteristic B to cause S under circumstances N.@@K-BSN
 4047@1@@2n@P is a (written) «observation» about V.@@P-V
-4048@1@@3v@K «track» B for purpose/reason N@@K-BN
+4048@1@@3v@K «track» B for purpose/reason N.@@K-BN
 4049@1@@3v@K «catabolize» D by V.@@K-DV
 4049@2@@a@«catabolic», pert. to -ism.@@
 4049@3@po %@n@an instance of «catabolism».@@
@@ -7612,7 +7612,7 @@
 4060@1@@2n@B is a piece of «cotton» from S.@@B-S
 4060@2@@a@«cotton», made of cotton.@@
 4060@3@lo %@n@«cotton», mass term.@@
-4061@1@@4v@B is the «predicate»/«word» with meaning Fand number of places X in (Loglandical) language Y@@
+4061@1@@4v@B is the «predicate»/«word» with meaning Fand number of places X in (Loglandical) language Y.@@
 4061@2@@n@a «predicate», a predicate word/expression.@@
 4061@3@nu %@n@a «meaning», of a predicate.@@
 4062@1@@aux@«can»/is «able to»…, used before predicates (PA). E.g., Mi kau godzi daI can go to X.@@
@@ -7628,7 +7628,7 @@
 4067@1@@af@a combining form of kecri, «sad».@@
 4068@1@@3n@P is a «tragedy» about N by S.@@P-NS
 4069@1@@2a@B is «bittersweet» to D.@@B-D
-4070@1@@2v@S «saddens»/is saddening for D@@S-D
+4070@1@@2v@S «saddens»/is saddening for D.@@S-D
 4070@2@@a@«sad», of something that saddens@@
 4070@3@@a@«saddening», of something that saddens…@@
 4070@4@@v@«makes»… «sad».@@
@@ -7709,10 +7709,10 @@
 4104@2@@a@«questioning», of one who asks questions.@@
 4104@3@nu %@n@a «question», asked by…of…, conv. of ask.@@
 4104@4@po %@n@a «questioning», an act of asking questions.@@
-4105@1@@3v@K «ask»/«inquire»/«question» about B from S@@K-BS
+4105@1@@3v@K «ask»/«inquire»/«question» about B from S.@@K-BS
 4105@2@@n@an «inquirer», one who inquires.@@
 4105@3@po %@n@an «inquiry», a spec. act of -ing about.@@
-4106@1@@2v@K «ask»/«inquire»/«question» S@@K-S
+4106@1@@2v@K «ask»/«inquire»/«question» S.@@K-S
 4106@2@@a@K is «curious»/«inquisitive»/«inquiring» (by nature).@@
 4107@1@@c@«and not», in 'both…and not', forethought with ki, in 'kenoi…ki…'.@@
 4108@1@@3v@K «question»/«ask» D about V.@@K-DV
@@ -7730,14 +7730,14 @@
 4114@2@nu %@n@a «pastime», something to occupy oneself in spare time.@@
 4115@1@@af@a combining form of ketpi, «ticket».@@
 4116@1@@2n@B is the «ticket window» of F.@@B-F
-4117@1@@2n@B is a «ticket book»/«carnet» for use on transport system N@@B-N
+4117@1@@2n@B is a «ticket book»/«carnet» for use on transport system N.@@B-N
 4118@1@@af@a combining form of kerti, «air».@@
 4119@1@@2n@B is a «cage» for P.@@B-P
-4120@1@@2n@B is an «airman»/member of the air force of government F@@B-F
+4120@1@@2n@B is an «airman»/member of the air force of government F.@@B-F
 4120@2@lo %@n@an «air force» (mass term).@@
 4121@1@@2a@G is more «airy»/«air like»/«ethereal» than J.@@G-J
 4121@2@pu %@n@an «airiness», a property of being like air.@@
-4122@1@@4v@K «glide» to D from S via V@@K-DSV
+4122@1@@4v@K «glide» to D from S via V.@@K-DSV
 4123@1@@2n@V is the «atmosphere»/«aura» of place/room/book F.@@V-F
 4124@1@@2a@G is more «airy»/full of air than J.@@G-J
 4124@2@po %@n@an «airiness», a state of being full of air.@@
@@ -7754,7 +7754,7 @@
 4130@1@@2a@G is «draftier»/more full of drafts than J.@@G-J
 4130@2@@a@«drafty», draftier than…@@
 4131@1@@1n@B is an «anemometer».@@B-
-4132@1@@2n@V is «drag»/«air resistance» of magnitude C@@V-C
+4132@1@@2n@V is «drag»/«air resistance» of magnitude C.@@V-C
 4132@2@nu %@n@C is the amount of «drag».@@
 4133@1@@1n@B is a «barometer».@@B-
 4134@1@@2v@K «fan» (object) B.@@K-B
@@ -7763,7 +7763,7 @@
 4135@2@@a@«turbulent»/«bumpy».@@
 4135@3@lepo %@n@«turbulence»/«air pocket», a sp. event@@
 4135@4@lopu %@n@«turbulence», a prop.@@
-4136@1@@2n@B is an «airscrew»/«propellor» of aircraft F@@B-F
+4136@1@@2n@B is an «airscrew»/«propellor» of aircraft F.@@B-F
 4137@1@@1n@B is a quantity/mass of «air».@@B-
 4137@2@@a@«air», made of air.@@
 4137@3@lo %@n@«air», mass term.@@
@@ -7779,7 +7779,7 @@
 4144@2@po %@1n@«accuracy», an instance of being —.@@
 4144@3@pu %@1n@«accuracy», a property of being —.@@
 4145@1@@2n@B is an «academy» of F.@@B-F
-4146@1@@3v@K «cry»/«shout» a warning to D of danger V@@K-DV
+4146@1@@3v@K «cry»/«shout» a warning to D of danger V.@@K-DV
 4146@2@@v@give an «alarm to»/«warn»…of…@@
 4146@3@po %@n@an «alarm»/«warning»/«shout», a sp. act of -ing. e.g. "Watch out"@@
 4147@1@@c@«then»/«or»/«and»/«nor» etc., infix mark of forethought connections.@@
@@ -7838,7 +7838,7 @@
 4179@7@no %@a@«apart», neg. of together.@@
 4179@8@no nu %@ph@be «without»…in doing…, neg. conv.@@
 4179@9@po %@n@a «company»/«companionship»/«accompaniment», an act/process of ing.@@
-4180@1@@3n@D is an «apprentice»/«disciple» of teacher S in subject N@@D-SN
+4180@1@@3n@D is an «apprentice»/«disciple» of teacher S in subject N.@@D-SN
 4181@1@@2a@K is «alone»/«solitary»/«secluded»/«isolated»/«unaccompanied»/«companionless» in doing V, without the presence of others@@K-V
 4181@2@@av@«alone»/by «oneself», while alone.@@
 4181@3@@p@by «himself»/«itself»/«myself»/«ourselves»/«themselves»/«yourself»/«yourselves»/«oneself»/«herself», by herself, without companions.@@
@@ -7887,11 +7887,11 @@
 4195@3@nu %@a@«assembled», objects/persons -ed.@@
 4195@4@nu %@n@an «assembly», objects/persons -ed.@@
 4195@5@po %@n@an instance of «assembly»/«bringing together».@@
-4196@1@@4n@P is a «mosaic» depicting B and made from S by artist K@@P-BSK
+4196@1@@4n@P is a «mosaic» depicting B and made from S by artist K.@@P-BSK
 4197@1@@3v@K «collect»/«assemble»/«put»/«piece together» B as/into assembly F.@@K-BF
 4197@2@fu %@n@an «assembly»/«collection»/«assemblage», an assembled whole.@@
 4198@1@@2n@F is a «bouquet»/«bunch»/«cluster» of B.@@F-B
-4199@1@@3v@K «follow» B in order to «chronicle» V@@K-BV
+4199@1@@3v@K «follow» B in order to «chronicle» V.@@K-BV
 4200@1@@3v@K «converse» with D about B.@@K-DB
 4200@2@po %@1n@a specific instance of «conversation».@@
 4201@1@@2v@K «eat»/«break bread»/«share meal» with D.@@K-D
@@ -7920,7 +7920,7 @@
 4213@1@@3v@K «drug» D with substance V.@@K-DV
 4213@2@nu %@a@«drugged» (by person…).@@
 4214@1@@1n@B is a «pharmacy»/«chemist shop»/«drug store».@@B-
-4215@1@@2v@K «bandage» B@@K-B
+4215@1@@2v@K «bandage» B.@@K-B
 4216@1@@1n@B is an instance of «medical science».@@B-
 4216@2@lo %@1n@«medical science»/«medicine», mass term.@@
 4217@1@@af@a combining form of skizo, «ski».@@
@@ -7959,7 +7959,7 @@
 4235@2@nu %@a@«classified»/«identified»/«recognized» by…as an@@
 4235@3@po %@n@an/a «classification»/«identification»/«recognition», an event of recognizing…as an…@@
 4235@4@po nu %@n@an/a «classification»/«identification»/«recognition», an event of being recognized by…as an…@@
-4236@1@@2n@K is a «member of class»/sort/kind N@@K-N
+4236@1@@2n@K is a «member of class»/sort/kind N.@@K-N
 4237@1@@2v@K «class discover», discover the class to which B belongs.@@K-B
 4238@1@@3v@K «cool» D with/by V.@@K-DV
 4238@2@po %@n@a «cooling», a spec. act.@@
@@ -8055,14 +8055,14 @@
 4285@3@ju %@n@a «tie»/«bond», tie, a line used in tying.@@
 4286@1@@1n@B is a «vineyard».@@B-
 4287@1@@2n@B is a «vine» of habitat F.@@B-F
-4288@1@@3n@B is a «funicular» railway to P from S@@B-PS
+4288@1@@3n@B is a «funicular» railway to P from S.@@B-PS
 4289@1@@1n@B is a «kite» (a covered framework flown on a string).@@B-
 4290@1@@af@a combining form of korce, «cord».@@
 4291@1@@2a@G is (more) «stringy» (than J is).@@G-J
 4291@2@pu %@n@a «stringiness», a specific property.@@
 4292@1@@4v@K «tow»/«haul» B to D from S.@@K-BDS
 4293@1@@af@a combining form of komfu, «comfortable».@@
-4294@1@@3v@K happens to «make comfortable» B in/about/with N@@K-BN
+4294@1@@3v@K happens to «make comfortable» B in/about/with N.@@K-BN
 4295@1@@2a@G is more «wretched»/«disconsolate» than J is.@@G-J
 4295@2@po %@n@an instance of «wretchness»/«disconsolation».@@
 4295@3@pu %@n@a «wretchedness»/«disconsolateness», a spec. prop.@@
@@ -8083,7 +8083,7 @@
 4300@4@nu %@a@«countable»/«counted», conv. of count.@@
 4300@5@po %@n@a «counting»/«count», an act of -ing.@@
 4301@1@@1n@B is a «counter», a machine for counting.@@B-
-4302@1@@2@B is a «cone» with dimensions C@@B-C
+4302@1@@2@B is a «cone» with dimensions C.@@B-C
 4303@1@@2n@B is some «cognac» from S, a French brandy.@@B-S
 4304@1@@2n@B is an integral «multiple» of F (Technically this would be fu konfurjaijai, the (perhaps non integral) product of x multiplied by an integer y, but konjai seems better for this common notion.).@@B-F
 4305@1@@c@«either»…or, exclusive, free form.@@
@@ -8173,8 +8173,8 @@
 4349@1@@1n@B is a «coat», a piece of outer clothing.@@B-
 4350@1@@af@a combining form of komta, «computer».@@
 4351@1@@1n@B is a bird of the genus «Cotinga».@@B-
-4352@1@@2n@B is a «computer-network» in F@@
-4353@1@@4v@K «e-mail» B to D from S@@K-BDS
+4352@1@@2n@B is a «computer-network» in F.@@
+4353@1@@4v@K «e-mail» B to D from S.@@K-BDS
 4354@1@@3n@B is a computer «disk» (ette) containing P for system F.@@B-PF
 4354@2@norstifa %@ph@a computer «floppy disk».@@
 4354@3@stifa %@ph@a computer «hard disk».@@
@@ -8212,7 +8212,7 @@
 4369@1@@2v@K «crush»/«squash» D underfoot, to kill or injure.@@K-D
 4370@1@@2v@K «scratch» D, something/someone else.@@K-D
 4370@2@po %@n@a «scratch», an event of -ing.@@
-4371@1@@3v@K «yell» B at D@@K-BD
+4371@1@@3v@K «yell» B at D.@@K-BD
 4372@1@@1v@K «cry»/«call» (out).@@K-
 4372@2@@n@a «crier», one who cries out.@@
 4372@3@po %@n@a «crying»/«cry», an act of -ing out.@@
@@ -8312,7 +8312,7 @@
 4417@1@@3n@B is a «glacier» of region F flowing in direction P.@@B-FP
 4418@1@@3v@K «pour» B into D, nonintentionally.@@K-BD
 4419@1@@1a@B is «turned off»/«switched off»/«stagnant».@@B-
-4420@1@@1a@B is «downstream»/«downwind» from S@@B-S
+4420@1@@1a@B is «downstream»/«downwind» from S.@@B-S
 4421@1@@3n@B is a «hall»/«corridor»/«passage», walk way between S and D.@@B-SD
 4422@1@@2n@B is a «cursive» letter from font/set F.@@B-F
 4423@1@@3v@B «flow»/«pour» from S to D.@@B-SD
@@ -8367,7 +8367,7 @@
 4448@1@@2n@K is a «tyrant» over D.@@K-D
 4448@2@po %@n@an instance of «tyranny».@@
 4449@1@@2n@B is a «chamber»/«room» of F, an enclosed portion of house.@@B-F
-4450@1@@2n@B is a «suite» (of rooms) in building F@@B-F
+4450@1@@2n@B is a «suite» (of rooms) in building F.@@B-F
 4451@1@@c@«whether» (or not), forethought logical independence with ki in 'ku…ki…'.@@
 4452@1@@ms@…«over»/«divided by»…— the division operator (/ or ÷), math.@@
 4453@1@@1a@B is «coverless».@@B-
@@ -8443,7 +8443,7 @@
 4496@2@pu %@n@an «intelligence», a specific property.@@
 4497@1@@3v@K «dash»/«race» to D from S.@@K-DS
 4497@2@po %@n@a «race»/«dash», an act/event of -ing.@@
-4498@1@@4a@G is «swifter»/«faster» than J by C in motion N@@G-JCN
+4498@1@@4a@G is «swifter»/«faster» than J by C in motion N.@@G-JCN
 4498@2@@a@«quick»/«rapid»/«fast»/«swift», swifter than…in motion…@@
 4498@3@@av@«rapidly»/«quickly»/«swiftly», in a rapid manner.@@
 4498@4@lopu %@n@«swiftness»/«speed», mass term of properties.@@
@@ -8453,7 +8453,7 @@
 4500@1@@2v@K «pant» for reason S.@@K-S
 4501@1@@2v@K «vibrate» D, makes…vibrate with, intentional@@K-D
 4501@2@@n@«vibrator», one who -es…@@
-4502@1@@3v@K «quiver»/«shake»/«vibrate» with frequency S and amplitude S@@K-SS
+4502@1@@3v@K «quiver»/«shake»/«vibrate» with frequency S and amplitude S.@@K-SS
 4502@2@@a@«vibrating», pert. to that which -s.@@
 4502@3@po %@n@a «vibration», a state/act of -ing.@@
 4503@1@@2v@K «vibrate» D, makes…vibrate, nonintentional@@K-D
@@ -8483,9 +8483,9 @@
 4518@1@@4v@K «gush»/«spout»/«jet» V into D from S.@@K-VDS
 4518@2@@n@«gusher»/«jet», that which is -ing.@@
 4518@3@nu %@n@«gush»/«jet»/«spout», that which is -ed.@@
-4519@1@@2n@V is an «emergency» «exit» of conveyance F@@V-F
+4519@1@@2n@V is an «emergency» «exit» of conveyance F.@@V-F
 4520@1@@af@a combining form of kultu, «culture».@@
-4521@1@@2v@K «exchange» own «culture» with culture of S@@K-S
+4521@1@@2v@K «exchange» own «culture» with culture of S.@@K-S
 4522@1@@1v@S brings about a «cultural revolution».@@S-
 4522@2@po %@n@a «cultural revolution».@@
 4523@1@@1n@F is a «tribe»/«clan», a human social group.@@F-
@@ -8709,7 +8709,7 @@
 4651@1@@1v@B «age»/become older.@@B-
 4651@2@@a@«aged», one who is aging naturally.@@
 4652@1@@2n@B is the «peer» of B, one equal in age to …@@B-B
-4653@1@@3v@K «tell the age»/«give the age» of B to D@@K-BD
+4653@1@@3v@K «tell the age»/«give the age» of B to D.@@K-BD
 4654@1@@2v@K «yearn»/«long» for V, that…should come about.@@K-V
 4654@2@nu %@n@a «yearning», that which is -ed for.@@
 4654@3@po %@n@a «yearning»/«longing», an act/state of -ing.@@
@@ -8721,7 +8721,7 @@
 4655@6@pu %@n@the/an «age», a spec. property of being old.@@
 4656@1@@1n@B is an old «woman».@@B-
 4657@1@@1a@V is «quaint».@@V-
-4658@1@@2n@B is a  «tradition» to culture F@@B-F
+4658@1@@2n@B is a  «tradition» to culture F.@@B-F
 4658@2@pu %@a@«traditional».@@
 4659@1@@2v@K «age» D, make…old, intentional.@@K-D
 4659@2@@a@«aged», made old.@@
@@ -8742,7 +8742,7 @@
 4671@1@@2n@B is a «cape»/«headland» on land F.@@B-F
 4672@1@@1n@B is a parcel of «land»/«terrain».@@B-
 4672@2@lo %@n@«terrain»/«land», mass term.@@
-4673@1@@2a@G is «longer» than J in their greatest dimension by C@@G-JC
+4673@1@@2a@G is «longer» than J in their greatest dimension by C.@@G-JC
 4673@2@@a@«long», incomplete form.@@
 4673@3@pu %@n@a/the «length»/«stature», a property of being long.@@
 4674@1@@3v@K «land»/go «ashore»/«arrive» at D from S.@@K-DS
@@ -8776,7 +8776,7 @@
 4691@2@@n@«sculpts»/is a «sculptor», of art.@@
 4691@3@po %@v@is «sculpting», the act of sculpture.@@
 4692@1@@2n@K is a/the «muse» (s) of B.@@K-B
-4693@1@@3n@B is a «classic» in field/genre F among K@@B-FK
+4693@1@@3n@B is a «classic» in field/genre F among K.@@B-FK
 4694@1@@1n@B is a female «lark», a bird of the Alauda species.@@B-
 4695@1@@1n@B is «lark like», pertains to larks.@@B-
 4696@1@@1n@B is an infant «lark».@@B-
@@ -8883,22 +8883,22 @@
 4756@1@@1a@B is «charged», as of a battery.@@B-
 4757@1@@1a@B is «electric»/«electrical», uses electricity for operation.@@B-
 4757@2@@av@«electrically», by means of electricity.@@
-4758@1@@2n@B is the «electrical system» of vehicle/device F@@B-F
+4758@1@@2n@B is the «electrical system» of vehicle/device F.@@B-F
 4759@1@@2n@an (electric) «oscillator» of frequency…@@B-C
 4759@2@@2v@B «oscillate» at frequency C.@@
 4759@3@po %@n@an instance of «oscillation» (electric).@@
 4760@1@@2n@B is an electric «battery» of capacity C.@@B-C
 4761@1@@1a@B is «electrical», powered by electricity.@@B-
 4762@1@@1n@B is an «electrocardiograph».@@B-
-4763@1@@3n@V is «current»/«flow» of electricity between S and D@@V-SD
+4763@1@@3n@V is «current»/«flow» of electricity between S and D.@@V-SD
 4763@2@@n@some/an «electric current»/«electricity», a specific current.@@
 4763@3@lo %@n@«electricity», mass term.@@
 4764@1@@af@a combining form of lelpi, «level».@@
 4765@1@@2v@K «lie down» on B.@@K-B
 4766@1@@1n@B is a «level», a leveling instrument.@@B-
 4767@1@@1n@V is a even «temper»/«disposition».@@V-
-4768@1@@2v@(aircraft) K «cruise» at altitude C@@K-C
-4768@2@nu %@n@C is the «cruising altitude» of aircraft K@@
+4768@1@@2v@(aircraft) K «cruise» at altitude C.@@K-C
+4768@2@nu %@n@C is the «cruising altitude» of aircraft K.@@
 4769@1@@3n@B is a «beam» supporting load C in structure F.@@B-CF
 4770@1@@2v@K «level»/«even off»/make level D, intentional@@K-D
 4771@1@@2a@V is «level»/«flat»/«horizontal» in gravity field N.@@V-N
@@ -8917,24 +8917,24 @@
 4777@2@% meda@p@«ours», use 'our x/y/w/h/q.@@
 4778@1@@af@a combining form of lengu, «language».@@
 4779@1@@a@the «present»/«current» …, the one which is now…, a temporal desc. oper.@@
-4780@1@@3n@B is a «dialect» of language S used by K@@B-SK
+4780@1@@3n@B is a «dialect» of language S used by K.@@B-SK
 4781@1@@1n@B is a «linguist», talented in language.@@B-
 4782@1@@2n@N is a/the «language»/«tongue» of B.@@N-B
 4782@2@@a@«linguistic», pert. to languages.@@
 4782@3@lo %@n@«language», mass term.@@
-4783@1@@2n@B is a «hole»/«gap»/«absent» element in language F@@B F
+4783@1@@2n@B is a «hole»/«gap»/«absent» element in language F.@@B F
 4784@1@@2n@V is an «electric charge» in/on object B.@@V-B
 4784@2@@a@«electrical»/«electric», pert. to electric charges on…@@
 4784@3@@n@a spec. charge of «electricity» in/on object…@@
 4784@4@lo %@n@«electricity», mass term of charges.@@
-4785@1@@4v@K is more «comfortable» with language N than J is in S@@K-NJS
-4786@1@@2v@K is «comfortable» with/«fluent» in language N@@K-N
-4787@1@@3v@K uses/«speak language» V in situation N@@K-VN
+4785@1@@4v@K is more «comfortable» with language N than J is in S.@@K-NJS
+4786@1@@2v@K is «comfortable» with/«fluent» in language N.@@K-N
+4787@1@@3v@K uses/«speak language» V in situation N.@@K-VN
 4788@1@@1n@B is a «lentil».@@B-
 4789@1@@1n@N is a science of «linguistics».@@N-
 4789@2@lo %@n@«linguistics», mass term.@@
 4790@1@@1n@B is a «linguist»/«language scientist».@@B-
-4791@1@@3v@K «experience through language» V@@K-BV
+4791@1@@3v@K «experience through language» V.@@K-BV
 4792@1@@3v@K «write» (s) P/is able to write in language D.@@K-PD
 4792@2@nu %@v@P is «written» by K in language D.@@
 4793@1@@2n@B is a «lens»/«glass» of camera/apparatus/optical system F.@@B-F
@@ -9123,7 +9123,7 @@
 4896@1@@3n@K legally «oblige»/«require» D to do P.@@K-DP
 4896@2@fu %@n@a legal «obligation» .@@
 4896@3@nu %@a@legally «obliged»/«obligated» .@@
-4897@1@@3n@B is a «right», a legal privilege of D, under law/authority S@@B-DS
+4897@1@@3n@B is a «right», a legal privilege of D, under law/authority S.@@B-DS
 4897@2@@a@«rightful», of legal privileges.@@
 4898@1@@1n@B is a «lily», a flower of the Liliaceae.@@B-
 4899@1@@3n@K «has»/is «granted»/«possessed of»/ the legal right to be/do V as granted/determined by law/legal authority S.@@K-VS
@@ -9231,7 +9231,7 @@
 4951@1@@3v@K «hoard» D under conditions N.@@K-DN
 4951@2@@n@a «packrat».@@
 4952@1@@af@a combining form of lista, «list».@@
-4953@1@@3v@K «list» elements B of list S@@K-BS
+4953@1@@3v@K «list» elements B of list S.@@K-BS
 4954@1@@2v@K «invert»/«reverse», reverse a sequence of objects B e.g. letters in a word.@@K-B
 4954@2@po %@1n@«inversion»/«reversal», an act of reversal of a sequence.@@
 4955@1@@3v@B «follow» V in list F.@@B-VF
@@ -9312,7 +9312,7 @@
 4990@1@@pm@The spoken word…, a single word «quotation mark».@@
 4991@1@@pm@The written word…, a single word «quotation mark».@@
 4992@1@@af@a combining form of clivi, «live».@@
-4993@1@@3V@K «behave» like (model, pattern) S in situation N@@K SN
+4993@1@@3V@K «behave» like (model, pattern) S in situation N.@@K SN
 4994@1@@1v@B «comes-to-life»/«becomes alive».@@B-
 4995@1@@2v@K «resurrects»/makes B come to life .@@K-B
 4995@2@nu %@a@«resurrected», of someone restored to life.@@
@@ -9326,7 +9326,7 @@
 4997@5@nu %@n@a «necessity»/«need»/«requirement» -that which is needed for life.@@
 4997@6@po %@n@a «necessity», a state of one in vital need.@@
 4997@7@pu nu %@n@a «necessity», a prop. of vital needs.@@
-4998@1@@2n@B is a «breed» of life form F@@B-F
+4998@1@@2n@B is a «breed» of life form F.@@B-F
 4999@1@@4v@K «breed» strain P for character(s) N from stock S.@@K-PNS
 4999@2@@n@a «breeder», one who -s selected strains.@@
 4999@3@fu %@a@«bred», of artificially selected chars.@@
@@ -9381,7 +9381,7 @@
 5019@1@@1n@N is an «ecological» law/fact/principle.@@N-
 5019@2@lo %@n@the science of «ecology».@@
 5020@1@@1n@B is an «ecologist», environmental scientist.@@B-
-5021@1@@2v@K «live»/«experience»/«spend» life in doing/being N@@K-N
+5021@1@@2v@K «live»/«experience»/«spend» life in doing/being N.@@K-N
 5022@1@@2n@V is a/the «career»/«vocation» of K.@@V-K
 5022@2@@a@«vocational», pert. to careers.@@
 5023@1@@pm@The opening «quotation mark» of a spoken specimen.@@
@@ -9404,7 +9404,7 @@
 5035@3@@n@«necessity»/«presupposition of», a logical precondition.@@
 5035@4@lopu %@n@«necessity», logical, mass term.@@
 5035@5@pu %@n@a «necessity», logical, a spec. property.@@
-5036@1@@2v@K «think logically» about B@@K-B
+5036@1@@2v@K «think logically» about B.@@K-B
 5037@1@@2a@V is «logical», uses logic in doing P.@@V-P
 5037@2@@n@a «logician», practical, one who uses logic.@@
 5038@1@@2a@G is more «logical»/«rigorous»/logically «perfect» than J is.@@G-J
@@ -9418,13 +9418,13 @@
 5040@2@@a@«logical», pert. to scientific logic.@@
 5040@3@lo %@n@«logic», mass inst.@@
 5041@1@@1n@B is a «logician», scientific.@@B-
-5042@1@@2v@K «experience logic» in circumstances N@@K-N
+5042@1@@2v@K «experience logic» in circumstances N.@@K-N
 5043@1@@art@«the typical»…(LE).@@
 5044@1@@af@a combining form of logla/e/i/o, "«Loglandian»".@@
 5045@1@@2v@K «learn Loglan» from S.@@K-S
 5045@2@@n@a «Loglan student».@@
-5046@1@@2v@K «teach Loglan» to B@@K-B
-5047@1@@2v@K «use Loglan» on person B@@K-B
+5046@1@@2v@K «teach Loglan» to B.@@K-B
+5047@1@@2v@K «use Loglan» on person B.@@K-B
 5048@1@@1n@B is an element/feature/expression of «Loglan».@@B-
 5048@2@@a@«Loglan», pert. to the loglan language.@@
 5048@3@lo %@n@«Loglan», the mass of such elements.@@
@@ -9438,12 +9438,12 @@
 5052@3@lo %@n@«Loglan», the mass of such elements.@@
 5053@1@@2v@K «Loglanizes» D, translates…into Loglan.@@K-D
 5054@1@@2v@K «use Loglan» in/by doing V.@@K-V
-5055@1@@2a@B is «antiLoglandical»/opposed to the spirit of Loglan, in feature V@@B-V
+5055@1@@2a@B is «antiLoglandical»/opposed to the spirit of Loglan, in feature V.@@B-V
 5056@1@@1n@K is a «Loglan speaker», a speaker of the…language@@K-
 5057@1@@i@«hello»/«hi»/«good day», an expression/exclamation of greeting.@@
 5057@2@da me liu % takna@ph@X says «hello»/«greets».@@
 5058@1@@af@a combining form of lokti, «local».@@
-5059@1@@2v@K «run around» B@@K-B
+5059@1@@2v@K «run around» B.@@K-B
 5060@1@@3v@K speaks language B with a local «accent» characteristic of place/region N.@@K-BN
 5060@2@po %@n@an «accent», a state/event of having an… in language…@@
 5061@1@@2a@S is «local to»/originates in and is confined to N.@@S-N
@@ -9477,15 +9477,15 @@
 5079@1@@1v@K «shrug».@@K-
 5079@2@po %@n@a «shrug» (lifting of the shoulders gesture).@@
 5080@1@@2v@K «look under» B.@@K-B
-5081@1@@2v@(aircraft) K «stalls» at airspeed C@@K-C
-5081@2@nu %@n@C is a «stalling speed» for aircraft K@@
+5081@1@@2v@(aircraft) K «stalls» at airspeed C.@@K-C
+5081@2@nu %@n@C is a «stalling speed» for aircraft K.@@
 5081@3@po %@n@a «stall».@@
 5082@1@@5v@K «lift»/«elevate» B to D from S in gravity field N.@@K-BDSN
 5082@2@@a@«elevating», pert. to lifting.@@
 5082@3@@n@an «elevator»/«lifter»/«lift», a thing which -s something.@@
 5082@4@fu %@n@an «elevation», a place to which…is -ed.@@
 5082@5@po %@n@a «lift»/«elevation», an act/event of -ing.@@
-5083@1@@2n@V is «lift»/«lifting force» of magnitude C@@V-C
+5083@1@@2n@V is «lift»/«lifting force» of magnitude C.@@V-C
 5083@2@nu %@n@C is an amount of «lift».@@
 5084@1@@pp@«for»/in order to «please»…, before person terms.@@
 5084@2@% hu@q@«why»?/for «whom»?/to please «whom»?, a question about whose pleasure.@@
@@ -9515,7 +9515,7 @@
 5104@1@@1n@B is a male «wolf».@@B-
 5105@1@@1n@B is any «wolf» (Canis lupus), non specific.@@B-
 5106@1@@1v@K «howl», a wolf like cry.@@K-
-5107@1@@4v@K «walk stealthily» from S to D via V@@K-SDV
+5107@1@@4v@K «walk stealthily» from S to D via V.@@K-SDV
 5108@1@@af@a combining form of lusta, «west».@@
 5109@1@@2a@G is more «western»/«westerly»+than J is.@@G-J
 5109@2@@av@«westward», in a westerly way.@@
@@ -9533,14 +9533,14 @@
 5116@1@@2v@K «machine» D, make with a machine.@@K-D
 5116@2@@n@a «machinist», one who -es.@@
 5116@3@nu %@a@«machined», conv. of machine.@@
-5117@1@@2n@B is the «cockpit» of aircraft F@@B-F
+5117@1@@2n@B is the «cockpit» of aircraft F.@@B-F
 5118@1@@2n@B is a «cyborg» made by S.@@B-S
 5119@1@@2n@B is a «robot»/«android» made by K.@@B-K
 5120@1@@1n@B is a «machinist», one who builds and/or repairs machines.@@B-
 5121@1@@af@a combining form of madzo, «make».@@
 5122@1@@1n@B is some «Madeira», a sherry type wine.@@B-
 5123@1@@2n@B is a «Madoqua», an antelope from S.@@B-S
-5124@1@@4v@Magician/Sorcerer K performs «magic»/«magical act»/«sorcery» V for client/audience D with goal/purpose P@@K-VDP
+5124@1@@4v@Magician/Sorcerer K performs «magic»/«magical act»/«sorcery» V for client/audience D with goal/purpose P.@@K-VDP
 5124@2@@a@«magical», pert. to magicians.@@
 5124@3@@n@a «magician», one who performs magic…for…@@
 5124@4@lo nu %@n@«magic», mass term for such tricks.@@
@@ -9577,7 +9577,7 @@
 5136@2@po %@n@an instance of a «bellow».@@
 5137@1@@2n@B is an «eye» of F.@@B-F
 5137@2@@a@«ocular», pert. to eyes.@@
-5138@1@@2n@B is a/the «master» of «domain»/persons/organization N@@B-N
+5138@1@@2n@B is a/the «master» of «domain»/persons/organization N.@@B-N
 5139@1@@2n@B measures in «month» s the number C.@@B-C
 5140@1@@2n@B is a «prince»/«duke»/«marquis»/«count»/«earl»/«baron» of F, any peer, identify by number.@@B-F
 5141@1@@2n@B is a «marquis» of F.@@B-F
@@ -9719,10 +9719,10 @@
 5215@1@@c@«not»…whether not…, used with ki in 'nokunoi…ki…', q.v.@@
 5216@1@@af@a combining form of norma, «average».@@
 5217@1@@3v@K «average», find the mean of distribution F to be C.@@K-FC
-5218@1@@3n@B is the «normal form» of expression V under/within system N@@B-VN
+5218@1@@3n@B is the «normal form» of expression V under/within system N.@@B-VN
 5219@1@@pp@«despite» (motive)…, used before designations of unmotivated actions.@@
 5220@1@@c@«even though»/«although», of unproductive motives, with ki in 'nomoiki…ki…;  despite…,…'.@@
-5221@1@@2v@K become «accustomed to»/«adapted to»/«habituated to» N@@K-N
+5221@1@@2v@K become «accustomed to»/«adapted to»/«habituated to» N.@@K-N
 5222@1@@c@«whether» not…,…, bet. modified/iers, reduces to nucu, q.v.@@
 5223@1@@c@«whether» not…, not…, bet. mods., reduces to nucunoi, q.v.@@
 5224@1@@c@«whether not»…,…, with ki, reduces to nuku, q.v.@@
@@ -9746,7 +9746,7 @@
 5237@3@po %@n@an «impossibility», a spec. impossible event.@@
 5237@4@pu %@n@an «impossibility», a spec. property.@@
 5238@1@@3v@N «make impossible» for K to do V.  cf. blicko@@N-KV
-5239@1@@2v@K «wish» for the unobtainable P@@K-P
+5239@1@@2v@K «wish» for the unobtainable P.@@K-P
 5239@2@@n@an «unachievable wish».@@
 5240@1@@1a@B is «constant»/«unchanging»/«consistent»/«changeless».@@B-
 5240@2@@n@a «constant», an unchanging/consistent thing.@@
@@ -9863,7 +9863,7 @@
 5281@1@@2v@K «yield»/«surrender»/«submit» to D, accept defeat from…@@K-D
 5281@2@lopo %@n@«submission», mass term of acts.@@
 5281@3@po %@n@a «surrender»/«submission», an act of yielding.@@
-5282@1@@2a@B is «unEnglish»/«non English» in feature V@@B-V
+5282@1@@2a@B is «unEnglish»/«non English» in feature V.@@B-V
 5283@1@@2a@B is «absent from»/not «present at» V.@@B-V
 5283@2@@av@«away»/not «here», not present at…@@
 5283@3@po %@n@an «absence», a state of being absent.@@
@@ -9922,7 +9922,7 @@
 5310@6@po nu %@n@a «neglect», a state of being -ed.@@
 5310@7@pu %@n@a «negligence», a spec. property.@@
 5311@1@@2a@B is «vague»/«unclear» in (aspect) N, specify thinking/idea/speech etc.@@B-N
-5312@1@@3v@K «mumble»/«speak indistinctly» B to D@@K-BD
+5312@1@@3v@K «mumble»/«speak indistinctly» B to D.@@K-BD
 5312@2@@n@a «mumbler», one who speaks indistinctly@@
 5313@1@@2v@N «irritate»/cause «discomfort to» D, nonintentional@@N-D
 5313@2@@a@«irritating», pert. to irritants.@@
@@ -10005,7 +10005,7 @@
 5343@2@@av@«unnecessarily», in an unnecessary way.@@
 5344@1@@1n@B is a «knave»/«wretch»/«rascal»/«rogue»/«villain», intended sense to be selected.@@B-
 5345@1@@3a@G is more «messy»/«disorderly» than J at V.@@G-JV
-5346@1@@3v@K «mess up»/«disarrange»/«upset» B on D@@K-BD
+5346@1@@3v@K «mess up»/«disarrange»/«upset» B on D.@@K-BD
 5347@1@@2a@P is «unworthy» of S.@@P-S
 5348@1@@2a@B is «irresistible» to D.@@B-D
 5349@1@@1a@B is «nonchalont».@@B-
@@ -10155,7 +10155,7 @@
 5436@3@lopo %@n@«distress», mass state term.@@
 5437@1@@3v@K «recite» B for D, 'reads' from his mind;  by memory.@@K-BD
 5438@1@@1n@B is a «mantra», a meditation tool@@B-
-5439@1@@4n@F is an «imaginary»/«conceivable»/«thinkable»/«mental» (but not necessarily possible) world/place in which event/state S occurs/obtains and "causes" (would cause if its world existed) event/state V, this world and its causal laws having been at least in part invented by thinker K@@F-SVK
+5439@1@@4n@F is an «imaginary»/«conceivable»/«thinkable»/«mental» (but not necessarily possible) world/place in which event/state S occurs/obtains and "causes" (would cause if its world existed) event/state V, this world and its causal laws having been at least in part invented by thinker K.@@F-SVK
 5439@2@@a@«subjunctive», in the subjective or "mental place" sense.@@
 5439@3@@n@is a«sujunctive world», one created by a — thinker.@@
 5439@4@fu %@n@a «subjunctive effect», an effect in a — world.@@
@@ -10398,15 +10398,15 @@
 5572@1@@3a@G is «equal-to-or-greater than» J in dimension N.@@G-JN
 5572@2@@ph@be «as»…as…, use property term with —.@@
 5572@3@@ph@«greater-than-or-equal to»…@@
-5573@1@@3v@B is «baggage» exceeding the weight limit of C for conveyance F@@B-CF
+5573@1@@3v@B is «baggage» exceeding the weight limit of C for conveyance F.@@B-CF
 5573@2@@n@«excess» baggage@@
 5574@1@@3av@G is so much/all the «more» B than J.@@G-BJ
-5575@1@@2a@B has «too much» of C@@B-C
+5575@1@@2a@B has «too much» of C.@@B-C
 5576@1@@4v@K «possess more» B than J by amount C.@@K-BJC
 5577@1@@2a@K is «greedy»/«avarous» for B, excessively eager to acquire…@@K-B
 5577@2@lopu %@n@«greed», mass property.@@
 5578@1@@2v@K «overwhelm»/«overpower» D.@@K-D
-5579@1@@3v@B is «too»/so «excessive» (in some property) that (result) P in circumstances N@@B-PN
+5579@1@@3v@B is «too»/so «excessive» (in some property) that (result) P in circumstances N.@@B-PN
 5580@1@@v@K is «greedy»/«gourmand». cf. mrotsudaa@@
 5581@1@@1n@B is a «hammer», an instrument for -ing.@@B-
 5582@1@@p@«we»/«us»/«ourselves», in the "you and I/me jointly" sense, the 1st & 2nd person set variable. Equivalent to 'mi ze tu'. Cf. mo for the "you and I/me independently" sense of we/us, miu/mio for the "I and others" sense of we/us, and muu/muo for the "you and I and others" sense of we/us.@@
@@ -10536,7 +10536,7 @@
 5655@1@@af@a combining form of muslo, «muscle».@@
 5656@1@@2a@K is more «muscular» than J.@@K-J
 5656@2@pu %@n@a «muscularity», a property of being -ar.@@
-5657@1@@2n@B is a «tendon» of F@@B-F
+5657@1@@2n@B is a «tendon» of F.@@B-F
 5658@1@@1n@B is an «Islamic» district/territory, an area where «Moslem»/«Muslim» (s) live.@@B-
 5658@2@@a@«Islamic», as of territory.@@
 5659@1@@1n@B is a «Moslem»/«Muslim», a believer in/practitioner of Islam.@@B-
@@ -10614,7 +10614,7 @@
 5693@5@lopu %@n@«mobility», mass term of properties.@@
 5693@6@po %@n@a «move»/«movement»/«motion», a spec. event of moving, q.v.@@
 5693@7@pu %@n@a «mobility», a spec. property of -ing.@@
-5694@1@@2n@B is a moving «floor»/passenger «conveyor» of room F@@B-F
+5694@1@@2n@B is a moving «floor»/passenger «conveyor» of room F.@@B-F
 5695@1@@3v@B has/have «traction» on surface D under conditions N.@@B-DN
 5695@2@zo %@n@an amount of «traction».@@
 5696@1@@3n@B is «ballast» (to increase traction) for vehicle D, weighing C.@@B-DC
@@ -10627,7 +10627,7 @@
 5699@1@@2a@G is more «eloquent»/«rabble rousing» than J.@@G-J
 5699@2@lopu %@n@the mass property of «eloquence».@@
 5699@3@po %@n@an instance of «eloquence».@@
-5700@1@@2a@P is «animated» in/on medium S e.g. movies, TV@@P-S
+5700@1@@2a@P is «animated» in/on medium S e.g. movies, TV.@@P-S
 5701@1@@3a@K «animate» P in/on medium S.@@K-PS
 5702@1@@1n@B is an «escalator», set of moving stairs.@@B-
 5703@1@@af@a combining form of muzgi, «music».@@
@@ -10719,7 +10719,7 @@
 5745@1@@3n@B is a «label»/«tag» on F with (sign) P.@@B-FP
 5746@1@@3n@K «label»/«tag» D with (sign) P.@@K-DP
 5746@2@nu %@a@«labelled»/«tagged» (by…with…).@@
-5747@1@@3v@X is a «name word» (in L, a consonant final single word) naming Y in language Z@@
+5747@1@@3v@X is a «name word» (in L, a consonant final single word) naming Y in language Z.@@
 5748@1@@2v@P «designate»/«mean»/«refer uniquely» to B.@@P-B
 5748@2@@n@a «designation», a sign which -s.@@
 5748@3@lopo %@n@«designation», mass term.@@
@@ -10730,7 +10730,7 @@
 5749@3@fu %@n@a «designation», a sign used to designate.@@
 5749@4@nu %@n@a «designation», a thing designated.@@
 5749@5@po %@n@a «designation», a spec. act of -ing.@@
-5750@1@@3v@K «write»/«sign» surface/document D using name C@@K-DC
+5750@1@@3v@K «write»/«sign» surface/document D using name C.@@K-DC
 5750@2@fu %@n@the «signature» of…on…@@
 5751@1@@2n@P is the/a «signature» of S.@@P-S
 5752@1@@af@a combining form of nanti, «billionth».@@
@@ -10916,10 +10916,10 @@
 5842@2@lp po %@n@«ovulation», mass term of acts.@@
 5842@3@po %@n@an «ovulation», a spec. act/event of -ing.@@
 5843@1@@2v@V is «slow»/«short» by C, have a negative error in… e.g. Lemi jokla ga negnurtse lio fe minta, My watch is 5 minutes slow.@@V-C
-5844@1@@4v@K «subtract» B from F getting difference C@@K-BFC
+5844@1@@4v@K «subtract» B from F getting difference C.@@K-BFC
 5844@2@lopo %@n@«subtraction», mass term of acts.@@
 5844@3@po %@n@a «subtraction», a spec. act of -ing.@@
-5845@1@@3n@C is the (numerical) «difference» between B and B@@C-BB
+5845@1@@3n@C is the (numerical) «difference» between B and B.@@C-BB
 5845@2@fu %@n@a «subtrahend», in a subtraction, q.v.@@
 5845@3@fu %@v@«subtracted» from…is…, a diff., q.v.@@
 5845@4@po %@n@a «subtraction», a spec. instance of…@@
@@ -10988,7 +10988,7 @@
 5878@1@@3v@K «wrap»/«enfold»/«inclose» D in N.@@K-DN
 5878@2@fu %@n@a «wrapper»/«wrappings»/«inclosure», that which incloses.@@
 5878@3@nu %@a@«inclosed»/«enfolded»/«inclosure»/«wrapped», conv. of enfold@@
-5879@1@@4v@K «enter»/«go into» D from S via V@@K-DSV
+5879@1@@4v@K «enter»/«go into» D from S via V.@@K-DSV
 5879@2@% cibra@n@«boarding» passage (to aircraft), jetway@@
 5879@3@no %@i@«keep» out!, don't enter, an imperative.@@
 5879@4@po %@n@an «entrance», an act/event of going in.@@
@@ -11137,7 +11137,7 @@
 5938@1@@3v@N «predicate» a 1 place attribute B of F.@@N-BF
 5938@2@@n@a «predicate», 1 place.@@
 5939@1@@2n@B is an «elementary»/«grammar» school, first school of community F.@@B-F
-5940@1@@2n@B is «first» class accommodation on conveyance F@@B-F
+5940@1@@2n@B is «first» class accommodation on conveyance F.@@B-F
 5940@2@@a@«first» class@@
 5941@1@@2n@B is a «second lieutenant»/«ensign»/«flying officer» commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murnerkoi  ensign. Use surkoi. q.v., for officers in general.@@B-F
 5942@1@@2n@B is a 1st degree/close+«relative» of B, a son/brother/father/etc.@@B-B
@@ -11157,10 +11157,10 @@
 5950@1@@2n@B is a «general»/«admiral»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murnernirkoi  admiral. Use surkoi. q.v., for officers in general@@B-F
 5951@1@@2n@B is an «October» of year F.@@B-F
 5951@2@la %@na@«October» (the 10th month of the year).@@
-5952@1@@3n@P is the «only»/is «exactly one» «effect»/«result» of cause S under conditions N@@P-SN
+5952@1@@3n@P is the «only»/is «exactly one» «effect»/«result» of cause S under conditions N.@@P-SN
 5952@2@@a@«ensuing», of effects, conv. of cause, q.v.@@
 5952@3@@av@«only», of singular effects/results. E.g., Ti pa nernurcko crina.  It only rained.@@
-5953@1@@2a@B is «unambiguous» in context F@@B-F
+5953@1@@2a@B is «unambiguous» in context F.@@B-F
 5954@1@@2n@B is (a/the) «yesterday»/«day before»/«eve of» day F.@@B-F
 5955@1@@2n@B is a/the «night» before day F.@@B-F
 5955@2@@n@a/the «last»/«yesterday» night, yesterday's night, incomplete.@@
@@ -11174,7 +11174,7 @@
 5957@5@lopo %@n@«correspondence», mass of such rel'ns.@@
 5957@6@nu %@n@«corresponding», of that -ed with.@@
 5957@7@po %@n@a «correspondence», a one to one relation.@@
-5958@1@@2n@B is a/the «baron» of domain N@@B-N
+5958@1@@2n@B is a/the «baron» of domain N.@@B-N
 5959@1@@2n@B is a/the «premier»/«prime minister»/«first minister» of state/ruler F.@@B-F
 5960@1@@1n@F is the «hexadecimal» numbering system.@@F-
 5961@1@@1n@B is a «hexadecimal» number, a number in base 16.@@B-
@@ -11362,7 +11362,7 @@
 6054@1@@1n@B is a quantity of «venom», any animal produced poison.@@B-
 6054@2@@a@«venomous», pert. to venom.@@
 6055@1@@af@a combining form of nirne, «year».@@
-6056@1@@2n@B is an «almanac»/«catalogue»/«directory»/«calendar» of information for year C@@B-C
+6056@1@@2n@B is an «almanac»/«catalogue»/«directory»/«calendar» of information for year C.@@B-C
 6057@1@@2n@B is a «year» of epoch C.@@B-C
 6058@1@@2n@B is a «season» of the year F.@@B-F
 6059@1@@2a@G is more «seasonable»/a typical season than J.@@G-J
@@ -11388,7 +11388,7 @@
 6074@1@@2n@B measure(s) C in «year» (s), default 1, international unit of time.@@B-C
 6074@2@@a@«annual», pert. to years.@@
 6074@3@@n@is a «year», something that measures a year. E.g., Fa fo nirne da pa cirpregei  After four years X graduated@@
-6075@1@@2a@K is «only»/«just» a B@@K-B
+6075@1@@2a@K is «only»/«just» a B.@@K-B
 6076@1@@2a@B is «free»/«gratis»/«gratuitous» to D, of zero cost.@@B-D
 6076@2@@av@«gratuitously», in a gratuitous way.@@
 6076@3@@n@a «gratuity», something free to…@@
@@ -11398,7 +11398,7 @@
 6079@1@@1@B is «vacant», as a vacant lot.@@B-
 6080@1@@1n@B is a «void»/«vacuum».@@B-
 6081@1@@2n@B is a «private» «attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., murnirtro  seaman recruit@@B-F
-6082@1@@3v@K «empty» B in/on D@@K-BD
+6082@1@@3v@K «empty» B in/on D.@@K-BD
 6083@1@@1v@B is/are «empty», contain(s) nothing.@@B-
 6083@2@@a@«vacant»/«empty», contains nothing.@@
 6083@3@lopo %@n@«emptiness», the mass of such states.@@
@@ -11503,7 +11503,7 @@
 6135@1@@3v@K «contradict» person D in statement P.@@K-DP
 6135@2@@a@«contrary»/«contradictory»/«negative», pert. to one who -s.@@
 6135@3@po %@n@a «contradiction», an act of -ing persons.@@
-6136@1@@2a@B is «flexible»/«non rigid» in movement V@@B-V
+6136@1@@2a@B is «flexible»/«non rigid» in movement V.@@B-V
 6136@2@% kotrae@n@«floppy disk».@@
 6137@1@@2a@B is an «impermanent»/«passing»/«transient»/«ephemeral»/«transitory» aspect of N.@@B-N
 6137@2@po %@n@an «impermanence», a spec. state of -ence.@@
@@ -11599,11 +11599,11 @@
 6176@3@lopo %@n@«persecution», mass term.@@
 6176@4@nu %@a@«persecuted», pert. to one who is -d.@@
 6176@5@po %@n@an instance of «persecution».@@
-6177@1@@4n@P is a «translation»/«interpretation»/«transformation» of text/document/speech B into other language D by translator/interpreter K@@P-BDK
+6177@1@@4n@P is a «translation»/«interpretation»/«transformation» of text/document/speech B into other language D by translator/interpreter K.@@P-BDK
 6177@2@nu %@n@the «source document» of translation…@@
 6178@1@@4v@K «translate» (s) document B into target language D from source language S.@@K-BDS
 6178@2@@n@a «translator».@@
-6179@1@@3v@K «forge» name P on surface/document D@@K-PD
+6179@1@@3v@K «forge» name P on surface/document D.@@K-PD
 6179@2@nu %@n@a «forgery» of…on…@@
 6179@3@po %@n@An instance of «forgery».@@
 6180@1@@3v@K «covet» B of D.@@K-BD
@@ -11626,7 +11626,7 @@
 6185@2@@n@a «representative», political, one who -s.@@
 6185@3@nu %@n@a «constituent»/-ncy, conv. of represent.@@
 6185@4@po %@n@a «representation», political, a spec. act.@@
-6186@1@@3n@N is a «civil war» between factions K (pl) over issue V@@N-KV
+6186@1@@3n@N is a «civil war» between factions K (pl) over issue V.@@N-KV
 6187@1@@2n@B is a «political party»/«faction» of polity F.@@B-F
 6188@1@@2n@F is a/the «federal government», of confederacy B.@@F-B
 6189@1@@2n@B is a «polymerase» of S, an enzyme.@@B-S
@@ -11726,7 +11726,7 @@
 6236@1@@3n@B is a «poriferan»/«sponge» of genus/type F from S, one of the phylum of Porifera@@B-FS
 6237@1@lao %@na@the phylum of «Porifera», sponges etc.@@
 6238@1@@1n@B is a «sow»/female «hog».@@B-
-6239@1@@1n@G is more «porcine»/«pig like» than J@@G-J
+6239@1@@1n@G is more «porcine»/«pig like» than J.@@G-J
 6240@1@@1n@B is a «shoat»/«piglet»/«baby pig».@@B-
 6241@1@@1n@B is a «boar»/male «hog».@@B-
 6242@1@@1n@B is a/some «pig»/«hog»/«swine», an omnivorous mammal, genus Sus.@@B-
@@ -11790,7 +11790,7 @@
 6268@1@@3v@K «beg»/«beseech»/«entreat»/«implore» D to/for V.@@K-DV
 6268@2@@n@«beggar»/«beseecher».@@
 6269@1@@2v@K «stare» at D, look continuously at.@@K-D
-6270@1@@3v@K «keep up with»/«continue to learn» P from source S@@K-PS
+6270@1@@3v@K «keep up with»/«continue to learn» P from source S.@@K-PS
 6271@1@@1v@V «abate»/«wane»/«subside»/«diminish» in intensity/frequency.@@V-
 6271@2@po %@n@a «subsiding», a state of -ing intensity.@@
 6272@1@@2v@K «continue» (s) by saying P.@@K-P
@@ -11928,7 +11928,7 @@
 6342@1@@af@a combining form of tcure, «picture».@@
 6343@1@@2ph@B is as «described»/«pictured» in N.@@B-N
 6343@2@@ph@«like that», in 'he's like that', as desc'd.@@
-6344@1@@3n@B is a «design»/«sketch»/«blueprint»/«plans» for the construction/doing of P drawn/produced by S@@B-PS
+6344@1@@3n@B is a «design»/«sketch»/«blueprint»/«plans» for the construction/doing of P drawn/produced by S.@@B-PS
 6345@1@@2v@K «illustrate» (book/writing) B.@@K-B
 6345@2@@n@«illustrator», one who -s written materials.@@
 6345@3@po %@n@an «illustration» (of…), a picture example included with writings.@@
@@ -12121,9 +12121,9 @@
 6451@1@@3a@G is «older»/more «familiar»/less «novel» than J to D.@@G-JD
 6451@2@@a@«old»/«familiar», less novel than…to…@@
 6451@3@pu %@n@a «familiarity», a prop. of familiar things.@@
-6452@1@@4v@K «wade» to D from S via V@@K-DSV
+6452@1@@4v@K «wade» to D from S via V.@@K-DSV
 6453@1@@2n@B is a «turbine» on device F.@@B-F
-6454@1@@2n@B is a «quote»/«quotation mark» delimiting quoted text S@@B-S
+6454@1@@2n@B is a «quote»/«quotation mark» delimiting quoted text S.@@B-S
 6455@1@@3n@B is a/the «claim»/«proposition» of S about V.@@B-SV
 6456@1@@3a@G is «improbable»/«unlikely»/less «likely than» J under conditions N.@@G-JN
 6456@2@@n@«improbability»/«unlikelyhood», an improbable thing.@@
@@ -12161,7 +12161,7 @@
 6471@2@pu %@n@an «emptiness», partial, a spec. property.@@
 6472@1@@3a@G is less «full»/«emptier» than J of B.@@G-JB
 6472@2@pu %@n@an «emptiness», partial, a spec. property.@@
-6473@1@@2n@B is a «brochure» describing V@@B-V
+6473@1@@2n@B is a «brochure» describing V.@@B-V
 6474@1@@3v@K «must»/be «obliged»/«required» to do P under N.@@K-PN
 6474@2@lo nu %@n@«duty», mass term of acts.@@
 6474@3@nu %@a@«obligatory»/«compulsory», conv. of must.@@
@@ -12208,10 +12208,10 @@
 6495@7@po no %@n@an «independence», a spec. state.@@
 6496@1@@3n@C is/are a/the «earnings»/«wage»/«salary»/«fee» of K for work/service P.@@C-KP
 6497@1@@2n@F is the «world» of B, the totality of which…is aware.@@F-B
-6498@1@@2n@B is a «property»/«quality»/«characteristic» of F@@B-F
+6498@1@@2n@B is a «property»/«quality»/«characteristic» of F.@@B-F
 6499@1@@2v@K «know» B (what something is like.).@@K-B
 6500@1@@3n@B is a «rival» of B in V.@@B-BV
-6501@1@@3n@V is an «act»/«action» of actor K seeking ends P@@V-KP
+6501@1@@3n@V is an «act»/«action» of actor K seeking ends P.@@V-KP
 6501@2@@a@«purposeful», of acts directed towards ends.@@
 6501@3@lo %@n@«action», the mass of such actions.@@
 6501@4@pu %@n@a «purposefulness», a prop. of spec. acts.@@
@@ -12236,7 +12236,7 @@
 6511@1@@2v@D becomes «dirty»/«fouled»/«soiled»/«unclean» from S.@@D-S
 6512@1@@3v@K «soil»/«dirty»/«foul» D by/with V.@@K-DV
 6513@1@@2n@B is a «spot»/«blot»/«stain»/«speck»/«soiled place» on F.@@B-F
-6514@1@@2n@B is a «notch»/«slot»/«slit» in F@@B-F
+6514@1@@2n@B is a «notch»/«slot»/«slit» in F.@@B-F
 6515@1@@3v@N «irritate» D (physically) by V, e.g. a mosquito bite.@@N-DV
 6515@2@@n@an «irritant» (of…by…).@@
 6515@3@lopo %@n@«irritation», mass term.@@
@@ -12246,7 +12246,7 @@
 6517@1@@2n@B a «hue» made up of red:blue:yellow in ratios C (pl.set).@@B-C
 6517@2@lo %@n@«hue», the mass of all such mixtures.@@
 6517@3@nu %@n@the «hue ratio» of colour B.@@
-6518@1@@2n@B is a «pulp»/«pate» of S@@B-S
+6518@1@@2n@B is a «pulp»/«pate» of S.@@B-S
 6519@1@@1n@B is a «Coleoptera»/«bug»/«beetle», technical usage.@@B-
 6520@1@@2a@G is «cheaper»/less «costly» than J.@@G-J
 6520@2@@a@«economical»/«inexpensive»/«cheap», less costly than…, conv. of costlyn.@@
@@ -12292,11 +12292,11 @@
 6545@1@@2v@N «disorder» D (unintentional).@@N-D
 6546@1@@2v@K «disorder» D (intentional).@@K-D
 6547@1@@1a@B is «pointed».@@B-
-6548@1@@2n@K is a «prostitute» of community F@@K F
+6548@1@@2n@K is a «prostitute» of community F.@@K F
 6549@1@@3n@C is a/the «payment», amount paid by D for B.@@C-DB
 6550@1@@2a@B is «considerable», thought to be worthy of consideration by S.@@B-S
-6551@1@@2n@B is a «topic»/«subject» for «thought» to K@@B-K
-6551@2@@3a@P is «thinkable»/«conceivable»/«imaginable» by K about subject/topic B@@
+6551@1@@2n@B is a «topic»/«subject» for «thought» to K.@@B-K
+6551@2@@3a@P is «thinkable»/«conceivable»/«imaginable» by K about subject/topic B.@@
 6551@3@@a@«conceivable»/«thinkable»/«imaginable», of thoughts that can be thought@@
 6551@4@@n@P is a «thought» that K thinks/can think about B.@@
 6552@1@@2v@K «groan»/«moan»/«growl» at/for S, any low frequency cry.@@K-S
@@ -12334,7 +12334,7 @@
 6570@1@@3v@K «identify» B as D.@@K-BD
 6570@2@fu %@n@an «identification», the result of identifying.@@
 6570@3@po %@n@an instance of «identification», the action thereof.@@
-6571@1@@2n@B are the «semantics» of F@@B-F
+6571@1@@2n@B are the «semantics» of F.@@B-F
 6572@1@@3v@K «assign» (meaning) P to S.@@K-PS
 6572@2@po %@n@an «assignment», spec. instance of -ing, as a value to a variable.@@
 6573@1@@2a@«situated»/«located» at…@@B-F
@@ -12373,7 +12373,7 @@
 6591@1@@2n@B are some/the «goods»/«merchandise»/«wares»/«purchase» (s) sold by K, that which is sold, conv. of sell.@@B-K
 6591@2@lo %@n@«merchandise», goods, mass term.@@
 6592@1@@3v@K «tip over»/«overturn»/«upset»/«spill» contents B onto D.@@K-BD
-6593@1@@2n@B is a «catalog» from vendor S@@B-S
+6593@1@@2n@B is a «catalog» from vendor S.@@B-S
 6594@1@@3a@B is «visible» to D against background F.@@B-DF
 6595@1@@2n@B is an «exhibition» of N.@@B-N
 6596@1@@2n@B is the «valley»/drainage «basin» of river/river system F.@@B-F
@@ -12395,7 +12395,7 @@
 6604@4@po %@n@a «report», an act of -ing.@@
 6605@1@@4v@K «report»/«send back» news B from S to sender D.@@K-BSD
 6605@2@po %@n@a «report», an act of sending news…from…back to…@@
-6606@1@@2n@K is an «announcer»/«newsreader» on radio/television station B@@K-B
+6606@1@@2n@K is an «announcer»/«newsreader» on radio/television station B.@@K-B
 6607@1@@4v@B is a «newspaper»/«magazine»/«periodical» issued by S to D each period C.@@B-SDC
 6607@2@lo %@n@(the) «press» , collective for periodicals.@@
 6607@3@lo nu %@n@(the) «press», periodical publishers.@@
@@ -12541,7 +12541,7 @@
 6693@1@@1av@B is «sideways».@@B-
 6694@1@la %@na@the «Paleolithic», old stone age.@@
 6695@1@la %@na@the «Paleozoic», a geological period.@@
-6696@1@@2v@K «step aside» to avoid B@@K-B
+6696@1@@2v@K «step aside» to avoid B.@@K-B
 6697@1@@1n@B is some «palladium», element 46 (Pd).@@B-
 6698@1@@1@B is «paleolithic», pert. to that period.@@B-
 6699@1@@1@B is «paleozoic», pert. to that period.@@B-
@@ -12616,7 +12616,7 @@
 6746@2@@a@«paper», made of paper.@@
 6746@3@lo %@n@«paper», mass term.@@
 6747@1@@af@a combining form of parti, «part».@@
-6748@1@@3n@J is the «proportion»/«fractional» part of G that does/contains N@@J-GN
+6748@1@@3n@J is the «proportion»/«fractional» part of G that does/contains N.@@J-GN
 6749@1@@2n@B is a «table of contents» of (book/periodical) F.@@B-F
 6750@1@@2v@F «resolves»/«separates» into parts/elements B, by itself;  cf. parmao.@@F-B
 6750@2@lopo %@1n@the mass of such «resolutions»/«spontaneous separations».@@
@@ -12674,7 +12674,7 @@
 6775@1@@af@a combining form of pasko, «before».@@
 6776@1@@4n@P is a «diary»/«journal»/«memoir» of K for period from S to D.@@P-KSD
 6776@2@nu %@n@a «diarist».@@
-6777@1@@4v@K «subscribes» to periodical B for interval V by paying price C@@K-BVC
+6777@1@@4v@K «subscribes» to periodical B for interval V by paying price C.@@K-BVC
 6777@2@@n@a «subscriber» of/to…@@
 6777@3@lo %@n@«subscribers» of/to periodicals, mass term@@
 6777@4@lo % je da@n@the «subscribers» of/to X, partial mass term.@@
@@ -12701,7 +12701,7 @@
 6786@2@@a@«early», incomplete form.@@
 6787@1@@4n@B is a «passport» issued to D by country S for travel to D.@@B-DSD
 6787@2@nu %@n@«passport holder», converse of passport.@@
-6788@1@@2v@K «inspects» passport of B@@K-B
+6788@1@@2v@K «inspects» passport of B.@@K-B
 6788@2@@n@«passport» «inspector»/«official».@@
 6788@3@po %@n@«passport» «inspection»/«control» (event of).@@
 6789@1@@2v@K «prophesy»/«predict»/«foretell» about V.@@K-V
@@ -12774,7 +12774,7 @@
 6826@1@@3n@B is a/the «acute angle» between S and D.@@B-SD
 6826@2@@a@«acute», as of angles.@@
 6826@3@pu %@n@an «acuteness», as of angles, a property.@@
-6827@1@@2n@B is a «spire»/«steeple» of building F@@B-F
+6827@1@@2n@B is a «spire»/«steeple» of building F.@@B-F
 6828@1@@1n@B is a «screw»/«wood screw», any pointed bolt.@@B-
 6829@1@@af@a combining form of spebi, «specific».@@
 6830@1@@1a@B is «technical».@@B-
@@ -12799,13 +12799,13 @@
 6837@2@fu %@a@«unjust», of decisions.@@
 6837@3@po %@n@an instance of «injustice», being unjust to…@@
 6837@4@po nu %@n@an instance of «injustice», receiving injustice.@@
-6838@1@@3v@K «despecialize»/«make ordinary» B just like any other thing of the same type by doing V@@K-BV
+6838@1@@3v@K «despecialize»/«make ordinary» B just like any other thing of the same type by doing V.@@K-BV
 6839@1@@2a@G is more «special»/«specifically important» than J.@@G-J
 6839@2@@a@«special»/«important», special.@@
 6839@3@@av@«especially», in an important manner.@@
 6840@1@@3n@B is a «costume» of S for P.@@B-SP
 6841@1@@af@a combining form of petci, «pay».@@
-6842@1@@2v@K pays for «sex» with B@@K-B
+6842@1@@2v@K pays for «sex» with B.@@K-B
 6843@1@@4v@K draw a «check» to D for amount C on bank B.@@K-DCB
 6844@1@@3n@V is an «installment»/«payment» of amount C on merchandise B.@@V-CB
 6845@1@@af@a combining form of pendi, «hang».@@
@@ -12869,13 +12869,13 @@
 6874@4@po %@n@a «pensiveness», a spec. state.@@
 6874@5@pu %@n@a «thoughtfulness»/«reflectiveness», a spec. property.@@
 6874@6@pu nu %@n@a «thoughtlessness», a property.@@
-6875@1@@3n@B is a «thought form»/«way of thinking» used by K under conditions N@@B-KN
+6875@1@@3n@B is a «thought form»/«way of thinking» used by K under conditions N.@@B-KN
 6876@1@@2v@K «think» strongly/profoundly about V.@@K-V
 6877@1@@1n@B is some «penicillin», an antibiotic.@@B-
 6878@1@@1n@B is a «sponge».@@B-
 6878@2@@a@«sponge», made of sponge.@@
 6879@1@@2n@S (possibly collective) is/are «parent» s of child/children P.@@S-P
-6880@1@@2n@B is a «tool for thought» used by K@@B-K
+6880@1@@2n@B is a «tool for thought» used by K.@@B-K
 6881@1@@2n@B is a/the «motherland»/«fatherland»/«homeland»/«country»/«nation»/«land» of F.@@B-F
 6882@1@@3v@K «inherit» B from ancestor(s) S.@@K-BS
 6883@1@@2n@B is the «hometown»/«native town» of F.@@B-F
@@ -12900,8 +12900,8 @@
 6890@1@@1n@B is a «peptide», a subunit of proteins.@@B-
 6891@1@@af@a combining form of pernu, «person».@@
 6892@1@@2v@D «know» (s) person F.@@D-F
-6893@1@@3n@K is a «reference»/«evaluator» of person B in situation N@@K-BN
-6894@1@@2v@K «remember»/«recognize» person B@@K-B
+6893@1@@3n@K is a «reference»/«evaluator» of person B in situation N.@@K-BN
+6894@1@@2v@K «remember»/«recognize» person B.@@K-B
 6895@1@@2a@G is more «crowded» than J (with peoople).@@G-J
 6896@1@@1n@B is a passenger «ship»/«liner».@@B-
 6897@1@@2n@B is a «peroxide» of F.@@B-F
@@ -12960,7 +12960,7 @@
 6914@7@pu %@n@a/some «relevance», a specific property.@@
 6915@1@@2a@B is «evident»/«clear» to D.@@B-D
 6915@2@@av@«evidently»/«patently»/«clearly».@@
-6916@1@@3v@K «make relevant» to D@@K-BD
+6916@1@@3v@K «make relevant» to D.@@K-BD
 6917@1@@2n@B is worth C in «peso» (s), latin American unit of currency.@@B-C
 6917@2@lo %@n@(the) «peso», the mass of all pesos.@@
 6918@1@@2n@B is worth C in «peseta» (s), Spanish unit of currency.@@B-C
@@ -12984,7 +12984,7 @@
 6925@2@@n@a «distributor», one who/that which -es.@@
 6925@3@nu %@a@«distributable», capable of being -ed.@@
 6925@4@po %@n@a «distribution», an act/event of -ing.@@
-6926@1@@3v@K «hand out»/«give out» B to D@@K-BD
+6926@1@@3v@K «hand out»/«give out» B to D.@@K-BD
 6926@2@nu %@n@a «handout».@@
 6927@1@@3n@F is a «multiple», a subset of some superset S, over whose members some claim V is «distributed». E.g., 'Le neni mrenu' in 'Le neni mrenu ga merji' designates a multiple. Contrasts with 'setci', q.v. Usage: Li, le neni mrenu, lu namsaa ne petrysei je lea@@F-SV
 6927@2@fu %@n@a «claim» «distributed» over each member of a multiple.@@
@@ -13096,7 +13096,7 @@
 6993@1@@2v@B is «parallel»/is «parallel» to B.@@B-B
 6993@2@@a@«parallel», of that which is parallel to…@@
 6993@3@pu %@n@a «parallelism», a spec. property.@@
-6994@1@@3n@B is a «pyramid» of base/side C and height C@@B-CC
+6994@1@@3n@B is a «pyramid» of base/side C and height C.@@B-CC
 6995@1@@a@«much»/a «large part» of some individual or whole, a quantifier.@@
 6996@1@@a@«enough»/a «sufficient fraction» of some indiv'l or whole, quantif'r.@@
 6997@1@@af@a combining form of pismi, «peace».@@
@@ -13151,7 +13151,7 @@
 7030@2@@n@a «player», one who plays.@@
 7030@3@po %@n@a «playing»/«play», an act of -ing.@@
 7031@1@@2n@B is a school «holiday» of country S.@@B-S
-7032@1@@2n@B is a «game» played by K@@B-K
+7032@1@@2n@B is a «game» played by K.@@B-K
 7033@1@@3v@K «win» game/contest V from adversary(ies) F.@@K-VF
 7033@2@@n@a «winner»/«victor».@@
 7033@3@po %@n@a «victory».@@
@@ -13194,7 +13194,7 @@
 7054@2@nu %@a@«adopted», taken into use.@@
 7054@3@po %@n@an «adoption», an act of -ing.@@
 7055@1@@1a@B is «disused», no longer used.@@B-
-7056@1@@2v@K «know how to use» B@@K-B
+7056@1@@2v@K «know how to use» B.@@K-B
 7057@1@@4v@K «spare»/«lend»/«give» B to D for use P, "Brother can you spare a dime?".@@K-BDP
 7058@1@@2a@K is «convenient» for use P.@@K-P
 7058@2@lopu %@n@«convenience», mass property of being —.@@
@@ -13264,7 +13264,7 @@
 7078@4@fu %@a@«delighted», conv. of delightful.@@
 7078@5@nu %@a@«unpleasant», less pleasing than, conv.@@
 7078@6@po fu %@n@a «delight», a state of being -ed.@@
-7079@1@@3n@V is a «pleasant change» from N for D@@V-ND
+7079@1@@3n@V is a «pleasant change» from N for D.@@V-ND
 7080@1@@1n@B is a «perfume»/«scent»/«fragrance».@@B-
 7081@1@@3v@K «perfume»/«scent» D with B.@@K-DB
 7082@1@@1n@B is some «plutonium», element 94 (Pu).@@B-
@@ -13341,7 +13341,7 @@
 7114@1@@4v@K «chase»/«run after» B from S to D.@@K-BSD
 7114@2@@n@a «chaser», one who -s.@@
 7114@3@po %@n@a «chase», a spec. act/event of -ing.@@
-7115@1@@2v@K «process» B, subject…to process V@@K-BV
+7115@1@@2v@K «process» B, subject…to process V.@@K-BV
 7115@2@@n@a «processor», one who -es something.@@
 7115@3@fu %@n@a «process», that used in -ing something.@@
 7116@1@@2v@K «persevere»/«persist» in V, continually try…@@K-V
@@ -13403,7 +13403,7 @@
 7148@2@po %@n@a «retreat», an act of -ing.@@
 7149@1@@1n@B is a «bucket seat», as in a car.@@B-
 7150@1@@2v@K «overtake» D (and pass by).@@K-D
-7151@1@@5v@K «follow» B to D from S via V@@K-BDSV
+7151@1@@5v@K «follow» B to D from S via V.@@K-BDSV
 7151@2@@n@a «follower»/«tail»(slang)/«tracker»/«pursuer».@@
 7151@3@lopo %@n@a «chase», an instance of -ing.@@
 7152@1@@2v@K «overtake» D (and continue with).@@K-D
@@ -13414,7 +13414,7 @@
 7156@2@po %@1n@a «recession», a backward motion. e.g. the economy.@@
 7157@1@@2n@B is a/the «posterior»/«rear»/«back»+(part) of F.@@B-F
 7157@2@@a@«dorsal»/«back»/«posterior», dorsal, pert. to backs.@@
-7158@1@@2pp@N is in «back of»/«behind» B@@N-B
+7158@1@@2pp@N is in «back of»/«behind» B.@@N-B
 7158@2@@a@«rear»/«posterior», of that which is behind…@@
 7158@3@@av@«behind»/in «back», in back.@@
 7159@1@@3v@K «recess» B from D, as a house is recessed from a street.@@K-BD
@@ -13471,8 +13471,8 @@
 7191@5@po %@n@a «test»/«examination», an act of testing.@@
 7192@1@@2n@B is a «sample» of F, taken for testing purposes.@@B-F
 7193@1@@2n@B is an «almond» from S.@@B-S
-7194@1@@2n@B is a «plum» of species F@@B-F
-7195@1@@3v@K «probe»/«poke» D with B@@K-DB
+7194@1@@2n@B is a «plum» of species F.@@B-F
+7195@1@@3v@K «probe»/«poke» D with B.@@K-DB
 7196@1@@3v@B «approve» of action/outcome V by agent K.@@B-VK
 7196@2@@a@«approving», of one who approves.@@
 7196@3@no %@a@«disapproving», of one who disapproves.@@
@@ -13659,7 +13659,7 @@
 7282@2@@a@«pupal», pert. to pupae.@@
 7283@1@@2n@B is a «pupil» of the eye of F.@@B-F
 7284@1@@af@a combining form of purda, «word».@@
-7285@1@@2n@K is a «lexicographer» in language F@@K-F
+7285@1@@2n@K is a «lexicographer» in language F.@@K-F
 7286@1@@3n@P is a «dictionary» of language(s) B prepared by S.@@P-BS
 7287@1@@2n@B is an «index» of (book/periodical) F.@@B-F
 7288@1@@2v@K «emphasize»/«stress»/«say forcefully» P /say…emphatically.@@K-P
@@ -13675,9 +13675,9 @@
 7292@3@po %@n@a «formulation», an act of -ing.@@
 7293@1@@3v@K «prompt» D about V, remind someone who has forgotten words/actions.@@K-DV
 7293@2@@n@a «prompter», one who -s.@@
-7294@1@@2v@K «conjugate»/«decline»/«inflect» D@@K-D
+7294@1@@2v@K «conjugate»/«decline»/«inflect» D.@@K-D
 7294@2@nu %@a@«conjugated»/«inflected»/«declined» (as of a language).@@
-7294@3@po %@n@B is a «conjugation»/«declension» in language D@@
+7294@3@po %@n@B is a «conjugation»/«declension» in language D.@@
 7296@1@@2a@B is «perfect»/«faultless»/«unimprovable»/«standard»/«ideal» by standard N.@@B-N
 7296@2@@av@«faultlessly»/«perfectly», in a perfect way.@@
 7296@3@lopu %@n@«perfection», mass term of qualities.@@
@@ -13699,13 +13699,13 @@
 7303@2@@n@a «wordmaker».@@
 7304@1@@1n@B is a «riddle», a word problem.@@B-
 7305@1@@2n@B is a «syllable» of F.@@B-F
-7306@1@@2v@K «agglutinates» D@@K-D
+7306@1@@2v@K «agglutinates» D.@@K-D
 7306@2@nu %@a@«agglutinative».@@
 7306@3@po %@n@V is an instance of «agglutination».@@
 7307@1@@2a@G is more «purple» than J.@@G-J
 7308@1@@1a@B is verbally «exact»/«precise».@@B-
 7308@2@pu %@n@a verbal «precision»/«exactness», a spec. property.@@
-7309@1@@2a@G is more «precise» than J@@G-J
+7309@1@@2a@G is more «precise» than J.@@G-J
 7311@1@@3v@K «coin»/«make word» P with meaning B.@@K-PB
 7312@1@@af@a combining form of sputa, «spoon».@@
 7313@1@@2n@C is a «spoonful»/«spoon» of B.@@C-B
@@ -13737,12 +13737,12 @@
 7322@4@@p@«anything»/«anyone»/«anybody», every…, as in 'anything wins'.@@
 7323@1@@af@a combining form of traci, «travel».@@
 7324@1@@2n@B is a «suitcase» of traveler K.@@B-K
-7325@1@@2n@B is a «travel guide» about D@@B-D
+7325@1@@2n@B is a «travel guide» about D.@@B-D
 7326@1@@2v@K are «bound for»/intend to «travel to» D.@@K-D
-7327@1@@2n@B is a «caravan» (UK)/(travel) «trailer» (US)/«mobile home» of person F@@B-F
+7327@1@@2n@B is a «caravan» (UK)/(travel) «trailer» (US)/«mobile home» of person F.@@B-F
 7328@1@@2n@B is a «peanut»/«groundnut» from S.@@B-S
 7329@1@@4n@C is the «travel-time» to D from S via V.@@C-DSV
-7330@1@@4n@B is a «travel method» to D from S via V@@B-DSV
+7330@1@@4n@B is a «travel method» to D from S via V.@@B-DSV
 7331@1@@1n@B is a «bus» (US)/«coach» (UK), used for distance travel.@@B-
 7332@1@@2v@K «travel» all over region F.@@K-F
 7333@1@@2n@B is the «trunk»/«boot» of vehicle F.@@B-F
@@ -13799,7 +13799,7 @@
 7366@1@@l@«R», Latin upper case letter, one of a pool of symbols.@@
 7367@1@@af@a combining form of trati, «try».@@
 7368@1@@1n@B is a/some «Rhine wine».@@B-
-7369@1@@2v@K «try» hard/«take pains» with V@@K-V
+7369@1@@2v@K «try» hard/«take pains» with V.@@K-V
 7370@1@@af@a combining form of kraju, «scratch».@@
 7371@1@@2v@K «grate» (material) B, remove material by scraping.@@K-B
 7372@1@@2n@B is a «scratch»/«mark» on F.@@B-F
@@ -13873,7 +13873,7 @@
 7407@2@@a@«round»/«circular», pert. to circles.@@
 7407@3@pu %@n@a «circularity», of a spec. circle.@@
 7408@1@@1n@B is a female «frog», an amphibian of Spp. Rana.@@B-
-7409@1@@1n@G is more «frog like» than J@@G-J
+7409@1@@1n@G is more «frog like» than J.@@G-J
 7410@1@@1n@B is a «tadpole»/baby «frog», an amphibian of Spp. Rana.@@B-
 7411@1@@1n@B is a male «frog», an amphibian of Spp. Rana.@@B-
 7412@1@@1n@B is any «frog», an amphibian of Spp. Rana.@@B-
@@ -14020,7 +14020,7 @@
 7488@4@po %@n@a «differentiation»/«discrimination», an act of -ing.@@
 7489@1@@4a@G is more «characteristic»/«distinctive»/«typical» of B than G is of B.@@G-BGB
 7489@2@@n@a «characteristic»/«character»/«distinction», a spec. attribute.@@
-7490@1@@3a@B is the «opposite» of B in conditions N@@B-BN
+7490@1@@3a@B is the «opposite» of B in conditions N.@@B-BN
 7491@1@@3v@B «distinguish»/«differentiate» D from D.@@B-DD
 7491@2@@n@distinguishing/differentiating «mark», of…from…@@
 7491@3@@n@«distinction», a distinguishing mark.@@
@@ -14068,19 +14068,19 @@
 7514@1@@2v@K «brake»/stop (with a brake) B.@@K-B
 7514@2@@n@a «brakeman», one who applies -s.@@
 7515@1@@2n@B is a «brake pedal» of F.@@B-F
-7516@1@@2n@B is a/the «brake system» of vehicle F@@B-F
+7516@1@@2n@B is a/the «brake system» of vehicle F.@@B-F
 7517@1@@2n@B is a «brakelight» of vehicle F.@@B-F
 7518@1@@af@a combining form of trelu, «rail».@@
 7519@1@@1n@B is a/some «bars»/«grating»/«grate».@@B-
 7520@1@@2v@K «barricade»/«block off»/«bar», erect a rail/barricade/bar over/across B.@@K-B
 7521@1@@af@a combining form of fremi, «friend».@@
-7522@1@@2v@K is (naturally) «friendly» towards D@@K-D
+7522@1@@2v@K is (naturally) «friendly» towards D.@@K-D
 7523@1@@2a@G is/are more «friendly» than J.@@G-J
 7523@2@@a@«amiable»/«friendly», friendlier than…@@
 7523@3@lopu %@n@«amiability»/«friendliness», mass term, properties.@@
 7523@4@po %@n@an «amiableness», a state of being -able.@@
 7523@5@pu %@n@an «amiability»/«friendliness», a spec. property.@@
-7524@1@@3v@K «act as a friend» towards D for purpose P@@K-DP
+7524@1@@3v@K «act as a friend» towards D for purpose P.@@K-DP
 7525@1@@af@a combining form of renro, «throw».@@
 7526@1@@3v@K «shoot» D with B.@@K-DB
 7526@2@@a@«shooting» (…with…).@@
@@ -14103,7 +14103,7 @@
 7536@1@@af@a combining form of retpi, «reply».@@
 7537@1@@2v@K «know the answer» to question S.@@K-S
 7538@1@@3v@K «answer» question(s) V posed by S.@@K-VS
-7539@1@@3v@K «join with» K in «answering» question B@@K-KB
+7539@1@@3v@K «join with» K in «answering» question B.@@K-KB
 7540@1@@2v@K «investigate»/«inquire into» V.@@K-V
 7540@2@@n@an «investigator», one who -s.@@
 7540@3@nu %@a@«investigable», capable of being -ed.@@
@@ -14138,7 +14138,7 @@
 7557@4@fu %@n@a «differential»/«distinction»/«difference», a differentiating aspect.@@
 7557@5@po %@n@a «distinction»/«difference», a state of being -ent.@@
 7557@6@pu %@n@a «difference», a property of being -ent.@@
-7558@1@@2v@K «lie down» on D@@K-D
+7558@1@@2v@K «lie down» on D.@@K-D
 7559@1@@2a@G is more «restful», rest causing than J.@@G-J
 7559@2@pu %@n@a «restfulness», a spec. property.@@
 7560@1@@1a@B is «restless»/«unresting», e.g. a restless wandering, the unresting sea.@@B-
@@ -14157,7 +14157,7 @@
 7569@1@@1n@B is a «weed», something not planted.@@B-
 7570@1@@4n@B is a «holiday»/«vacation» from S to D for V.@@B-SDV
 7571@1@@1h@D is at «leisure», enjoying leisure time.@@D-
-7572@1@@4n@K is a «tourist» visiting D from S via V@@K-DSV
+7572@1@@4n@K is a «tourist» visiting D from S via V.@@K-DSV
 7573@1@@3n@K «discharge»/let «go»/«release» D from B (court, prison etc.).@@K-DB
 7573@2@po %@n@a «discharge»/«release» (of…from…).@@
 7574@1@@1a@B is «wild»/«untame»/«free»/«undomesticated».@@B-
@@ -14171,7 +14171,7 @@
 7575@4@nu %@a@«liberated»/«delivered», conv. of liberate.@@
 7575@5@po %@n@a «liberation»/«deliverance», an act of -ing.@@
 7575@6@po nu %@n@some «freedom»/«liberty», a state of being freed.@@
-7576@1@@2a@B is «arbitrary»/«any» item chosen from population F@@B-F
+7576@1@@2a@B is «arbitrary»/«any» item chosen from population F.@@B-F
 7577@1@@2v@D is/are «freed»/«liberated»/«delivered»/set «loose» from B.@@D-B
 7577@2@@a@«liberated»/«delivered»/«freed» (from…).@@
 7577@3@lopo %@n@«liberty»/«freedom», mass term of states.@@
@@ -14193,8 +14193,8 @@
 7586@1@@1n@B is a «dextrogyre», one that rotates polarized light clockwise.@@B-
 7586@2@@a@«dextrorotatory», pert. to dextrogyres.@@
 7587@1@@af@a combining form of ridle, «read».@@
-7588@1@@3v@K «read aloud» B to D@@K-BD
-7588@2@@n@K is a «reader aloud» of B to D@@
+7588@1@@3v@K «read aloud» B to D.@@K-BD
+7588@2@@n@K is a «reader aloud» of B to D.@@
 7589@1@@1a@B is «dyslexic»/«reading impaired».@@B-
 7590@1@@3v@K «read» B from S.@@K-BS
 7590@2@@n@a «reader», one who -s.@@
@@ -14254,7 +14254,7 @@
 7618@1@@af@a combining form of trime, «tool».@@
 7619@1@@3v@K «whistle» (tune) V with whistle S.@@K-VS
 7619@2@@n@a «whistler», one who -s.@@
-7620@1@@3n@N is a «technology» for producing P used by people K@@N-PK
+7620@1@@3n@N is a «technology» for producing P used by people K.@@N-PK
 7621@1@@af@a combining form of rinje, «ring».@@
 7622@1@@1n@B is an element/feature/expression of an «American Indian»/«Amerind»+language.@@B-
 7622@2@@a@«Amerind»/«Indian», of Indian language.@@
@@ -14390,7 +14390,7 @@
 7703@1@@aux@«will»/«intend to»/«mean to»…, objective sense used before predicates (PA). E.g., Mi roi godzi daI will/intend to go to X. Cf. ai for subjective sense: Ai mi godzi daI intend to go to X.@@
 7703@2@@pp@«in»/«during»/«under»…, used before event/state terms to specify the conditions of an intention.@@
 7704@1@@2v@K «glare» at D, look angrily at.@@K-D
-7705@1@@2v@V «annoy»/«irritate» B@@V-B
+7705@1@@2v@V «annoy»/«irritate» B.@@V-B
 7706@1@@3n@F is a «mob»/angry crowd with members B stimulated by V.@@F-BV
 7707@1@@3v@K have a «grudge» against D about V.@@K-DV
 7707@2@fu %@n@a «grudge», thing one has a «grudge» about.@@
@@ -14404,10 +14404,10 @@
 7711@1@@3v@K get/become «angry» at D for doing V.@@K-DV
 7711@2@po %@n@a rising «anger», a state of becoming angry.@@
 7712@1@@1n@B is an angry «temper»/«disposition».@@B-
-7713@1@@3v@K «quarrel»/«row» with K over/about V@@K-KV
+7713@1@@3v@K «quarrel»/«row» with K over/about V.@@K-KV
 7713@2@fu %@n@V is a cause of «dissent».@@
 7714@1@@af@a combining form of rodja, «grow».@@
-7715@1@@2n@B is a «generation» of creature F@@B-F
+7715@1@@2n@B is a «generation» of creature F.@@B-F
 7716@1@@1n@B is a «spiral», a growing curve.@@B-
 7717@1@@2v@D «curl»/«twist» because of/as a result of V (to a spiral).@@D-V
 7718@1@@3v@K «curl» D with V (to a spiral).@@K-DV
@@ -14552,7 +14552,7 @@
 7802@1@@1n@F is a «legion», a large indefinite number of soldiers e.g. the French Foreign Legion.@@F-
 7803@1@@1n@B is a «cable», braided wires.@@B-
 7804@1@@1n@V is a «din»/«clamour»/«clamor», many shouting voices.@@V-
-7805@1@@3v@K «braid» B into P@@K-BP
+7805@1@@3v@K «braid» B into P.@@K-BP
 7806@1@@2v@K «coil» around B.@@K-B
 7807@1@@2n@B is a «coil» of S.@@B-S
 7807@2@@a@«coiled», pert. to coils.@@
@@ -14612,7 +14612,7 @@
 7839@3@nu %@a@«amendable», capable of being -d.@@
 7839@4@po %@n@an «amendment», a spec. case of -ing.@@
 7840@1@@2n@B is a mathematical «progression» by rule N, e.g. arithmetic, geometric, harmonic progressions.@@B-N
-7841@1@@4v@K is/are «obliged»/«ought» to do P under V by rule N@@K-PVN
+7841@1@@4v@K is/are «obliged»/«ought» to do P under V by rule N.@@K-PVN
 7842@1@@2v@K «regulate»/make «rules» for persons/processes D.@@K-D
 7842@2@@a@«regulatory», pert. to rule making.@@
 7842@3@@n@a «regulator», one who makes rules.@@
@@ -14680,17 +14680,17 @@
 7876@2@@n@a «founder»/«originator»/«author», originator of…@@
 7876@3@lopu %@n@«originality», mass prop.of a founder.@@
 7876@4@nu %@n@a «foundation», that which is founded.@@
-7877@1@@3v@K «begin»/«commence»/«start doing» P by/with N@@K-PN
+7877@1@@3v@K «begin»/«commence»/«start doing» P by/with N.@@K-PN
 7877@2@@n@a «beginner» at…@@
 7877@3@po %@n@a «start» of a specific task.@@
 7878@1@@2n@S is a/the «prototype»/«primitive»/«original» form of P.@@S-P
 7878@2@@a@«primitive»/«prototypical»/«original», of prototypical/primitive forms.@@
 7879@1@@3v@K «leave»/«depart»/«quit» to D from S.@@K-DS
 7879@2@po %@n@a «departure», an act of -ing.@@
-7880@1@@3n@S is a «departure» «lounge» for flight/destination D in building F@@S-DF
+7880@1@@3n@S is a «departure» «lounge» for flight/destination D in building F.@@S-DF
 7881@1@@3v@K «leave»/«depart»/«quit» from S for D.@@K-SD
 7881@2@po %@n@a «departure», an act of -ing.@@
-7882@1@@2v@V «start» at time C@@V-C
+7882@1@@2v@V «start» at time C.@@V-C
 7883@1@@3v@K «begin»/«start»/«found»/«commence»/«embark on»/«take up»/«establish» doing V for end/purpose P.@@K-VP
 7883@2@@n@a «beginner»/«novice»/«tyro»/«founder», one who starts something.@@
 7883@3@po %@n@a/the «start»/«embarkation»/«foundation»/«commencement»/«beginning»/«establishment», an act of starting something.@@
@@ -14840,7 +14840,7 @@
 7967@2@@a@«equivalent», equal in meaning.@@
 7967@3@po %@n@an «equivalence», a state of being -ent.@@
 7967@4@pu %@n@an «equivalence», a property of being -ent.@@
-7968@1@@3v@K «find evidence»/«find signs» N of S@@K-NS
+7968@1@@3v@K «find evidence»/«find signs» N of S.@@K-NS
 7968@2@nu %@n@«evidence».@@
 7969@1@@2n@P is a «sandwich» of S.@@P-S
 7970@1@@3v@K «allude»/«refer» to referent B using sign/expression V.@@K-BV
@@ -14873,13 +14873,13 @@
 7979@4@nu %@n@a «stimulus»/«sensation», a sensed stimulus.@@
 7979@5@po %@n@a «sensation»/«feeling», a spec. sensation.@@
 7979@6@pu %@n@a «sensitivity»/«sensitiveness»/«sensibility», a property of being -tive.@@
-7980@1@@2n@V is the study of «semantics»/«semiotics» in language F@@V-F
+7980@1@@2n@V is the study of «semantics»/«semiotics» in language F.@@V-F
 7981@1@@2n@K is a «semanticist» for language F.@@K-F
-7982@1@@2n@P is a «sign system» of K@@P-K
+7982@1@@2n@P is a «sign system» of K.@@P-K
 7983@1@@4v@K «signal»/«communicate» with/«send message»/signal  conveying intention/message/meaning P to D concerning topic/matter V.@@K-PDV
 7983@2@nu %@n@a «message»/«communication», conv. of communicate with.@@
 7983@3@po %@n@a «communication», an act of -ing.@@
-7984@1@@4n@B is a «communication channel» from S to D of capacity C@@B-SDC
+7984@1@@4n@B is a «communication channel» from S to D of capacity C.@@B-SDC
 7985@1@@2a@G is «quieter» than J.@@G-J
 7985@2@@a@«quiet», quieter/less noisy than…@@
 7985@3@@av@«quietly», in a quiet way.@@
@@ -15042,15 +15042,15 @@
 8081@2@la %@na@«July» (the name of the 4th month of the year).@@
 8082@1@@2n@B is a «first»/«master sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., mursertro  senior chief petty officer@@B-F
 8083@1@@af@a combining form of sensi, «science».@@
-8084@1@@3v@K «experiment» with V to find P@@K-VP
+8084@1@@3v@K «experiment» with V to find P.@@K-VP
 8085@1@@2n@B is a «scientist» in field N, a contributor to science…@@B-N
 8085@2@@a@«scientific», pert. to scientists.@@
 8086@1@@2v@K «engineer» B.@@K-B
 8086@2@@n@an «engineer», one who -s something.@@
 8086@3@lopo %@n@«engineering», mass acts.@@
-8087@1@@2n@B is a «scientific instrument» for P@@B-P
+8087@1@@2n@B is a «scientific instrument» for P.@@B-P
 8088@1@@2n@P is a work of science «fiction» by K.@@P-K
-8089@1@@2v@K unintentionally «contribute» to «science» F@@K-F
+8089@1@@2v@K unintentionally «contribute» to «science» F.@@K-F
 8090@1@@1a@B is lacking scientific basis/«unsubstantiated».@@B-
 8091@1@@2n@P is a work of «science fantasy» by K.@@P-K
 8092@1@@1a@B is «antiscientific»/«antagonistic to science».@@B-
@@ -15114,7 +15114,7 @@
 8132@1@@3v@K has an «accent» of region B in language N.@@K-BN
 8132@2@po %@n@«accent» of region…in language…@@
 8133@1@@2n@V is the «climate»/«clime» of place/area B.@@V-B
-8134@1@@3v@P «replace»/«supersede»/«take the place of» S in F@@P-SF
+8134@1@@3v@P «replace»/«supersede»/«take the place of» S in F.@@P-SF
 8134@2@@n@a «replacement», something which -es.@@
 8134@3@po %@n@an instance of «replacement».@@
 8135@1@@1n@B is a/some «cigarette» (s).@@B-
@@ -15225,7 +15225,7 @@
 8190@1@@3v@K «reform» D by V.@@K-DV
 8190@2@fu %@n@a «reform», the change itself.@@
 8190@3@po %@1n@«reform»/an act of -ing.@@
-8191@1@@3v@K «learn system» N from S@@K-NS
+8191@1@@3v@K «learn system» N from S.@@K-NS
 8192@1@@3n@B is a «diagram»/«illustration» of S made by K.@@B-SK
 8193@1@@pp@«would»/«would certainly», a probability specific objective subjunctive operator;  used before an argument, usually a lepo clause, to give the accompanying predicate a subjunctive sense (PA). E.g., Mi hapci siovie lepo mi bragaiI am certainly happy in the possible world where I am king (I would certainly be happy if I were king). Cf. siomia for the subjective sense of this subjunctive.@@
 8193@2@% ba@ph@«would»/«would certainly», as used in objective subjunctive sentences in which the causal condition is missing. E.g., Mi hapci siovie baI would certainly be happy (in some possible world/under some unspecified condition x). Cf. siomia ba for the subjective sense of this subjective.@@
@@ -15280,7 +15280,7 @@
 8205@4@lopu %@n@a «thoroughness», mass prop.@@
 8206@1@@2v@B «hiss» P.@@B-P
 8206@2@po %@n@a «hiss».@@
-8207@1@@3v@K «systemize»/«systematize» /makes a system of B according to system/principle N@@K-BN
+8207@1@@3v@K «systemize»/«systematize» /makes a system of B according to system/principle N.@@K-BN
 8207@2@@a@«systematic», of system makers.@@
 8207@3@@n@a «systematizer», a system maker.@@
 8207@4@po %@n@a «systematization», an act of -ing.@@
@@ -15368,7 +15368,7 @@
 8254@1@@2v@K «sit down» on D.@@K-D
 8255@1@@3v@K «seat» D/give…seat…/let…sit at/on B.@@K-DB
 8255@2@nu %@a@«seated», given a seat.@@
-8256@1@@3v@K «seat» D in/on B@@K-DB
+8256@1@@3v@K «seat» D in/on B.@@K-DB
 8257@1@@1n@B is a «seat», any device for sitting.@@B-
 8258@1@@3n@B is a «seat»/«place» of P in room/vehicle F.@@B-PF
 8259@1@@2v@K «sit on» B.@@K-B
@@ -15418,7 +15418,7 @@
 8278@1@@af@a combining form of slano, «slow».@@
 8279@1@@1v@D is/are «slowed down»/«slackened» (actor unspecified).@@D-
 8280@1@@2v@N «slow down»/«slacken» D, (nonintentional cause) i.e. The wind slows down the cyclist.@@N-D
-8281@1@@4v@K «stroll» to D from S via V@@K-DSV
+8281@1@@4v@K «stroll» to D from S via V.@@K-DSV
 8282@1@@2v@K«slow down»/«slacken» D, (intentional act).@@K-D
 8283@1@@3a@G is «slower», less fast than J by C.@@G-JC
 8283@2@@a@«slow», less fast than…in…@@
@@ -15427,7 +15427,7 @@
 8284@1@@1v@K «sway», oscillate slowly.@@K-
 8285@1@@1a@B is extremely «slow».@@B-
 8286@1@@af@a combining form of sliti, «sweet».@@
-8287@1@@2a@G is «prettier»/more «darling» than J@@G-J
+8287@1@@2a@G is «prettier»/more «darling» than J.@@G-J
 8288@1@@2v@N «sweeten» B, cause…to be sweet, nonintentional.@@N-B
 8288@2@@n@a «sweetener», that which sweetens.@@
 8288@3@no nu %@a@«unsweetened», neg. of sweetened, q.v.@@
@@ -15480,7 +15480,7 @@
 8317@2@lopu %@n@«craftiness»/«secretiveness», mass prop.@@
 8318@1@@2v@K «peer»/«peep»/«spy» at B.@@K-B
 8319@1@@2v@K «hide»/«conceal» oneself from N.@@K-N
-8320@1@@3v@K «confide»/«tell secret» V to «confidant» D@@K-VD
+8320@1@@3v@K «confide»/«tell secret» V to «confidant» D.@@K-VD
 8320@2@soi %@ph@«in confidence»/between you and me@@
 8321@1@@4n@B is a «plot»/«conspiracy» to do V with D for ends P.@@B-VDP
 8322@1@@3v@K «plot»/«conspire» V against D.@@K-VD
@@ -15585,7 +15585,7 @@
 8374@2@@a@«neighboring», of that which lives near.@@
 8374@3@@n@«neighbor»/«neighbour»/«fellow being», a neighbor of…@@
 8375@1@@2n@B is in the «vicinity»/«neighborhood» of B, referring to human settlements.@@B-B
-8376@1@@3v@K «gossip» with D about B@@K-DB
+8376@1@@3v@K «gossip» with D about B.@@K-DB
 8376@2@lepo %@n@an instance of «gossip».@@
 8376@3@lepu %@n@«gossip», as a word indicating its nature@@
 8377@1@@2a@N is «contagious»/«catching» to D.@@N-D
@@ -15607,7 +15607,7 @@
 8382@1@@2n@B is the «vicinity»/«neighborhood» of F, general term for proximity.@@B-F
 8382@2@@av@«nearby», something reasonably close.@@
 8383@1@@af@a combining form of snola, «entail».@@
-8384@1@@4v@V entail/logically «imply» P under assumptions S by rules N@@V-PSN
+8384@1@@4v@V entail/logically «imply» P under assumptions S by rules N.@@V-PSN
 8384@2@lopu %@n@«entailment», mass term.@@
 8384@3@pu %@n@an «entailment», a spec. property.@@
 8385@1@@a@«six» (6), in math. expressions.@@
@@ -15771,7 +15771,7 @@
 8477@2@@a@«sororal», pert. to sisters, q.v.@@
 8478@1@@2n@B is a «June» of year F.@@B-F
 8478@2@la %@na@«June» (the name of the 4th month of the year).@@
-8479@1@@2n@B is a/the «prince» of domain N@@B-N
+8479@1@@2n@B is a/the «prince» of domain N.@@B-N
 8480@1@@2n@B is a «platoon»/«technical sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise lan  (land), mur  (sea), ker  (air), or spa  (space) is prefixed; e.g., mursortro  chief petty officer.@@B-F
 8481@1@@af@a combining form of solte, «salt».@@
 8482@1@@2a@G is more «salty»/«saline», full of salt than J.@@G-J
@@ -15909,7 +15909,7 @@
 8543@1@@2n@B is a «sprat» of/from S, a herring like fish.@@B-S
 8544@1@@af@a combining form of spuro, «expert».@@
 8545@1@@4a@K is as «expert»/«good» at V as K is at V.@@K-VKV
-8546@1@@4a@G is more «expert»/«experienced» at V than J is at V@@G-VJV
+8546@1@@4a@G is more «expert»/«experienced» at V than J is at V.@@G-VJV
 8546@2@@v@«excel»/«surpass»…at…@@
 8546@3@nu %@a@«unskilled»/«inexpert», conv. of more expert than…@@
 8546@4@pu %@n@a «skill»/«excellence», a spec. property of -ing.@@
@@ -15923,7 +15923,7 @@
 8549@1@@af@a combining form of srite, «write».@@
 8550@1@@1n@B is a «chalkboard», any board for temporary display writing.@@B-
 8551@1@@1n@B is a «notebook».@@B-
-8552@1@@3v@K «co write» B with K@@K-BK
+8552@1@@3v@K «co write» B with K.@@K-BK
 8552@2@@n@«co author».@@
 8553@1@@1n@B is a «typewriter».@@B-
 8554@1@@2v@K «compose»/«create»/«write» P, any document or text.@@K-P
@@ -16012,7 +16012,7 @@
 8600@1@@2n@B is a «tern» of/from S, a sea bird.@@B-S
 8601@1@@2n@B is a «jaeger» of/from S, a sea bird.@@B-S
 8602@1@lao %@na@a «tern», a sea bird.@@
-8603@1@@2n@F is a «corpus» of utterances in language N@@F-N
+8603@1@@2n@F is a «corpus» of utterances in language N.@@F-N
 8604@1@@4n@B is a «sentence»/«statement» claiming P about N in language S.@@B PNS
 8604@2@@a@«sentential», pert. to sentences.@@
 8605@1@@3v@K «parse» sentence B obtaining parse D.@@K-BD
@@ -16050,7 +16050,7 @@
 8621@2@@i@«halt»!/«stop»! w/o;  1st argument, an imperative.@@
 8621@3@po %@n@a «stop»/«cessation», an act/event of -ing.@@
 8622@1@@1n@B is a «stop», as for a bus, tram or taxi.@@B-
-8623@1@@2n@B is an «arrestor wire» on aircraft carrier F@@B-F
+8623@1@@2n@B is an «arrestor wire» on aircraft carrier F.@@B-F
 8624@1@@af@a combining form of stolo, «remain».@@
 8625@1@@2a@G is more «classic» than J.@@G-J
 8625@2@lo %@n@the «classics», mass term.@@
@@ -16222,7 +16222,7 @@
 8706@1@@av@«also»/«too»/«moreover»/«besides»/«as well»/in «addition»/«furthermore», a discourse operator (UI).@@
 8706@2@@av@«neither»/«either»/«nor», in the senses 'He didn't either/Neither did he/Nor did he'.@@
 8706@3@% ue@av@«even», as in 'I couldn't remember even the simplest tunes.'.@@
-8707@1@@2n@D is «checked» baggage containing B@@D-B
+8707@1@@2n@D is «checked» baggage containing B.@@D-B
 8708@1@@3v@K «order»/«send for» B from S.@@K-BS
 8708@2@po %@n@an «order», an act of sending for something.@@
 8709@1@@1n@B is a «signal».@@B-
@@ -16440,7 +16440,7 @@
 8820@4@pu %@n@a «tiresomeness», a property of tiring…@@
 8820@5@pu nu %@n@a «fatigue», a property of being -ed.@@
 8821@1@@2n@B is some «talc» from S, a soft mineral.@@B-S
-8822@1@@2n@P is «metal fatigue» in structure N@@P-N
+8822@1@@2n@P is «metal fatigue» in structure N.@@P-N
 8823@1@@1n@B is some «thallium», element 81 (Tl).@@B-
 8824@1@@1n@B is an element/feature/expression of the «Italian» language.@@B-
 8824@2@@a@«Italian», pert. to the Italian language.@@
@@ -16519,7 +16519,7 @@
 8866@4@po %@n@a «fatigue»/«weariness»/«tiredness», a state/condition of tiredness.@@
 8867@1@@2n@B is a «weapon»/«arm» for use P, any implement of hunting or warfare.@@B-P
 8868@1@@1n@B is a «tarpon», a game fish.@@B-
-8869@1@@2n@K is an «astrologer» using system N@@K-N
+8869@1@@2n@K is an «astrologer» using system N.@@K-N
 8870@1@@1n@B is a/the science of «astronomy»/an astronomical fact/law/principle.@@B-
 8870@2@@a@«astronomical», pert. to astronomy.@@
 8870@3@lo %@n@«astronomy», mass term of instances.@@
@@ -16560,9 +16560,9 @@
 8891@6@po nu %@n@a «shock», a spec. state of being -ed.@@
 8892@1@@4n@B is a «freeway»/«autoroute» to D from S via V.@@B-DSV
 8893@1@@2n@B is a «wall» of/around F.@@B-F
-8894@1@@2n@K is a «mechanic» on vehicle(s) B@@K-B
-8894@2@@v@K «fix»/«repair» motor vehicle(s) B@@
-8895@1@@3n@B is a «garage» for repairing vehicle(s) of type P of community F@@B-PF
+8894@1@@2n@K is a «mechanic» on vehicle(s) B.@@K-B
+8894@2@@v@K «fix»/«repair» motor vehicle(s) B.@@
+8895@1@@3n@B is a «garage» for repairing vehicle(s) of type P of community F.@@B-PF
 8896@1@@2a@V is «fortuitous»/«unpredictable»/«random»/«accidental»/«adventitious» under conditions N.@@V-N
 8896@2@@av@«chancy», unpredictable.@@
 8896@3@@n@an «accident», unpredictable under conditions…@@
@@ -16571,19 +16571,19 @@
 8896@6@pu %@n@a «randomness», spec. term.@@
 8897@1@@2a@B is «aboard»/«on board» motor vehicle V.@@B-V
 8898@1@@1n@B is a «auto»/«car»/«automobile»/«truck»/«vehicle», any motorized land vehicle.@@B-
-8899@1@@3n@B is a «garage» for vehicle(s) P at location F@@B-PF
+8899@1@@3n@B is a «garage» for vehicle(s) P at location F.@@B-PF
 8900@1@@2@B is «parked» at location N.@@B-N
-8901@1@@2n@B is a «parking lot»/«carpark» for/of community/building F@@B-F
+8901@1@@2n@B is a «parking lot»/«carpark» for/of community/building F.@@B-F
 8902@1@@1n@B is a portion/serving of «tea» from source S.@@B-S
 8902@2@lo %@n@«tea», collective term.@@
 8903@1@@4n@K «travels by automobile»/car to D from S via V.@@K-DSV
 8903@2@po %@n@a «car trip»/«automobile trip».@@
-8904@1@@5v@K «drive»/«conduct» vehicle/vessel B to D from S via V@@K-BDSV
+8904@1@@5v@K «drive»/«conduct» vehicle/vessel B to D from S via V.@@K-BDSV
 8904@2@@n@a/the «driver»/«operator» of some vehicle/vessel during some journey;  cf. tcabapra@@
 8905@1@@af@a combining form of tceru, «penetrate».@@
 8906@1@@2v@B run «through» (body) D, as a sword might.@@B-D
 8907@1@@2n@B is some «Cheddar» from S, a cheese.@@B-S
-8908@1@@4v@K «walk through» N on the way to D from S@@K-NDS
+8908@1@@4v@K «walk through» N on the way to D from S.@@K-NDS
 8909@1@@2v@B «go through»/«run through» N to D from S. E.g. La Tigris tcegoi la Irak lo mursi lo monca.  The Tigris runs through Iraq to the sea from the mountains.@@B-N
 8910@1@@2v@N «pierce»/«puncture»/«perforate»/make a «hole» in D, nonintentional.@@N-D
 8910@2@@n@a «punch», any device for making holes.@@
@@ -16600,7 +16600,7 @@
 8917@1@@1n@B is a «hydrofoil».@@B-
 8918@1@@3v@K (go by ) «wing» to D from S.@@K-DS
 8919@1@@2v@K «stretch the wings» for D.@@K-D
-8920@1@@2v@K «moves through»/«passes through»/«penetrates» region/field/habitat/population N@@K-N
+8920@1@@2v@K «moves through»/«passes through»/«penetrates» region/field/habitat/population N.@@K-N
 8921@1@@1n@B is a length of «chain», a connected series of links.@@B-
 8922@1@@3v@K «chain»/«fetter» D to B, attaches with a chain.@@K-DB
 8922@2@nu %@a@«chained»/«fettered», pertaining to one -ed.@@
@@ -16767,7 +16767,7 @@
 9022@1@@2n@V is a «March» of year F.@@V-F
 9022@2@la %@na@«March» (the name of the 4th month of the year).@@
 9023@1@@2n@B is the «day before the day before yesterday» of day F.@@B-F
-9024@1@@2n@B is a/the «count»/«earl» of domain N@@B-N
+9024@1@@2n@B is a/the «count»/«earl» of domain N.@@B-N
 9025@1@lao %@na@a variety of «turtle».@@
 9026@1@lao %@na@a «swallow tanager».@@
 9027@1@@1n@B is a «tanager»,  a bird of genus Tersina.@@B-
@@ -16877,7 +16877,7 @@
 9085@6@pu %@n@a «badness»/«unacceptability», a spec. property of being bad.@@
 9086@1@@1n@B is a «curse».@@B-
 9087@1@@2v@K «worsen» N/make…«worse».@@K-N
-9088@1@@2a@C is «too» much/an «excessive» amount of F@@C-F
+9088@1@@2a@C is «too» much/an «excessive» amount of F.@@C-F
 9089@1@@1n@B is an «oven» in F, general term.@@B-F
 9090@1@@2v@D «tolerate» (bad coditions) N.@@D-N
 9090@2@lopu %@n@«toleration» (of bad conditions…), mass property.@@
@@ -16908,7 +16908,7 @@
 9104@2@@n@«exploder», that which explodes.@@
 9104@3@nu %@a@«explodable», can be -ed.@@
 9104@4@po %@n@an «explosion», an act of -ing something.@@
-9105@1@@2v@K is/are «excited»/«aroused» by N@@K-N
+9105@1@@2v@K is/are «excited»/«aroused» by N.@@K-N
 9106@1@@1v@B «blaze»/«burst into flame».@@B-
 9106@2@@a@«blazing», pertaining to -ing.@@
 9106@3@po %@n@a «blaze», an instance of -ing.@@
@@ -16927,8 +16927,8 @@
 9113@1@@1v@B «tinkle».@@B-
 9114@1@@af@a combining form of trili, «attract».@@
 9115@1@@2n@B is the «tail» of F.@@B-F
-9116@1@@2a@K has/have «tail between legs» under conditions N@@K-N
-9117@1@@3v@K «wag the tail» at D for purpose P@@K-DP
+9116@1@@2a@K has/have «tail between legs» under conditions N.@@K-N
+9117@1@@3v@K «wag the tail» at D for purpose P.@@K-DP
 9118@1@@4a@G is more «attractive» than J to D in features N.@@G-JDN
 9118@2@lopu %@n@«attractiveness», mass prop.@@
 9118@3@nu %@a@more «unattractive» than…to…, conv.@@
@@ -16999,7 +16999,7 @@
 9161@3@lio %@ph@«two» (2), the number two, non math.@@
 9162@1@@a@«respective», a discourse operator (UI).@@
 9162@2@@av@«respectively», a discourse operator (UI).@@
-9163@1@@2V@K «sit at» (table, desk, etc.) B@@K-B
+9163@1@@2V@K «sit at» (table, desk, etc.) B.@@K-B
 9164@1@@av@«secondly», in the second place@@
 9165@1@@af@a combining form of togri, «agree».@@
 9166@1@@3v@K «deal»/«negotiate» N with D.@@K-ND
@@ -17044,10 +17044,10 @@
 9184@1@@3v@K «assume»/«take over»/are «transferred» control of B from D.@@K-BD
 9184@2@po %@n@a «takeover», a spec. instance of transfer of control.@@
 9185@1@@2n@B is a «control surface» of aircraft F.@@B-F
-9185@2@kerpozfa %@n@B is an «airbrake» of aircraft F@@
+9185@2@kerpozfa %@n@B is an «airbrake» of aircraft F.@@
 9185@3@luftytenri %@n@B is a «flap» of aircraft F.@@
 9185@4@nazbyjao %@n@B is an «elevator» of aircraft F.@@
-9185@5@skojao %@n@B is an «aileron» of aircraft F@@
+9185@5@skojao %@n@B is an «aileron» of aircraft F.@@
 9186@1@@2n@B is a «rudder»/«control surface» of vehicle F.@@B-F
 9187@1@@2n@B is a «mouse» of system F, a rolling display pointer@@B-F
 9188@1@@2n@B is a «joystick» of system F, a stick type controller@@B-F
@@ -17202,10 +17202,10 @@
 9274@2@% he?@ph@«What-are-you»(-as-a-group)?/«What-does-your-group do»?.@@
 9274@3@Hu namci %?@ph@«What»'s-your(-group)-name?/«What»'s-your-group called?.@@
 9275@1@@af@a combining form of tovru, «above».@@
-9276@1@@2n@D is an «overhead» «locker» containing B@@D-B
+9276@1@@2n@D is an «overhead» «locker» containing B.@@D-B
 9277@1@@2n@B is a «robe» of S.@@B-S
 9278@1@@2n@B is an «attic»/«garret» of building F.@@B-F
-9279@1@@3v@K «top», cover the top of B with P@@K-BP
+9279@1@@3v@K «top», cover the top of B with P.@@K-BP
 9279@2@@n@«topping».@@
 9280@1@@2n@B is a «vinculum»/«overline» over text D.@@B-D
 9281@1@@2v@B «move over»/«move above» D.@@B-D
@@ -17240,7 +17240,7 @@
 9294@2@@n@a «truth», a spec. truth under epistemology…@@
 9294@3@lo %@n@«truth», mass term of truth.@@
 9294@4@lopu %@n@«truth», mass props.@@
-9295@1@@3v@K «prove»/discover the truth of S with proof P@@K-SP
+9295@1@@3v@K «prove»/discover the truth of S with proof P.@@K-SP
 9295@2@fu %@n@a «proof», a proving argument.@@
 9295@3@lo fu %@n@«proof», mass term of arguments.@@
 9295@4@lopo %@n@«proof», mass term of acts.@@
@@ -17351,7 +17351,7 @@
 9359@2@po %@n@a «stoniness», state of being full of rock.@@
 9359@3@pu %@n@a «rockiness», a spec. property.@@
 9360@1@@1n@B is a «rocky mount».@@B-
-9361@1@@2n@B is a «stone circle» for purpose N@@B-N
+9361@1@@2n@B is a «stone circle» for purpose N.@@B-N
 9362@1@@2n@B is a «column»/«pillar» in structure F.@@B-F
 9363@1@@3v@K «control» D in performance V.@@K-DV
 9363@2@@n@a «controller», one who -s.@@
@@ -17478,7 +17478,7 @@
 9411@3@fu %@a@«robbed», of one who is stolen from.@@
 9411@4@nu %@a@«stolen», conv. of steal…from…@@
 9411@5@po %@n@a «robbery»/«theft», a specific act of -ing.@@
-9412@1@@2v@K «hijacks» conveyance B@@K-B
+9412@1@@2v@K «hijacks» conveyance B.@@K-B
 9412@2@@n@a «hijacker».@@
 9412@3@po %@n@«hijacking», a sp. event@@
 9413@1@@af@a combining form of tsodi, «hate».@@
@@ -17493,7 +17493,7 @@
 9416@1@@1a@V is «too much».@@V-
 9417@1@@2v@S «suffice»/are «enough for» purpose P.@@S-P
 9417@2@@a@«sufficient»/«ample», of that which suffices for…@@
-9418@1@@3v@B is «so»/«sufficient» (in some property) that (result) P in circumstances N@@B-PN
+9418@1@@3v@B is «so»/«sufficient» (in some property) that (result) P in circumstances N.@@B-PN
 9419@1@@1n@B is a «tsunami»/«tidal wave».@@B-
 9420@1@@p@«you»/«yourself»/«thee»/«thou», the singular 2nd person variable, of a person spoken/written to. Cf. tou & tuo for plural 2nd person variables.@@
 9420@2@% ie filmo@ph@«How-are you»?, How are you feeling?.@@
@@ -17503,7 +17503,7 @@
 9421@1@@af@a combining form of turka, «work».@@
 9422@1@@2a@K is «busy»/«occupied with»/«engaged in» V.@@K-V
 9422@2@@v@be «busy»/«occupied with»/«engaged in»…@@
-9422@3@nu %@2a@V is «arduous» for K@@
+9422@3@nu %@2a@V is «arduous» for K.@@
 9423@1@@3a@B is «industrious»/«able» at task V under N.@@B-VN
 9424@1@@3n@F is a «crew»/«team» with task/purpose P working for N.@@F-PN
 9425@1@@2n@B is a «job»/«vocation»/«occupation» among people F.@@B-F
@@ -17532,7 +17532,7 @@
 9441@1@@1n@B is an instance of «Turkish» culture.@@B-
 9442@1@@2n@B is a «leg» of F.@@B-F
 9443@1@@af@a combining form of stuli, «adjust».@@
-9444@1@@2n@B is a «reindeer»/«caribou» from S@@B-S
+9444@1@@2n@B is a «reindeer»/«caribou» from S.@@B-S
 9445@1@@af@a combining form of tugle, «leg».@@
 9446@1@@1n@B is some «thulium», element 69 (Tm).@@B-
 9447@1@@1n@B is a/some «tulip» (s) from source S.@@B-S
@@ -17674,7 +17674,7 @@
 9526@2@@n@a «jumper», one who -s.@@
 9526@3@po %@n@a «jump»/«leap», an act of -ing.@@
 9527@1@@3v@K «vomit»/«regurgitate»/«throw up» P on B.@@K-PB
-9528@1@@2v@K «nauseates»/is «nauseated by» S@@K-S
+9528@1@@2v@K «nauseates»/is «nauseated by» S.@@K-S
 9528@2@po %@n@V is an instance of «nausea».@@
 9529@1@@1n@B is an «airsickness bag».@@B-
 9530@1@@af@a combining form of valna, «violent».@@
@@ -17751,7 +17751,7 @@
 9567@1@@av@«away-from here», before predicates.@@
 9567@2@@c@«away from» the place where, before clauses.@@
 9567@3@@pp@«away from», from near to far, before terms.@@
-9568@1@@3v@K «wave» at D for purpose P@@K-DP
+9568@1@@3v@K «wave» at D for purpose P.@@K-DP
 9569@1@@av@«near» this place, before predicates.@@
 9569@2@@c@«near» the place where, of limited events.@@
 9569@3@@pp@«near»…, a small space, before terms.@@
@@ -17773,7 +17773,7 @@
 9575@5@nu %@a@«saleable», conv. of sell.@@
 9575@6@po %@n@a «sale»/«selling», an act/event of selling.@@
 9576@1@@af@a combining form of vetfa, «invent».@@
-9577@1@@3v@V «enhance creativity»/«encourage creativity» in (person) K by N@@V-KN
+9577@1@@3v@V «enhance creativity»/«encourage creativity» in (person) K by N.@@V-KN
 9578@1@@av@«ninthly», in the ninth place@@
 9579@1@@3a@G is more «bright»/«brilliant»/«clever»/«intelligent»/«creative»/«ingenious» than J at thinking about V.@@G-JV
 9579@2@lopu %@n@«intelligence», mass term of props.@@
@@ -17905,7 +17905,7 @@
 9637@3@nu %@a@«recognizable», can be -ized by…@@
 9637@4@po %@n@a «recognition», an act of -izing.@@
 9637@5@pu nu %@n@a «recognizability», a spec. property.@@
-9638@1@@3v@K «remark»/«notice»/(take) «note» of/that N about B@@K-NB
+9638@1@@3v@K «remark»/«notice»/(take) «note» of/that N about B.@@K-NB
 9638@2@nu %@a@«noticeable»/«remarkable», conv. of notice.@@
 9639@1@@af@a combining form of vidre, «idea».@@
 9640@1@@4v@N «affect»/«influence» (system) F in matter B by V.@@N-FBV
@@ -17937,7 +17937,7 @@
 9654@1@@2a@G is more «idealistic» than J.@@G-J
 9654@2@@n@an «idealism», a spec. creed.@@
 9654@3@lo %@n@«idealism», mass term of creeds.@@
-9655@1@@3v@K has/«hit on idea» V about N@@K-VN
+9655@1@@3v@K has/«hit on idea» V about N.@@K-VN
 9655@2@Soi %@ph@«Eureka»!  «Bingo»!@@
 9656@1@@av@«throughout», a small place (PA).@@
 9656@2@@c@«throughout», a small place, before clauses.@@
@@ -18124,7 +18124,7 @@
 9753@2@@2a@G is «taller» than J, in the vertical dimension. v.vrecoa.@@
 9753@3@pu %@2n@the «stature» of…, its height property.@@
 9754@1@@1n@B is a «cliff»/«bluff»/«crag», a vertical land face.@@B-
-9755@1@@2v@K «take off» «vertically» in gravity field F@@K-F
+9755@1@@2v@K «take off» «vertically» in gravity field F.@@K-F
 9755@2@@n@«vertical» «take off» aircraft, «VTOL».@@
 9756@1@@4v@K «lean»/«incline»/«tend» toward B, in direction N in gravity field N(1).@@K-BNN
 9756@2@po %@n@an «inclination»/«tendency», fig., a disposition to…@@
@@ -18137,7 +18137,7 @@
 9761@1@@3n@B is a «river» draining basin N of land mass F.@@B-NF
 9762@1@@2n@B is a/the «mouth» of river  F.@@B-F
 9763@1@@3@B is a «swimming race» from S to D.  (use of por is considered poor Loglan).@@B-SD
-9764@1@@1n@B is a «river-taxi» of waterway system F@@B-
+9764@1@@1n@B is a «river-taxi» of waterway system F.@@B-
 9765@1@@av@«far» (away)/«away» from here, before predicates.@@
 9765@2@@av@«there», in the far distance (a location op.).@@
 9765@3@@c@«far»/«away» from where, before clauses.@@
@@ -18178,8 +18178,8 @@
 9781@4@po nu %@n@a «crush», a state of being -ed.@@
 9782@1@@2v@K «grind» (s) D underfoot, to kill or injure.@@K-D
 9783@1@@af@a combining form of zavlo, «bad».@@
-9784@1@@3v@B suffers an «accident»/«disaster» causing damage P in circumstances N@@B-PN
-9784@2@nu %@n@P is accidental «damage» caused to B in circumstances N@@
+9784@1@@3v@B suffers an «accident»/«disaster» causing damage P in circumstances N.@@B-PN
+9784@2@nu %@n@P is accidental «damage» caused to B in circumstances N.@@
 9785@1@@af@a combining form of zavno, «oven».@@
 9786@1@@3v@K «bake» D in oven N.@@K-DN
 9786@2@@n@a «baker», one who -s.@@
@@ -18261,7 +18261,7 @@
 9815@4@po %@n@«barbarism»/«barbarity», mass term of acts.@@
 9815@5@po %@n@«barbarism»/«barbarity», a spec. act of being -ic.@@
 9815@6@pu %@n@«barbarism», a spec. property.@@
-9816@1@@3v@K «opine nasty» V in circumstances N@@K-VN
+9816@1@@3v@K «opine nasty» V in circumstances N.@@K-VN
 9816@2@nu %@a@«nasty».@@
 9817@1@@3a@B is «wrong»/«immoral» in action V as judged by standard N.@@B-VN
 9817@2@@a@«wrong», to do…as judged by…@@
@@ -18353,7 +18353,7 @@
 9867@5@nu %@a@«infected», ill with disease —.@@
 9867@6@po %@n@a specific instance of «infection».@@
 9868@1@@2v@B is «married» to outsider B;  «exogamous marriage», specify social groups.@@B-B
-9869@1@@2v@S «output» (s) P@@S-P
+9869@1@@2v@S «output» (s) P.@@S-P
 9869@2@nu %@n@an «output» (from…).@@
 9869@3@po %@n@an inst. of «output» (of…).@@
 9870@1@@1a@B is a «giant»/«gigantic».@@B-
@@ -18539,20 +18539,20 @@
 10053@1@@af@a combining form of vidre «idea».@@
 10054@1@@af@a combining form of vidju, «view».@@
 10055@1@@af@a combining form of volsi, «voice».@@
-10056@1@@4v@X is a «complex» (Loglan grammatical term) containing primitive Y via affix Z in loglandical language W@@
-10057@1@@4v@X is a «primitive» «predicate» (root word) with meaning Y, number of places Z, in language W@@
-10058@1@@3v@X is the «word class» of word Y in language Z@@
-10059@1@@3v@X is the «structure word class» of structure word Y in language Z@@
-10060@1@@3v@X is the «grammar class» of utterance Y in language Z@@
-10061@1@@3v@X is a «metaphor» (in the sense of Loglan grammar)  in which predicate Y modifies predicate Z@@
+10056@1@@4v@X is a «complex» (Loglan grammatical term) containing primitive Y via affix Z in loglandical language W.@@
+10057@1@@4v@X is a «primitive» «predicate» (root word) with meaning Y, number of places Z, in language W.@@
+10058@1@@3v@X is the «word class» of word Y in language Z.@@
+10059@1@@3v@X is the «structure word class» of structure word Y in language Z.@@
+10060@1@@3v@X is the «grammar class» of utterance Y in language Z.@@
+10061@1@@3v@X is a «metaphor» (in the sense of Loglan grammar)  in which predicate Y modifies predicate Z.@@
 10061@2@nufu %@2v (3v)@X «modifies» Y (in metaphor Z).@@
 10062@1@@1n@X is an «elephant».@@
 10063@1@@1n@X is a female «elephant».@@
-10064@1@@2a@X is more «elephantine»/«elephant like» than Y@@
+10064@1@@2a@X is more «elephantine»/«elephant like» than Y.@@
 10065@1@@1n@X is a male «elephant».@@
 10066@1@@1n@X is an infant «elephant».@@
 10067@1@@1n@X is a female Asian «elephant».@@
-10068@1@@2a@X is more «elephantine»/«elephant like» than Y@@
+10068@1@@2a@X is more «elephantine»/«elephant like» than Y.@@
 10069@1@@1n@X is an infant Asian «elephant».@@
 10070@1@@1n@X is a male Asian «elephant».@@
 10071@1@@1n@X is an Asian «elephant».@@
