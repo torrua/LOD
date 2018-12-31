@@ -3699,7 +3699,7 @@
 1998@1@@2a@G is more «rural»/«rustic» than J, like farm land.@@G-J
 1999@1@@2@N has a measure of C in «degree» (s) Fahrenheit, default 1.@@N-C
 1999@2@Da % lio 50@ph@It has a «temperature» of 50°F.@@
-2000@1@@a@B ia a «farm animal»/«domestic animal» of D.@@B-D
+2000@1@@a@B is a «farm animal»/«domestic animal» of D.@@B-D
 2001@1@@1n@B is a «stable».@@B-
 2002@1@@1n@F is «Persian»/«Iranian» language.@@F-
 2003@1@@1a@B is an «Iranian» place/territory, a region inhabited by Iranians.@@B-
@@ -5792,7 +5792,7 @@
 3082@1@@1n@B is a (piece of) «cake».@@B-
 3082@2@@a@«cake», made of cake.@@
 3082@3@lo %@n@«cake», mass term.@@
-3083@1@@2n@B ia a «forest» of region F.@@B-F
+3083@1@@2n@B is a «forest» of region F.@@B-F
 3084@1@@2v@K «honor»/«glorify», see D as great.@@K-D
 3084@2@lopu nu %@n@«honour»/«honor»/«glory», mass term of property.@@
 3084@3@nu %@a@«glorious»/«honoured»/«honored», of one who is seen as great.@@
@@ -10875,7 +10875,7 @@
 5822@2@nu %@n@a «necessity», that which is made necessary.@@
 5823@1@@4a@G is more «necessary» for V(1) than J is for V(2).@@G-VJV
 5824@1@@af@a combining form of nedza, «next».@@
-5825@1@@2v@V ia «just»/«immediately»+«after» B.@@V-B
+5825@1@@2v@V is «just»/«immediately»+«after» B.@@V-B
 5825@2@@a@«following».@@
 5826@1@@1a@B is the «Dutch» language.@@B-
 5827@1@@1a@B is a «Dutch» place/territory, a region inhabited by Dutch.@@B-
