@@ -5471,7 +5471,7 @@
 2914@1@@op@strong potentiality marker: operator between predicates.@@
 2914@2@@va@«can» ….@@
 2915@1@@op@«for a»/«type of», as in 'large for a girls school', the grouping oper.@@
-2915@2@-ge@af@ connective suffix: as in <b>age</b>.@@
+2915@2@-ge@af@ connective suffix: as in  age.@@
 2916@1@@av@«again»/I «repeat», a discourse operator (UI).@@
 2918@1@@l@«g», Latin lower case letter, one of a pool of symbols.@@
 2919@1@@3a@K is «acquisitive» of B in conditions N.@@K-BN
@@ -8992,7 +8992,7 @@
 4825@3@lo %@n@«left», mass term for the direction.@@
 4826@1@@2v@N «turn» B left/«laevorotate»/«levorotate» (polarized light in the last instances).@@N-B
 4826@2@@a@«laevorotatory»/«levorotatory», pert. to a substance that rotates polarized light anticlockwise.@@
-4827@1@@pm@ «quote»/(“), the utterance which looks/sounds like …, the left «quotation» mark, used with <b>lu</b>.@@
+4827@1@@pm@ «quote»/(“), the utterance which looks/sounds like …, the left «quotation» mark, used with  lu.@@
 4828@1@@c@«like»/(just) «as»/in the «way that». .@@
 4828@2@@pp@«like»/«similar to», before clauses/terms.@@
 4828@3@% ba@av@«anyway»/in some «manner».@@
@@ -9468,7 +9468,7 @@
 5071@1@@3v@K «pick» flowers B from S.@@K-BS
 5072@1@@1n@B is a «lei»/«wreath»/«ring» of flowers.@@B-
 5073@1@@pm@The left hand marker of an ordered «list».@@
-5074@1@@pm@ end «quote»/(”) (the right «quotation» mark, used with <b>li</b>.).@@
+5074@1@@pm@ end «quote»/(”) (the right «quotation» mark, used with  li.).@@
 5075@1@@op@the right hand closure of an unordered «set».@@
 5076@1@@2a@G is more «feathery»/like a feather than J is.@@G-J
 5076@2@pu %@n@a «featheriness», a spec. property.@@
