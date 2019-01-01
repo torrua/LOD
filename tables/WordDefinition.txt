@@ -102,7 +102,7 @@
 68@1@@1n@B is an «aldehyde», a volatile fluid from the oxidation of alcohols.@@B-
 69@1@@2n@B is an «alga» of habitat S.@@B-S
 70@1@@2a@B is «allergic» to V.@@B-V
-70@2@ po %@n@«allergy», a specific condition of being allergic to substance ….@@
+70@2@po %@n@«allergy», a specific condition of being allergic to substance ….@@
 71@1@@1n@B is some «alizarin», a colouring matter from madder.@@B-
 72@1@@1n@B is some «allophane».@@B-
 73@1@@1n@B is some «aluminum»/«aluminium», element 13.@@B-
