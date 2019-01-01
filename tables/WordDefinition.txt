@@ -67,7 +67,7 @@
 43@1@@1@K suffer(s) from «acidosis», presence of acids in the blood over normal limits.@@K-
 43@2@lopo %@n@«acidosis», collective term for the condition.@@
 44@1@@1n@B is some«acetanilide», a pharmaceutical.@@B-
-45@1@@1n@B is a «cricket» (insect) .@@B-
+45@1@@1n@B is a «cricket» (insect).@@B-
 46@1@@1n@B is some «acetylene», an illuminant gas.@@B-
 47@1@@1n@B is some «acetone», a common solvent.@@B-
 48@1@@1a@B is «acinaciform», scimitar shaped (Bot.).@@B-
@@ -258,7 +258,7 @@
 190@1@@3v@K «build» (up)/«erect»/«construct» P from materials/parts S.@@K-PS
 190@2@@n@a «builder»/«constructor»/«erector», one who -s.@@
 190@3@lopo %@n@«building»/«construction» (mass act).@@
-190@4@nu %@a@«buildable»/«constructable»/«erectable», capable of being -ed. .@@
+190@4@nu %@a@«buildable»/«constructable»/«erectable», capable of being -ed.@@
 190@5@nu %@n@a/the a «building»/«construction»/«erection», the thing built.@@
 190@6@po %@n@a sp. act of «building»/«construction».@@
 191@1@@2a@B is «unstable»/«unsteady», has a poor sense of balance under conditions N.@@B-N
@@ -326,9 +326,9 @@
 228@2@lo nu %@n@«deposits», all such.@@
 228@3@nu %@n@«deposit», money banked.@@
 229@1@@2n@B is a «teller» in bank/financial institution F.@@B-F
-230@1@@4v@K «withdraw» C at bank/financial institution D from account B .@@K-CDB
+230@1@@4v@K «withdraw» C at bank/financial institution D from account B.@@K-CDB
 230@2@nu %@n@a «withdrawal».@@
-231@1@@2v@K is/are «outraged» by N .@@K-N
+231@1@@2v@K is/are «outraged» by N.@@K-N
 231@2@nu %@a@«outrageous».@@
 231@3@nu %@n@«outrage».@@
 232@1@@2n@D is a «basket» of B.@@D-B
@@ -504,7 +504,7 @@
 335@1@@1@B is a «Moor», one of a North African people.@@B-
 336@1@@1@V is «Moorish» culture, of a North African people.@@V-
 337@1@@1n@B is a «ewe», a female sheep.@@B-
-338@1@@1a@B is «ovine»/«sheepish», like a sheep .@@B-
+338@1@@1a@B is «ovine»/«sheepish», like a sheep.@@B-
 339@1@@1n@B is a «lamb», an infant sheep.@@B-
 340@1@@1n@B is a «ram», a male sheep.@@B-
 341@1@@1n@B is a «sheep», a general term for an ovine creature.@@B-
@@ -567,7 +567,7 @@
 381@1@@2n@B is a «squadron» of F.@@B-F
 382@1@@ms@«greater than or equal to» ( ), inequality oper., math.@@
 383@1@@2a@G is more «militaristic» than J.@@G-J
-383@2@@n@a «militarist», one who is -ic .@@
+383@2@@n@a «militarist», one who is -ic.@@
 384@1@@2n@B is a military «company»/«company of soldiers» in military force F.@@B-F
 385@1@@1n@N is a «militarism», a militaristic creed.@@N-
 385@2@@a@«militaristic», pert. to creeds.@@
@@ -904,7 +904,7 @@
 571@1@@2n@V is a/the «birthday» of B.@@V-B
 572@1@@3v@D has «rights» B under law/custom N by the circumstances of da's birth.@@D-BN
 572@2@fu %@1n@a «birthright» law/custom.@@
-572@3@nu %@2n@a/the «birthright» of …, one's right by birth. .@@
+572@3@nu %@2n@a/the «birthright» of …, one's right by birth.@@
 573@1@@voc@«King», a vocative.@@
 573@2@la %@na@«King», a name/name part as in 'la brag artur'.@@
 574@1@@2n@B is a/the «king»/«queen»/«monarch»/«emperor»/«empress»/«sultan» of F.@@B-F
@@ -984,7 +984,7 @@
 603@1@@1a@B is the «British» language.@@B-
 604@1@@1a@B is a «British» locale, a region inhabited by British.@@B-
 605@1@@2a@G is more «stormy»/«boisterous» than J.@@G-J
-605@2@@v@«storm», behave stormily .@@
+605@2@@v@«storm», behave stormily.@@
 605@3@pu %@n@a «boisterousness»/«storminess», a spec. property.@@
 606@1@@2n@V is a «windstorm» in F, e.g. Mu pa nu britetriWe had a windstorm.@@V-F
 606@2@@a@«stormy» (of the type specified).@@
@@ -1035,7 +1035,7 @@
 629@1@@3n@N is a «brother» of N with parents S, collective.@@N-NS
 629@2@lopo %@n@«brotherhood», mass term.@@
 629@3@po %@n@a «brotherhood», a specific instance.@@
-630@1@@3n@N is a «sibling» of N with parents S .@@N-NS
+630@1@@3n@N is a «sibling» of N with parents S.@@N-NS
 631@1@@3n@N is a fraternal «nephew» of B through brother S.@@N-BS
 632@1@@2v@K «breathe» (s) D, inhale and exhale, any gas.@@K-D
 632@2@@n@a «breather», one who -s.@@
@@ -1594,7 +1594,7 @@
 954@2@po %@n@an «indifference» to /about … equal feeling for ….@@
 955@1@@2n@B is a «stork» from S.@@B-S
 956@1@@2n@B has a «cycle» of C per unit time;  default 1 per sec.@@B-C
-957@1@@3v@K «equalize»/make «equal» B (collective) in dimension C .@@K-BC
+957@1@@3v@K «equalize»/make «equal» B (collective) in dimension C.@@K-BC
 957@2@@n@an «equalizer», one who/that which -es.@@
 957@3@po %@n@an «equalization», a process of -ing.@@
 958@1@@2v@K (collective) «reciprocate in doing» V, «do» … to each other.@@K-V
@@ -1809,7 +1809,7 @@
 1061@1@@2v@K «rage» to (person) D.@@K-D
 1062@1@@4n@D is «stressed» in context N at level V in language B.@@D-NVB
 1062@2@@a@«stressed»/«accented», when … at … in ….@@
-1062@3@lopu %@n@«accent»/«stress» -mass term of props. .@@
+1062@3@lopu %@n@«accent»/«stress» -mass term of props.@@
 1062@4@pu %@n@an «accent»/«stress», a prop. of a spec. speech sound.@@
 1063@1@@af@a combining version of clesi, «without».@@
 1064@1@@2v@D is/are «rid»/«free»/«bereft» of B.@@D-B
@@ -2114,7 +2114,7 @@
 1202@1@@1n@B is a piece/quantity of «down», new feathers.@@B-
 1202@2@lo %@n@«down», mass term.@@
 1203@1@@2v@K «renovate»/«restore», restore D to original state.@@K-D
-1203@2@@n@a «renovator», general, one who -s .@@
+1203@2@@n@a «renovator», general, one who -s.@@
 1203@3@lopo %@n@«restoration»/«renovation», mass term.@@
 1203@4@po %@n@a «restoration»/«renovation», general, a spec. property.@@
 1204@1@@2n@K is a/the «bride» of D.@@K-D
@@ -3083,7 +3083,7 @@
 1700@1@@1v@B is «memory», as of a computer etc.@@B-
 1701@1@@af@a combining form of dirlu, «lose».@@
 1702@1@@3v@K «sacrifice» D in hope of V, as a piece at chess.@@K-DV
-1702@2@po %@n@an instance of «sacrifice» .@@
+1702@2@po %@n@an instance of «sacrifice».@@
 1703@1@@2v@K «mourn» (the loss of) B.@@K-B
 1703@2@po %@n@an instance of «mourning».@@
 1704@1@@p@«him» (self)/«her» (self)/«them» (selves)<, 5th free variable of the da series>.@@
@@ -3138,7 +3138,7 @@
 1728@6@no nu %@a@«mistrusted»/«untrustworthy»/«untrustable», by … to do …, conv. form.@@
 1728@7@nu %@a@«trusted»/«trustworthy»/«trustable», by … to do …, conv. form.@@
 1728@8@po %@n@a «faith»/«trust», an act of trusting … to do ….@@
-1728@9@po no %@n@an instance of «distrust» .@@
+1728@9@po no %@n@an instance of «distrust».@@
 1728@10@pu nu %@n@«trustworthiness», a spec. property.@@
 1729@1@@3n@N is a «precept» for (situation) V given by S.@@N-VS
 1730@1@@3v@K «prescribe» N for D.@@K-ND
@@ -3671,7 +3671,7 @@
 1986@1@@2v@K «reenter»/«go back in» (location) S.@@K-S
 1986@2@po %@n@an instance of «reentry».@@
 1987@1@@av@«finally»/in «conclusion», a discourse operator (UI).@@
-1988@1@@1a@N is «infinite»/«endless»/«unbounded»/without «limit»/end. .@@N-
+1988@1@@1a@N is «infinite»/«endless»/«unbounded»/without «limit»/end.@@N-
 1988@2@pu %@n@an «infinity», the property of being infinite.@@
 1989@1@@1v@D is/are «done for».@@D-
 1990@1@@2v@K «write endnote» for document F.@@K-F
@@ -3788,7 +3788,7 @@
 2039@5@% ta@av@in a «while»/«later on»/«presently», after that, a mod. phrase.@@
 2039@6@% ti@av@in a «while»/«later on»/«presently», after this, a mod. phrase.@@
 2040@1@@av@«right away»/at «once»/«immediately»/«soon», immediate future, before preds.@@
-2040@2@@c@«just after»/as «soon as»/no «sooner than», before event clauses. .@@
+2040@2@@c@«just after»/as «soon as»/no «sooner than», before event clauses.@@
 2040@3@@pp@«just after», before event terms.@@
 2040@4@@va@«will immediately» (be a) …, modified tense operator.@@
 2040@5@% ti@av@«just then»/«momentarily»/«right now»/«thereupon»/«whereupon»/«upon which»,«whereat», just after this, a mod. phrase.@@
@@ -3963,7 +3963,7 @@
 2139@1@@2v@K «whimper»/«yelp»/«cry out»/«scream»/«yell» about N - used of any fear or submission cry.@@K-N
 2139@2@po %@n@a fear-induced «scream»/«cry»/«whimper»/«yelp».@@
 2139@3@pu %@n@is a «wimp».@@
-2140@1@@av@«from now on», before preds. .@@K-N
+2140@1@@av@«from now on», before preds.@@K-N
 2140@2@@c@«since», for a long time after, with clauses.@@
 2140@3@@pp@ever «since», for a long time after, terms.@@
 2141@1@@af@a combining form of fibru, «weak».@@
@@ -4023,7 +4023,7 @@
 2169@5@pu %@n@a «moodiness», a spec. property.@@
 2170@1@@2n@B is a «field» of farm/community F.@@B-F
 2171@1@@3v@K «confide»/«disclose»/«express» feeling V to D.@@K-VD
-2171@2@fu %@n@a «confidant»(e), one who is confided to. .@@
+2171@2@fu %@n@a «confidant»(e), one who is confided to.@@
 2171@3@nu %@n@a «confidence»/disclosure, that which is —ed.@@
 2171@4@po %@n@a «disclosure», a specific act of —ing.@@
 2172@1@@2n@B is a «hedgerow», dense row of trees between (collection) F.@@B-F
@@ -4081,12 +4081,12 @@
 2193@1@@2a@G is more «timid»/«fearful» than J.@@G-J
 2193@2@lopu %@n@«timidity»/«fearfulness», mass property.@@
 2193@3@po %@n@an instance of «timidity».@@
-2194@1@@2v@D is/are «horrified» by/with V .@@D-V
+2194@1@@2v@D is/are «horrified» by/with V.@@D-V
 2194@2@lopo %@a@«horror».@@
 2194@3@nu %@a@«horrible».@@
-2195@1@@3v@S «horrify» (person) D by/with V .@@S-DV
+2195@1@@3v@S «horrify» (person) D by/with V.@@S-DV
 2195@2@nu %@a@«horrified».@@
-2196@1@@3v@K «horrify» (person) D by V .@@K-DV
+2196@1@@3v@K «horrify» (person) D by V.@@K-DV
 2196@2@nu %@a@«horrified».@@
 2197@1@@3a@G is more «fearsome»/«formidable»/«redoubtable» than J is to D.@@G-JD
 2198@1@@2n@P is some «horror» fiction by S.@@P-S
@@ -5009,7 +5009,7 @@
 2707@2@@af@«un»—<,antonym of some preds.: 2nd conv. op.>.@@
 2707@3@@op@conversion of 1st & 3rd places of a predicate, «passive»s/antonyms/etc.@@
 2707@4@@va@«is  ed», passive of some predicates.@@
-2708@1@@va@will be «habitually» -ing, continuous future tense (PA). .@@
+2708@1@@va@will be «habitually» -ing, continuous future tense (PA).@@
 2709@1@@2a@G is more «feminine»/«womanly»/«womanish»+than J, of non women.@@G-J
 2709@2@lopu %@n@«femininity»/«womanliness», mass term, props.@@
 2709@3@pu %@n@a «femininity»/«womanliness», a spec. property of non women.@@
@@ -5412,7 +5412,7 @@
 2887@2@@n@a «gardener», one who -s.@@
 2887@3@@v@«garden», cultivate garden ….@@
 2888@1@@voc@«Queen», a vocative.@@
-2888@2@la %@na@«Queen», a name/name part as in 'la garf meris'; .@@
+2888@2@la %@na@«Queen», a name/name part as in 'la garf meris';.@@
 2889@1@@2n@B is the «president»/«premier»/«prime» minister of F.@@B-F
 2889@2@@a@«presidential», pert. to presidents.@@
 2889@3@po %@n@a «presidency», a state of being a -dent.@@
@@ -5755,7 +5755,7 @@
 3064@1@@1n@B is a «ball» (dance).@@B-
 3065@1@@3v@K «bestow» B on D.@@K-BD
 3065@2@@n@«bestower», one who -s.@@
-3066@1@@1a@N is «glorious»/«praiseworthy» .@@N-
+3066@1@@1a@N is «glorious»/«praiseworthy».@@N-
 3067@1@@2n@B is the «empress»/great queen of N.@@B-N
 3067@2@@a@«imperial», pert. to empresses.@@
 3068@1@@1n@N is a great «Power».@@N-
@@ -5938,7 +5938,7 @@
 3153@1@@3v@K «strike» against employer/company D for reasons/grievances S.@@K-DS
 3153@2@@n@a «striker», one participating in a —.@@
 3154@1@@pm@«comma»/(,), proximal right boundary marker all clauses.@@
-3155@1@@va@am/is/are «habitually» -ing, continuous timeless tense (PA). .@@
+3155@1@@va@am/is/are «habitually» -ing, continuous timeless tense (PA).@@
 3156@1@la %@na@«Chinese», the — language.@@
 3157@1@@af@a combining form of gudbi, «good».@@
 3158@1@@2v@K «wish well» of/for D.@@K-D
@@ -6377,7 +6377,7 @@
 3360@2@fu %@n@a «heater» (of … by …).@@
 3360@3@nu %@a@«heated» (by … with …), by intention.@@
 3361@1@@3v@K «measure» the «temperature» of B to be C.@@K-BC
-3362@1@@3n@V is a «thermometer» for measuring the temperatures of B, a class of objects/materials, on the C scale(s) .@@V-BC
+3362@1@@3n@V is a «thermometer» for measuring the temperatures of B, a class of objects/materials, on the C scale(s).@@V-BC
 3363@1@@1n@B is an «engine», a heat converting machine.@@B-
 3364@1@@3v@K «quarrel»/«disagree» angrily/loudly/emotionally with K about V.@@K-KV
 3364@2@po %@n@a «quarrel», an angry «disagreement».@@
@@ -6742,10 +6742,10 @@
 3590@2@lopo %@n@«servitude»/«slavery», mass term of states.@@
 3590@3@po %@n@a «servitude»/«slavery», a state of being a slave.@@
 3591@1@@2n@D is a/the «slavemaster»/«slaveowner» of slave B.@@D-B
-3592@1@@1n@N is an inst. of «anthropology». .@@N-
+3592@1@@1n@N is an inst. of «anthropology».@@N-
 3592@2@@a@«anthropological», pert. to —.@@
 3592@3@lo %@n@«anthropology», mass term.@@
-3593@1@@1n@B is an «anthropologist», a studier of humans. .@@B-
+3593@1@@1n@B is an «anthropologist», a studier of humans.@@B-
 3594@1@@2n@B is some «humus» from S, a soil type.@@B-S
 3595@1@@af@a combining form of humni, «human».@@
 3596@1@@2v@K «murder» D.@@K-D
@@ -7095,7 +7095,7 @@
 3804@4@lo %@n@«jewelry», mass term.@@
 3805@1@@2a@G is more «bejeweled»/covered with jewels than J is.@@G-J
 3806@1@@voc@«Young man», a vocative as 'hey young man!'.@@
-3806@2@la %@na@«Master»/«Young man», a name/name part: 'Master Smith' .@@
+3806@2@la %@na@«Master»/«Young man», a name/name part: 'Master Smith'.@@
 3807@1@@af@a combining form of junti, «young».@@
 3808@1@@3v@K «bring up»/«educate» child/youth D in/to be a B.@@K-DB
 3808@2@@n@an «educator», of the young, a bringer up.@@
@@ -8637,11 +8637,11 @@
 4601@2@@a@«persistent»/«enduring», long lasting.@@
 4601@3@lopu %@n@«resistance»/«endurance» (of …), mass prop.@@
 4602@1@@af@a combining form of blabi, «white».@@
-4603@1@@2v@D is/are «bleached»/«blanched»/«whitened» by K, intransitive. .@@D-K
+4603@1@@2v@D is/are «bleached»/«blanched»/«whitened» by K, intransitive.@@D-K
 4604@1@@3v@N «bleach»/«blanch»/«whiten» D by V, nonintentional 'the sun bleaches my hair'.@@N-DV
 4604@2@@n@a «bleach», a colour remover.@@
 4604@3@@v@make … «white».@@
-4604@4@lo %@n@«bleach» (mass term). .@@
+4604@4@lo %@n@«bleach» (mass term).@@
 4605@1@@3a@G are «lighter»/more «brilliant» than J in light N.@@G-JN
 4605@2@@a@«light»/«brilliant», in color, light, incomp. form.@@
 4605@3@lopu %@n@«lightness»/«brilliance», the mass of such props.@@
@@ -8993,7 +8993,7 @@
 4826@1@@2v@N «turn» B left/«laevorotate»/«levorotate» (polarized light in the last instances).@@N-B
 4826@2@@a@«laevorotatory»/«levorotatory», pert. to a substance that rotates polarized light anticlockwise.@@
 4827@1@@pm@ «quote»/(“), the utterance which looks/sounds like …, the left «quotation» mark, used with  lu.@@
-4828@1@@c@«like»/(just) «as»/in the «way that». .@@
+4828@1@@c@«like»/(just) «as»/in the «way that».@@
 4828@2@@pp@«like»/«similar to», before clauses/terms.@@
 4828@3@% ba@av@«anyway»/in some «manner».@@
 4828@4@% hu@q@«how»?/in what «manner»?/like «what»?, a question about similarity.@@
@@ -9015,7 +9015,7 @@
 4838@1@@af@a combining form of lidji, «religion».@@
 4839@1@@2v@D are «saved» in religion N.@@D-N
 4839@2@lopo %@n@«salvation», mass instances.@@
-4839@3@po %@n@an instance of «salvation» .@@
+4839@3@po %@n@an instance of «salvation».@@
 4840@1@@2v@K «worship» D.@@K-D
 4841@1@@2v@D are «awed», made religiously fearful by K.@@D-K
 4841@2@nu %@vt@«awe», to produce awe, conv. of awed.@@
@@ -9121,8 +9121,8 @@
 4895@1@@4v@K «appeal» judgment V to D on grounds N.@@K-VDN
 4895@2@po %@n@an «appeal», an act of -ing a judgement.@@
 4896@1@@3n@K legally «oblige»/«require» D to do P.@@K-DP
-4896@2@fu %@n@a legal «obligation» .@@
-4896@3@nu %@a@legally «obliged»/«obligated» .@@
+4896@2@fu %@n@a legal «obligation».@@
+4896@3@nu %@a@legally «obliged»/«obligated».@@
 4897@1@@3n@B is a «right», a legal privilege of D, under law/authority S.@@B-DS
 4897@2@@a@«rightful», of legal privileges.@@
 4898@1@@1n@B is a «lily», a flower of the Liliaceae.@@B-
@@ -9314,7 +9314,7 @@
 4992@1@@af@a combining form of clivi, «live».@@
 4993@1@@3V@K «behave» like (model, pattern) S in situation N.@@K SN
 4994@1@@1v@B «comes-to-life»/«becomes alive».@@B-
-4995@1@@2v@K «resurrects»/makes B come to life .@@K-B
+4995@1@@2v@K «resurrects»/makes B come to life.@@K-B
 4995@2@nu %@a@«resurrected», of someone restored to life.@@
 4995@3@po %@n@«resurrection», an event of … 's restoring … to life.@@
 4996@1@@2a@G is more «barren»/«lifeless» than J is.@@G-J
@@ -9388,7 +9388,7 @@
 5024@1@@pm@The open «quotation mark» of a written specimen.@@
 5025@1@@a@«the»/«a»/«an», individual composed of all things which are …, mass term operator.@@
 5026@1@@i@«good bye»/«farewell»/«so long», an expression/exclamation of leave taking.@@
-5026@2@da me liu % takna@ph@X says «good bye»/«farewell» .@@
+5026@2@da me liu % takna@ph@X says «good bye»/«farewell».@@
 5027@1@@af@a combining form of lodji, «logic».@@
 5028@1@@3a@V is «illogical» concerning B under conditions N.@@V-BN
 5029@1@@3a@V is «logical», full of logic in features B under conditions N.@@V-BN
@@ -10166,7 +10166,7 @@
 5441@1@@1n@N is «mind», as a concept not associated with an individual.@@N-
 5441@2@@a@«mental», the generalized phenomenon of mind.@@
 5442@1@@2a@G is more «clever»/«smart»/«intelligent»/«brilliant» than J is.@@G-J
-5442@2@lopu %@n@«brilliance»/«intelligence», mass property. .@@
+5442@2@lopu %@n@«brilliance»/«intelligence», mass property.@@
 5443@1@@2n@B lasts/endures C «minute» (s), default 1, international unit of time.@@B-C
 5444@1@@2n@N is a mental «image» of V.@@N-V
 5445@1@@1a@V is «abstract», a mental concept.@@V-
@@ -10229,13 +10229,13 @@
 5478@1@@p@«we»/«us»/«ourselves», in the "I/me and others jointly" sense, the 1st & 3rd person set variable. Equivalent to 'mi ze da'. Cf. mu/mo for the "you and I/me" sense of we/us, and muu/muo for the "you and I and others" sense of we/us.@@
 5479@1@@2n@B is «mineral water» from source S.@@B-S
 5480@1@@2n@B is a «mine» of P, a place for extracting mineral(s).@@B-P
-5481@1@@3v@K «mine» P from S, removes mineral … from … by mining .@@K-PS
+5481@1@@3v@K «mine» P from S, removes mineral … from … by mining.@@K-PS
 5481@2@@n@a «miner», one who -s minerals/ores.@@
 5482@1@@1n@B is a «miner», one who mines.@@B-
 5483@1@@p@«we»/«us»/«ourselves», in the "you and I/me independently" sense, the 1st & 2nd person mutliple variable. Equivalent to 'mi, e tu'. Cf. mu for the "you and I/me jointly" sense of we/us, miu/mio for the "I and others" sense of we/us, and muu/muo for the "you and I and others" sense of we/us.@@
 5484@1@@af@a combining form of monca, «mountain».@@
 5485@1@@af@a combining form of motci, «motor».@@
-5486@1@@2v@K «motorize» D, furnish with a motor .@@K-D
+5486@1@@2v@K «motorize» D, furnish with a motor.@@K-D
 5486@2@nu %@a@«motorized», conv. of motorize.@@
 5487@1@@1a@B is «low powered», as a car.@@B-
 5488@1@@1a@B is «high powered», as a car.@@B-
@@ -10302,7 +10302,7 @@
 5523@3@fu %@4v@«inherit» … from … under will/law ….@@
 5523@4@fu %@n@an/the «heir»/«heiress» of ….@@
 5523@5@nu %@3a@«inherited» by … from ….@@
-5523@6@nu %@3n@an/the «inheritance» of … from …, the thing -ed .@@
+5523@6@nu %@3n@an/the «inheritance» of … from …, the thing -ed.@@
 5523@7@po %@n@a specific «bequest».@@
 5523@8@po nu %@1n@«inheritance», the process/event of -ing.@@
 5524@1@@2n@V is a «funeral» for D.@@V-D
@@ -10423,7 +10423,7 @@
 5590@1@@1n@B is a/some «timber» (tree).@@B-
 5590@2@@a@«timber», pert. to trees used for lumber.@@
 5590@3@lo %@n@«timber», mass term.@@
-5591@1@@1n@B is a «carpenter»/«woodworker», one who works with wood .@@B-
+5591@1@@1n@B is a «carpenter»/«woodworker», one who works with wood.@@B-
 5592@1@@af@a combining form of mutce, «much».@@
 5593@1@@3v@K «indulge» D by V.@@K-DV
 5594@1@@2a@G is/are more «feminine»/«womanly» than J, of women.@@G-J
@@ -10511,7 +10511,7 @@
 5639@2@nu %@n@the «elevation»/«altitude» above sea level of ….@@
 5640@1@@2n@B is a «harbor» of coastline F, i.e., for sea going vessels.@@B-F
 5641@1@@1n@B is a female «monkey», a small primate.@@B-
-5642@1@@1a@B is «monkey like»/«monkeyish»/«simian» .@@B-
+5642@1@@1a@B is «monkey like»/«monkeyish»/«simian».@@B-
 5643@1@@1n@B is an infant «monkey», a small primate.@@B-
 5644@1@@1n@B is a male «monkey», a small primate.@@B-
 5645@1@@3v@K «command» group B in sea force F.@@K-BF
@@ -10560,7 +10560,7 @@
 5669@1@lao %@2n@a «Mustelidae» of genus …, a small carnivore.@@
 5670@1@@2n@B is some «mustard» from S.@@B-S
 5671@1@@2n@B is a «mustelid» of genus F, a carnivore of the family Mustelidae.@@B-F
-5672@1@@2v@B is «paralysed» in D, without muscular control .@@B-D
+5672@1@@2v@B is «paralysed» in D, without muscular control.@@B-D
 5673@1@@2v@D become «paralysed» in B, become without muscular control (vi).@@D-B
 5674@1@@2v@V «paralyse» in D, without muscular control (nonintentional cause, as in an accident).@@V-D
 5675@1@@3v@K «paralyse» D in B, make without muscular control (intentional act, as in surgery or animal control.).@@K-DB
@@ -10648,7 +10648,7 @@
 5710@2@@c@«when», time coincidence, between clauses.@@
 5710@3@@c@«while», time inclusion, before event clauses.@@
 5710@4@@pp@«at»/«in»/«during».@@
-5710@5@@va@«am»/«are»/«is» (now) -ing sign of the present tense. .@@
+5710@5@@va@«am»/«are»/«is» (now) -ing sign of the present tense.@@
 5710@6@% ba@av@«now and then»/«once» (upon a time) — at/during some time x.@@
 5710@7@% ba@av@«sometime»/«anytime»/«ever» — literally, at/in/during some (time) x.@@
 5710@8@% hu@q@«when»?/«during what interval»?/at what «point in time»?.@@
@@ -11255,7 +11255,7 @@
 5999@1@@1n@B is a «neurologist», a physician.@@B-
 6000@1@@1n@B is a «neurologist», a scientist.@@B-
 6001@1@@a@«zero» (0), in math. expressions.@@
-6001@2@@a@«no»/«none»/«zero» (of …), a quantifying operator. .@@
+6001@2@@a@«no»/«none»/«zero» (of …), a quantifying operator.@@
 6001@3@lio %@ph@«zero» (0), the number zero, non math.@@
 6002@1@@av@«meanwhile», concurrent with a given interval.@@
 6002@2@@c@all the «while»/as «long as»/«when»/«while»/«all along».@@
@@ -11413,7 +11413,7 @@
 6085@7@po %@n@a «neatness»/«order», a spec. state of being neat.@@
 6085@8@po no %@n@a state of «disorder»/«mess».@@
 6085@9@pu %@n@a «neatness»/«orderliness», a spec. property.@@
-6086@1@@2n@B is some «nitrogen», element 7 .@@B-
+6086@1@@2n@B is some «nitrogen», element 7.@@B-
 6087@1@@2n@B is a «nitrate» of D, a salt of nitric acid.@@B-D
 6088@1@@2v@K «arrange»/«fix up»/«set in order»/«straighten up» B.@@K-B
 6088@2@@n@an «arranger», one who -s.@@
@@ -12014,7 +12014,7 @@
 6384@2@@af@«un»—<,antonym of some preds.: 1st conv. op.>.@@
 6384@3@@op@conversion of 1st & 2nd places of a predicate/«passive» voice.@@
 6384@4@@va@«is  ed», passive of some predicates.@@
-6385@1@@va@am/is/are+(now) «habitually» -ing, continuous present tense (PA). .@@
+6385@1@@va@am/is/are+(now) «habitually» -ing, continuous present tense (PA).@@
 6386@1@@c@«whether» …, … as one wd. between modifiers.@@
 6387@1@@c@«whether» … not …, between modified/ fying words.@@
 6388@1@@h@«Mr»/«Ms»/«Mrs», an attitudinal indicating both distance and neutrality;  part of the series 'rie/kae/nue/fie/die', q.v.;  always follows a designation/vocative. E.g., 'Smiq, Nue'.  'Smith, Mr.' ('Mr. Smith');  'Ne nu sange nue' 'A suggestion toward which.@@
@@ -12406,7 +12406,7 @@
 6609@1@@2n@K is a «journalist»/«reporter» for publication P.@@K-P
 6610@1@@c@«if and only if»/«means»/is «equivalent to»/«provided that», logical equivalence between terms.@@
 6611@1@@i@I/he/they «must»/it is«obligatory»/«necessary that» …, exp. of ethical obligation.@@
-6612@1@@i@I would «prefer that» … <, exp. of ethical preference.> .@@
+6612@1@@i@I would «prefer that» … <, exp. of ethical preference.>.@@
 6612@2@@i@it is«better»/«preferable that» … <, exp. of ethical preference.>.@@
 6612@3@@i@I/he/they «should»/«ought to» …, exp. of ethical preference.@@
 6613@1@@l@«o», latin lower case letter, one of a pool of symbols.@@
@@ -13324,7 +13324,7 @@
 7106@3@@n@«tyrant»/«usurper», one who takes power.@@
 7106@4@@n@«deposer»/«usurper» (… from …), one who takes power.@@
 7106@5@nu %@a@«overthrown»/«overcome».@@
-7106@6@po %@n@an instance of «tyranny»/«deposing»/«usurping»., .@@
+7106@6@po %@n@an instance of «tyranny»/«deposing»/«usurping».@@
 7106@7@po %@n@an «overthrow»/«putting down»/«coup».@@
 7107@1@@af@a combining form of porju, «pig».@@
 7108@1@@1n@B is a piece of «pork».@@B-
@@ -13497,7 +13497,7 @@
 7202@1@@3v@K «protest»/«object» (in words) about V to D.@@K-VD
 7202@2@po %@1n@an instance of «objection»/«protest» about …, the action.@@
 7203@1@@op@«-ness»/«-ship»/«-hood»/-ity, the «property»/«quality»/dimension operator.@@
-7204@1@@va@was/were+(now) «habitually» -ing, continuous past tense (PA). .@@
+7204@1@@va@was/were+(now) «habitually» -ing, continuous past tense (PA).@@
 7205@1@@2a@B is «stressed»/«emphasized»/«emphatic» relative to N.@@B-N
 7205@2@pu %@n@a «stress»/«emphasis», a spec. property.@@
 7206@1@@2a@G is «wordier» than J is.@@G-J
@@ -14487,7 +14487,7 @@
 7761@1@@3v@K «shatter»/«smash» D into fragments B, intentional 'Would we not shatter it to bits'.@@K-DB
 7762@1@@1n@B is a «lottery»/«sweepstakes».@@B-
 7763@1@@1v@K «multiply»/«reproduce», e.g. Bacteria multiply rapidly.@@K-
-7763@2@lopu %@n@mass property of «multiplication»/«reproduction». .@@
+7763@2@lopu %@n@mass property of «multiplication»/«reproduction».@@
 7763@3@po %@n@an instance of «multiplication»/«reproduction».@@
 7764@1@@3a@G is more «intelligent»/«knowledgeable» than J in learning N.@@G-JN
 7764@2@lopu %@n@«intelligence»/«knowledge», mass term of props ….@@
@@ -14811,7 +14811,7 @@
 7949@3@@ph@at one«stroke»/«blow», simultaneously.@@
 7949@4@lopu %@n@«simultaneity», mass prop.@@
 7950@1@@2a@V is «contemporary»/«contemporaneous» with V.@@V-V
-7950@2@@n@a «contemporary» of … one living at the same time .@@
+7950@2@@n@a «contemporary» of … one living at the same time.@@
 7951@1@@3v@K «dub» speech of D in film/programme B.@@K-DB
 7952@1@@1n@B is a «generation» of beings living contemporaneously.@@B-
 7953@1@@3n@B is a «second cousin» of B with grandfather S.@@B-BS
@@ -15748,7 +15748,7 @@
 8463@3@fu %@n@a «record»/«recording» (sound/video).@@
 8463@4@po %@n@an act of «recording».@@
 8464@1@@2n@B is a «record»/sound «recording» of V.@@B-V
-8465@1@@3v@K «record» sound/video S as record P, intentional .@@K-SP
+8465@1@@3v@K «record» sound/video S as record P, intentional.@@K-SP
 8465@2@@n@a «recorder» (one that r's).@@
 8465@3@fu %@n@a «record»/«recording» (sound/video).@@
 8465@4@po %@n@a «recording» (act of).@@
@@ -16111,7 +16111,7 @@
 8647@1@@3v@K «struggle», fight a long time with D over issue N.@@K-DN
 8647@2@lopo %@n@«struggle», mass term of events.@@
 8647@3@po %@n@a «struggle», a spec. event/process of -ing.@@
-8648@1@@2v@D is/are  «melancholy about»/«pine for»  V, a lengthy sad mood .@@D-V
+8648@1@@2v@D is/are  «melancholy about»/«pine for»  V, a lengthy sad mood.@@D-V
 8648@2@lopu %@n@«melancholy», mass property.@@
 8648@3@po %@n@a specific state of «melancholy» <continuing sadness>.@@
 8649@1@@3v@K «survive» N by V.@@K-NV
@@ -17630,7 +17630,7 @@
 9507@1@@l@«upsilon», Greek lower case letter, one of a pool of symbols.@@
 9508@1@@av@«nearby»/«there», in the middle distance, loc. op.@@
 9508@2@@c@«near where»/«where», before event clauses.@@
-9508@3@@pp@«near»/«around» … (a place), before terms/predicates. .@@
+9508@3@@pp@«near»/«around» … (a place), before terms/predicates.@@
 9508@4@% ti@ph@«around», around here, a modifying phrase.@@
 9509@1@@af@a combining form of valna, «violent».@@
 9510@1@@af@a combining form of valda, «develop».@@
@@ -17779,7 +17779,7 @@
 9579@2@lopu %@n@«intelligence», mass term of props.@@
 9579@3@pu %@n@«intelligence», a specific property.@@
 9580@1@@5n@D have a «patent» on (invention) D issued by K for purpose P and period C.@@D-DKPC
-9580@2@nu %@a@«patented», having a —. .@@
+9580@2@nu %@a@«patented», having a —.@@
 9581@1@@1a@B is «inventive»/«ingenious».@@B-
 9582@1@@af@a combining form of vegri, «green».@@
 9583@1@@2n@B is «greenery»/«verdure» of F.@@B-F
@@ -17889,7 +17889,7 @@
 9634@1@@av@«here»/«close by»/«at this place», before predicates.@@
 9634@2@@c@at/«close by» the place where, before event clauses.@@
 9634@3@@c@«where»<, before event clauses, general.>.@@
-9634@4@@pp@«at»/«in»/«on»/«close by»(a place). .@@
+9634@4@@pp@«at»/«in»/«on»/«close by»(a place).@@
 9634@5@% ba@av@«somewhere»/«someplace»/«anywhere»/«anyplace», literally, at/in some(place) x.@@
 9634@6@% hu@q@«where»?/at «whatplace»/point in space?, a question about location.@@
 9634@7@% raba@av@«everywhere»/«anywhere»/«everyplace», literally, at/in every some(place) x.@@
@@ -18093,7 +18093,7 @@
 9733@1@@1n@B is a «volcano».@@B-
 9734@1@@2n@B is some «volcanic ash» from S.@@B-S
 9735@1@@2v@K «accent» word/syllable/phrase P.@@K-P
-9735@2@po %@n@«accent», a speech stress .@@
+9735@2@po %@n@«accent», a speech stress.@@
 9736@1@@2n@P is a (speech) «sound» made by person/animal S.@@P-S
 9736@2@lo %@n@«voice», the sounds uttered by ind'l ….@@
 9737@1@@1n@B is a voiced speech «sound», phonetics.@@B-
@@ -18141,7 +18141,7 @@
 9765@1@@av@«far» (away)/«away» from here, before predicates.@@
 9765@2@@av@«there», in the far distance (a location op.).@@
 9765@3@@c@«far»/«away» from where, before clauses.@@
-9765@4@@pp@«far»/«away» from …, a location op., before terms. .@@
+9765@4@@pp@«far»/«away» from …, a location op., before terms.@@
 9765@5@% ta@av ph@«far» from there<, a modifying phrase.>.@@
 9765@6@% ti@av@«far» (away)/«away» from here, a modifying phrase.@@
 9766@1@@1n@B is a «fox», an animal of the genus Vulpes.@@B-
@@ -18188,7 +18188,7 @@
 9788@2@nu %@1n@«roast» (ed), something oven cooked.@@
 9789@1@@2n@B is a «roast» of S.@@B-S
 9790@1@@af@a combining form of zavlo, «bad».@@
-9791@1@@4v@N (bring) «harm to»/«damage»/«injure» D by doing V with bad effects P, nonintentional .@@N-DVP
+9791@1@@4v@N (bring) «harm to»/«damage»/«injure» D by doing V with bad effects P, nonintentional.@@N-DVP
 9791@2@fu %@a@«damaging», of harmful effects.@@
 9791@3@fu %@n@a harm/«injury»/«loss», bad effects of another's action.@@
 9791@4@ju %@a@«harmful», of acts which produce harm.@@
