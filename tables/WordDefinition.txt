@@ -12257,7 +12257,7 @@
 6523@1@@2n@B is in «relief», raised from surface S.@@B-S
 6524@1@@1a@B is «artificial»/«artifactual»/«man made», something made.@@B-
 6524@2@@n@an «article»/«artifact»/«confection»/«making»/«product», a manufactured object.@@
-6525@1@@32@B is an «embankment»/«dike» of/along F for purpose P.@@B-FP
+6525@1@@3n@B is an «embankment»/«dike» of/along F for purpose P.@@B-FP
 6526@1@@1n@B is a «pond»/«reservoir», an artificial body of water.@@B-
 6527@1@@2n@B is a «brother-in law» of D.@@B-D
 6528@1@@2n@B is a «stepdaughter» of D.@@B-D
