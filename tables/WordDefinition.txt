@@ -18379,7 +18379,7 @@
 9881@1@@2n@B is an «exception» to/of set S.@@B-S
 9881@2@@av@«exceptional», outside of set ….@@
 9882@1@@2n@B is an «outside» location from S.@@B-S
-9882@2@vi le %@av.ph.@«outside».@@
+9882@2@vi le %@av ph@«outside».@@
 9883@1@@1n@B is a «hobo»/«rover»/«tramp», one who wanders the country without fixed address.@@B-
 9884@1@@2n@B is a «space»/«region» outside of N default: la Ter.@@B-N
 9885@1@@2v@K «spit» up/out B.@@K-B
