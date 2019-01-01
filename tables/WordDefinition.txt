@@ -106,7 +106,7 @@
 71@1@@1n@B is some «alizarin», a colouring matter from madder.@@B-
 72@1@@1n@B is some «allophane».@@B-
 73@1@@1n@B is some «aluminum»/«aluminium», element 13.@@B-
-74@1@@; firpa1n@B is an «alkali», a basic substance, the opposite of acid.@@B-
+74@1@@1n@B is an «alkali», a basic substance, the opposite of acid.@@B-
 74@2@@a@«alkaline», having a basic reaction.@@
 75@1@@1n@B is an «alcohol», often used for ethanol, the beverage alcohol.@@B-
 76@1@@1n@B is an «onion».@@B-
