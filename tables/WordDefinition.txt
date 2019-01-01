@@ -10672,7 +10672,7 @@
 5715@1@@3n@N is a «problem» encountered by D in task/inquiry V.@@N-DV
 5715@2@@a@«problematical»/«problematic», pert. to problems.@@
 5716@1@@3v@K «bring» problem/dispute V to/before F.@@K-VF
-5717@1@@2]@K «solve»/«discover solution» to problem V.@@K-V
+5717@1@@2v@K «solve»/«discover solution» to problem V.@@K-V
 5718@1@@2n@P is a/the «resolution»/«solution» of (problem) S.@@P-S
 5719@1@@p@«again», in the sense of now and at least once before.@@
 5720@1@@af@a combining form of nadro, «sodium».@@
