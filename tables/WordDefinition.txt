@@ -11593,7 +11593,7 @@
 6174@2@lopu %@n@«pity», general property.@@
 6174@3@nu %@a@«pitiable», conv. of pity.@@
 6174@4@po %@n@a «pity», a state/condition/instance of -ing. 'That's a pity'.@@
-6175@1@@33v@K «care for»/be «custodian» of D for third party B.@@K-DB
+6175@1@@3v@K «care for»/be «custodian» of D for third party B.@@K-DB
 6176@1@@3v@K «persecute» D on pretext N, e.g. different religion.@@K-DN
 6176@2@@n@«persecutor», one who -s.@@
 6176@3@lopo %@n@«persecution», mass term.@@
