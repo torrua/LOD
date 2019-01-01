@@ -4974,7 +4974,7 @@
 2689@2@@i@«advance»!/«come forward»!, w/o 1st arg., an imperative.@@
 2689@3@po %@n@an «advancement», a coming to the forefront.@@
 2690@1@@1n@B is a «front yard»/«forecourt» of F, any space in front of someone/something else.@@B-F
-2690@2@vi le %@av.ph@«in front of»/«before».@@
+2690@2@vi le %@av ph@«in front of»/«before».@@
 2691@1@@1n@B is an «apron», the front part of a stage.@@B-
 2692@1@@1@K «stand out», be conspicuous.@@K-
 2692@2@@2a@more «salient»/«conspicuous»/«outstanding»/«prominent»/«obvious»/«evident»/«manifest» than ….@@
