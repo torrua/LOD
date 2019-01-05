@@ -317,14 +317,14 @@
 224@2@nu %@n@a «banking system» (n), conv. of bank.@@
 225@1@@3v@K «bank»/«deposit» money B in/at bank D.@@K-BD
 225@2@lo nu %@n@«deposits», all such.@@
-225@3@nu %@n@«deposit», money banked.@@
+225@3@nu %@n@«deposit», money banked.@@
 226@1@@2n@K is a «banker», owner of bank B.@@K-B
 226@2@lopo %@n@«banking», mass term.@@
 226@3@po %@n@«banking», a sp. event of bank keeping.@@
 227@1@@2v@K «bank» at bank/financial institution D.@@K-D
 228@1@@4v@K «bank»/«deposit» money C in/at bank D in account B.@@K-CDB
 228@2@lo nu %@n@«deposits», all such.@@
-228@3@nu %@n@«deposit», money banked.@@
+228@3@nu %@n@«deposit», money banked.@@
 229@1@@2n@B is a «teller» in bank/financial institution F.@@B-F
 230@1@@4v@K «withdraw» C at bank/financial institution D from account B.@@K-CDB
 230@2@nu %@n@a «withdrawal».@@
@@ -1891,7 +1891,7 @@
 1094@1@@2v@D is «awed» by K.@@D-K
 1094@2@nu %@a@«awesome», that which -s.@@
 1094@3@nu %@v@«awe» …, cause awe in ….@@
-1094@4@po %@n@«awe», a spec. instance of being awed.@@
+1094@4@po %@n@«awe», a spec. instance of being awed.@@
 1095@1@@1a@B is «romantic», US usage, related to love fiction.@@B-
 1095@2@po %@n@a «romance» (US), an instance of love fiction.@@
 1096@1@@2v@K «date»/«meet» K romantically.@@K-K
@@ -2379,7 +2379,7 @@
 1346@4@nu %@a@«guarded»/«protected», of that which is so -ed.@@
 1346@5@po %@n@a «preservation»/«protection»/«security», an act of -ing.@@
 1346@6@po nu %@n@a «preservation»/«security», a state of being -ed.@@
-1346@7@pu%@n@«protection», a prop. of a protector.@@
+1346@7@pu %@n@«protection», a prop. of a protector.@@
 1347@1@@2n@B is a «napkin» for N, US clothing protect, UK baby diaper.@@B-N
 1348@1@@3v@K «trust»/«entrust» B with (the care of) D.@@K-BD
 1348@2@@a@«trusting», one who -s someone with ….@@
@@ -2730,7 +2730,7 @@
 1535@1@@2n@B is a «jaw» of animal/person S.@@B-S
 1536@1@@3v@K «teach»/«instruct» subject N to D.@@K-ND
 1536@2@@n@an «instructor»/«teacher», one who teaches.@@
-1536@3@fu%@a@«docile»/«teachable», teachable, conv. of teach, q.v.@@
+1536@3@fu %@a@«docile»/«teachable», teachable, conv. of teach, q.v.@@
 1536@4@nu %@n@a «subject», of instruction, conv. of teach.@@
 1536@5@po %@n@an «instruction», a spec. act of «teaching».@@
 1537@1@@3v@K «bite» (into) D on/at locus S.@@K-DS
@@ -5147,7 +5147,7 @@
 2763@4@lopo %@n@«motivation», the mass of such states.@@
 2763@5@lopu %@n@«purposefulness»/«will», mass term.@@
 2763@6@lopu nu %@n@«purposefulness», mass term.@@
-2763@7@nu%@a@«intentional»/«intended»/«purposive»/«purposeful», of intended acts.@@
+2763@7@nu %@a@«intentional»/«intended»/«purposive»/«purposeful», of intended acts.@@
 2763@8@po %@n@a «motivation»/«will», a spec. intentional state.@@
 2763@9@pu %@n@a «purposefulness»/«will», a prop. of actors.@@
 2763@10@pu nu %@n@a «purposefulness», a prop. of behavior.@@
@@ -5423,7 +5423,7 @@
 2891@2@lopu %@n@«queenliness», mass term of properties.@@
 2891@3@pu %@n@a «queenliness», a spec. property.@@
 2892@1@@4v@N is a «government change» from S to D by V.@@N-SDV
-2892@2@po %@n@a «revolution»/«takeover»/«coup d»'etat.@@
+2892@2@po %@n@a «revolution»/«takeover»/«coup d»'etat.@@
 2893@1@@2v@K «revolt»/«rebellion» against government S.@@K-S
 2893@2@@a@«revolutionary», pertaining to revolution.@@
 2893@3@@n@a «revolutionary»/«revolutionist», one who -s.@@
@@ -7179,8 +7179,8 @@
 3854@1@@2n@B is a «tile» of F.@@B-F
 3855@1@@3v@K «defy» D about B.@@K-DB
 3855@2@@a@«defiant» to … about …, pertaining to one who -ies.@@
-3855@3@lopu%@n@«defiance», mass property.@@
-3855@4@po%@n@an instance of «defiance» to … about ….@@
+3855@3@lopu %@n@«defiance», mass property.@@
+3855@4@po %@n@an instance of «defiance» to … about ….@@
 3856@1@@h@«gentle», as in gentleman, gentle reader, an attitudinal expressing a respectful distance and near social equality;  part of the series 'rie/kae/nue/fie/die', q.v.;  always used after a designation/vocative. E.g., 'Hoi Plizo, Kae'  'O User, Gentleperson'  'Gentle User'. (DIE).@@
 3857@1@@2v@K «remain aware» of N.@@K-N
 3858@1@@af@a combining form of kasfa, «punish».@@
@@ -12647,8 +12647,8 @@
 6761@2@@a@«paranoid», suffering from paranoia.@@
 6761@3@po %@n@an inst. of «paranoia».@@
 6762@1@@3v@K «mar»/«deform»/«mutilate» D by V.@@K-DV
-6762@2@nu%@a@«mutilated», the thing -ed.@@
-6762@3@po%@n@an instance of «mutilation» (of … by …).@@
+6762@2@nu %@a@«mutilated», the thing -ed.@@
+6762@3@po %@n@an instance of «mutilation» (of … by …).@@
 6763@1@mela %@a@«Parisian», as in mela Paris hotle, a Parisian hotel.@@
 6764@1@@2n@B is a «parka» of D.@@B-D
 6765@1@@1a@B is partly «open»/«half open»/«ajar».@@B-
@@ -15259,7 +15259,7 @@
 8200@1@@3a@state/event V is «sure»/«certain» to be/happen/has a probability of 1.0 of being/happening umder conditions N given knowledge system S.@@V-NS
 8200@2@@a@«certain»/«inevitable»/«bound to happen».@@
 8200@3@@n@a «certainty»/«inevitability», something that is bound to happen.@@
-8200@4@lopu  %@n@«certainty», the mass of such properties.@@
+8200@4@lopu %@n@«certainty», the mass of such properties.@@
 8200@5@lopu no %@n@«uncertainty», the mass of such properties.@@
 8200@6@no %@a@«uncertain», of something that is not inevitable/bound to happen.@@
 8200@7@pu %@n@a «certainty»/«inevitability», a property of something that is bound to happen.@@
@@ -15402,7 +15402,7 @@
 8273@2@@av@«effectively»/«well»/with «good effect», effectively.@@
 8273@3@@v@«effective», be, effective for ….@@
 8273@4@lopu %@n@«effectiveness», mass term, properties.@@
-8273@5@pu%@n@an «effectiveness», a spec. property.@@
+8273@5@pu %@n@an «effectiveness», a spec. property.@@
 8274@1@@4v@K «speaks» P «congratulatingly» to D on/for V.@@K-PDV
 8274@2@fu %@a@«congratulated», one receiving a specific -tion.@@
 8274@3@po %@n@a specific instance of «congratulatory» «speaking».@@
@@ -18342,7 +18342,7 @@
 9864@1@@1n@B is an «overcoat».@@B-
 9865@1@@2v@D «discharge»/«flow out» from S.@@D-S
 9865@2@@a@«discharging»/«flowing out» (from …).@@
-9865@3@nu %@2v@be «discharging» ….@@
+9865@3@nu %@2v@be «discharging» ….@@
 9865@4@po %@n@a «discharge» (from …).@@
 9865@5@po nu %@n@a «discharge» (of …).@@
 9866@1@@3n@B is a «language» not used in group F under conditions N.@@B-FN
