@@ -363,7 +363,7 @@
 249@1@@2n@B is a «bar»/«tavern» of place/community F.@@B-F
 250@1@@4v@K «reward» D for S with B.@@K-DSB
 250@2@fu %@a@«rewardable», of acts which are -ed.@@
-250@3@ju %@b@a «reward», the thing given.@@
+250@3@ju %@n@a «reward», the thing given.@@
 250@4@nu %@a@«rewardable», of one who is -ed.@@
 251@1@@2n@B is the «shoulder» of F.@@B-F
 252@1@@1n@B is a «bracelet», an arm ornament.@@B-
@@ -5545,7 +5545,7 @@
 2952@1@@2n@B is a «gamma ray» from source F.@@B-F
 2953@1@@af@a combining form of genru, «gene».@@
 2954@1@@1@B is some «germanium», element 32 (Ge).@@B-
-2955@1@@3b@B is the «gene pool» of deme/breeding population F of species S.@@B-FS
+2955@1@@3n@B is the «gene pool» of deme/breeding population F of species S.@@B-FS
 2955@2@nu %@n@is a «deme»/«breeding population» with gene pool … of species ….@@
 2956@1@@3v@B, a species or lineage, «adapts» genetically to habitat N by genetic change V.@@B-NV
 2956@2@@a@«adaptable», genetically.@@
@@ -5914,7 +5914,7 @@
 3139@2@@2v@«belong» to …, as to a group.@@
 3139@3@@n@a «member», of a social group.@@
 3139@4@pu %@n@a «membership», a spec. property.@@
-3140@1@@3b@K «troop», move as a group to D from S.@@K-DS
+3140@1@@3v@K «troop», move as a group to D from S.@@K-DS
 3141@1@@3n@B is a «league», an association of combined groups F for purpose P.@@B-FP
 3142@1@@1n@N is some «gruyere», a Swiss cheese.@@N-
 3143@1@@3n@B is a commercial «bond» issued by S for purpose P.@@B-SP
