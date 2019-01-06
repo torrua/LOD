@@ -44,7 +44,7 @@
 30@1@@2a@G is more «shady»/«shadowy» than J.@@G-J
 30@2@lopo %@n@«shadiness», mass term.@@
 30@3@po %@n@a «shadiness», a spec. state/condition.@@
-31@1@@conj@«hyphen», open hyphen between words.@@B-
+31@1@@c@«hyphen», open hyphen between words.@@B-
 31@2@-ci%@af@«sub» as in 'x sub 1', generates subscripted variables.@@
 32@1@@av@«similarly»/«like the foregoing», a discourse operator (UI).@@
 33@1@@3a@G is more «learned»/scholarly in field(s) B than J.@@G-BJ
