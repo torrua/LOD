@@ -2456,7 +2456,7 @@
 1387@1@@3n@F is a «council»/«planning group» including member(s) B with remit/responsibility P.@@F-BP
 1387@2@fu %@n@the «remit» of council/planning group/committee ….@@
 1387@3@nu %@n@the «members» of council/planning group/committee ….@@
-1388@1@@acronymic name@acronymic name for «DNA»/«desoxyribonucleic acid».@@B-S
+1388@1@@acr@acronymic name for «DNA»/«desoxyribonucleic acid».@@B-S
 1389@1@@3n@B is a «plan»/«drawing» for making or building P drafted by K.@@B-PK
 1389@2@fu %@n@a «draughtsman», one who draws plans.@@
 1389@3@nu %@n@a «building» made/to be made from plans … drafted by ….@@
