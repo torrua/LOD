@@ -2008,7 +2008,7 @@
 1156@1@@1n@B is a «brook»/«rivulet»/«rill»/«creek»/«stream», a small river.@@B-
 1157@1@@af@a combining version of cmeni, «money».@@
 1158@1@@4v@K «exchange»/«trade» amount of money C (in one currency) for amount of money C (in another currency) with source S.@@K-CCS
-1158@2@@il@«trader»/«broker», one involved in money trade.@@
+1158@2@@n@«trader»/«broker», one involved in money trade.@@
 1158@3@po %@n@«traffic», as in "drug traffic".@@
 1159@1@@2n@N is the «economy» of F.@@N-F
 1160@1@@3v@K «appraise» the monetary value of B to be C.@@K-BC
