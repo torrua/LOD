@@ -8178,7 +8178,7 @@
 4354@1@@3n@B is a computer «disk» (ette) containing P for system F.@@B-PF
 4354@2@norstifa %@ph@a computer «floppy disk».@@
 4354@3@stifa %@ph@a computer «hard disk».@@
-4355@1@@1n@B is some «potassium», element 19.(K).@@B-
+4355@1@@1n@B is some «potassium», element 19 (K).@@B-
 4356@1@@2n@B is a «computer display»/«monitor» for system F.@@B-F
 4357@1@@pp@«because of» (cause), a relative oper. before design'ns (PA).@@
 4357@2@% hu@ph@«why»/«how» (did that happen)?, by what cause?.@@
