@@ -3791,7 +3791,7 @@
 2040@2@@c@«just after»/as «soon as»/no «sooner than», before event clauses.@@
 2040@3@@pp@«just after», before event terms.@@
 2040@4@@va@«will immediately» (be a) …, modified tense operator.@@
-2040@5@% ti@av@«just then»/«momentarily»/«right now»/«thereupon»/«whereupon»/«upon which»,«whereat», just after this, a mod. phrase.@@
+2040@5@% ti@av@«just then»/«momentarily»/«right now»/«thereupon»/«whereupon»/«upon which», «whereat», just after this, a mod. phrase.@@
 2040@6@% ti@av@«just then»/«thereupon», just after that, a mod. phrase.@@
 2041@1@@av@«eventually»/in the distant «future», before predicates.@@
 2041@2@@c@long «after», some event, before clauses.@@
@@ -3951,8 +3951,8 @@
 2135@2@@c@ever «since», some event, with clauses.@@
 2135@3@@op@continuous future tense: «will» be  ing/being ….@@
 2135@4@@pp@(ever) «since», continuously after, with terms.@@
-2135@5@% ta@av ph@ever «since»,«thereafter», that time, a modifying phrase.@@
-2135@6@% ti@av ph@ever «since»,«thereafter», this time<, a modifying phrase.>.@@
+2135@5@% ta@av ph@ever «since», «thereafter», that time, a modifying phrase.@@
+2135@6@% ti@av ph@ever «since», «thereafter», this time<, a modifying phrase.>.@@
 2136@1@@2v@N «frighten»/«scare» B by V, nonintentionally, as of an incident.@@K-BV
 2136@2@@a@«frightening»/«scary»/«fearsome», actively causing fear.@@
 2136@3@lopo nu %@n@«fright», mass term of states.@@
@@ -7269,7 +7269,7 @@
 3890@2@@a@«triumphant»/«victorious» over ….@@
 3890@3@lopo %@n@an instance of «triumph», e.g. Arch of Triumph.@@
 3891@1@@2v@K «drink up» B.@@K-B
-3891@2@nu %@pp@«drunk up»,«drained».@@
+3891@2@nu %@pp@«drunk up», «drained».@@
 3892@1@@2v@K «ruin»/«demolish»/«obliterate»/completely «destroy» D.@@K-D
 3892@2@nu %@a@«obliterated»/«ruined»/«demolished», completely destroyed.@@
 3892@3@nu %@n@a «ruin», that which is demolished.@@
@@ -16541,7 +16541,7 @@
 8880@1@@2n@B is a «theatre»/«playhouse» of place/community F.@@B-F
 8880@2@@a@«theatre», pert. to the theatre/stage.@@
 8880@3@lo %@n@(the) «theatre», general term.@@
-8881@1@@h@«even», «surprisingly»,«unexpectedly» (UI), a discursive.@@
+8881@1@@h@«even», «surprisingly», «unexpectedly» (UI), a discursive.@@
 8882@1@@1n@B is an «eland», an antelope of genus Taurotragus.@@B-
 8883@1@lao %@na@an «eland», an antelope.@@
 8884@1@@af@a combining form of tcaro, «car».@@
@@ -17071,7 +17071,7 @@
 9196@1@@a@«two billion» of …, a quantifying operator, in math. exp.@@
 9196@2@@n@«two» billion, the number, math. exp.@@
 9196@3@lio %@n@«two» billion, the number, non math.@@
-9197@1@@1n@B is a/some «tomato» (es) from source S.@@B-S
+9197@1@@1n@B is a/some «tomato»(es) from source S.@@B-S
 9197@2@lo %@n@«tomatoes», general term.@@
 9198@1@@af@a combining form of torni, «twist».@@
 9199@1@@1v@D «warp»/«twist», (actor unspecified).@@D-
