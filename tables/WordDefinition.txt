@@ -218,8 +218,8 @@
 161@1@@l@«alpha», Greek lower case letter, one of pool of symbols.@@
 162@1@@art@«a»/«an», in 'a man … 'ba mrenu, some x is a man'.@@
 162@2@@ph@at «least» one /some … <, a non designating variable>.@@
-162@3@@pr@«anybody»/«anything», as in 'Get anybody'.@@
-162@4@@pr@«something»/«someone» x, 1st non designating variable of the ba series.@@
+162@3@@p@«anybody»/«anything», as in 'Get anybody'.@@
+162@4@@p@«something»/«someone» x, 1st non designating variable of the ba series.@@
 162@5@% crina@ph@It is «raining», 'some x is -ing'.@@
 162@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
 163@1@@af@a combining form of barma, «arm».@@
@@ -416,8 +416,8 @@
 283@1@@2n@B is a «trading market» at F.@@B-F
 284@1@@2n@B is some «bauxite», an aluminium ore from S.@@B-S
 285@1@@art@«a»/«an», in 'a man … 'ba mrenu, some x is a man'.@@
-285@2@@pr@«anybody»/«anything», as in 'Get anybody'.@@
-285@3@@pr@«something»/«someone» x, 2nd non designating variable of the ba series.@@
+285@2@@p@«anybody»/«anything», as in 'Get anybody'.@@
+285@3@@p@«something»/«someone» x, 2nd non designating variable of the ba series.@@
 285@4@% crina@ph@It is «raining», 'some x is -ing'.@@
 285@5@su %@ph@at «least» one /some … <, a non designating variable>.@@
 285@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
@@ -840,8 +840,8 @@
 524@5@po %@n@a «haemhorrhage», an instance of -ing.@@
 525@1@@art@«a»/«an», in 'a man … 'ba mrenu, some x is a man'.@@
 525@2@@ph@at «least» one /some … <, a non designating variable>.@@
-525@3@@pr@«something»/«someone» x, 3rd non designating variable of the ba series.@@
-525@4@@pr@«anybody»/«anything», as in 'Get anybody'.@@
+525@3@@p@«something»/«someone» x, 3rd non designating variable of the ba series.@@
+525@4@@p@«anybody»/«anything», as in 'Get anybody'.@@
 525@5@% crina@ph@It is «raining», 'some x is -ing'.@@
 525@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
 526@1@@af@a combining version of broda, «broken».@@
@@ -1042,8 +1042,8 @@
 632@3@po %@n@a «breath», an act/event of -ing.@@
 633@1@@2n@B is a «rib» of F.@@B-F
 634@1@@art@«a»/«an», in 'a man … 'ba mrenu, some x is a man'.@@
-634@2@@pr@«anybody»/«anything», as in 'Get anybody'.@@
-634@3@@pr@«something»/«someone» x, 4th non designating variable of the ba series.@@
+634@2@@p@«anybody»/«anything», as in 'Get anybody'.@@
+634@3@@p@«something»/«someone» x, 4th non designating variable of the ba series.@@
 634@4@@pr@at «least» one /some … <, a non designating variable>.@@
 634@5@% crina@ph@It is «raining», 'some x is -ing'.@@
 634@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
