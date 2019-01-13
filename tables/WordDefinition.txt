@@ -10272,7 +10272,7 @@
 5505@2@@a@«tender»/«soft», less resistant to pressure than ….@@
 5505@3@lopu %@n@«tenderness», the mass of such props.@@
 5505@4@pu %@n@a «tenderness»/«softness», a property.@@
-5506@1@su%@num@—«million», add 6 zeros to the number.@@
+5506@1@su%@ms@—«million», add 6 zeros to the number.@@
 5507@1@@af@a combining form of monca, «mountain».@@
 5509@1@@3v@K «overload»/«overburden» D with N.@@K-DN
 5510@1@@2n@B is a local «valley» of river/stream S, cf. nuvri basin.@@B-S
