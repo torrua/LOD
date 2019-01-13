@@ -18573,8 +18573,8 @@
 10087@1@@l@the letter «U» -- letteral and pronoun -- upper case.@@
 10088@1@@l@the letter «y» -- letteral and pronoun -- lower case.@@
 10089@1@@l@The letter «Y» -- letteral and pronoun -- upper case.@@
-10090@1@@LW@separator of components of foreign names and strong quotations.@@
-10091@1@@LW@alternative separator between components of strong quotations.@@
+10090@1@@pm@separator of components of foreign names and strong quotations.@@
+10091@1@@pm@alternative separator between components of strong quotations.@@
 10092@1@@LW@subordinate clause former, defines the subordinated argument in terms of the argument it is subordinated to.@@
 10093@1@@i@attitudinal expressing apology, I'm «sorry».@@
 10094@1@@LW@LW for constructing compounds from predicate words (and LWs under some circumstances).@@
@@ -18587,6 +18587,6 @@
 10101@1@@op@short scope «quality» abstractor, variant of pu.@@
 10102@1@@op@short scope «quantity» abstractor, variant of zo.@@
 10103@1@@LW@attitudinal marking «answer»s.@@
-10104@1@@LW@medial marker («comma») for unordered lists = finite sets.@@
-10105@1@@LW@medial marker («comma») for ordered lists.@@
+10104@1@@pm@medial marker («comma») for unordered lists = finite sets.@@
+10105@1@@pm@medial marker («comma») for ordered lists.@@
 10106@1@@2v@X «may» do, is «permitted» to do, Y.@@
