@@ -18583,7 +18583,7 @@
 10097@1@@2n@B is a «kaleidoscope» of type N.@@
 10098@1@@2n (3n)@X is more «aerodynamic» than Y (in medium Z).@@
 10099@1@@2n@X is a «battery» for appliance Y.@@
-10100@1@@LW@short scope  «event» predicate constructor, modification of po.@@
+10100@1@@c@short scope  «event» predicate constructor, modification of po.@@
 10101@1@@op@short scope «quality» abstractor, variant of pu.@@
 10102@1@@op@short scope «quantity» abstractor, variant of zo.@@
 10103@1@@LW@attitudinal marking «answer»s.@@
