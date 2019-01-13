@@ -18586,7 +18586,7 @@
 10100@1@@c@short scope  «event» predicate constructor, modification of po.@@
 10101@1@@op@short scope «quality» abstractor, variant of pu.@@
 10102@1@@op@short scope «quantity» abstractor, variant of zo.@@
-10103@1@@LW@attitudinal marking «answer»s.@@
+10103@1@@i@attitudinal marking «answer»s.@@
 10104@1@@pm@medial marker («comma») for unordered lists = finite sets.@@
 10105@1@@pm@medial marker («comma») for ordered lists.@@
 10106@1@@2v@X «may» do, is «permitted» to do, Y.@@
