@@ -18558,9 +18558,9 @@
 10071@1@@1n@X is an Asian «elephant».@@
 10073@1@la %@na@«Japan», the name of the country.@@
 10074@1@la %@na@«Japanese», the  language.@@
-10075@1@@LW@«more than», quantifier prefix.@@
-10076@1@@LW@«less than», quantifier prefix.@@
-10077@1@@LW@«thousand», quantifier suffix, formerly mo.@@
+10075@1@@af@«more than», quantifier prefix.@@
+10076@1@@af@«less than», quantifier prefix.@@
+10077@1@@af@«thousand», quantifier suffix, formerly  mo.@@
 10078@1@@l@the letter «a» -- letteral and pronoun -- lower case.@@
 10079@1@@l@the letter «A» -- letteral and pronoun -- upper case.@@
 10080@1@@l@the letter «e» -- letteral and pronoun -- lower case.@@
