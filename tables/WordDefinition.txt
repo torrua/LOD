@@ -5089,7 +5089,7 @@
 2742@1@@3n@K feel(s) «obliged»/«obligated» by rule/custom S to do P.@@K-SP
 2742@2@fu %@n@a «obligation» by rule or custom.@@
 2743@1@@op@reorders the 1st three places of a predicate as 312.@@
-2744@1@@mod.@3rd «reflexive», equivalent to inserting a third argument identical to the first argument. c.f. nuo.@@
+2744@1@@mod@3rd «reflexive», equivalent to inserting a third argument identical to the first argument. c.f. nuo.@@
 2745@1@@af@a combining form of fu, third place «passive».@@
 2746@1@@3n@N is a «condition»/«circumstance»/«factor» in the situation V of F.@@N-VF
 2746@2@po %@a@is «conditional», an event of something being a condition.@@
@@ -7135,7 +7135,7 @@
 3826@5@lopo %@n@«youth», mass term of states.@@
 3826@6@po %@n@«youth», a spec. state of being young.@@
 3826@7@pu %@n@the «youth»/«youthfulness», a spec. property of being young.@@
-3827@1@@mod.@4th reflexive.  Equivalent to inserting a fourth argument identical to the first argument. c.f. nuo.@@
+3827@1@@mod@4th reflexive.  Equivalent to inserting a fourth argument identical to the first argument. c.f. nuo.@@
 3828@1@@af@a combining form of djupo, «support».@@
 3829@1@@3v@K «rally» behind D for P, get together for support.@@K-DP
 3830@1@@3v@K «think»/«opine»/tentatively «believe» that N is true of S.@@K-NS
@@ -12083,7 +12083,7 @@
 6429@1@@2a@G is more «silly»/«frivolous»/«paltry», less grave than J.@@G-J
 6429@2@lopu %@n@«frivolity»/«frivolousness» (about …), mass prop.@@
 6429@3@po %@n@a «frivolity», a spec. state/event.@@
-6430@1@@mod.@2nd «reflexive», equivalent to inserting a second argument identical to the 1st argument e.g. Da nuo ditka  he bit himself.@@
+6430@1@@mod@2nd «reflexive», equivalent to inserting a second argument identical to the 1st argument e.g. Da nuo ditka  he bit himself.@@
 6431@1@@af@a combining form of nu, 2nd place «passive».@@
 6432@1@@pp@«therefore» (decision) ….@@
 6433@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of justification, with ki in 'nurauki … ki … ;  best translated … because(reason) … '.@@
