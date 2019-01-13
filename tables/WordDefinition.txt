@@ -5400,7 +5400,7 @@
 2876@1@@1n@B is a «ham».@@B-
 2877@1@@2a@K is «snooty» to D, thinks daself superior.@@K-D
 2878@1@@1n@B is a «tower», any high structure/building.@@B-
-2879@1@@LW@constructor for special letters.@@
+2879@1@@op@constructor for special letters.@@
 2880@1@@1v@K «fart»/«pass wind».@@K-
 2881@1@@af@a combining form of garni, «govern».@@
 2882@1@@1n@B is a «throne».@@B-
@@ -18577,8 +18577,8 @@
 10091@1@@pm@alternative separator between components of strong quotations.@@
 10092@1@@LW@subordinate clause former, defines the subordinated argument in terms of the argument it is subordinated to.@@
 10093@1@@i@attitudinal expressing apology, I'm «sorry».@@
-10094@1@@LW@LW for constructing compounds from predicate words (and LWs under some circumstances).@@
-10095@1@@LW@initial marker for acronyms, proposed mandatory for acronyms used as «dimension»s.@@
+10094@1@@op@LW for constructing compounds from predicate words (and LWs under some circumstances).@@
+10095@1@@op@initial marker for acronyms, proposed mandatory for acronyms used as «dimension»s.@@
 10096@1@@3n@B is a «blog»/computer web log about V by S.@@
 10097@1@@2n@B is a «kaleidoscope» of type N.@@
 10098@1@@2n (3n)@X is more «aerodynamic» than Y (in medium Z).@@
