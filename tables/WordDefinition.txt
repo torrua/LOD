@@ -7053,7 +7053,7 @@
 3781@1@@af@a combining form of jugra, «grab».@@
 3782@1@@3a@K «grip» D strongly in conditions N.@@K-DN
 3783@1@@1v@B is a «vise», a device for holding workpieces.@@B-
-3784@1@@p@«of»/«by»/«to», 2nd descriptive link.@@
+3784@1@@pp@«of»/«by»/«to», 2nd descriptive link.@@
 3785@1@@af@a combining form of jugra, «grab».@@
 3786@1@@3v@K «fumble» D in conditions N.@@K-DN
 3787@1@@3a@K «grip» D weakly in conditions N.@@K-DN
