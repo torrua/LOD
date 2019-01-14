@@ -6881,7 +6881,7 @@
 3679@1@la %@na@the «United» States (the name of the country).@@
 3680@1@Aksfrrd %@na@Oxford «University», as used in names.@@
 3681@1@@l@«iota», Greek lower case letter, one of a pool of symbols.@@
-3682@1@@rp@«who»/«which»/«that» (is), non identifying before phrases.@@
+3682@1@@p@«who»/«which»/«that» (is), non identifying before phrases.@@
 3683@1@@p@«who»/«which»/«that»/«incidentally» is one of, non restrictive set membership.@@
 3684@1@@af@a combining form of jaglo, «angle».@@
 3685@1@@1n@C is a measure in «angular degree» (s).@@C-
