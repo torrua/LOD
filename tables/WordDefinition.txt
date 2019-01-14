@@ -1044,7 +1044,7 @@
 634@1@@art@«a»/«an», in 'a man … 'ba mrenu, some x is a man'.@@
 634@2@@p@«anybody»/«anything», as in 'Get anybody'.@@
 634@3@@p@«something»/«someone» x, 4th non designating variable of the ba series.@@
-634@4@@pr@at «least» one /some … <, a non designating variable>.@@
+634@4@@ph@at «least» one /some … <, a non designating variable>.@@
 634@5@% crina@ph@It is «raining», 'some x is -ing'.@@
 634@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
 635@1@@v@«is» (a) P, 1st bound predicate variable.@@
