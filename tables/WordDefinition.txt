@@ -6935,7 +6935,7 @@
 3709@1@@3n@B is an «alley» between S and D.@@B-SD
 3710@1@@2n@F is 10E24 fold «quantity» of B. (ISV yotta).@@F-B
 3711@1@@pp@«of»/«by»/«for»/«from»/«of»/«to»<, before 2nd arguments in descriptions.>.@@
-3711@2@@pr@linking oper.:a generalized preposition before 2nd args. in descr'ns.@@
+3711@2@@op@linking oper.:a generalized preposition before 2nd args. in descr'ns.@@
 3712@1@@l@«j», Latin lower case letter, one of a pool of symbols.@@
 3713@1@@af@a combining form of djela, «well».@@
 3714@1@@2a@G is «prettier»/more «comely»/healthily beautiful than J is.@@G-J
