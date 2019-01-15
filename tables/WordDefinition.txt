@@ -8463,7 +8463,7 @@
 4504@3@nu %@a@«dispatched», that which is -ed from … from … to ….@@
 4504@4@po %@n@an instance of «shipment»/«dispatch» of … from … to ….@@
 4505@1@@1v@K «spin»/«whirl», (cause unspecified), "The paper whirled through the air"@@K-
-4506@1@@2V@N «spin»/«whirl» D, (nonintentional cause) "The wind spins the prayer wheels".@@N-D
+4506@1@@2v@N «spin»/«whirl» D, (nonintentional cause) "The wind spins the prayer wheels".@@N-D
 4507@1@@2v@K «spin»/«whirl» D, (intentional act).@@K-D
 4508@1@@3n@P is a «sketch» of S by K.@@P-SK
 4509@1@@3v@K «sketch»/«outline» S as/in sketch P.@@K-SP
@@ -8508,7 +8508,7 @@
 4533@4@@n@a «universal», that which is general among ….@@
 4533@5@pu %@n@a «universality», a spec. property.@@
 4534@1@@af@a combining form of kurni, «warn».@@
-4535@1@@3A@B is «related» to B by relation N.@@B-BN
+4535@1@@3a@B is «related» to B by relation N.@@B-BN
 4535@2@@v@be «related» to … by …, general term.@@
 4535@3@fu %@n@a «relation», that which relates … and ….@@
 4535@4@po %@n@a «relationship», a state of being -ed.@@
@@ -9312,7 +9312,7 @@
 4990@1@@pm@The spoken word …, a single word «quotation mark».@@
 4991@1@@pm@The written word …, a single word «quotation mark».@@
 4992@1@@af@a combining form of clivi, «live».@@
-4993@1@@3V@K «behave» like (model, pattern) S in situation N.@@K SN
+4993@1@@3v@K «behave» like (model, pattern) S in situation N.@@K SN
 4994@1@@1v@B «comes-to-life»/«becomes alive».@@B-
 4995@1@@2v@K «resurrects»/makes B come to life.@@K-B
 4995@2@nu %@a@«resurrected», of someone restored to life.@@
