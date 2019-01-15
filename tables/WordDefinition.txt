@@ -17463,7 +17463,7 @@
 9407@5@po %@n@an act of «condemnation»/«conviction».@@
 9407@6@po nu %@n@a «sentence»/«conviction», of a sp. person.@@
 9408@1@@5v@K «try» D for crime V under law N in court S.@@K-DVNS
-9408@2@nu %@phr@on «trial»/«accused».@@
+9408@2@nu %@ph@on «trial»/«accused».@@
 9408@3@po %@n@a «trial», a sp. event.@@
 9408@4@po nu %@n@a «trial», of a specific person.@@
 9409@1@@3n@V is a «crime», an act among F punishable by B.@@V-FB
