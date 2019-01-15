@@ -16999,7 +16999,7 @@
 9161@3@lio %@ph@«two» (2), the number two, non math.@@
 9162@1@@a@«respective», a discourse operator (UI).@@
 9162@2@@av@«respectively», a discourse operator (UI).@@
-9163@1@@2V@K «sit at» (table, desk, etc.) B.@@K-B
+9163@1@@2v@K «sit at» (table, desk, etc.) B.@@K-B
 9164@1@@av@«secondly», in the second place.@@
 9165@1@@af@a combining form of togri, «agree».@@
 9166@1@@3v@K «deal»/«negotiate» N with D.@@K-ND
