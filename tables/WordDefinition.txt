@@ -1,7 +1,7 @@
 1@1@@1n@B is a «fresco».@@B-
 2@1@@2a@G is «muddier» than J, more covered with mud.@@G-J
 2@2@@n@«muddy» <covered with mud>.@@
-3@1@@af@a combining version of ≤cersi≥, «chair».@@
+3@1@@af@a combining form of ≤cersi≥, «chair».@@
 4@1@@1n@B is a «cercopithecus», a primate of that genus.@@B-
 5@1@@1n@B is some «cerium», element 58 (Ce).@@B-
 6@1@@1n@B is a «chair back».@@B-
@@ -19,7 +19,7 @@
 17@1@@2n@B is a «chestnut» from S.@@B-S
 18@1@@1n@B is a «chestnut» tree.@@B-
 19@1@@1n@B is a «cestoid», a worm of subclass Cestoda.@@B-
-20@1@@af@a combining version of ≤cetlo≥, «wet».@@
+20@1@@af@a combining form of ≤cetlo≥, «wet».@@
 21@1@@1v@D «glisten» (s), by reflected light.@@D-
 22@1@@2v@D «absorb»/«soak up»/become «wet» with B.@@D-B
 22@2@@a@«absorbent», capable of -ing.@@
@@ -231,7 +231,7 @@
 169@1@@2n@B is a «package»/«parcel»/«bundle»/«pack» of P.@@B-P
 170@1@@3v@K «wrap»/«package»/«bundle» D in B.@@K-DB
 170@2@nu %@a@«packaged»/«bundled»/«wrapped».@@
-171@1@@af@a combining version of ≤bande≥, «beyond».@@
+171@1@@af@a combining form of ≤bande≥, «beyond».@@
 172@1@@l@«B», Latin upper case letter, one of a pool of symbols.@@
 173@1@@af@a combining form of ≤balci≥, «build».@@
 174@1@@2n@B is some «lumber»/«timber»/building «wood» from tree/species S.@@B-S
@@ -595,7 +595,7 @@
 399@1@@3n@B is an «embankment»/«dike» of/along F constructed for purpose P.@@B-FP
 400@1@@2v@K is/are «poised» at the edge of B, in equilibrium.@@K-B
 401@1@@1n@B is a «margin», a space at the edge of something.@@B-
-402@1@@af@a combining version of ≤bifci≥, «bee».@@
+402@1@@af@a combining form of ≤bifci≥, «bee».@@
 403@1@@1n@B is a «bee», a hymenopterous insect.@@B-
 404@1@@2n@B is a/the «hive»/«beehive» of bee colony F.@@B-F
 405@1@@1v@K «buzz», a bee like sound.@@K-
@@ -662,7 +662,7 @@
 429@1@@3v@K «strip»/«deprive» D of beauty by V.@@K-DV
 430@1@@1n@B is a/some «bean» (s) from source F.@@B-F
 431@1@@1n@B is a «binturong», a prehensile tailed carnivore.@@B-
-432@1@@af@a combining version of ≤bindo≥, «bean».@@
+432@1@@af@a combining form of ≤bindo≥, «bean».@@
 433@1@@1n@B is a glass/portion/quantity of «beer».@@B-
 433@2@lo %@n@«beer», mass term.@@
 434@1@@af@a combining form of ≤bisli≥, «ice».@@
@@ -844,7 +844,7 @@
 525@4@@p@«anybody»/«anything», as in 'Get anybody'.@@
 525@5@% crina@ph@It is «raining», 'some x is -ing'.@@
 525@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
-526@1@@af@a combining version of ≤broda≥, «broken».@@
+526@1@@af@a combining form of ≤broda≥, «broken».@@
 527@1@@1v@D «break» (down)/become «broken»/«inoperable», intransitive.@@D-
 527@2@po %@n@a «breakdown», a process of —.@@
 528@1@@2v@N «break» D/renders … «inoperable», nonintentional 'The fall broke his arm'.@@N-D
@@ -1048,7 +1048,7 @@
 634@5@% crina@ph@It is «raining», 'some x is -ing'.@@
 634@6@to % mrenu@ph@«there» is/are, in 'there are two men'.@@
 635@1@@v@«is» (a) P, 1st bound predicate variable.@@
-636@1@@af@a combining version of ≤buctu≥, «bush».@@
+636@1@@af@a combining form of ≤buctu≥, «bush».@@
 637@1@@2n@B is a «heath»/«brushland» in F.@@B-F
 638@1@@3n@P is a «hedge» of B around a D.@@P-BD
 639@1@@2n@B is a «bush»/«shrub»/«brush» of F, a small many stemmed woody plant.@@B-F
@@ -1569,7 +1569,7 @@
 940@2@lopu %@n@«dullness»/«stupidity», mass quality.@@
 941@1@@2v@B «bridge»/«span» D.@@B-D
 941@2@@n@«bridge»/«span» over/across, physical structure.@@
-942@1@@af@a combining version of ≤cidja≥, «awake».@@
+942@1@@af@a combining form of ≤cidja≥, «awake».@@
 943@1@@1v@D «waken»/«awaken»/«wake up».@@D-
 943@2@po %@n@an «awakening»/«wakening», a spec. event.@@
 944@1@@2v@K «awaken»/«wake up» D, non intentional.@@K-D
@@ -1588,7 +1588,7 @@
 949@1@@ms@is «less than» …, the sign of mathematical inequality.@@
 950@1@@ms@«less than or equal to», an inequality operator, math.@@
 951@1@@1n@B is a «swan», a bird of spp. Cygnus.@@B-
-952@1@@af@a combining version of ≤ciktu≥, «equal».@@
+952@1@@af@a combining form of ≤ciktu≥, «equal».@@
 953@1@@3v@K «catch up»/become «equal» to B in V.@@K-BV
 954@1@@2a@K is «indifferent» to V, feel the same about … e.g. I'm indifferent to whether you serve tea or coffee.@@K-V
 954@2@po %@n@an «indifference» to /about … equal feeling for ….@@
@@ -1613,7 +1613,7 @@
 961@6@no %@a@«unequal», not equal to … in dimension ….@@
 961@7@pu %@n@an «equality», dimensional, a spec. property.@@
 961@8@pu no %@n@an «inequality», neg. of equality.@@
-962@1@@af@a combining version of ≤citlu≥, «detail».@@
+962@1@@af@a combining form of ≤citlu≥, «detail».@@
 963@1@@3v@K «investigate» B for/on behalf of D.@@K-BD
 963@2@@n@an «investigator»/«researcher».@@
 964@1@@2n@B is an «island»/«isle» in body of water F.@@B-F
@@ -1621,7 +1621,7 @@
 965@1@@3a@K is «precise»/«exacting» for B in area N.@@K-BN
 966@1@@2a@G is more «detailed», full of details than J.@@G-J
 966@2@pu %@n@«detailedness», a property.@@
-967@1@@af@a combining version of ≤cimra≥, «summer».@@
+967@1@@af@a combining form of ≤cimra≥, «summer».@@
 968@1@@2a@G is more «summery»/«summerlike» than J.@@G-J
 968@2@pu %@n@a «summeriness», a spec. property.@@
 969@1@@2n@B is the «autumn»/«fall» of year C.@@B-C
@@ -1637,7 +1637,7 @@
 976@1@@2n@B is the «summer» season of year C.@@B-C
 976@2@lo %@n@«summer» (time), mass term.@@
 977@1@@2v@K «summer» (s), spend the summer at B.@@K-B
-978@1@@af@a combining version of ≤cinta≥, «infant».@@
+978@1@@af@a combining form of ≤cinta≥, «infant».@@
 979@1@@1n@B is a «crib»/«cradle»/«baby bed».@@B-
 980@1@@2a@G is more «babyish»/«baby like»/«infantile» than J.@@G-J
 980@2@lopo %@n@«infantilism», mass term of states.@@
@@ -1659,7 +1659,7 @@
 987@1@@2v@K «shear» D, «cut» … with scissors.@@K-D
 987@2@@n@a «shearer», one who uses shears.@@
 988@1@@a@too «much»/«many» of …, a quantifying operator.@@
-989@1@@af@a combining version of ≤cirna≥, «learn».@@
+989@1@@af@a combining form of ≤cirna≥, «learn».@@
 990@1@@2v@K «become aware» of N.@@K-N
 991@1@@1a@B is «studious».@@B-
 992@1@@3v@K «discover by learning» knowledge B from S.@@K-BS
@@ -1688,7 +1688,7 @@
 1004@1@@3v@K «graduate» from educational institution S with degree B.@@K-SB
 1004@2@@n@«graduate», a person … ing from some educational institution.@@
 1005@1@@1n@B is a (pair of) «scissors»/«shears».@@B-
-1006@1@@af@a combining version of ≤citre≥, «thread».@@
+1006@1@@af@a combining form of ≤citre≥, «thread».@@
 1007@1@@2n@B is a «fringe» on F.@@B-F
 1008@1@@2n@B is a «filament»/«fiber» of F.@@B-F
 1009@1@@1n@B is some «cytocine».@@B-
@@ -1700,7 +1700,7 @@
 1014@1@@2a@D is «indifferent» to B, have the same opinion about … e.g. I'm indifferent to whether to use ≤'norfio'≥ or ≤'fiocle'≥.@@D-B
 1014@2@po %@n@an «indifference» to /about …  same opinion about ….@@
 1015@1@@3n@B is an «equation» relating C and C.@@B-CC
-1016@1@@af@a combining version of ≤ckano≥, «kind».@@
+1016@1@@af@a combining form of ≤ckano≥, «kind».@@
 1017@1@@4a@K(1) is as «kind» to D(1) as K(2) is to D(2).@@K-DKD
 1018@1@@2v@K is «inconsiderate»/«thoughtless» about V, not kind about.@@K-V
 1019@1@@2n@B is a «cafe»/«coffee house» of place/community F.@@B-F
@@ -1713,7 +1713,7 @@
 1022@4@lopu %@n@«kindness», mass term of properties.@@
 1022@5@po %@n@a «kindness», a spec. act of being kind.@@
 1022@6@pu %@n@a «kindness», a spec. property.@@
-1023@1@@af@a combining version of ≤ckemo≥, «interval».@@
+1023@1@@af@a combining form of ≤ckemo≥, «interval».@@
 1024@1@@1n@B is a «periodical».@@B-
 1025@1@@3a@J is «briefer»/temporally «shorter» than G by interval C.@@J-GC
 1025@2@@3a@J is «brief»/«short», incomplete form.@@
@@ -1765,7 +1765,7 @@
 1045@1@@5v@K «pawn» B with pawnbroker D for price C with redemption period N.@@K-BDCN
 1045@2@fu %@n@a «pawnbroker».@@
 1046@1@@1v@V «pass»/«elapse», e.g. (time).@@V-
-1047@1@@af@a combining version of ≤ckozu≥, «cause».@@
+1047@1@@af@a combining form of ≤ckozu≥, «cause».@@
 1048@1@@3v@K «induce» (s) (process) P by (treatment) V e.g. induction of labor.@@K-PV
 1048@2@po %@n@an instance of «induction» (of … by …).@@
 1049@1@@3a@K is «effective» in producing result P in circumstances N.@@K-PN
@@ -1779,7 +1779,7 @@
 1050@8@nu %@n@an «effect», conv. of cause, but see ≤nurcko≥.@@
 1050@9@po %@n@a «causation», a spec. event/process.@@
 1050@10@pu %@n@an «effectiveness», a spec. property.@@
-1051@1@@af@a combining version of ≤clado≥, «loud».@@
+1051@1@@af@a combining form of ≤clado≥, «loud».@@
 1052@1@@1a@B is «deafening»/extremely «loud».@@B-
 1053@1@@3v@K «say loudly»/«exclaim» B to D.@@K-BD
 1053@2@nu %@n@an «exclamation», that which is -ed.@@
@@ -1811,7 +1811,7 @@
 1062@2@@a@«stressed»/«accented», when … at … in ….@@
 1062@3@lopu %@n@«accent»/«stress» -mass term of props.@@
 1062@4@pu %@n@an «accent»/«stress», a prop. of a spec. speech sound.@@
-1063@1@@af@a combining version of ≤clesi≥, «without».@@
+1063@1@@af@a combining form of ≤clesi≥, «without».@@
 1064@1@@2v@D is/are «rid»/«free»/«bereft» of B.@@D-B
 1065@1@@3v@N get «rid»/«dispose» of B from F (nonintentional) the rain — the snow by melting it.@@N-BF
 1066@1@@2v@K «dispense with»/do «without» B.@@K-B
@@ -1876,10 +1876,10 @@
 1085@5@lopo %@n@«life», mass term (states).@@
 1085@6@po %@n@a «life», a spec. state of being alive.@@
 1085@7@pu %@n@some «life», a property of being alive.@@
-1086@1@@af@a combining version of ≤cloro≥, «chlorine».@@
+1086@1@@af@a combining form of ≤cloro≥, «chlorine».@@
 1087@1@@1@B is some «chlorine», element 17.@@B-
 1088@1@@1@B is some «chlorophyll», plant solar receptor material.@@B-
-1089@1@@af@a combining version of ≤cluva≥, «love».@@
+1089@1@@af@a combining form of ≤cluva≥, «love».@@
 1090@1@@3a@K is «affectionate» toward D in ways/by doing V.@@K-DV
 1090@2@lopo %@n@«affection», the mass of such acts.@@
 1090@3@lopu %@n@«affection», the mass of such props.@@
@@ -1915,7 +1915,7 @@
 1102@6@nu %@n@a/the «beloved»/«lover»/«mistress», a -ed person.@@
 1102@7@po %@n@a/the «love», an act/event/state of -ing.@@
 1102@8@pu %@n@a «lovingness», a property of lovers.@@
-1103@1@@af@a combining version of ≤cmalo≥, «small».@@
+1103@1@@af@a combining form of ≤cmalo≥, «small».@@
 1104@1@@1n@B is a «slough», a natural body of water with no outlet. (often temporary).@@B-
 1105@1@@1n@B is a «trifle».@@B-
 1105@2@@a@«trivial», pert. to a trifle.@@
@@ -2006,7 +2006,7 @@
 1154@1@@2n@B is a «microscope» of type F.@@B-F
 1155@1@@1n@B is a «tarn»/«pond»/«pool», a small natural body of water.@@B-
 1156@1@@1n@B is a «brook»/«rivulet»/«rill»/«creek»/«stream», a small river.@@B-
-1157@1@@af@a combining version of ≤cmeni≥, «money».@@
+1157@1@@af@a combining form of ≤cmeni≥, «money».@@
 1158@1@@4v@K «exchange»/«trade» amount of money C (in one currency) for amount of money C (in another currency) with source S.@@K-CCS
 1158@2@@n@«trader»/«broker», one involved in money trade.@@
 1158@3@po %@n@«traffic», as in "drug traffic".@@
@@ -2049,7 +2049,7 @@
 1176@1@@2n@K is a «professional» in sport/activity V.@@K-V
 1177@1@@3n@C is the «exchange rate» from currency S to currency D.@@C-SD
 1178@1@@1n@B is a «wallet»/«billfold»/(change) «purse».@@B-
-1179@1@@af@a combining version of ≤cmiza≥, «amused».@@
+1179@1@@af@a combining form of ≤cmiza≥, «amused».@@
 1180@1@@2v@V «amuse» (s) D, (nonintentional), cause amusement in.@@V-D
 1181@1@@2v@K «entertain»/give a «party»/provide «entertainment» for D.@@K-D
 1181@2@po %@n@a «party»/«entertainment»/«treat», an act of -ing.@@
@@ -2067,7 +2067,7 @@
 1184@5@nu %@v@«amuse»/«entertain» … by ….@@
 1184@6@po %@n@an «amusement»/«fun», a spec. state of having fun.@@
 1185@1@@1n@K is a «practical joker».@@K-
-1186@1@@af@a combining version of ≤canli≥, «quantity».@@
+1186@1@@af@a combining form of ≤canli≥, «quantity».@@
 1187@1@@4v@K «determine» (s) the magnitude of B on dimension N to be C.@@K-BNC
 1187@2@po %@n@a «determination», act of -ing a quantity.@@
 1188@1@@4v@G has/have C «times» as much N as J, e.g. X is 1.1 times Y's height.@@G-CNJ
@@ -2077,7 +2077,7 @@
 1189@4@nu %@a@«quantifiable»/«quantitative», pert. to -ified forms.@@
 1189@5@nu %@av@«quantitatively», by means of -ifiers.@@
 1189@6@po %@n@a «quantification», an instance of -ing.@@
-1190@1@@af@a combining version of ≤cnida≥, «need».@@
+1190@1@@af@a combining form of ≤cnida≥, «need».@@
 1191@1@@3v@K «satisfy» the need of D for/to do V.@@K-DV
 1191@2@@a@«satisfactory», of need satisifying things.@@
 1191@3@lopo nu %@n@«satisfaction», mass term, states.@@
@@ -2107,7 +2107,7 @@
 1197@1@@3a@D is «satisfied»/«content» by/with/about B, some thing or outcome, with respect to N.@@D-BN
 1197@2@lopo %@n@«satisfaction», mass term of state.@@
 1197@3@po %@n@an instance of «satisfaction», need -ing.@@
-1198@1@@af@a combining version of ≤cninu≥, «new».@@
+1198@1@@af@a combining form of ≤cninu≥, «new».@@
 1199@1@@3n@F is a «colony» of creatures B in D.@@F-BD
 1200@1@@1v@K «reproduce»/«propagate» (it/themselves).@@K-
 1201@1@@1n@B is a «beginning Loglanist».@@B-
@@ -2137,13 +2137,13 @@
 1213@2@-ta@av@«accordingly», according to that (rule).@@
 1213@3@% ba@av ph@by «rule», according to some rule x.@@
 1213@4@% hu@q@«how»?/«according to whatrule»/method?, a question about procedure.@@
-1214@1@@af@a combining version of ≤colku≥, «silk».@@
+1214@1@@af@a combining form of ≤colku≥, «silk».@@
 1215@1@@2a@G is more «silky»/«silken»/«silk like» than J.@@G-J
 1215@2@pu %@n@a «silkiness», a spec. property.@@
 1216@1@@2n@B is a (piece of) «silk» from source F.@@B-F
 1216@2@@a@«silk»/«silken», made of silk.@@
 1216@3@lo %@n@«silk», mass term.@@
-1217@1@@af@a combining version of ≤comtu≥, «ashamed».@@
+1217@1@@af@a combining form of ≤comtu≥, «ashamed».@@
 1218@1@@2v@D is/becomes «shamed» by V, intransitive.@@D-V
 1218@2@po %@n@a «shame», a state of being/becoming shamed.@@
 1219@1@@2v@V «shame»/«disgrace» D, nonintentional;  'that act shamed him'.@@V-D
@@ -2165,7 +2165,7 @@
 1224@5@nu %@a@«shameful», of that which causes shame.@@
 1224@6@po %@n@a/some «shame», a spec. state of feeling ashamed.@@
 1224@7@pu nu %@n@a «shamefulness», a prop. of being -ful.@@
-1225@1@@af@a combining version of ≤condi≥, «deep».@@
+1225@1@@af@a combining form of ≤condi≥, «deep».@@
 1226@1@@1v@K (pl.) «look deeply at each other».@@K-
 1227@1@@2v@V «deepen» D, make(s) … deeper, nonintentional.@@V-D
 1227@2@po %@n@a «deepening», an act/process of of -ing.@@
@@ -2206,7 +2206,7 @@
 1242@4@po %@n@an instance of «reverence» (for …).@@
 1243@1@@2n@B is a «jar»/«urn»/«vase» for/of P.@@B-P
 1244@1@La % Name@Na@The «Reverend» Name, a title of respect.@@
-1245@1@@af@a combining version of ≤corta≥, «short».@@
+1245@1@@af@a combining form of ≤corta≥, «short».@@
 1246@1@@2n@N is a «puff» of B.@@N-B
 1247@1@@1v@B «contract»/become «shorter».@@B-
 1247@2@lopo %@n@«contraction», mass term.@@
@@ -2248,15 +2248,15 @@
 1267@1@@2v@K «gasp» at/for N.@@K-N
 1267@2@po %@n@a «gasp».@@
 1268@1@@2n@B is the «cosine» of angle F.@@B-F
-1269@1@@af@a combining version of ≤comtu≥, «ashamed».@@
+1269@1@@af@a combining form of ≤comtu≥, «ashamed».@@
 1270@1@@3v@K «shame»/«disgrace» D by V, intentional.@@K-DV
 1270@2@@a@«disgracing» (of … by …).@@
 1270@3@lopu %@n@«disgrace», mass property.@@
 1270@4@nu %@a@«disgraced» (by … by …).@@
 1270@5@po %@n@a specific «disgrace»/«shaming», an act of making ashamed (of … by …).@@
 1270@6@po nu %@n@a «shame», a state of being shamed.@@
-1271@1@@af@a combining version of ≤comtu≥, «ashamed».@@
-1272@1@@af@a combining version of ≤cpula≥, «pull».@@
+1271@1@@af@a combining form of ≤comtu≥, «ashamed».@@
+1272@1@@af@a combining form of ≤cpula≥, «pull».@@
 1273@1@@2n@B is a «propeller» on device F.@@B-F
 1274@1@@1n@B is a «hoe».@@B-
 1275@1@@3a@K is «strong» at pulling D against resistance N.@@K-DN
@@ -2269,11 +2269,11 @@
 1280@1@@2n@B is a «harness» for P.@@B-P
 1281@1@@1n@B is a «yoke», for linking animals for traction.@@B-
 1282@1@@1n@B is a «tractor», any vehicle which tows another.@@B-
-1283@1@@af@a combining version of ≤crano≥, «smile».@@
+1283@1@@af@a combining form of ≤crano≥, «smile».@@
 1284@1@@2n@V is a/the «smile»/way of smiling of B.@@V-B
 1285@1@@2v@K «smile» at D.@@K-D
 1285@2@po %@n@a «smile», a spec. act of -ing.@@
-1286@1@@af@a combining version of ≤crina≥, «rained on».@@
+1286@1@@af@a combining form of ≤crina≥, «rained on».@@
 1287@1@@2v@K (take a) «shower» (bath) in B.@@K-B
 1288@1@@2n@N is a «rainsquall» in B, e.g. ≤Mu pa nu cribritetri≥  We had a rainsquall.@@N-B
 1288@2@@a@«stormy» (of the type specified).@@
@@ -2288,7 +2288,7 @@
 1291@1@@2n@N is a «rainstorm» in B, e.g. ≤Mu pa nu critetri≥  We had a rainstorm.@@N-B
 1291@2@@a@«stormy» (of the type specified).@@
 1292@1@@1@B is some «chromium», element 24 (Cr).@@B-
-1293@1@@af@a combining version of ≤cteki≥, «tax».@@
+1293@1@@af@a combining form of ≤cteki≥, «tax».@@
 1294@1@@2v@B is free of «tax»/«duty» C.@@B-C
 1294@2@@a@«tax»/«duty» free.@@
 1294@3@@n@«tax»/«duty» free goods.@@
@@ -2299,7 +2299,7 @@
 1296@3@nu %@a@«taxable», can be -ed, conv. of tax.@@
 1296@4@po %@n@a «taxation», a spec. act of -ing.@@
 1297@1@@3n@B is a «tax stamp», proof of payment of tax V by K.@@B-VK
-1298@1@@af@a combining version of ≤ctifu≥, «stiff».@@
+1298@1@@af@a combining form of ≤ctifu≥, «stiff».@@
 1299@1@@2v@K «substantiate»/give substance to D.@@K-D
 1299@2@po %@n@a «substantiation».@@
 1300@1@@1a@B is some «matter»/«substance»/«stuff»/«material», any instance of a physical material.@@B-
@@ -2319,14 +2319,14 @@
 1307@1@@2a@G is «denser» than J.@@G-J
 1307@2@@a@«dense».@@
 1307@3@lopu %@n@«density».@@
-1308@1@@af@a combining version of ≤ctuda≥, «feces».@@
+1308@1@@af@a combining form of ≤ctuda≥, «feces».@@
 1309@1@@2n@B is some «excrement»/«stool»/«feces» of F.@@B-F
 1309@2@@a@«fecal», pert. to excrement.@@
 1310@1@@2v@K «defecate» on/in D.@@K-D
 1310@2@po %@n@a «defecation», an act of -ing.@@
 1311@1@@af@a suffix attaching to «number words» (NI) forming an «indefinite-set descriptor». E.g., ≤tocu≥  in: ≤Tocu kicmu pa kiuklu levi nordje≥  Some two doctors operated (together) on this patient. Cf. ≤To kicmu pa kiukli levi nordje≥  Each of some two doctors operated independently on this patient.@@
 1311@2@@c@«whether» (or not), between modified/fying words.@@
-1312@1@@af@a combining version of ≤cutci≥, «shoe».@@
+1312@1@@af@a combining form of ≤cutci≥, «shoe».@@
 1313@1@@3v@K «sole» shoes of D for P.@@K-DP
 1314@1@@2n@B is the «sole» of (footwear) F.@@B-F
 1315@1@@2v@K «shoe» D, put shoes on ….@@K-D
@@ -2355,18 +2355,18 @@
 1330@1@@2v@K «water» D, pour/sprinkle water on ….@@K-D
 1331@1@@1n@B is a «spring»/water «source», a source of water.@@B-
 1332@1@@2a@V is «waterproof» under conditions N.@@V-N
-1333@1@@af@a combining version of ≤cundo≥, «window».@@
+1333@1@@af@a combining form of ≤cundo≥, «window».@@
 1334@1@@2n@B is a «window» of F.@@B-F
 1335@1@@1n@B is the «aperture» created by an «open window».@@B-
 1336@1@@2n@B is a «blind»/«shutter» blocking light V.@@B-V
 1337@1@@c@«whether» not, bet. modifiers/ ied, eg. 'wise whether not good, man'.@@
 1338@1@@2n@B is a «pane» of a window F.@@B-F
-1339@1@@af@a combining version of ≤cundo≥, «window».@@
-1340@1@@af@a combining version of ≤cupro≥, «copper».@@
+1339@1@@af@a combining form of ≤cundo≥, «window».@@
+1340@1@@af@a combining form of ≤cupro≥, «copper».@@
 1341@1@@2a@G is (more) «coppery» than J, more like copper than ….@@G-J
 1342@1@@1@B is some «copper», element 29 (Cu).@@B-
 1342@2@@a@«cupric» / ous, pert. to copper.@@
-1343@1@@af@a combining version of ≤curca≥, «safe».@@
+1343@1@@af@a combining form of ≤curca≥, «safe».@@
 1344@1@@2a@B is «safe»/«secure» from danger V.@@B-V
 1344@2@lopo %@n@«safetysecurity»/«assurance», mass state.@@
 1344@3@pu %@n@a «safety»/«assurance», a spec. property of being safe.@@
@@ -2405,9 +2405,9 @@
 1354@1@@2n@B is a «seat belt»/«safety belt» of vehicle F.@@B-F
 1355@1@@1n@B is a «shirt», an article of clothing.@@B-
 1356@1@@2n@B is «armor» for protection against N.@@B-N
-1357@1@@af@a combining version of ≤cutse≥, «say».@@
+1357@1@@af@a combining form of ≤cutse≥, «say».@@
 1358@1@@2v@K «say to each other» P. (the same greeting etc).@@K-P
-1359@1@@af@a combining version of ≤cutri≥, «water».@@
+1359@1@@af@a combining form of ≤cutri≥, «water».@@
 1360@1@@1n@B is a «hydrofoil».@@B-
 1361@1@@1n@B is a (pair of) «shoe» (s).@@B-
 1361@2@lo %@n@«shoes», mass term.@@
@@ -18399,15 +18399,15 @@
 9891@3@pu %@n@a «superficiality».@@
 9899@1@@af@a combining form of ≤berti≥, «carry».@@
 9900@1@@af@a combining form of ≤begco≥, «ask».@@
-9901@1@@af@a combining version of ≤cersi≥, «chair».@@
-9902@1@@af@a combining version of ≤cetlo≥, «wet».@@
+9901@1@@af@a combining form of ≤cersi≥, «chair».@@
+9902@1@@af@a combining form of ≤cetlo≥, «wet».@@
 9903@1@@af@a combining form of ≤denli≥, «day».@@
 9904@1@@af@a combining form of ≤ferci≥, «affair».@@
 9905@1@@af@a combining form of ≤merli≥, «measure».@@
 9906@1@@af@a combining form of ≤getsi≥, «get».@@
 9907@1@@af@a combining form of ≤gesko≥, «guest».@@
 9908@1@@af@a combining form of ≤kecri≥, «sad».@@
-9909@1@@af@a combining version of ≤ckemo≥, «interval».@@
+9909@1@@af@a combining form of ≤ckemo≥, «interval».@@
 9910@1@@af@a combining form of ≤letci≥, «permit».@@
 9911@1@@af@a combining form of ≤lenzo≥, «lens».@@
 9912@1@@af@a combining form of ≤metro≥, «meter».@@
@@ -18422,22 +18422,22 @@
 9921@1@@af@a combining form of ≤vetci≥, «happen».@@
 9922@1@@af@a combining form of ≤veslo≥, «container».@@
 9938@1@@af@a combining form of ≤cedzu≥, «shade».@@
-9939@1@@af@a combining version of ≤cirna≥, «learn».@@
+9939@1@@af@a combining form of ≤cirna≥, «learn».@@
 9940@1@@af@a combining form of ≤bendu≥, «band».@@
 9941@1@@af@a combining form of ≤bitsa≥, «between».@@
 9942@1@@af@a combining form of ≤bidje≥, «edge».@@
 9943@1@@af@a combining form of ≤bivdu≥, «behave».@@
 9944@1@@af@a combining form of ≤bulbi≥, «bulb».@@
-9945@1@@af@a combining version of ≤bunbo≥, «fool».@@
+9945@1@@af@a combining form of ≤bunbo≥, «fool».@@
 9946@1@@af@a combining form of ≤cabro≥, «burn».@@
 9947@1@@af@a combining form of ≤cenja≥, «change».@@
 9948@1@@af@a combining form of ≤disri≥, «decide».@@
 9949@1@@af@a combining form of ≤dirco≥, «direction».@@
-9950@1@@af@a combining version of ≤citre≥, «thread».@@
-9951@1@@af@a combining version of ≤cirzo≥, «scissors».@@
+9950@1@@af@a combining form of ≤citre≥, «thread».@@
+9951@1@@af@a combining form of ≤cirzo≥, «scissors».@@
 9952@1@@af@a combining form of ≤ciktu≥ «equal to»/«equally»/«as much as» that makes comparative predas out of non comparative ones. E.g., ≤ckaciu≥ out of ≤ckano≥ (X is kind to Y): ≤Da ckaciu de di do≥  X is as kind to Y as Z is kind to W. Cf. ≤mou≥.@@
-9953@1@@af@a combining version of ≤corta≥, «short».@@
-9954@1@@af@a combining version of ≤cutri≥, «water».@@
+9953@1@@af@a combining form of ≤corta≥, «short».@@
+9954@1@@af@a combining form of ≤cutri≥, «water».@@
 9955@1@@af@a combining form of ≤donsu≥, «give».@@
 9956@1@@af@a combining form of ≤durna≥, «adorn».@@
 9957@1@@af@a combining form of ≤duvri≥, «discover».@@
