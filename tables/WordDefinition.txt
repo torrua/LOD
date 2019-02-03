@@ -13756,7 +13756,7 @@
 7339@1@@4n@K is a «passenger» on/in B from S to D.@@K-BSD
 7340@1@@2v@K «experience» (place, culture, etc.) B by «travel».@@K-B
 7341@1@@af@a combining form of ≤rande≥, «round».@@
-7342@1@@1v@V is a «disk crash», an inadvertent disk failure (radrod ≤-cko≥ and ≤-mao≥ are also possible).@@V-
+7342@1@@1v@V is a «disk crash», an inadvertent disk failure (≤radrod -cko≥ and ≤-mao≥ are also possible).@@V-
 7342@2@po %@n@an inst. of a «disk crash».@@
 7343@1@@3n@B is the «circle» with center N and radius C, geom.@@B-NC
 7344@1@@2v@K «circle»/«revolve»/«go around»/go «around» S as a center.@@K-S
