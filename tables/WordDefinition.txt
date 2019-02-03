@@ -55,7 +55,7 @@
 33@6@pu %@n@a/the «learnedness»/«scholarship», a spec. property.@@
 34@1@@2a@B is «intelligent»/«good learner» by standard N.@@B-N
 35@1@@1n@F is a «learning group».@@F-
-36@1@@c@«comma», as in …, … or ….@@
+36@1@@c@«comma», as in '…, … or …'.@@
 36@2@@c@«or» (else)/«otherwise»/«and or»/«either or or» both, inclusive sense between terms.@@
 37@1@@i@«I see» (what you mean), attitudinal (UI).@@
 38@1@@1n@B is/are «Abramites».@@B-
@@ -3350,7 +3350,7 @@
 1833@1@@1@B is an «enzyme», a biological catalyst.@@B-
 1833@2@@a@«enzymatic», pert. to enzymes.@@
 1834@1@@i@«please»/«will you let»/«may» I …, request for permission, a petition, e.g. '≤Eo mi godzi≥' — Please, may I go.@@B-
-1834@2@-eo@af@the mark of «Greek» lower case consonant names, as in beo/ceo/deo/etc.@@
+1834@2@-eo@af@the mark of «Greek» lower case consonant names, as in ≤beo/ceo/deo≥/etc.@@
 1834@3@% la Gan begdou@ph@May «God» «grant».@@
 1835@1@@2v@D shows «epitaxy»/epitaxic growth with respect to substrate B.@@D-B
 1835@2@lo %@n@«epitaxy», mass term.@@
@@ -3364,7 +3364,7 @@
 1843@1@@i@on the «supposition» that … <, sign of supposition/subjunctive mood>.@@
 1843@2@@i@(let us) «suppose»/(as) «if»/«imagine» …, sign of supposition/subjunctive mood.@@
 1843@3@% mu@ph@«what» if we …, a supposition.@@
-1844@1@@i@«Isn»'t it?/«Don»'t you? An interjection corresponding to French n"est ce pas, German nicht wahr?, Spanish No es asi? etc.@@
+1844@1@@i@«Isn»'t it?/«Don»'t you? An interjection corresponding to French 'n"est ce pas', German 'nicht wahr?', Spanish 'No es asi?', etc.@@
 1845@1@@1@B is some «europium», element 63 (Eu).@@B-
 1846@1@la %@na@«Europe» (the name of the continent).@@
 1847@1@@1@F is a «European» language.@@F-
@@ -3945,7 +3945,7 @@
 2132@2@lopo %@n@«fertilization», mass term.@@
 2132@3@po %@n@a «fertilization», a process of -ing.@@
 2133@1@@av@in «fact»/«actually», a discourse operator (UI).@@
-2134@1@-fi@af@the mark of «Latin» lower case vowel names, as in afi/efi/ifi/etc.@@
+2134@1@-fi@af@the mark of «Latin» lower case vowel names, as in ≤afi/efi/ifi≥/etc.@@
 2134@2@-fi@af@the mark of «ordinals», as in ≤nefi≥, firstly.@@
 2135@1@@av@«henceforth»/«thereafter», from now on, before predicates.@@
 2135@2@@c@ever «since», some event, with clauses.@@
@@ -5593,7 +5593,7 @@
 2975@1@@1n@B is a «Gymnorhina», a genus of bird.@@B-
 2976@1@@1n@F is a «Gymnorhinus», a genus of bird.@@F-
 2977@1@@af@a combining form of ≤ginru≥, «root».@@
-2978@1@@2a@B is «redical» about V, as in has — opinions.@@B-V
+2978@1@@2a@B is «redical» about V, as in 'has — opinions'.@@B-V
 2978@2@@n@a «radical» (about …).@@
 2979@1@@2v@P «come»/«proceed»/«derive»/«arise»/«originate» from/in S.@@P-S
 2979@2@nu %@a@«original», pert. to sources/derivations.@@
@@ -5606,7 +5606,7 @@
 2981@2@@n@«seducer».@@
 2981@3@nu %@a@«seduced»/«converted».@@
 2981@4@po %@n@an instance of «seduction»/«conversion», depending on point of view.@@
-2982@1@@1a@N is «radical»/«fundamental»/«basic», as in a — difference.@@N-
+2982@1@@1a@N is «radical»/«fundamental»/«basic», as in 'a — difference'.@@N-
 2983@1@@3n@B is a/the «root» of F growing in N.@@B-FN
 2983@2@@a@«radical», pert. to roots.@@
 2983@3@fu %@n@a/the «substrate», locale of the roots.@@
@@ -15287,12 +15287,12 @@
 8208@1@@3n@F is a «system»/«network» of relations with function P and elements B.@@F-PB
 8208@2@@a@«systematic», pert. to systems.@@
 8209@1@@a@«exactly» … of …, a quantifier prefix, usually omitted.@@
-8209@2@@a@«just»/«only»/«exactly», as in 'exactly(just, only) 2 of us went'.@@
+8209@2@@a@«just»/«only»/«exactly», as in 'exactly (just, only) 2 of us went'.@@
 8210@1@@af@a combining form of ≤sitfa≥, «location».@@
 8211@1@@2n@B is a «town»/«city» serving region/hinterland F.@@B-F
 8211@2@@a@«urban», pert. to cities/towns.@@
 8211@3@nu %@n@a/the «hinterland», of town/city ….@@
-8212@1@@3n@V is the «place»/«situation»/«spot»/«position»/«site»/«location» of B in referance frame N.@@V-BN
+8212@1@@3n@V is the «place»/«situation»/«spot»/«position»/«site»/«location» of B in reference frame N.@@V-BN
 8212@2@fu %@n@a «frame» of reference, of a position, q.v.@@
 8212@3@nu %@a@«situated»/«located» at, converse of site/location.@@
 8213@1@@n@B is a «jay» from S, a family of corvine birds v.blanysitha.@@
