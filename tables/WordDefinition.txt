@@ -152,7 +152,7 @@
 107@1@@1n@B is an «anode», a negative electrode.@@B-
 108@1@@c@«if»/«or not», between terms, converse implication.@@
 109@1@@2n@B is a «goose» (female), an anseridine bird of species F.@@B-F
-110@1@@1a@B is  «goose like».@@B-
+110@1@@1a@B is «goose like».@@B-
 111@1@@1n@B is a «gosling», an immature goose of species F.@@B-F
 112@1@@2n@B is a «gander», an male anseridine bird of species F.@@B-F
 113@1@@1n@B is a generic member of the «goose» family, an anseridine bird of species F.@@B-F
@@ -453,7 +453,7 @@
 306@1@@1n@B is a «yoke», a frame to aid in carrying water etc.@@B-
 307@1@@1n@B is a «truck»/«lorry», any motorized transport.@@B-
 308@1@@af@a combining form of ≤bekti≥, «thing».@@
-309@1@@3n@B is the «peer» of (object) B in characteristic C, one equal in a specified quality. e.g. These tomatoes have no peer.@@B-BC
+309@1@@3n@B is the «peer» of (object) B in characteristic C, one equal in a specified quality. E.g. These tomatoes have no peer.@@B-BC
 310@1@@2n@B is a/the «tip»/«end»/«extremity» of object F.@@B-F
 311@1@@1n@B is a «bell», an instrument that rings.@@B-
 312@1@@2n@F is a «row»/«rank»/«file»/«formation» including element/ s B.@@F-B
@@ -608,7 +608,7 @@
 409@1@@af@a combining form of ≤bilti≥, «beautiful».@@
 410@1@@af@a combining form of ≤bilti≥, «beautiful».@@
 411@1@@1a@B is «exquisite».@@B-
-412@1@@4a@G is more «gracious» to D than J is to D. (D and D may be the same or different;  if the same, is not rementioned.).@@G-DJD
+412@1@@4a@G is more «gracious» to D than J is to D. (D and D may be the same or different; if the same, is not rementioned.).@@G-DJD
 412@2@@a/av@«gracious»/«graciously».@@
 412@3@lopu %@n@«grace»/«graciousness» (mass term).@@
 412@4@pu %@n@«grace»/«graciousness» (spec. instance).@@
@@ -636,7 +636,7 @@
 422@1@@3v@K «beautify» D by V, intentional.@@K-DV
 422@2@@n@a «beautifier», one who-s.@@
 422@3@po %@n@an act o «beautification», making beautiful.@@
-423@1@@4a@G is more «graceful» to D than J is to D. (D and D may be the same or different;  if the same, is not rementioned.).@@G-DJD
+423@1@@4a@G is more «graceful» to D than J is to D. (D and D may be the same or different; if the same, is not rementioned.).@@G-DJD
 423@2@@a/av@«graceful»/«gracefully».@@
 423@3@lopu %@n@«grace»/«gracefulness» (mass term).@@
 423@4@pu %@n@«grace»/«gracefulness» (spec. instance).@@
@@ -652,7 +652,7 @@
 427@1@@4v@K «write» beautifully P on D in style V.@@K-PDV
 427@2@@n@a «calligrapher».@@
 427@3@lopo %@n@«calligraphy», mass term.@@
-428@1@@4a@G is more «beautiful» to D than J is to D. (D and D may be the same or different;  and if the same, is not rementioned.).@@G-DJD
+428@1@@4a@G is more «beautiful» to D than J is to D. (D and D may be the same or different; and if the same, is not rementioned.).@@G-DJD
 428@2@@n@a «beauty», a beautiful person/thing.@@
 428@3@lo %@n@«beauty», mass term of -ful things.@@
 428@4@lopo %@n@«beauty», mass states of being -ful.@@
@@ -682,25 +682,25 @@
 444@1@@1n@B is a «whip»/«lash».@@B-
 445@1@@2v@V «whip»/«lash» D.@@V-D
 446@1@@2v@B measures C in «bit»/«binary digit» (s) default 1.@@B-C
-447@1@@1n@V is «dusk»/«twilight», the period between day and night  twilight.@@V-
+447@1@@1n@V is «dusk»/«twilight», the period between day and night twilight.@@V-
 448@1@@1a@B is «international», of/or relating to two or more nations or nationalities.@@B-
 449@1@@2pp@B is «between»/«among» F, collective.@@B-F
 449@2@@av@«alongside» ….@@
 449@3@@pp@«beside» ….@@
 450@1@@3v@K «interpose» (s) between B and B.@@K-BB
 450@2@lopo %@n@«interposition», placing … between … and ….@@
-451@1@@av@«possible»/«perhaps»/«maybe», the objective sense. E.g., ≤Da biu mamla≥ — X is possibly a mammal. Cf. ≤ii≥ for the subjective sense.@@
-451@2@@in@«possibly», is possibly true/may happen (under the circumstances implied by speech) (PA). E.g., ≤Ta biu mamla≥  That's possibly a mammal.@@
-451@3@@pp@(that … is) «maybe»/«possible» under conditions …, used before state/event terms. E.g., ≤Da mamla biu ta≥  (That) X is a mammal is possible under those conditions.@@
+451@1@@av@«possible»/«perhaps»/«maybe», the objective sense. E.g. ≤Da biu mamla≥ — X is possibly a mammal. Cf. ≤ii≥ for the subjective sense.@@
+451@2@@in@«possibly», is possibly true/may happen (under the circumstances implied by speech) (PA). E.g. ≤Ta biu mamla≥ — That's possibly a mammal.@@
+451@3@@pp@(that … is) «maybe»/«possible» under conditions …, used before state/event terms. E.g. ≤Da mamla biu ta≥ — (That) X is a mammal is possible under those conditions.@@
 452@1@@3v@K «judge» (s) the behavior of D about N.@@K-DN
 452@2@@n@«arbiter»/«arbitrator», one who judges behaviour.@@
 452@3@po %@n@«arbitration», a spec. instance of -ing.@@
-453@1@@pp@«could»/«might»/«would possibly», the subjective subjunctive operator;  used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g., ≤Mi hapci biumia lepo mi bragai≥ I am possibly happy in the mental place where I am king (I might be happy if I were king).@@
-453@2@% ba@ph@«could»/«might»/«would possibly», as used in subjective subjunctive sentences in which the causal condition is missing. E.g., ≤Mi hapci biumia ba≥ I might be happy (in some mental place/under some unspecified condition x).@@
+453@1@@pp@«could»/«might»/«would possibly», the subjective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci biumia lepo mi bragai≥ I am possibly happy in the mental place where I am king (I might be happy if I were king).@@
+453@2@% ba@ph@«could»/«might»/«would possibly», as used in subjective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci biumia ba≥ I might be happy (in some mental place/under some unspecified condition x).@@
 454@1@@2a@K is «harsh» in behaviour N - see specific sense words.@@K-N
 454@2@lopu %@n@«harshness»/«severity» (in behaviour …).@@
-455@1@@pp@«could»/«might»/«would possibly», the objective subjunctive operator;  used before an argument, usually a lepo clause, to give the accompanying predicate a subjunctive sense (PA). E.g., ≤Mi hapci biuvie lepo mi bragai≥ I am possibly happy in the possible world where I am king (I might be happy if I were king). Cf. ≤biumia≥ for the subjective sense of this subjunctive.@@
-455@2@% ba@ph@«could»/«might»/«would possibly», as used in objective subjunctive sentences in which the causal condition is missing. E.g., ≤Mi hapci biuvie ba≥ I might be happy (in some possible world/under some unspecified condition x). Cf. ≤biumia ba≥ for the subjective version of this subjunctive.@@
+455@1@@pp@«could»/«might»/«would possibly», the objective subjunctive operator; used before an argument, usually a lepo clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci biuvie lepo mi bragai≥ I am possibly happy in the possible world where I am king (I might be happy if I were king). Cf. ≤biumia≥ for the subjective sense of this subjunctive.@@
+455@2@% ba@ph@«could»/«might»/«would possibly», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci biuvie ba≥ I might be happy (in some possible world/under some unspecified condition x). Cf. ≤biumia ba≥ for the subjective version of this subjunctive.@@
 456@1@@af@a combining form of ≤bivdu≥, «behave».@@
 457@1@@3v@V «adapt»/«adjust»/«fit» behavior to situation N by V.@@V-NV
 457@2@@a@«adaptable» (behaviourally)/«adaptive» (to situations).@@
@@ -716,9 +716,9 @@
 459@5@po %@n@some «training»/«conditioning», spec.instance.@@
 460@1@@3v@K «behave»/exhibit behaviour P, an action/behavior, in setting/situation N. Cf. ≤clibiu≥ for role modeled behavior.@@K-PN
 460@2@@a@«psychological», pert. to behavior.@@
-460@3@lo nu %@n@«behavior», the mass of all such  iors.@@
+460@3@lo nu %@n@«behavior», the mass of all such -iors.@@
 460@4@lopo %@n@«behavior», mass term of events.@@
-460@5@nu %@n@«behavior», the behavior of a  er in a specific situation.@@
+460@5@nu %@n@«behavior», the behavior of a -er in a specific situation.@@
 460@6@nu %@n@a/the «conduct», specific behaviour of ….@@
 460@7@po %@n@«behavior», a spec. event or case of -ing.@@
 461@1@@3n@N is a «conduct»/«manner»/«fashion»/«style»/«mode», way of «behaving» of K under V.@@N-KV
@@ -773,7 +773,7 @@
 490@1@@3a@state/event V is «possible»/«might be»/happen/has a «probability greater than zero» of being/happening under conditions N given knowledge system S.@@V-NS
 490@2@@av@«possibly», in a possible way.@@
 490@3@@n@a «possibility», a possible state or event.@@
-490@4@lo %@n@«possibility», the mass of   ible states/events.@@
+490@4@lo %@n@«possibility», the mass of -ible states/events.@@
 490@5@lopu %@n@«possibility», the mass of such properties.@@
 490@6@pu %@n@a «possibility», a prop. of a -ble thing.@@
 491@1@@2v@D is/are «alarmed»/«startled» by V.@@D-V
@@ -887,7 +887,7 @@
 554@1@@2n@B is a «lighthouse» of area N.@@B-N
 555@1@@3v@K «moor» boat B at D.@@K-BD
 556@1@@2n@B is/are the «mooring» (s) of boat D.@@B-D
-557@1@@2n@B is a «lock» in (canal) F  a section of a canal closed off by gates in which a boat is raised or lowered in/along waterway ….@@B-F
+557@1@@2n@B is a «lock» in (canal) F, a section of a canal closed off by gates in which a boat is raised or lowered in/along waterway ….@@B-F
 558@1@@2a@D is «aboard»/«on board» boat/ship B.@@D-B
 559@1@@2n@B is a «button» of/from F.@@B-F
 560@1@@2v@K «button» (s) D.@@K-D
@@ -1085,7 +1085,7 @@
 656@1@@af@a combining form of ≤bulju≥, «boil».@@
 657@1@@2v@K «boil» (s) D, intentional.@@K-D
 658@1@@1n@B is a «boiler», a vessel for boiling.@@B-
-659@1@@2v@S «boil» (s) D, nonintentional;  'Heat boils water'.@@S-D
+659@1@@2v@S «boil» (s) D, nonintentional; 'Heat boils water'.@@S-D
 660@1@@af@a combining form of ≤bukcu≥, «book».@@
 661@1@@3n@B is a «book» about V by S, any bound document.@@B-VS
 661@2@% kuadru@ph@«cover»/«bind» a book with ….@@
@@ -1163,7 +1163,7 @@
 708@1@@1n@B is a «recess»/«alcove», a depression in a wall.@@B-
 709@1@@2n@N measure(s) C in «calorie» (s), default 1, a unit of heat.@@N-C
 709@2@@a@«caloric», pert. to calories.@@
-709@3@@n@n «calories», something that measures/contains n …. E.g., ≤Mi pa titci tomo calri na lena denli≥  I ate 2,000 calories (food containing 2,000 calories) today.@@
+709@3@@n@n «calories», something that measures/contains n …. E.g. ≤Mi pa titci tomo calri na lena denli≥ — I ate 2,000 calories (food containing 2,000 calories) today.@@
 710@1@@3n@B is a «bill»/«poster» announcing V produced/posted by S.@@B-VS
 711@1@@2v@K «enclose»/«wall up» D, put a wall around ….@@K-D
 711@2@nu %@n@an «enclosure», the area enclosed.@@
@@ -1197,7 +1197,7 @@
 728@2@@n@a «guesser», one who -es.@@
 728@3@nu %@n@a «guess»/«surmise»/«hunch», the — itself.@@
 728@4@po %@1n@a «guess»/«surmise», an act of -ing.@@
-729@1@@3n@B is a «quantity»/«amount»/«magnitude» of stuff/material/supply F measuring C on dimension N. E.g., ≤Vedma dio mi ne canli je lovi klabu jue lio to metro lopu langa≥  Give me a quantity of this cloth measuring 2 meters in length.@@B-FCN
+729@1@@3n@B is a «quantity»/«amount»/«magnitude» of stuff/material/supply F measuring C on dimension N. E.g. ≤Vedma dio mi ne canli je lovi klabu jue lio to metro lopu langa≥ — Give me a quantity of this cloth measuring 2 meters in length.@@B-FCN
 729@2@@a@«quantitative», pert. to quantities.@@
 729@3@nu %@n@is a/the «stuff»/«material»/«supply» from which …, a measured quantity, is taken.@@
 730@1@@2n@B is a «sample» of F, a random sample, as for polling.@@B-F
@@ -1218,7 +1218,7 @@
 736@1@@2v@B is «tangled» by N.@@B-N
 736@2@po %@n@a «tangle», a specific instance.@@
 736@3@po nu %@n@a «tangle» of …, when material specified.@@
-737@1@@pm@«emphasis»/(emphasizes next word;  turns '≤cao≥ <word>' into 'WORD' or '#word#' or doesn't change it depending on which transcription switch is on.).@@
+737@1@@pm@«emphasis»/(emphasizes next word; turns '≤cao≥ <word>' into 'WORD' or '#word#' or doesn't change it depending on which transcription switch is on.).@@
 738@1@@2v@N «burn» D, nonintentional.@@N-D
 738@2@@a@«incendiary», that which causes -ing.@@
 738@3@@n@a «burner»/«incendiary»/«incinerator», an apparatus for -ing.@@
@@ -1313,7 +1313,7 @@
 799@1@@3n@N measure(s) C in «degree C», default 1.@@N-CC
 799@2@Da % lio 50@ph@It has a «temperature» of 50°C.@@
 800@1@@af@a combining form of ≤centi≥, «hundredth».@@
-801@1@@2@B costs C in «cent» (s) of unit …, use cen  with appropriate unit, ≤dalra≥, ≤paondu≥ etc.@@B-C
+801@1@@2@B costs C in «cent» (s) of unit …, use ≤cen≥ with appropriate unit, ≤dalra≥, ≤paondu≥ etc.@@B-C
 802@1@@3v@B «become»/«change naturally»/«vary» into P from S, as auxiliary før intransitive, passive or cause unspecified causations.@@B-PS
 802@2@@a@«changing»/«changeable»/«unsettled»/«fickle», naturally, without intervention.@@
 802@3@lopo %@n@«change», mass term.@@
@@ -1415,7 +1415,7 @@
 864@1@@1n@V is «teacher training»/«education», as in College of Education.@@V-
 865@1@@1n@V is a «precept».@@V-
 866@1@@3v@K «lecture»/«teach» D about subject V, as a professor -s.@@K-DV
-867@1@@h@«dear»/«darling»/«precious», etc., an attitudinal indicating love/intimacy;  part of the series ≤'rie/kae/nue/fie/die'≥, q.v.;  always used after a designation/vocative. E.g., ≤'Meris, Die'≥  ' Mary, Dear' used as the salutation of a letter. (DIE).@@
+867@1@@h@«dear»/«darling»/«precious», etc., an attitudinal indicating love/intimacy; part of the series ≤'rie/kae/nue/fie/die'≥, q.v.; always used after a designation/vocative. E.g. ≤'Meris, Die'≥ — ' Mary, Dear' used as the salutation of a letter. (DIE).@@
 868@1@@1n@B is a «diaeresis»/«dieresis», a mark ¨ to indicate vowels are to be pronounced separately.@@B-
 869@1@@1@B is a «diesel», a type of internal combustion motor.@@B-
 869@2@@a@«diesel», pert. to — motors and fuel.@@
@@ -1556,7 +1556,7 @@
 931@1@@1n@B is an «easy chair»/«overstuffed chair».@@B-
 932@1@@1a@B is «flabby».@@B-
 933@1@@af@a combining form of ≤fo≥, «four».@@
-934@1@@2n@is a «quartet»/«tetrad»/«foursome»/«4 member subset» of set …, a cardinal pred.; e.g., ≤Da fora lea bridiji≥  X is a foursome at bridge/of bridge players.@@
+934@1@@2n@is a «quartet»/«tetrad»/«foursome»/«4 member subset» of set …, a cardinal pred.; e.g. ≤Da fora lea bridiji≥ — X is a foursome at bridge/of bridge players.@@
 935@1@@2n@V is a «Thursday» of week/month F.@@V-F
 935@2@la %@na@«Thursday» (the fifth day of the week).@@
 936@1@@2n@B is a/the «floor» of room/building/storey F, its bottom surface. ≤'Fordi'≥ may also be used as one of the countable levels in a multi story building.@@B-F
@@ -1593,7 +1593,7 @@
 954@1@@2a@K is «indifferent» to V, feel the same about … e.g. I'm indifferent to whether you serve tea or coffee.@@K-V
 954@2@po %@n@an «indifference» to /about … equal feeling for ….@@
 955@1@@2n@B is a «stork» from S.@@B-S
-956@1@@2n@B has a «cycle» of C per unit time;  default 1 per sec.@@B-C
+956@1@@2n@B has a «cycle» of C per unit time; default 1 per sec.@@B-C
 957@1@@3v@K «equalize»/make «equal» B (collective) in dimension C.@@K-BC
 957@2@@n@an «equalizer», one who/that which -es.@@
 957@3@po %@n@an «equalization», a process of -ing.@@
@@ -1696,16 +1696,16 @@
 1011@1@@3v@K «spin» material S into thread P.@@K-SP
 1012@1@@1n@B is a (piece of) «thread» of substance S.@@B-S
 1012@2@lo %@n@«thread», mass term.@@
-1013@1@@pp@«as much as»/«to the same degree as», an oper. used before args to give the accompanying non comparative ≤preda≥ a comparative sense (PA). E.g., ≤Da farfu ciu de≥  X is a father as much as Y is  X is as much a father as Y is. Cf. ≤mou≥.@@
+1013@1@@pp@«as much as»/«to the same degree as», an oper. used before args to give the accompanying non comparative ≤preda≥ a comparative sense (PA). E.g. ≤Da farfu ciu de≥ — X is a father as much as Y is X is as much a father as Y is. Cf. ≤mou≥.@@
 1014@1@@2a@D is «indifferent» to B, have the same opinion about … e.g. I'm indifferent to whether to use ≤'norfio'≥ or ≤'fiocle'≥.@@D-B
-1014@2@po %@n@an «indifference» to /about …  same opinion about ….@@
+1014@2@po %@n@an «indifference» to /about …, same opinion about ….@@
 1015@1@@3n@B is an «equation» relating C and C.@@B-CC
 1016@1@@af@a combining form of ≤ckano≥, «kind».@@
 1017@1@@4a@K(1) is as «kind» to D(1) as K(2) is to D(2).@@K-DKD
 1018@1@@2v@K is «inconsiderate»/«thoughtless» about V, not kind about.@@K-V
 1019@1@@2n@B is a «cafe»/«coffee house» of place/community F.@@B-F
 1020@1@@2av@G is more «kindly» than J.@@G-J
-1021@1@@4a@G is «kinder»/more «kindly» to D1 than J is to D2.  G may be the same person as J or D1 may be the same as D2.@@G-DJD
+1021@1@@4a@G is «kinder»/more «kindly» to D1 than J is to D2. G may be the same person as J or D1 may be the same as D2.@@G-DJD
 1021@2@nu %@a@«less kind to» … than … is to …, conv. form.@@
 1022@1@@2a@K is «kind» to D.@@K-D
 1022@2@@av@«kindly», pert. to those who are kind.@@
@@ -1837,12 +1837,12 @@
 1072@4@lopu nu %@n@«deprivation» (mass property of -ing.).@@
 1072@5@nu %@v@«deprive» (… of … for …).@@
 1072@6@po %@n@an instance of «deprivation» (by … of … for …), being -d.@@
-1072@7@po nu %@n@an instance of «deprivation» (of … of … for …)   -ing someone.@@
+1072@7@po nu %@n@an instance of «deprivation» (of … of … for …), -ing someone.@@
 1073@1@@3v@K «whisper» B to D.@@K-BD
 1073@2@po %@n@a «whisper», a specific instance.@@
 1074@1@@3v@K «whisper» to D about V.@@K-DV
 1074@2@po %@n@a «whisper», a specific instance.@@
-1075@1@@3v@B «behaves like»/«quits oneself as»/«models oneself on» model/standard S in sitution(s) N. E.g., ≤Clibiu lo mrenu!≥  Behave/Quit ye like men!@@B-SN
+1075@1@@3v@B «behaves like»/«quits oneself as»/«models oneself on» model/standard S in sitution(s) N. E.g. ≤Clibiu lo mrenu!≥ — Behave/Quit ye like men!@@B-SN
 1075@2@lopo %@n@«role playing», the mass of.@@
 1075@3@nu %@n@is a «role model» for … in situation(s) ….@@
 1075@4@po %@n@«role playing», a spec. event.@@
@@ -1944,7 +1944,7 @@
 1114@4@lopu %@n@«dampness»/«moisture», mass property.@@
 1114@5@po %@n@a «dampness», a state of being —.@@
 1115@1@@3a@B is as «small» as B in dimension N.@@B-BN
-1116@1@@2v@N «shrink»/«reduce»/«diminish»/«decrease», make smaller B in size, nonintentional;  'Hot water shrinks wool'.@@N-B
+1116@1@@2v@N «shrink»/«reduce»/«diminish»/«decrease», make smaller B in size, nonintentional; 'Hot water shrinks wool'.@@N-B
 1116@2@@n@a «reducer», that which -es.@@
 1116@3@nu %@a@«miniature», pert. to diminished things.@@
 1116@4@nu %@n@a «miniature», conv. of diminish.@@
@@ -2146,7 +2146,7 @@
 1217@1@@af@a combining form of ≤comtu≥, «ashamed».@@
 1218@1@@2v@D is/becomes «shamed» by V, intransitive.@@D-V
 1218@2@po %@n@a «shame», a state of being/becoming shamed.@@
-1219@1@@2v@V «shame»/«disgrace» D, nonintentional;  'that act shamed him'.@@V-D
+1219@1@@2v@V «shame»/«disgrace» D, nonintentional; 'that act shamed him'.@@V-D
 1219@2@@a@«disgracing» (of …).@@
 1219@3@lopu %@n@«disgrace», mass property.@@
 1219@4@nu %@a@«disgraced» (by …).@@
@@ -2275,17 +2275,17 @@
 1285@2@po %@n@a «smile», a spec. act of -ing.@@
 1286@1@@af@a combining form of ≤crina≥, «rained on».@@
 1287@1@@2v@K (take a) «shower» (bath) in B.@@K-B
-1288@1@@2n@N is a «rainsquall» in B, e.g. ≤Mu pa nu cribritetri≥  We had a rainsquall.@@N-B
+1288@1@@2n@N is a «rainsquall» in B, e.g. ≤Mu pa nu cribritetri≥ — We had a rainsquall.@@N-B
 1288@2@@a@«stormy» (of the type specified).@@
 1289@1@@2a@G is «rainier»/more rain full than J.@@G-J
 1289@2@pu %@n@a «raininess», a spec. property.@@
 1290@1@ba %@ph@it's «raining».@@
-1290@2@@2v@A quantity of «rain»  falls on  victim D from cloud S.@@D-S
+1290@2@@2v@A quantity of «rain» falls on victim D from cloud S.@@D-S
 1290@3@nu %@n@«rain cloud», something that rains on ….@@
 1290@4@lopo %@n@«rain», mass term of events.@@
 1290@5@po %@n@some «rain», a spec. event/act of -ing.@@
 1290@6@@1n@X is «rained on».@@
-1291@1@@2n@N is a «rainstorm» in B, e.g. ≤Mu pa nu critetri≥  We had a rainstorm.@@N-B
+1291@1@@2n@N is a «rainstorm» in B, e.g. ≤Mu pa nu critetri≥ — We had a rainstorm.@@N-B
 1291@2@@a@«stormy» (of the type specified).@@
 1292@1@@1@B is some «chromium», element 24 (Cr).@@B-
 1293@1@@af@a combining form of ≤cteki≥, «tax».@@
@@ -2324,7 +2324,7 @@
 1309@2@@a@«fecal», pert. to excrement.@@
 1310@1@@2v@K «defecate» on/in D.@@K-D
 1310@2@po %@n@a «defecation», an act of -ing.@@
-1311@1@@af@a suffix attaching to «number words» (NI) forming an «indefinite-set descriptor». E.g., ≤tocu≥  in: ≤Tocu kicmu pa kiuklu levi nordje≥  Some two doctors operated (together) on this patient. Cf. ≤To kicmu pa kiukli levi nordje≥  Each of some two doctors operated independently on this patient.@@
+1311@1@@af@a suffix attaching to «number words» (NI) forming an «indefinite-set descriptor». E.g. ≤tocu≥ in: ≤Tocu kicmu pa kiuklu levi nordje≥ — Some two doctors operated (together) on this patient. Cf. ≤To kicmu pa kiukli levi nordje≥ — Each of some two doctors operated independently on this patient.@@
 1311@2@@c@«whether» (or not), between modified/fying words.@@
 1312@1@@af@a combining form of ≤cutci≥, «shoe».@@
 1313@1@@3v@K «sole» shoes of D for P.@@K-DP
@@ -2573,7 +2573,7 @@
 1447@1@@4v@K «answer»/«respond»/«reply» P to question/statement B by S.@@K-PBS
 1447@2@@a@«responsive», of one who answers questions/statements.@@
 1447@3@@n@an «answerer»/«respondent», of a question/statement.@@
-1447@4@nu %@n@«answer»/«reply»/«response», one made in  ing a question.@@
+1447@4@nu %@n@«answer»/«reply»/«response», one made in -ing a question.@@
 1447@5@po %@n@a «reply»/«answer»/«response», an act of -ing a question/statement.@@
 1448@1@@af@a combining form of ≤darli≥, «far».@@
 1449@1@@5v@K «carry away» B to D from S via V.@@K-BDSV
@@ -2661,12 +2661,12 @@
 1492@1@@1n@B is a «toothbrush».@@B-
 1493@1@@3v@K «brush teeth» of D with V, e.g. brushing the dog's teeth.@@K-DV
 1494@1@@2v@K «brush teeth» with tool/substance B.@@K-B
-1495@1@@av@«probably»/«likely to be», the objective sense. E.g., ≤Da dau mamla≥  X is probably/likely to be a mammal. Cf. ≤io≥ for the subjective sense.@@
-1495@2@@in@«probably», is probably true/will probably happen (under the circumstances implied by speech) (PA). E.g., ≤Ta dau mamla≥  That's probably a mammal.@@
-1495@3@@pp@(that … is) «probable»/«likely» under conditions …, used before state/event terms. E.g., ≤Da mamla dau ta≥  (That) X is a mammal is likely under those conditions.@@
-1496@1@@pp@«should»/«would probably», a probability specific subjective subjunctive operator;  used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g., ≤Mi hapci daumia lepo mi bragai≥ I am probably happy in the mental place where I am king (I would probably be happy if I were king).@@
-1497@1@@pp@«should»/«would probably», a probability specific objective subjunctive operator;  used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g., ≤Mi hapci dauvie lepo mi bragai≥ I am probably happy in the possible world where I am king (I would probably be happy if I were king). Cf. ≤daumia≥ for the subjective sense of this subjunctive.@@
-1497@2@% ba@ph@«should»/«would probably», as used in objective subjunctive sentences in which the causal condition is missing. E.g., ≤Mi hapci dauvie ba≥ I would probably be happy (in some possible world/under some unspecified condition x). Cf. ≤daumia ba≥ for the suobjective sense of this subjunctive.@@
+1495@1@@av@«probably»/«likely to be», the objective sense. E.g. ≤Da dau mamla≥ — X is probably/likely to be a mammal. Cf. ≤io≥ for the subjective sense.@@
+1495@2@@in@«probably», is probably true/will probably happen (under the circumstances implied by speech) (PA). E.g. ≤Ta dau mamla≥ — That's probably a mammal.@@
+1495@3@@pp@(that … is) «probable»/«likely» under conditions …, used before state/event terms. E.g. ≤Da mamla dau ta≥ — (That) X is a mammal is likely under those conditions.@@
+1496@1@@pp@«should»/«would probably», a probability specific subjective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci daumia lepo mi bragai≥ I am probably happy in the mental place where I am king (I would probably be happy if I were king).@@
+1497@1@@pp@«should»/«would probably», a probability specific objective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci dauvie lepo mi bragai≥ I am probably happy in the possible world where I am king (I would probably be happy if I were king). Cf. ≤daumia≥ for the subjective sense of this subjunctive.@@
+1497@2@% ba@ph@«should»/«would probably», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci dauvie ba≥ I would probably be happy (in some possible world/under some unspecified condition x). Cf. ≤daumia ba≥ for the suobjective sense of this subjunctive.@@
 1498@1@@af@a combining form of ≤danza≥, «want».@@
 1499@1@@4v@K «tempt» D to do V by inducement N (intentionally).@@K-DVN
 1499@2@@n@«tempter», one who -s.@@
@@ -2887,7 +2887,7 @@
 1594@1@@3v@K «criticize» D for V.@@K-DV
 1594@2@@a@«critical» of … for … — pertaining to -ism.@@
 1594@3@@n@«criticizer» of … for … — one who -es.@@
-1594@4@po %@n@«criticism» … for …  an act of -ing.@@
+1594@4@po %@n@«criticism» … for … an act of -ing.@@
 1595@1@@3v@K «judge»/«assess»/«evaluate» S to be P.@@K-SP
 1595@2@@a@«evaluative», pert. to judges.@@
 1595@3@@n@a «judge»/«assessor», one who judges.@@
@@ -2991,7 +2991,7 @@
 1644@1@@av@«given»/(by)(per)«hypothesis»/«assumption», a discourse operator (UI).@@
 1645@1@@af@a combining form of ≤drani≥, «dry».@@
 1646@1@@1v@B «dry» (out), cause unspecified.@@B-
-1647@1@@2v@N «dry»/«dehydrate» D, nonintentional;  'the wind dries the clothes'.@@N-D
+1647@1@@2v@N «dry»/«dehydrate» D, nonintentional; 'the wind dries the clothes'.@@N-D
 1647@2@@n@a «drier», that which dries ….@@
 1648@1@@1n@B is «tinder», readily inflammable material for fire starting.@@B-
 1649@1@@3a@G is «darker», less illuminated than J by C.@@G-JC
@@ -3290,17 +3290,17 @@
 1795@2@@a@«ontological», pert. to ontology.@@
 1796@1@@1n@B is a piece of «soap».@@B-
 1796@2@@a@«soap», made of soap.@@
-1797@1@@1v@D «perish», cease to exist;  applies to groups etc. as well as to living creatures.@@D-
+1797@1@@1v@D «perish», cease to exist; applies to groups etc. as well as to living creatures.@@D-
 1798@1@@af@a combining form of ≤dzeli≥, «jelly».@@
 1799@1@@1v@D «jell»/«gelatinize»/«congeal» (actor unspecified).@@D-
-1800@1@@2v@N «jell»/gelatinize/«congeal»/«clot»/«curdle»  D (non intentional).@@N-D
+1800@1@@2v@N «jell»/gelatinize/«congeal»/«clot»/«curdle» D (non intentional).@@N-D
 1800@2@nu %@a@«gelatinized»/«jellied», conv. of jell.@@
 1801@1@@2v@N «jell»/«gelatinize» D (non intentional).@@N-D
 1801@2@@n@a «gelatinizer» (such as pectin).@@
 1801@3@nu %@a@«gelatinized»/«jellied», conv. of jell.@@
 1802@1@@1n@B is a portion of «jelly»/«gelatin».@@B-
 1802@2@@a@«gelatinous»/«jelly», made of gelatin/jelly.@@
-1803@1@@2v@K «jell»/gelatinize/«clot»/«curdle»/«congeal»  D (intentional).@@K-D
+1803@1@@2v@K «jell»/gelatinize/«clot»/«curdle»/«congeal» D (intentional).@@K-D
 1803@2@nu %@a@«gelatinized»/«jellied», conv. of jell.@@
 1804@1@@af@a combining form of ≤dzoru≥, «walk».@@
 1805@1@@3n@B is a «gangplank» between S and D.@@B-SD
@@ -3349,7 +3349,7 @@
 1832@2@le zo %@n@«entropy», the measured quantity.@@
 1833@1@@1@B is an «enzyme», a biological catalyst.@@B-
 1833@2@@a@«enzymatic», pert. to enzymes.@@
-1834@1@@i@«please»/«will you let»/«may» I …, request for permission, a petition e.g. ≤'Eo mi godzi'≥  Please, may I go.@@B-
+1834@1@@i@«please»/«will you let»/«may» I …, request for permission, a petition e.g. ≤'Eo mi godzi'≥ — Please, may I go.@@B-
 1834@2@-eo@af@the mark of «Greek» lower case consonant names, as in beo/ceo/deo/etc.@@
 1834@3@% la Gan begdou@ph@May «God» «grant».@@
 1835@1@@2v@D shows «epitaxy»/epitaxic growth with respect to substrate B.@@D-B
@@ -3357,7 +3357,7 @@
 1836@1@@1a@B is «epoxy», chem. prefix, applied commonly to adhesive.@@B-
 1837@1@@1n@B is some «erbium», element 68 (Er).@@B-
 1838@1@la %@na@«Spain», the name of the country.@@
-1839@1@la %@na@«Spanish», the  language.@@
+1839@1@la %@na@«Spanish», the language.@@
 1840@1@@1@B is some «ethanol», the common beverage alcohol.@@B-
 1841@1@@3@B is an «ether», compound with a C O C link.@@B-CC
 1842@1@@1@B is some «ethylene», an unsaturated gas.@@B-
@@ -3450,7 +3450,7 @@
 1885@2@lo %@n@«fire», mass term.@@
 1886@1@@4v@K «kindle»/start a «fire» with (material) S, as in a fireplace or camp (K-B).@@K-SKB
 1886@2@nu %@n@«kindling», material for starting fires.@@
-1887@1@@1v@B is «extinguished»/«gone out»,  cause unspecified.@@B-
+1887@1@@1v@B is «extinguished»/«gone out», cause unspecified.@@B-
 1888@1@@2v@K «put out»/«extinguish»/«turn off»/«quench» fire V.@@K-V
 1888@2@@n@«fireman», one who extinguishes fires, q.v.@@
 1889@1@@2n@S is a «fuel» for (device/fire) V.@@S-V
@@ -3675,7 +3675,7 @@
 1988@2@pu %@n@an «infinity», the property of being infinite.@@
 1989@1@@1v@D is/are «done for».@@D-
 1990@1@@2v@K «write endnote» for document F.@@K-F
-1991@1@@va@«will» have … (been)  ed, sign of the future perfect tense.@@
+1991@1@@va@«will» have … (been) -ed, sign of the future perfect tense.@@
 1992@1@@af@a combining form of ≤fanra≥, «farm».@@
 1993@1@@3n@S is the «father» of P by mother S.@@S-PS
 1993@2@@a@«paternal», pert. to fathers, q.v.@@
@@ -3721,7 +3721,7 @@
 2014@2@@a@«easy», easier than … for ….@@
 2015@1@@2a@G is more «irritable»/«irascible» than J.@@G-J
 2015@2@pu %@n@«irritability», spec. prop.@@
-2016@1@@3a@P is «easy»/«simple»/«facile» for  K (to do) under conditions N.@@P-KN
+2016@1@@3a@P is «easy»/«simple»/«facile» for K (to do) under conditions N.@@P-KN
 2016@2@@av@«readily»/«easily», in an easy manner.@@
 2016@3@lopu nu %@n@«ease»/«facility», mass term, properties.@@
 2016@4@nu %@a@«facile», of persons, conv. of easy.@@
@@ -3801,12 +3801,12 @@
 2041@6@% ta@av@«later on»/«after a long time»/«long after that», a mod. phrase.@@
 2042@1@@a@«five» (5), in math. expressions.@@
 2042@2@@af@the «digit five» (5), as in ≤fofeso≥ (456).@@
-2042@3@@l@«five» (5) (of), a description quantifier. E.g., ≤Fe le fumna pa merji≥  (Some) Five of the women were married;  ≤Fe fumna pa hijra≥  (Some) Five women were here independently. Cf., ≤fecu≥.@@
+2042@3@@l@«five» (5) (of), a description quantifier. E.g. ≤Fe le fumna pa merji≥ — (Some) Five of the women were married; ≤Fe fumna pa hijra≥ — (Some) Five women were here independently. Cf., ≤fecu≥.@@
 2042@4@lio %@ph@«five» (5), the number five, non math.@@
 2043@1@@af@a combining form of ≤felda≥, «fall».@@
 2044@1@@af@a combining form of ≤ferci≥, «affair».@@
 2045@1@@2n@B is an «episode» of affair F.@@B-F
-2046@1@@a@«five»/«quintuple»/«quintet», a «pentad» of … acting together, an indefinite set describer. E.g., ≤Fecu mrenu pa hijra≥  Some five men/A group of five were here together. Cf., ≤Fe mrenu pa hijra≥  Some five men were here independently.@@
+2046@1@@a@«five»/«quintuple»/«quintet», a «pentad» of … acting together, an indefinite set describer. E.g. ≤Fecu mrenu pa hijra≥ — Some five men/A group of five were here together. Cf., ≤Fe mrenu pa hijra≥ — Some five men were here independently.@@
 2047@1@@af@a combining form of ≤felda≥, «fall».@@
 2048@1@@3v@K «shed»/«drop»/let «fall»/let «go» B to/onto/into D.@@K-BD
 2048@2@po %@n@a «drop», an event of -ing … accidentally.@@
@@ -3830,7 +3830,7 @@
 2061@2@lopo %@n@«acknowledgement»/«corroboration», mass term.@@
 2061@3@nu %@a@«acknowledged»/«corroborated», of -ed facts.@@
 2061@4@po %@n@an «acknowledgement»/«corroboration», an act of -ing.@@
-2062@1@@1n@B is a «file» containing … ≤fekveo≥ <fek(to) + ve(sl)o  fact container> is a file.@@B-
+2062@1@@1n@B is a «file» containing … ≤fekveo≥ <≤fek(to) + ve(sl)o≥ — fact container> is a file.@@B-
 2063@1@@af@a combining form of ≤felda≥, «fall».@@
 2064@1@@3v@N «drop»/make «fall» B to/onto/into D, nonintentionally.@@N-BD
 2064@2@po %@n@«drop», an event of -ing …, non intentional.@@
@@ -3867,8 +3867,8 @@
 2088@1@@2n@B is a/the «princess» of S.@@B-S
 2089@1@@2n@B is a/the «mistress» of «domain»/persons/organization N.@@B-N
 2090@1@@2n@B is a/the «princess» of domain N.@@B-N
-2091@1@@3n@K is a «lady»/the wife of S, a/the lord of vassals/domain N, q.v. E.g., ≤La Femsurpoi Maontbetn merji la Surpoi Maontbetn≥  Lady Mountbatten is married to Lord Mountbatten.@@K-SN
-2091@2@Hoi % je mi, rie@ph@«M»'Lady/«My Lady»  O Lady of me, Respected One, a form used by inferiors to address the female peerage;  cf. ≤Surpoi≥.@@
+2091@1@@3n@K is a «lady»/the wife of S, a/the lord of vassals/domain N, q.v. E.g. ≤La Femsurpoi Maontbetn merji la Surpoi Maontbetn≥ — Lady Mountbatten is married to Lord Mountbatten.@@K-SN
+2091@2@Hoi % je mi, rie@ph@«M»'Lady/«My Lady»/O Lady of me, Respected One, a form used by inferiors to address the female peerage; cf. ≤Surpoi≥.@@
 2092@1@@2n@B is a/the «princess»/«duchess»/«marchioness»/«countess»/«baroness» of S, any peeress, identify by number.@@B-S
 2093@1@@2n@B is a/the «countess» of domain N.@@B-N
 2094@1@@2n@B is a/the «marchioness» of S.@@B-S
@@ -3895,7 +3895,7 @@
 2108@4@pu %@n@a «truth», empirical, a property.@@
 2109@1@@2n@B is 10E 15th «quantity» of F. (ISV femti).@@B-F
 2110@1@@af@a combining form of ≤fe≥, «five».@@
-2111@1@@2n@B is a «quintet»/«pentad»/«five member» subset of set F, a cardinal predicate; e.g., ≤Da fera lea golfu≥  X is a fivesome at golf/of golfers.@@
+2111@1@@2n@B is a «quintet»/«pentad»/«five member» subset of set F, a cardinal predicate; e.g. ≤Da fera lea golfu≥ — X is a fivesome at golf/of golfers.@@
 2112@1@@2n@C measures five «cents», 5/100ths of monetary unit F.@@C-F
 2112@2@@n@«nickel», Can currency.@@
 2113@1@@2n@V is an «affair»/«matter»/«concern»/«interest» of person(s) D.@@V-D
@@ -3904,12 +3904,12 @@
 2113@4@pu nu %@n@«involvement».@@
 2114@1@@2n@B is a «Friday» of week/month F.@@B-F
 2114@2@la %@na@«Friday» (the 6th day of the week).@@
-2115@1@@2n@B is a «battalion»/«air force», the 5th smallest military unit in some larger «military organization»/«ferce» F, without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤kerforgru≥  air force. Cf. ≤surgru≥.@@B-F
+2115@1@@2n@B is a «battalion»/«air force», the 5th smallest military unit in some larger «military organization»/«ferce» F, without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤kerforgru≥ — air force. Cf. ≤surgru≥.@@B-F
 2116@1@@a@«fifth», of 5th members, before predicates.@@
 2116@2@@n@V is a/the «fifth» term/member of series …, an ordinal predicate.@@
 2117@1@@2n@B is a «pentagon» with vertices C.@@B-C
 2117@2@@a@«pentagonal», pert. to pentagons.@@
-2118@1@@2n@B is a «lieutenant colonel»/«commander»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murferkoi≥  naval commander. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+2118@1@@2n@B is a «lieutenant colonel»/«commander»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murferkoi≥ — naval commander. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 2119@1@@2n@B is a «May» of year F.@@B-F
 2119@2@la %@na@«May» (the 5th month of the year).@@
 2120@1@@1n@B is some «fermium», a transuranic element (Fm).@@B-
@@ -3924,7 +3924,7 @@
 2123@6@po %@n@a «fertility», a state of being fertile.@@
 2123@7@pu %@n@a «fertility», a prop. of a specific soil.@@
 2123@8@pu nu %@n@an «infertility», a spec. property.@@
-2124@1@@2n@B is a «staff sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murfertro≥  petty officer first class.@@B-F
+2124@1@@2n@B is a «staff sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murfertro≥ — petty officer first class.@@B-F
 2125@1@@af@a combining form of ≤festi≥, «waste».@@
 2126@1@@1n@B is a piece of «scrapiron»/waste «iron»/«junk».@@B-
 2126@2@lo %@n@«scrapiron», mass term.@@
@@ -3949,7 +3949,7 @@
 2134@2@-fi@af@the mark of «ordinals», as in ≤nefi≥, firstly.@@
 2135@1@@av@«henceforth»/«thereafter», from now on, before predicates.@@
 2135@2@@c@ever «since», some event, with clauses.@@
-2135@3@@op@continuous future tense: «will» be  ing/being ….@@
+2135@3@@op@continuous future tense: «will» be -ing/being ….@@
 2135@4@@pp@(ever) «since», continuously after, with terms.@@
 2135@5@% ta@av ph@ever «since», «thereafter», that time, a modifying phrase.@@
 2135@6@% ti@av ph@ever «since», «thereafter», this time<, a modifying phrase.>.@@
@@ -4003,7 +4003,7 @@
 2158@3@lo %@n@«physics», mass term of instances.@@
 2159@1@@1n@K is a «physicist».@@K-
 2160@1@@3n@B is a physical «obstacle» in F to V.@@B-FV
-2161@1@@h@«comrade»/«brother»/«sister», an attitudinal indicating comradeship/friendship or the intimacy of fellow members/co workers;  part of the series 'rie/kae/nue/fie/die', q.v.;  always used after a designation/vocative. E.g., 'Djan, Fie'  'John, Friend' used as the salutation of a letter. (DIE).@@
+2161@1@@h@«comrade»/«brother»/«sister», an attitudinal indicating comradeship/friendship or the intimacy of fellow members/co workers; part of the series ≤'rie/kae/nue/fie/die'≥, q.v.; always used after a designation/vocative. E.g. ≤'Djan, Fie'≥ — 'John, Friend' used as the salutation of a letter. (DIE).@@
 2162@1@@1n@B is a «fig», a fruit of the fig tree.@@B-
 2162@2@@a@«fig», pert. to -s.@@
 2163@1@@af@a combining form of ≤fildi≥, «field».@@
@@ -4052,7 +4052,7 @@
 2180@5@no %@a@«indifferent», have no reaction to e.g. I'm indifferent to the starvation in Ethiopia.@@
 2180@6@nu %@n@a «feeling»/«emotion», a spec. feeling by … about ….@@
 2180@7@po %@n@an «emotion»/«humor»/«mood», a spec. state of feeling.@@
-2180@8@tu he %@ph@«How» do you feel?/How are you?, i.e., good or bad.@@
+2180@8@tu he %@ph@«How» do you feel?/How are you?, i.e. good or bad.@@
 2181@1@@2a@D is «overcome» by (feelings) V.@@D-V
 2182@1@@3v@K «confide in» D about feeling V.@@K-DV
 2183@1@@af@a combining form of ≤filmo≥, «feel».@@
@@ -4060,8 +4060,8 @@
 2184@2@@a@«moving»/«touching», emotionally touching, of an incident.@@
 2184@3@nu %@v@«touched»/made to feel emotion by incident ….@@
 2184@4@po %@n@«emotion», brought about in … by ….@@
-2185@1@@2a@K is «indifferent» to V  complete lack of feeling about … e.g. I'm indifferent to Third World poverty.@@K-V
-2185@2@po %@n@an «indifference» to /about …  lack of feeling for ….@@
+2185@1@@2a@K is «indifferent» to V, complete lack of feeling about … E.g. I'm indifferent to Third World poverty.@@K-V
+2185@2@po %@n@an «indifference» to /about …, lack of feeling for ….@@
 2185@3@pu %@n@«apathy».@@
 2186@1@@2a@G is more «emotional»/full of emotions than J is.@@G-J
 2186@2@@av@«emotionally», in an emotional manner.@@
@@ -4133,7 +4133,7 @@
 2219@2@po %@n@a «gleam»/«glow»(from …), from a light source.@@
 2220@1@@af@a combining form of ≤fizdi≥, «physical».@@
 2221@1@@1a@N is «physical»/non «mental».@@N-
-2221@2@@n@a «phenomenon», physical, i.e., non mental.@@
+2221@2@@n@a «phenomenon», physical, i.e. non mental.@@
 2221@3@zo %@n@«physics», an example of «physical» science. (I'm a little toungue in cheek here, but it could be.).@@
 2222@1@@3v@K «mould» P from S.@@K-PS
 2222@2@@n@«sculpts»/is a «sculptor».@@
@@ -4179,7 +4179,7 @@
 2245@1@@2v@K «check in» for flight F.@@K-F
 2245@2@po %@n@«check in», the procedure.@@
 2246@1@@2n@B is a «runway» of (airport) F.@@B-F
-2247@1@@4v@K,  aircraft/birds/other flying things, «take off» from airport/runway/surface S for destination N via V.@@K-SNV
+2247@1@@4v@K, aircraft/birds/other flying things, «take off» from airport/runway/surface S for destination N via V.@@K-SNV
 2247@2@po %@n@«take off», an act/event of taking off. V (K-SNV).@@
 2248@1@% grobou@2n@B is an «aircraft carrier» of government F.@@B-F
 2249@1@@2n@B is a «terminal» building of airport/facility F.@@B-F
@@ -4197,9 +4197,9 @@
 2255@2@@n@a «condensation»/«melting», that which condenses.@@
 2255@3@nu %@n@a «condensation»/«melt», the product of -ation.@@
 2255@4@po %@n@a specific instance of «melting»/«dissolution»/«condensation»/«liquefaction».@@
-2256@1@@4v@N «liquefy»/«melt»/make liquid S into D under conditions N, nonintentional;  'the sun melts the ice'.@@N-SDN
+2256@1@@4v@N «liquefy»/«melt»/make liquid S into D under conditions N, nonintentional; 'the sun melts the ice'.@@N-SDN
 2256@2@po %@n@a «melting»/«dissolution»/«liquefaction», an act of -ing.@@
-2257@1@@2a@B is normally «liquid», i.e., under conditions (of temerature and pressure) N.@@B-N
+2257@1@@2a@B is normally «liquid», i.e. under conditions (of temerature and pressure) N.@@B-N
 2257@2@@n@a «liquid», a quantity of liquid.@@
 2257@3@lo %@n@«liquid», mass term.@@
 2258@1@@2a@G is more «juicy» than J.@@G-J
@@ -4270,10 +4270,10 @@
 2294@1@@1@B is some «fluorine», element 8 (Fl).@@B-
 2295@1@@a@«four» (4), in math. expressions.@@
 2295@2@@af@the «digit four» (4), as in ≤fofeso≥ (456).@@
-2295@3@@l@«four» (4) (of), a description quantifier. E.g., ≤Fo le fumna pa merji≥  (Some) Four of the women were married;  ≤Fo fumna pa hijra≥  (Some) Four women were here independently. Cf., ≤focu≥.@@
+2295@3@@l@«four» (4) (of), a description quantifier. E.g. ≤Fo le fumna pa merji≥ — (Some) Four of the women were married; ≤Fo fumna pa hijra≥ — (Some) Four women were here independently. Cf., ≤focu≥.@@
 2295@4@lio %@ph@«four» (4), the number four, non math.@@
 2296@1@@pp@Wholes/Sets/Collectives, case tag («whole»/«set»/«collective»).@@
-2297@1@@a@«four»/«quadruple»/«quartet», a «tetrad» of … acting together, an indefinite set describer. E.g., ≤Focu mrenu pa hijra≥  Some four men/A group of four men were here together. Cf., ≤Fo mrenu pa hijra≥  Some four men were here independently.@@
+2297@1@@a@«four»/«quadruple»/«quartet», a «tetrad» of … acting together, an indefinite set describer. E.g. ≤Focu mrenu pa hijra≥ — Some four men/A group of four men were here together. Cf., ≤Fo mrenu pa hijra≥ — Some four men were here independently.@@
 2298@1@@af@a combining form of ≤foldi≥, «fold».@@
 2299@1@@2v@B «fold» (self). (Da —. X -s itself.) (B-).@@B-B
 2300@1@@1n@B is a «folding chair».@@B-
@@ -4294,7 +4294,7 @@
 2312@1@@2n@B is a «flap», a folded piece of F.@@B-F
 2313@1@@1n@B is a «folding» table/«tray table».@@B-
 2314@1@@av@«fourthly», in the fourth place.@@
-2315@1@@aux@«must»/is «obliged to» …, objective sense used before predicates (PA). E.g., ≤Mi foi godzi da≥ I must go to X. Cf. ≤oa≥ for subjective sense: ≤oa mi godzi da≥ I must go to X.@@
+2315@1@@aux@«must»/is «obliged to» …, objective sense used before predicates (PA). E.g. ≤Mi foi godzi da≥ I must go to X. Cf. ≤oa≥ for subjective sense: ≤oa mi godzi da≥ I must go to X.@@
 2315@2@@pp@«in»/«during»/«under» …, used before event/state terms to specify the conditions of an obligation.@@
 2316@1@@5v@K «force to walk» B to D from S via V.@@K-BDSV
 2316@2@po %@n@a «forced march», as of prisoners.@@
@@ -4441,7 +4441,7 @@
 2369@2@nu %@a@«blessed», conv. of bless.@@
 2369@3@po %@n@a «blessing», an act of -ing.@@
 2369@4@po nu %@n@a «blessedness», a state of being -ed.@@
-2370@1@@2n@B, a building, is C «stories»/«storeys» high, default 1. E.g., ≤Ta fordybia lio toni≥  That's 20 storeys high, i.e., a 20 storey building.@@B-C
+2370@1@@2n@B, a building, is C «stories»/«storeys» high, default 1. E.g. ≤Ta fordybia lio toni≥ — That's 20 storeys high, i.e. a 20 storey building.@@B-C
 2370@2@@n@a «bungalow», a one storey building (when used without the second argument).@@
 2371@1@@2n@B is a «floor»/«story»/«storey» of building F, a space between any two of its floors or between its highest floor and its roof.@@B-F
 2372@1@@2n@B is a «floor level» in building F.@@B-F
@@ -4450,7 +4450,7 @@
 2374@2@@n@a «carpetseller».@@
 2375@1@@2v@K «brush»/«scrub» the floor of D.@@K-D
 2376@1@@1n@B is a «mop».@@B-
-2377@1@@2n@B is a «regiment»/«wing», the 4th smallest military unit in some larger «military organization»/«force» F, without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤kerforgru≥  air wing. Cf. ≤surgru≥.@@B-F
+2377@1@@2n@B is a «regiment»/«wing», the 4th smallest military unit in some larger «military organization»/«force» F, without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤kerforgru≥ — air wing. Cf. ≤surgru≥.@@B-F
 2378@1@@1n@B is a «tetrahedron».@@B-
 2379@1@@2n@«fourth» (4th) term/member of series y, an ordinal predicate.@@
 2380@1@@2n@B is a «quadrangle» with vertices C.@@B-C
@@ -4462,7 +4462,7 @@
 2384@1@@2v@K «quarter» D, cut into four equal parts.@@K-D
 2384@2@nu %@a@«quartered», cut into 4 parts.@@
 2385@1@@2n@B is a «quarter» of F.@@B-F
-2386@1@@2n@B is a «major»/«lieutenant commander»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murforkoi≥  naval lieutenant commander. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+2386@1@@2n@B is a «major»/«lieutenant commander»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murforkoi≥ — naval lieutenant commander. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 2387@1@@2n@B is a «quarter»/«fourth» of F.@@B-F
 2388@1@@2n@B is a «twenty five cent piece»/«quarter», 25/100ths of monetary unit F.@@B-F
 2389@1@@3a@G is «stronger» than J by C.@@G-JC
@@ -4483,7 +4483,7 @@
 2394@1@@2n@N is a (space time) «region» occupied by system/process B.@@N-B
 2394@2@@n@a «space time» region occupied by system/process ….@@
 2394@3@lo %@n@«space time», mass term.@@
-2395@1@@2n@B is a «sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murfortro≥  petty officer second class.@@B-F
+2395@1@@2n@B is a «sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murfortro≥ — petty officer second class.@@B-F
 2396@1@@af@a combining form of ≤fosli≥, «force».@@
 2397@1@@2v@K «subjugate»/«impose rule» on D.@@K-D
 2397@2@nu %@n@a «subject», of subjugation, conv. form.@@
@@ -4764,7 +4764,7 @@
 2551@1@@1n@B is an «artisan»/«craftsman».@@B-
 2551@2@@a@«ingenious»/«artistic».@@
 2552@1@@af@a combining form of ≤marka≥, «mark».@@
-2553@1@@2v@N «mark»/«spot» D, make a mark on …, nonintentional;  'Blood spots cloth'.@@N-D
+2553@1@@2v@N «mark»/«spot» D, make a mark on …, nonintentional; 'Blood spots cloth'.@@N-D
 2553@2@@n@a «marker», that which -s.@@
 2554@1@@3n@B is a «spot»/«mark» on D made by S.@@B-DS
 2554@2@nu %@n@«spotted»/«marked», having a mark.@@
@@ -4810,7 +4810,7 @@
 2584@1@@2n@B is the «formula»/«recipe»/«method»/«procedure» for doing/making P.@@B-P
 2585@1@@3v@K «reconcile» V with V.@@K-VV
 2586@1@@op@changes a name to a predicate.@@
-2587@1@@pm@makes a predicate from an argument, with fuzzier meaning. e.g. ≤mea Ford≥, 'is like a Ford, Fordish'.@@
+2587@1@@pm@makes a predicate from an argument, with fuzzier meaning. E.g. ≤mea Ford≥ — 'is like a Ford, Fordish'.@@
 2588@1@@2n@B is a «month» in year F.@@B-F
 2589@1@@2n@B is a «monthly ticket»/«monthly pass» on system N.@@B-N
 2590@1@@2n@B is a «skunk»/«polecat» from S.@@B-S
@@ -4846,7 +4846,7 @@
 2617@2@@n@a «pacer», one who takes measured steps.@@
 2617@3@po %@n@a «pace», a spec. act/process of -ing.@@
 2618@1@@2n@B has a measured «temperature» of C.@@B-C
-2619@1@@3n@B is a shade of «hue»/«colour»/«color» … with lightness C and saturation C, e.g., ≤'Lopu labredro ga melkoo lopu redro lio savo lio sanene'≥  'Pink is a shade of red with lightness of about 8 and saturation of about 11'.@@B-CC
+2619@1@@3n@B is a shade of «hue»/«colour»/«color» … with lightness C and saturation C, e.g. ≤'Lopu labredro ga melkoo lopu redro lio savo lio sanene'≥ — 'Pink is a shade of red with lightness of about 8 and saturation of about 11'.@@B-CC
 2620@1@@2n@B has a measured «width» of C.@@B-C
 2621@1@@2v@B has a measured «speed» of C.@@B-C
 2622@1@@1n@B is a «melon»/quantity of melons from source F.@@B-F
@@ -4866,7 +4866,7 @@
 2631@1@@2n@B has a «height» of C.@@B-C
 2632@1@@2n@B is a «membrane» of F.@@B-F
 2633@1@@voc@a vocative, as in 'hey «Man»!','oh «Mister»!','oh «Sir»!'.@@
-2633@2@la %@na@«Mr»/«Mister»/«Man»/«Sir», a name/name part, as ≤'la Men Smit'≥  'Mr. Smith'.@@
+2633@2@la %@na@«Mr»/«Mister»/«Man»/«Sir», a name/name part, as ≤'la Men Smit'≥ — 'Mr. Smith'.@@
 2634@1@@af@a combining form of ≤mendi≥, «male».@@
 2635@1@@2a@G is (more) «manly»/«masculine» (than J), of non men.@@G-J
 2635@2@lopu %@n@«manliness», mass property, of non men.@@
@@ -4896,7 +4896,7 @@
 2648@1@@1n@B is a «franc», French unit of currency.@@B-
 2648@2@lo %@n@(the) «franc», mass term.@@
 2649@1@@2n@B is the «fatherland» of D.@@B-D
-2650@1@@3n@B is a/the «frame»/protective «surround» of F in environment N.  (figuratively, a «context»).@@B-FN
+2650@1@@3n@B is a/the «frame»/protective «surround» of F in environment N. (figuratively, a «context»).@@B-FN
 2650@2@nu %@a@«framed», conv. of frame.@@
 2651@1@@3n@B is a/the (paternal) «grandmother» of P through father S.@@B-PS
 2652@1@@1@B is some «francium», element 87 (Fr).@@B-
@@ -5008,7 +5008,7 @@
 2707@1@@a@«less» … than …, antonym of some predicates.@@
 2707@2@@af@«un»—<,antonym of some preds.: 2nd conv. op.>.@@
 2707@3@@op@conversion of 1st & 3rd places of a predicate, «passive»s/antonyms/etc.@@
-2707@4@@va@«is  ed», passive of some predicates.@@
+2707@4@@va@«is -ed», passive of some predicates.@@
 2708@1@@va@will be «habitually» -ing, continuous future tense (PA).@@
 2709@1@@2a@G is more «feminine»/«womanly»/«womanish»+than J, of non women.@@G-J
 2709@2@lopu %@n@«femininity»/«womanliness», mass term, props.@@
@@ -5034,7 +5034,7 @@
 2719@1@@3v@K «predestine» V for D.@@K-VD
 2719@2@lopo %@n@«predestination», mass term.@@
 2719@3@nu %@a@«predestined».@@
-2720@1@@aux@«should»/«ought to» …, objective sense used before predicates (PA). E.g., ≤Mi fui godzi da≥ I should go to X. Cf. ≤oe≥ for subjective sense: ≤Oe mi godzi da≥ I should go to X.@@
+2720@1@@aux@«should»/«ought to» …, objective sense used before predicates (PA). E.g. ≤Mi fui godzi da≥ I should go to X. Cf. ≤oe≥ for subjective sense: ≤Oe mi godzi da≥ I should go to X.@@
 2720@2@@pp@«in»/«during»/«under» …, used before event/state terms to specify the conditions of an injunction.@@
 2721@1@@1a@N is «forward looking»/«progressive».@@N-
 2722@1@@3n@B is a «prospect» for V under conditions N.@@B-VN
@@ -5068,7 +5068,7 @@
 2731@2@lopu %@n@the mass property of «eloquence».@@
 2731@3@po %@n@an instance of «eloquence».@@
 2732@1@@voc@«Madam»/«Mrs»/«Woman», a vocative, as in 'oh Madam!'.@@
-2732@2@la %@na@«Madam»/«Mrs»/«Ms». (a name/name part/honorific: ≤'la Fum Smit'≥  'Ms. Smit'.).@@
+2732@2@la %@na@«Madam»/«Mrs»/«Ms». (a name/name part/honorific: ≤'la Fum Smit'≥ — 'Ms. Smit'.).@@
 2733@1@@af@a combining form of ≤fumna≥, «woman».@@
 2734@1@@1a@K is «silly».@@K-
 2735@1@@1n@B is a «woman», female human adult.@@B-
@@ -5157,7 +5157,7 @@
 2764@4@pu %@n@a/the «imaginability»/«conceivability»/«describability» of specific places/worlds/things, a spec. property of such things.@@
 2765@1@@3n@P is a/the «reason»/«purpose»/«end» for means V being used by K.@@P-VK
 2765@2@@n@the «function» of (system/tool) ….@@
-2766@1@@1n@B «function», to be operating. e.g. ≤le matci ga —.≥ The machine is functional. ≤le matci na —≥ The machine is running.@@B-
+2766@1@@1n@B «function», to be operating. E.g. ≤le matci ga —.≥ — The machine is functional. ≤le matci na —≥ — The machine is running.@@B-
 2766@2@@a@«functioning»/«operating», carrying out a —.@@
 2767@1@@3n@K «function» (system/apparatus) B to (do) V.@@K-BV
 2767@2@@a@«functioning», pert. to the act of -ing ….@@
@@ -5191,7 +5191,7 @@
 2777@4@lopu nu %@n@«deprivation» (mass property of -ing.).@@
 2777@5@nu %@4v@«deprive» (… of … for …).@@
 2777@6@po %@n@an instance of «deprivation» (by … of … for …), being -d.@@
-2777@7@po nu %@n@an instance of «deprivation» (… of … for …)   -ing someone.@@
+2777@7@po nu %@n@an instance of «deprivation» (… of … for …), -ing someone.@@
 2778@1@@4v@K «buy»/«purchase» B from S for/at price C.@@K-BSC
 2778@2@@n@a «purchaser»/«buyer», one who -s.@@
 2778@3@nu %@n@a «purchase», the object bought.@@
@@ -5277,7 +5277,7 @@
 2820@1@@1@B is a «galaxy».@@B-
 2821@1@@1@B is some «gallium», element 31 (Ga).@@B-
 2822@1@@1n@B measures C in «gallon» (s), a unit of liquid volume more or less than 4 liters, depending on location. Specify ≤merko≥ or ≤gleco≥.@@B-C
-2822@2@@n@n «gallons», something measuring n …. E.g., ≤Vedma dio mi fe galno je gasoline≥  Sell to me five gallons of gasoline.@@
+2822@2@@n@n «gallons», something measuring n …. E.g. ≤Vedma dio mi fe galno je gasoline≥ — Sell to me five gallons of gasoline.@@
 2822@3@gleco %@2n@ … measure(s) … in Imperial «gallon» (s) (80 Imperial Fl. oz.), default 1.@@
 2822@4@merko %@2n@ … measure(s) … in US «gallon» (s) (64 US Fl. oz.), default 1.@@
 2823@1@@2n@B is a «department»/«faculty»/«division»/«branch»/«section» of organization F.@@B-F
@@ -5361,7 +5361,7 @@
 2856@4@fu %@a@«organizational», of resulting systems.@@
 2856@5@fu %@n@an «organization», the resulting system.@@
 2856@6@lopo fu %@n@«organization», mass term, states.@@
-2856@7@no nu %@a@«unorganized», of … elements,  neg. of organized, q.v.@@
+2856@7@no nu %@a@«unorganized», of … elements, neg. of organized, q.v.@@
 2856@8@nu %@a@«organized», of the elements organized.@@
 2856@9@po %@n@an «organization»/«organizing», an act of -ing.@@
 2856@10@po fu %@n@an «organization», a state of being -ed.@@
@@ -5471,7 +5471,7 @@
 2914@1@@op@strong potentiality marker: operator between predicates.@@
 2914@2@@va@«can» ….@@
 2915@1@@op@«for a»/«type of», as in 'large for a girls school', the grouping oper.@@
-2915@2@-ge@af@ connective suffix: as in  age.@@
+2915@2@-ge@af@ connective suffix: as in ≤age≥.@@
 2916@1@@av@«again»/I «repeat», a discourse operator (UI).@@
 2918@1@@l@«g», Latin lower case letter, one of a pool of symbols.@@
 2919@1@@3a@K is «acquisitive» of B in conditions N.@@K-BN
@@ -5579,7 +5579,7 @@
 2967@1@@pm@(right «mark» of a GE group).@@
 2968@1@@pm@(,) right mark of displaced object(s).@@
 2969@1@@va@am/is/are «-ing», continuous in a time free sense.@@
-2970@1@@ms@initial (left) «bracket», in mathematical contexts;  used with ≤giu≥.@@
+2970@1@@ms@initial (left) «bracket», in mathematical contexts; used with ≤giu≥.@@
 2971@1@@af@a combining form of ≤gigdo≥, «billionfold» (US).@@
 2972@1@@2n@F is 2E30 fold «quantity» of B (ISV gibi).@@F-B
 2973@1@@2n@F is a «billionfold» (US)/«thousand million» fold/«milliard» of B, (10E9) international prefix.@@F-B
@@ -5611,7 +5611,7 @@
 2983@2@@a@«radical», pert. to roots.@@
 2983@3@fu %@n@a/the «substrate», locale of the roots.@@
 2984@1@@1n@B is a «guitar».@@B-
-2985@1@@ms@final (right) «bracket», in mathematical contexts;  used with ≤gie≥.@@
+2985@1@@ms@final (right) «bracket», in mathematical contexts; used with ≤gie≥.@@
 2986@1@@3a@G is more «radical»/«fundamental»/«basic» to N than J is.@@G-NJ
 2986@2@@n@«root», fig., fundamental to ….@@
 2987@1@@2a@N is «well rooted»/«established»/«grounded» in F.@@N-F
@@ -5656,7 +5656,7 @@
 3006@1@@op@«of»/«who»/«which»/«that is» …, the predicate inversion operator.@@
 3007@1@@pp@Greaters, case tag («greater»).@@
 3008@1@@af@a combining form of ≤godzi≥, «go».@@
-3009@1@@4n@B is an «invitation»/document for/to guest D from host K to attend event V. E.g., ≤Ti godbeopre mi la Forpoi, lepo leFai detra fa mercea.≥  This is an invitation to me from the (local) Count to attend the wedding of his daughter.@@B-DKV
+3009@1@@4n@B is an «invitation»/document for/to guest D from host K to attend event V. E.g. ≤Ti godbeopre mi la Forpoi, lepo leFai detra fa mercea.≥ — This is an invitation to me from the (local) Count to attend the wedding of his daughter.@@B-DKV
 3009@2@fu %@v@«invites»/issues an invitation.@@
 3009@3@nu %@n@is «invited»/an invited «guest».@@
 3010@1@@3v@K «start towards» D from S.@@K-DS
@@ -5965,7 +5965,7 @@
 3166@5@lopu %@n@(the) «good»/«acceptability», mass term of props.@@
 3166@6@pu %@n@a «goodness»/«acceptability»/«quality», goodness, a spec. prop.@@
 3167@1@@2a@K is «decent»/«respectable» in doing/being V.@@K-V
-3168@1@@3a@G, an event/circumsatnce,  is «luckier»/more «fortunate»/«lucky» than J for V.@@G-JV
+3168@1@@3a@G, an event/circumsatnce, is «luckier»/more «fortunate»/«lucky» than J for V.@@G-JV
 3168@2@@a@«lucky»/«fortunate», as of events.@@
 3168@3@@n@the/some «luck»/«fortune», a spec. instance of good luck.@@
 3168@4@lo %@n@«luck»/«fortune», mass term.@@
@@ -5973,7 +5973,7 @@
 3169@2@@a@«lucky»/«fortunate», of persons.@@
 3170@1@@2v@K «improve»/become «better» in quality/performance P.@@K-P
 3170@2@pu %@n@an «improvability», capable of -ing.@@
-3171@1@@3v@N «improve» D by V, unintentional;  'Salt improves the flavour of meat'.@@N-DV
+3171@1@@3v@N «improve» D by V, unintentional; 'Salt improves the flavour of meat'.@@N-DV
 3172@1@@2a@G is «better»/more «effective»/«efficient» than J, as act/means.@@G-J
 3172@2@@a@«good»/«effective»/«efficient», more effective than ….@@
 3172@3@@av@«well», more effectively.@@
@@ -6004,7 +6004,7 @@
 3179@1@@1n@N is an instance of «morals»/(moral) «principle»/«rule of conduct».@@N-
 3179@2@lo %@n@«morality»/«ethics», mass term of moral principles.@@
 3180@1@@1a@N is «upright»/(self) «righteous».@@N-
-3181@1@@2a@V  is «in»/«on time for» purpose P, as of acts/events.@@V-P
+3181@1@@2a@V is «in»/«on time for» purpose P, as of acts/events.@@V-P
 3181@2@@a@«timely», of acts done on time.@@
 3181@3@lo %@n@the «good», mass term, morality.@@
 3181@4@lopu %@n@«timliness», mass term of props.@@
@@ -6148,7 +6148,7 @@
 3240@1@@3v@K «taste»/sense flavor P in substance B.@@K-PB
 3240@2@@n@a «taster», one who tastes … in ….@@
 3241@1@@pm@(right boundary mark for termsets only).@@
-3242@1@@q@«is-how-connected-to»?, connective interrogative. E.g., ≤Tu danza lo skafi ha lo tcati?≥  You want coffee how-connected to tea?  Do you want coffee or tea?).@@
+3242@1@@q@«is-how-connected-to»?, connective interrogative. E.g. ≤Tu danza lo skafi ha lo tcati?≥ — You want coffee how-connected to tea? Do you want coffee or tea?).@@
 3243@1@@af@a combining form of ≤hasfa≥, «house».@@
 3244@1@@af@a combining form of ≤hardu≥, «hard».@@
 3245@1@@1n@B is the industrial «diamond» form of carbon crystal.@@B-
@@ -6181,7 +6181,7 @@
 3266@2@@a@«hearty», warm hearted.@@
 3266@3@lopu %@n@«heartiness», mass term of properties.@@
 3266@4@pu %@n@a «heartiness», a spec. property.@@
-3267@1@@2v@N «elate»/«cheer» (up)/make «happy» D, nonintentional;  'That makes me happy'.@@N-D
+3267@1@@2v@N «elate»/«cheer» (up)/make «happy» D, nonintentional; 'That makes me happy'.@@N-D
 3267@2@@a@«cheerful»/«jolly», jolly, of that which cheers.@@
 3267@3@po %@n@some «cheer», an act of being -ful.@@
 3267@4@po nu %@n@an «elation», a state of being made happy.@@
@@ -6196,12 +6196,12 @@
 3271@2@@v@be «gay», act happy.@@
 3271@3@lopu %@n@«gaiety»/«heartiness», mass prop.@@
 3271@4@po %@n@some «gaiety», state of merriment.@@
-3272@1@@2v@K «enjoy»/«welcome» V, get enjoyment from (doing) … ;  'I welcome the end of the war'.@@K-V
+3272@1@@2v@K «enjoy»/«welcome» V, get enjoyment from (doing) … ; 'I welcome the end of the war'.@@K-V
 3272@2@lopo %@n@«enjoyment», mass term of states.@@
-3272@3@nu %@a@«enjoyable»/«welcome», conv. of enjoy;  'The end of the war is welcome'.@@
+3272@3@nu %@a@«enjoyable»/«welcome», conv. of enjoy; 'The end of the war is welcome'.@@
 3272@4@po %@n@some «enjoyment», a spec. state of -ing.@@
 3273@1@@1v@B suffers from «acne», a sebaceous gland disorder.@@B-
-3273@2@po %@n@an instance of «acne»,  the skin disorder.@@
+3273@2@po %@n@an instance of «acne», the skin disorder.@@
 3274@1@@af@a combining form of ≤harmo≥, «harmonious».@@
 3275@1@@3n@F is a matching «collection»/«ensemble»/«suit»/«suite»/«set» of use type P composed of items B.@@F-PB
 3276@1@@3a@in «tune»/«harmony» with ….@@V-VB
@@ -6241,7 +6241,7 @@
 3297@1@@2n@B is a «hand shape» of F.@@B-F
 3298@1@@3n@F is a «sign language» used by K in situation N.@@F-KN
 3299@1@@3v@K «gesture»/«sign»/«signal» to D to do V.@@K-DV
-3300@1@@1v@K (pl.) «shake hands» (with each other) v. ≤hansiu≥  K shakes hands with D.@@K-
+3300@1@@1v@K (pl.) «shake hands» (with each other) v. ≤hansiu≥ — K shakes hands with D.@@K-
 3301@1@@2v@K «shake hands» with D.@@K-D
 3301@2@po %@n@a «handshake», an act of -ing.@@
 3302@1@@2v@K «clap» (hands) for purpose P.@@K-P
@@ -6309,7 +6309,7 @@
 3329@1@@2v@K «depress» D/is depressing to … /makes … feel low/depressed.@@K-D
 3329@2@@a@«depressing» (to …), causing -ion.@@
 3330@1@@2n@B is a «party» in honour of P.@@B-P
-3331@1@@3v@K «welcome» D to/in F. e.g. ≤Mi vizhai tu≥  I welcome you (as a guest).@@K-DF
+3331@1@@3v@K «welcome» D to/in F. E.g. ≤Mi vizhai tu≥ — I welcome you (as a guest).@@K-DF
 3331@2@nu %@ph@«Welcome»!/Be happily seen!@@
 3332@1@@3v@K «welcome» D with words V.@@K-DV
 3333@1@@4v@K «welcome» D to/in N by V.@@K-DNV
@@ -6392,7 +6392,7 @@
 3369@1@@2v@K «sweat» from N, produce sweat.@@K-N
 3370@1@@2a@B is «sweaty» from N.@@B-N
 3371@1@@1n@B is an «antiperspirant».@@B-
-3372@1@@q@«is a what»?/«is what kind of» …?/«how», the predicate interrogative, used to request a predicate phrase or word. e.g. ≤Da he?≥  X is a what? ≤Da he mrenu?≥  X is what kind of man?@@
+3372@1@@q@«is a what»?/«is what kind of» …?/«how», the predicate interrogative, used to request a predicate phrase or word. E.g. ≤Da he?≥ — X is a what? ≤Da he mrenu?≥ — X is what kind of man?@@
 3372@2@Tu %?@ph@You're what?/«How are you»?@@
 3373@1@@pp@«through»/with the «help of»/«by», a relative oper. before design'ns (PA).@@
 3373@2@% ba@av@«helpfully», helping someone, a mod. phrase.@@
@@ -6563,7 +6563,7 @@
 3475@1@@3v@K treat D for N with «hydrotherapy».@@K-DN
 3475@2@@n@a «hydrotherapist».@@
 3475@3@po %@n@an instance of «hydrotherapy».@@
-3476@1@@ms@initial close «parenthesis», in mathematical contexts;  used with ≤hiu≥.@@
+3476@1@@ms@initial close «parenthesis», in mathematical contexts; used with ≤hiu≥.@@
 3477@1@@1n@B is some «mercury», element 80 (Hg).@@B-
 3478@1@@af@a combining form of ≤hijra≥, «here».@@
 3479@1@@3v@K «invite» B to go with him/her to D.@@K-BD
@@ -6642,8 +6642,8 @@
 3521@1@@1n@B is a «butterfly», non specific term.@@B-
 3522@1@@1a@«fluttery».@@K-
 3522@2@@1v@K «flutter».@@
-3523@1@@ms@final close «parenthesis», in mathematical contexts;  used with ≤hie≥.@@
-3524@1@@q@«How many», quantifier interrogative. E.g., ≤Tu danza hu pligo?≥  You want how many apples?@@
+3523@1@@ms@final close «parenthesis», in mathematical contexts; used with ≤hie≥.@@
+3524@1@@q@«How many», quantifier interrogative. E.g. ≤Tu danza hu pligo?≥ — You want how many apples?@@
 3525@1@@af@a combining form of ≤horma≥, «horse».@@
 3526@1@@ms@«Hey»/«O», vocative mark.@@
 3527@1@@2v@K «thirst»/be «thirsty» for B, lack drink.@@K-B
@@ -6717,9 +6717,9 @@
 3574@1@@af@a combining form of ≤holdu≥, «hole».@@
 3575@1@@1n@B is/are a «sock»/«stocking»/«hose», or pair of —.@@B-
 3576@1@@2n@B is a «garter»/«suspender» (U.K.).@@B-K
-3577@1@@q@«who»/«whom»/«what», the argument interrogative. E.g., ≤Hu fa godzi?≥  Who will go?;  ≤Da merji hu?≥  X is married to whom?;  ≤Hu fa durzo hu?≥  Who will do what?@@
+3577@1@@q@«who»/«whom»/«what», the argument interrogative. E.g. ≤Hu fa godzi?≥ — Who will go?; ≤Da merji hu?≥ — X is married to whom?; ≤Hu fa durzo hu?≥ — Who will do what?@@
 3577@2@% namci tu?@ph@What names you? «What is your name»?@@
-3578@1@@op@an addressor, indicating the speaker/writer ≤'Mi godzi hue da gu, le vemsia'≥  'I am going', he said, 'to the store' (HUE).@@
+3578@1@@op@an addressor, indicating the speaker/writer ≤'Mi godzi hue da gu, le vemsia'≥ — 'I am going', he said, 'to the store' (HUE).@@
 3579@1@@af@a combining form of ≤hutri≥, «destroy».@@
 3580@1@@3v@K «wash away» D with V.@@K-DV
 3581@1@@2v@K «devour»/«gobble» B.@@K-B
@@ -6791,8 +6791,8 @@
 3613@2@@c@«either» … or (but not both), exclusive sense, between sents.@@
 3614@1@@c@«whether» (or not), logical independence between sents./clauses.@@
 3615@1@@c@«whether not», logical independence between sents., mean ≤icu≥, q.v.@@
-3616@1@@q@«What did you say»?, a request for repetition when used alone. E.g., ≤Ie?≥  What did you say?@@
-3616@2@@q@«which»?/«who»?/«what»?, a request for further identification when preceding some argument. E.g., ≤Ie le mrenu?≥  Which man?/Which of the men?@@
+3616@1@@q@«What did you say»?, a request for repetition when used alone. E.g. ≤Ie?≥ — What did you say?@@
+3616@2@@q@«which»?/«who»?/«what»?, a request for further identification when preceding some argument. E.g. ≤Ie le mrenu?≥ — Which man?/Which of the men?@@
 3617@1@@na@«Jesus Christ».@@
 3618@1@@l@«i», Latin lower case letter, one of a pool of symbols.@@
 3619@1@@1n@B is an «igloo», a snow dwelling.@@B-
@@ -7049,7 +7049,7 @@
 3780@1@@a@«less» … than …, antonym of some predicates.@@
 3780@2@@af@«un»—<,antonym of some preds.: 3rd conv. op.>.@@
 3780@3@@op@conversion of 1st & 4th places of a pred. making «passive»s/antonyms/etc.@@
-3780@4@@va@«is  ed», passive of some predicates.@@
+3780@4@@va@«is -ed», passive of some predicates.@@
 3781@1@@af@a combining form of ≤jugra≥, «grab».@@
 3782@1@@3a@K «grip» D strongly in conditions N.@@K-DN
 3783@1@@1v@B is a «vise», a device for holding workpieces.@@B-
@@ -7135,7 +7135,7 @@
 3826@5@lopo %@n@«youth», mass term of states.@@
 3826@6@po %@n@«youth», a spec. state of being young.@@
 3826@7@pu %@n@the «youth»/«youthfulness», a spec. property of being young.@@
-3827@1@@mod@4th reflexive.  Equivalent to inserting a fourth argument identical to the first argument. c.f. ≤nuo≥.@@
+3827@1@@mod@4th reflexive. Equivalent to inserting a fourth argument identical to the first argument. c.f. ≤nuo≥.@@
 3828@1@@af@a combining form of ≤djupo≥, «support».@@
 3829@1@@3v@K «rally» behind D for P, get together for support.@@K-DP
 3830@1@@3v@K «think»/«opine»/tentatively «believe» that N is true of S.@@K-NS
@@ -7181,7 +7181,7 @@
 3855@2@@a@«defiant» to … about …, pertaining to one who -ies.@@
 3855@3@lopu %@n@«defiance», mass property.@@
 3855@4@po %@n@an instance of «defiance» to … about ….@@
-3856@1@@h@«gentle», as in gentleman, gentle reader, an attitudinal expressing a respectful distance and near social equality;  part of the series ≤'rie/kae/nue/fie/die'≥, q.v.;  always used after a designation/vocative. E.g., ≤'Hoi Plizo, Kae'≥  'O User, Gentleperson'  'Gentle User'. (DIE).@@
+3856@1@@h@«gentle», as in gentleman, gentle reader, an attitudinal expressing a respectful distance and near social equality; part of the series ≤'rie/kae/nue/fie/die'≥, q.v.; always used after a designation/vocative. E.g. ≤'Hoi Plizo, Kae'≥ — 'O User, Gentleperson', 'Gentle User'. (DIE).@@
 3857@1@@2v@K «remain aware» of N.@@K-N
 3858@1@@af@a combining form of ≤kasfa≥, «punish».@@
 3859@1@@4v@K «condemn»/«sentence»/«damn»/«convict» (person) D to (sentence) P for (crime) V.@@K-DPV
@@ -7385,7 +7385,7 @@
 3944@1@@2v@K play a «prank»/«practical joke» on D.@@K-D
 3944@2@@n@a «practical joker».@@
 3945@1@@4v@K «come»/«go» from S to D via V.@@K-SDV
-3945@2@@i@«come» here!, w/o;  1st arg., an imperative.@@
+3945@2@@i@«come» here!, w/o; 1st arg., an imperative.@@
 3945@3@fu %@n@a «destination», of coming/going from … to ….@@
 3945@4@nu %@n@a «start», of coming/going from … to …, q.v ….@@
 3945@5@po %@n@a «coming»/«going», an event/act of coming/going from somewhere.@@
@@ -7435,7 +7435,7 @@
 3969@4@no %@v@«cannot», not be able to do … under ….@@
 3969@5@pu %@n@an «ability»/«capability»/«talent»/«faculty», a spec. property.@@
 3969@6@pu no %@n@an «incapacity»/«inability», a spec. property.@@
-3970@1@@c@«if», in 'if … then … ', forethought implication;  the material conditional, as in ≤'Kanoi da brute ki da clivi.'≥  'If X  breathes, then X is alive.'.@@
+3970@1@@c@«if», in 'if … then … ', forethought implication; the material conditional, as in ≤'Kanoi da brute ki da clivi.'≥ — 'If X breathes, then X is alive.'.@@
 3971@1@@3v@K «contend»/«compete»/«rival» with K over/about/for B.@@K-KB
 3971@2@@n@a «contender»/«competitor», one who competes.@@
 3971@3@fu %@n@a «goal», object of a competition, q.v.@@
@@ -7579,7 +7579,7 @@
 4044@1@@af@a combining form of ≤katli≥, «quality».@@
 4045@1@@3v@K «watch»/«observe»/«gaze at» S doing/being V.@@K-SV
 4045@2@@a@«observant», of one who watches.@@
-4045@3@@i@«behold»!/«watch»!/«observe»!, w/o a;  1st arg., an imperative.@@
+4045@3@@i@«behold»!/«watch»!/«observe»!, w/o a; 1st arg., an imperative.@@
 4045@4@@n@an «observer»/«watcher», one who -s.@@
 4045@5@nu %@a@«observable», conv. of observe.@@
 4045@6@po %@n@an «observation»/«watch»/«gaze», an act of watching.@@
@@ -7615,7 +7615,7 @@
 4061@1@@4v@B is the «predicate»/«word» with meaning Fand number of places X in (Loglandical) language Y.@@
 4061@2@@n@a «predicate», a predicate word/expression.@@
 4061@3@nu %@n@a «meaning», of a predicate.@@
-4062@1@@aux@«can»/is «able to» …, used before predicates (PA). E.g., ≤Mi kau godzi da≥ I can go to X.@@
+4062@1@@aux@«can»/is «able to» …, used before predicates (PA). E.g. ≤Mi kau godzi da≥ I can go to X.@@
 4062@2@@pp@«in»/«during»/«under» …, used before event/state terms to specify the conditions of an ability/ capability.@@
 4063@1@@3v@K «growl»/«snarl» at D for/under conditions N.@@K-DN
 4063@2@po %@n@a «growl»/«snarl», as of a dog.@@
@@ -7781,7 +7781,7 @@
 4145@1@@2n@B is an «academy» of F.@@B-F
 4146@1@@3v@K «cry»/«shout» a warning to D of danger V.@@K-DV
 4146@2@@v@give an «alarm to»/«warn» … of ….@@
-4146@3@po %@n@an «alarm»/«warning»/«shout», a sp. act of -ing. e.g. "Watch out"@@
+4146@3@po %@n@an «alarm»/«warning»/«shout», a sp. act of -ing. E.g. "Watch out"@@
 4147@1@@c@«then»/«or»/«and»/«nor» etc., infix mark of forethought connections.@@
 4148@1@@pm@(«delete» previous word).@@
 4149@1@@af@a combining form of ≤kicmu≥, «doctor».@@
@@ -8183,7 +8183,7 @@
 4357@1@@pp@«because of» (cause), a relative oper. before design'ns (PA).@@
 4357@2@% hu@ph@«why»/«how» (did that happen)?, by what cause?.@@
 4357@3@% ta@ph@«so then», because of that, an expression.@@
-4358@1@@c@«because»/«since»/«for»/«as», of causes, with ≤ki≥ in '≤kouki … ki …≥;  because …, … '.@@
+4358@1@@c@«because»/«since»/«for»/«as», of causes, with ≤ki≥ in '≤kouki … ki …≥; because …, … '.@@
 4359@1@@af@a combining form of ≤korva≥, «curve».@@
 4360@1@@1v@V become «bowed»/«curved», intransitive.@@V-
 4361@1@@2v@N «bow»/«curve» … /make D curve, nonintentionally.@@N-D
@@ -8217,10 +8217,10 @@
 4372@2@@n@a «crier», one who cries out.@@
 4372@3@po %@n@a «crying»/«cry», an act of -ing out.@@
 4373@1@@2n@B is a «cranberry» from S.@@B-S
-4374@1@@4v@K «drive»/«herd» /make … go B to D from S via V, when … ing animals/people;  cf. ≤bapra/tcabapra/tcatro≥ for mechanical senses of 'drive'.@@K-BDSV
+4374@1@@4v@K «drive»/«herd» /make … go B to D from S via V, when … ing animals/people; cf. ≤bapra/tcabapra/tcatro≥ for mechanical senses of 'drive'.@@K-BDSV
 4374@2@@n@a «drover»/«herder»/«herdsman», a driver of animals.@@
 4374@3@fu %@n@a «destination», of a drive, q.v.@@
-4374@4@po %@n@a «drive», an act of -ing animals/people (e.g., enemy soldiers).@@
+4374@4@po %@n@a «drive», an act of -ing animals/people (e.g. enemy soldiers).@@
 4375@1@@2n@B is a «loudspeaker» of device F.@@B-F
 4376@1@@3v@K «call»/«cry» to D about V.@@K-DV
 4376@2@@n@«caller», one who calls to … about ….@@
@@ -8327,7 +8327,7 @@
 4427@1@@3v@K is a «tide» with amplitude C and flow rate C.@@K-CC
 4427@2@fu %@n@«tidal» rate, time and place specified adverbially.@@
 4427@3@Nahu lenu % ga minmi vi la Miamis na lena denli?@Ph@When is low «tide» at Miami today?.@@
-4427@4@nu %@n@«tidal» range, the difference between high and low tide;  time and place specified adverbially.@@
+4427@4@nu %@n@«tidal» range, the difference between high and low tide; time and place specified adverbially.@@
 4428@1@@3v@K «write» B in/on D in a «cursive» fashion.@@K-BD
 4429@1@@3v@K «block» (up)/«obstruct» the way of B to D.@@K-BD
 4429@2@@a@«blocking»/«obstructing», causing a -ing.@@
@@ -8489,7 +8489,7 @@
 4522@1@@1v@S brings about a «cultural revolution».@@S-
 4522@2@po %@n@a «cultural revolution».@@
 4523@1@@1n@F is a «tribe»/«clan», a human social group.@@F-
-4524@1@@2n@B is a  «member» of «clan»/«tribe» F.@@B-F
+4524@1@@2n@B is a «member» of «clan»/«tribe» F.@@B-F
 4525@1@@2n@N is the «genius» of (culture) F.@@N-F
 4525@2@lo %@1n@«genius», mass term.@@
 4526@1@@2n@N is the «culture» of people(s) F.@@N-F
@@ -8721,7 +8721,7 @@
 4655@6@pu %@n@the/an «age», a spec. property of being old.@@
 4656@1@@1n@B is an old «woman».@@B-
 4657@1@@1a@V is «quaint».@@V-
-4658@1@@2n@B is a  «tradition» to culture F.@@B-F
+4658@1@@2n@B is a «tradition» to culture F.@@B-F
 4658@2@pu %@a@«traditional».@@
 4659@1@@2v@K «age» D, make … old, intentional.@@K-D
 4659@2@@a@«aged», made old.@@
@@ -8830,15 +8830,15 @@
 4717@1@@1n@B is a «balloon» (hot air, helium, free or tethered).@@B-
 4718@1@@2n@B is some «latex» of S, the sap of some plants.@@B-S
 4719@1@@1n@B is «lawn» (a fine linen cloth).@@B-
-4720@1@@2v@K «lighten» D  make weigh less than ….@@K-D
+4720@1@@2v@K «lighten» D, make weigh less than ….@@K-D
 4721@1@@1n@B is a «lunch»/«luncheon»/«snack», a small meal taken at any time.@@B-
-4722@1@@2v@K «lunch» upon B  eat a small meal at any time.@@K-B
+4722@1@@2v@K «lunch» upon B, eat a small meal at any time.@@K-B
 4723@1@@1v@K «doze»/«nod off».@@K-
 4724@1@@art@The left hand identifier of an unordered «set» (a series of pause separated words or equivalent).@@
 4725@1@@1n@B is some «lawrencium», a transuranic artificial element (Lw).@@B-
 4726@1@@1n@B is a «laurel»/«bay» (tree).@@B-
 4727@1@@art@«the» (one or more things I mean which seem to be) …, the general descriptive operator. (see ≤lee≥ and ≤laa≥).@@
-4727@2@le%@af@the descriptive prefix, as in ≤levi≥  the here … «this» …, etc.@@
+4727@2@le%@af@the descriptive prefix, as in ≤levi≥ — the here … «this» …, etc.@@
 4728@1@@art@«the set of» all … (LE).@@
 4729@1@@2n@B is a «mark» placed on letter F.@@B-F
 4730@1@@2v@K «spell» (word) B.@@K-B
@@ -8944,7 +8944,7 @@
 4795@1@@3n@F is an «optical system» of lenses B for function P.@@F-BP
 4795@2@@a@«optical», pert. to optical systems.@@
 4796@1@@af@a combining form of ≤lelpi≥, «level».@@
-4797@1@@a@the «former»/«one»/«once»  time  the one which was …, a temporal desc. oper.@@
+4797@1@@a@the «former»/«one»/«once» time, the one which was …, a temporal desc. oper.@@
 4798@1@@2n@B is a «lepidopter» of type/genus F, an insect of the order Lepidoptera.@@B-F
 4799@1@lao %@2n@a «Lepidoptera», an insect of that order Lepidoptera.@@
 4800@1@@2n@B is a «plain»/level region of land mass F.@@B-F
@@ -8992,7 +8992,7 @@
 4825@3@lo %@n@«left», mass term for the direction.@@
 4826@1@@2v@N «turn» B left/«laevorotate»/«levorotate» (polarized light in the last instances).@@N-B
 4826@2@@a@«laevorotatory»/«levorotatory», pert. to a substance that rotates polarized light anticlockwise.@@
-4827@1@@pm@ «quote»/(“), the utterance which looks/sounds like …, the left «quotation» mark, used with  ≤lu≥.@@
+4827@1@@pm@ «quote»/(“), the utterance which looks/sounds like …, the left «quotation» mark, used with ≤lu≥.@@
 4828@1@@c@«like»/(just) «as»/in the «way that».@@
 4828@2@@pp@«like»/«similar to», before clauses/terms.@@
 4828@3@% ba@av@«anyway»/in some «manner».@@
@@ -9133,7 +9133,7 @@
 4901@1@@2n@K is a/the (legal) «guardian»/«custodian» of D.@@K-D
 4901@2@nu %@n@a «ward» of ….@@
 4901@3@po nu %@n@«custody», a legal state.@@
-4902@1@@3n@K has «copyright permission» to publish D from copyright holder S. cf. ≤lilkopkai≥.@@K-DS
+4902@1@@3n@K has «copyright permission» to publish D from copyright holder S. Cf. ≤lilkopkai≥.@@K-DS
 4903@1@@2n@K has/is granted/possessed of/ the «copyright» for B as granted/determined by law/legal authority S.@@K-BS
 4904@1@@3v@K «legislate»/«enact» law P for polity N.@@K-PN
 4904@2@@a@«legislative», pert. to law making.@@
@@ -9215,7 +9215,7 @@
 4941@1@@2v@K «queue up»/«wait in line» for V.@@K-V
 4941@2@po %@n@is an event of «queuing»/«lining up».@@
 4942@1@@2n@B is a «cafeteria» of place/community F.@@B-F
-4943@1@@1n@B is a «wildcat»/«bobcat»,  Lynx rufus, a feral feline.@@B-
+4943@1@@1n@B is a «wildcat»/«bobcat», Lynx rufus, a feral feline.@@B-
 4944@1@@a@the «number» …, used to designate numbers in non mathematical contexts.@@
 4944@2@% nefofo@ph@a «gross», 144 of anything.@@
 4944@3@% neto@ph@a «dozen», 12 of anything.@@
@@ -9292,7 +9292,7 @@
 4977@4@po %@n@a «lighting»/«illumination», an act of -ing.@@
 4977@5@po nu %@n@an «illumination», a state of being -ed.@@
 4978@1@@3v@K «lighten»/«brighten» D by/with V.@@K-DV
-4979@1@@2v@C measure(s) a distance in «light year» (s) from S ;  default, the Sun.@@C-S
+4979@1@@2v@C measure(s) a distance in «light year» (s) from S ; default, the Sun.@@C-S
 4980@1@@3v@K «hold»/«restrain»/«keep»/«check»/«stop»/«curb»/«detain» D from doing V.@@K-DV
 4980@2@@a@«restraining», of that which/one who -s.@@
 4980@3@@n@a «restraint»/«check»/«curb», that which -s.@@
@@ -9349,7 +9349,7 @@
 5006@1@@3v@B is genetically «related» to F in degree C.@@B-FC
 5006@2@@n@a/the «kin»/«relative» of, genetically related in some degree.@@
 5006@3@fu %@n@a degree of «kinship», a no. of relations.@@
-5006@4@lo %@n@«kin»/«relative» of …  the mass of … 's kin.@@
+5006@4@lo %@n@«kin»/«relative» of …, the mass of … 's kin.@@
 5006@5@lopu %@n@«kinship»/«relationship», the mass of such props.@@
 5006@6@pu %@n@a «kinship»/«relationship», a spec. prop. of any kin, q.v.@@
 5007@1@@1a@B is «middle-aged».@@B-
@@ -9412,7 +9412,7 @@
 5038@3@pu %@n@a «rigor», a specific property.@@
 5039@1@@4n@B, a token or label, is a «logical set» of denumerable objects/members/elements F with a defining property indicated by their membership in some superset S, and with cardinality C.@@B-FSC
 5039@2@fu %@n@a «superset» specifying the «defining» «property» of the members … of some set.@@
-5039@3@ju %@n@the «cardinal» «number» of the members/elements … of some set;  cf. ≤konte≥.@@
+5039@3@ju %@n@the «cardinal» «number» of the members/elements … of some set; cf. ≤konte≥.@@
 5039@4@nu %@n@the «membership» of/«members»/«elements» of set ….@@
 5040@1@@1n@N is the science of «logic».@@N-
 5040@2@@a@«logical», pert. to scientific logic.@@
@@ -9468,7 +9468,7 @@
 5071@1@@3v@K «pick» flowers B from S.@@K-BS
 5072@1@@1n@B is a «lei»/«wreath»/«ring» of flowers.@@B-
 5073@1@@pm@The left hand marker of an ordered «list».@@
-5074@1@@pm@ end «quote»/(”) (the right «quotation» mark, used with  ≤li≥.).@@
+5074@1@@pm@ end «quote»/(”) (the right «quotation» mark, used with ≤li≥).@@
 5075@1@@op@the right hand closure of an unordered «set».@@
 5076@1@@2a@G is more «feathery»/like a feather than J is.@@G-J
 5076@2@pu %@n@a «featheriness», a spec. property.@@
@@ -9599,7 +9599,7 @@
 5151@1@@2n@D is the «bride» of B.@@D-B
 5152@1@@2n@D is the «bridegroom»/«groom» of B.@@D-B
 5153@1@@3n@C is the «dowry» of D for S.@@C-DS
-5154@1@@3v@K give in «marriage» B to D, e.g., as a father.@@K-BD
+5154@1@@3v@K give in «marriage» B to D, e.g. as a father.@@K-BD
 5155@1@@2n@V is a/the «marriage»/«wedding» of K.@@V-K
 5156@1@@3n@B is a «stepfather» of D with mother S.@@B-DS
 5157@1@@2n@D is a/the «wife» of B.@@D-B
@@ -9661,8 +9661,8 @@
 5190@2@lopu %@n@«masculinity»/«manliness», mass term of properties.@@
 5190@3@pu %@n@a «masculinity»/«manliness», a spec. property.@@
 5191@1@@p@«I»/«me»/«myself», the singular 1st person variable, uninflected for position.@@
-5192@1@@pp@«would»/«should»/«could», the general subjective subjunctive operator;  used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g., ≤Mi hapci mia lepo mi bragai.≥ I am happy in the mental place where I am king (I would be happy if I were king).@@
-5192@2@% ba@ph@«would»/«should»/«could», as used in subjective subjunctive sentences in which the causal condition is missing. E.g., ≤Mi hapci mia ba.≥ I would be happy (in some mental place/under some unspecified condition x).@@
+5192@1@@pp@«would»/«should»/«could», the general subjective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci mia lepo mi bragai.≥ — I am happy in the mental place where I am king (I would be happy if I were king).@@
+5192@2@% ba@ph@«would»/«should»/«could», as used in subjective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci mia ba.≥ — I would be happy (in some mental place/under some unspecified condition x).@@
 5193@1@@3v@K «consent» to let D do V.@@K-DV
 5193@2@po %@n@an act of giving «consent».@@
 5194@1@@3v@K «insult»/«hurt»/«offend»/«injure self esteem of» D by V.@@K-DV
@@ -9714,14 +9714,14 @@
 5210@3@@c@«unless», not … means …, forethought.@@
 5211@1@@c@«not» … means not …, used with ≤ki≥ in ≤'nokonoi … ki … '≥, q.v.@@
 5212@1@@pp@«despite» (cause) …, used before designations of unexpected effects.@@
-5213@1@@c@«even though»/«although», of unproductive causes, with ≤ki≥ in ≤'nokouki … ki … ≥;  despite …, … '.@@
+5213@1@@c@«even though»/«although», of unproductive causes, with ≤ki≥ in ≤'nokouki … ki … ≥; despite …, … '.@@
 5214@1@@c@«whether», in 'not … whether … ', used with ≤ki≥ in ≤'noku … ki … '≥.@@
 5215@1@@c@«not» … whether not …, used with ≤ki≥ in ≤'nokunoi … ki … '≥, q.v.@@
 5216@1@@af@a combining form of ≤norma≥, «average».@@
 5217@1@@3v@K «average», find the mean of distribution F to be C.@@K-FC
 5218@1@@3n@B is the «normal form» of expression V under/within system N.@@B-VN
 5219@1@@pp@«despite» (motive) …, used before designations of unmotivated actions.@@
-5220@1@@c@«even though»/«although», of unproductive motives, with ≤ki≥ in ≤'nomoiki … ki … ≥;  despite …, … '.@@
+5220@1@@c@«even though»/«although», of unproductive motives, with ≤ki≥ in ≤'nomoiki … ki … ≥; despite …, … '.@@
 5221@1@@2v@K become «accustomed to»/«adapted to»/«habituated to» N.@@K-N
 5222@1@@c@«whether» not …, …, bet. modified/iers, reduces to ≤nucu≥, q.v.@@
 5223@1@@c@«whether» not …, not …, bet. mods., reduces to ≤nucunoi≥, q.v.@@
@@ -9736,7 +9736,7 @@
 5232@1@@i@it does «matter whether» …, an denial of ethical indifference.@@
 5233@1@@af@a combining form of «no».@@
 5234@1@@pp@«despite» (reason) …, used before designations of unjustified outcomes.@@
-5235@1@@c@«even though»/«although», of unproductive reasons, with ≤ki≥ in ≤'norauki … ki≥;  despite …, … '.@@
+5235@1@@c@«even though»/«although», of unproductive reasons, with ≤ki≥ in ≤'norauki … ki≥; despite …, … '.@@
 5236@1@@1a/1av@«awkward» (ly).@@G-J
 5236@2@@2a@G is more «awkward»/«clumsy» than J.@@
 5236@3@lopu %@1n@«clumsiness»/«awkwardness» (mass term).@@
@@ -9745,7 +9745,7 @@
 5237@2@lopu %@n@«impossibility», mass term.@@
 5237@3@po %@n@an «impossibility», a spec. impossible event.@@
 5237@4@pu %@n@an «impossibility», a spec. property.@@
-5238@1@@3v@N «make impossible» for K to do V.  cf. ≤blicko≥.@@N-KV
+5238@1@@3v@N «make impossible» for K to do V. Cf. ≤blicko≥.@@N-KV
 5239@1@@2v@K «wish» for the unobtainable P.@@K-P
 5239@2@@n@an «unachievable wish».@@
 5240@1@@1a@B is «constant»/«unchanging»/«consistent»/«changeless».@@B-
@@ -9803,7 +9803,7 @@
 5256@4@nu %@a@«worrisome», that which worries.@@
 5256@5@nu %@n@a «worry», a spec. source of anxiety.@@
 5256@6@po %@n@a «concern»/«worry»/«anxiety», a state of being anxious.@@
-5257@1@@2v@V «alarm»/«worry»/make «anxious» D, nonintentional act;  'that swelling alarms me'.@@V-D
+5257@1@@2v@V «alarm»/«worry»/make «anxious» D, nonintentional act; 'that swelling alarms me'.@@V-D
 5257@2@@a@«alarming»/«worrying», of -ing acts.@@
 5257@3@nu %@a@«alarmed»/«worried», of one made alarmed.@@
 5257@4@po nu %@n@a sp. «alarm»/«worry», a spec. state of being -ed.@@
@@ -10153,7 +10153,7 @@
 5436@1@@2a@D is «distressed»/«disturbed»/«upset» by/at/about V.@@D-V
 5436@2@@v@«feel» disturbed/upset/distress at ….@@
 5436@3@lopo %@n@«distress», mass state term.@@
-5437@1@@3v@K «recite» B for D, 'reads' from his mind;  by memory.@@K-BD
+5437@1@@3v@K «recite» B for D, 'reads' from his mind; by memory.@@K-BD
 5438@1@@1n@B is a «mantra», a meditation tool.@@B-
 5439@1@@4n@F is an «imaginary»/«conceivable»/«thinkable»/«mental» (but not necessarily possible) world/place in which event/state S occurs/obtains and "causes" (would cause if its world existed) event/state V, this world and its causal laws having been at least in part invented by thinker K.@@F-SVK
 5439@2@@a@«subjunctive», in the subjective or "mental place" sense.@@
@@ -10257,7 +10257,7 @@
 5492@12@po fu %@n@a «motivation», a state of being -ed.@@
 5493@1@@pp@«in order to»/«because of» (motive), a relative oper. before design'ns (PA).@@
 5493@2@% hu@ph@«why»/«what for»/«in order to what»?, for what motive/intention/purpose?.@@
-5494@1@@c@«because»/«since»/«for»/«as», of motives, with ≤ki≥ in ≤'moiki … ki … ≥;  because …, … '.@@
+5494@1@@c@«because»/«since»/«for»/«as», of motives, with ≤ki≥ in ≤'moiki … ki … ≥; because …, … '.@@
 5495@1@@af@a combining form of ≤molro≥, «soft».@@
 5496@1@@1v@B «soften» (actor unspecified) e.g. the chocolate softened.@@B-
 5497@1@@2n@B is a «mill», for grinding grain of place/community F.@@B-F
@@ -10352,7 +10352,7 @@
 5546@1@@1n@B is a male «mosquito».@@B-
 5547@1@@1n@B is any «mosquito», non specific term.@@B-
 5548@1@@1n@B is an «engine»/«motor», any torque producing machine.@@B-
-5549@1@@pp@«more than» … is/«is more of a» … than … is, an oper. used before args to give the accompanying non comparative ≤preda≥ a comparative sense (PA). E.g., ≤Da farfu mou de≥  X is a father more than Y is  X is more of a father than Y is. Cf. ≤ciu≥.@@
+5549@1@@pp@«more than» … is/«is more of a» … than … is, an oper. used before args to give the accompanying non comparative ≤preda≥ a comparative sense (PA). E.g. ≤Da farfu mou de≥ — X is a father more than Y is X is more of a father than Y is. Cf. ≤ciu≥.@@
 5550@1@@2av@B is «barely»/«hardly»/«just» quantity C.@@B-C
 5550@2@@n@(positive) «approximation», just over ….@@
 5550@3@@ph@«slightly more than» … /a «little over».@@
@@ -10407,7 +10407,7 @@
 5577@2@lopu %@n@«greed», mass property.@@
 5578@1@@2v@K «overwhelm»/«overpower» D.@@K-D
 5579@1@@3v@B is «too»/so «excessive» (in some property) that (result) P in circumstances N.@@B-PN
-5580@1@@v@K is «greedy»/«gourmand». cf. ≤mrotsudaa≥.@@
+5580@1@@v@K is «greedy»/«gourmand». Cf. ≤mrotsudaa≥.@@
 5581@1@@1n@B is a «hammer», an instrument for -ing.@@B-
 5582@1@@p@«we»/«us»/«ourselves», in the "you and I/me jointly" sense, the 1st & 2nd person set variable. Equivalent to ≤'mi ze tu'≥. Cf. ≤mo≥ for the "you and I/me independently" sense of we/us, ≤miu/mio≥ for the "I and others" sense of we/us, and ≤muu/muo≥ for the "you and I and others" sense of we/us.@@
 5583@1@@af@a combining form of ≤mubre≥, «wood».@@
@@ -10509,7 +10509,7 @@
 5638@1@@2v@S «empty» into sea D.@@S-D
 5639@1@@2a@B is/are above «sea level» by C.@@B-C
 5639@2@nu %@n@the «elevation»/«altitude» above sea level of ….@@
-5640@1@@2n@B is a «harbor» of coastline F, i.e., for sea going vessels.@@B-F
+5640@1@@2n@B is a «harbor» of coastline F, i.e. for sea going vessels.@@B-F
 5641@1@@1n@B is a female «monkey», a small primate.@@B-
 5642@1@@1a@B is «monkey like»/«monkeyish»/«simian».@@B-
 5643@1@@1n@B is an infant «monkey», a small primate.@@B-
@@ -10856,7 +10856,7 @@
 5813@3@@pp@«during», in some long interval, with terms.@@
 5813@4@@pp@«in» …, a long interval, before terms.@@
 5814@1@@a@«one» (1), in math. expressions.@@
-5814@2@@a@«a»/«an»/«any»/«some-one»/«one» (1)/«exactly one» of …, a description quantifier. E.g., ≤Ne le mrenu pa kicmu≥  Exactly one of the men was a doctor;  ≤Ne mrenu pa hijra≥  Some one man was here <> ≤Ne ba ji mrenu pa hijra≥  Exactly one someone x who is a man was here.@@
+5814@2@@a@«a»/«an»/«any»/«some-one»/«one» (1)/«exactly one» of …, a description quantifier. E.g. ≤Ne le mrenu pa kicmu≥ — Exactly one of the men was a doctor; ≤Ne mrenu pa hijra≥ — Some one man was here <> ≤Ne ba ji mrenu pa hijra≥ — Exactly one someone x who is a man was here.@@
 5814@3@@af@the «digit one» (1), as in ≤netote≥ (123).@@
 5814@4@lio %@ph@«one» (1), the number one, in non math. expressions.@@
 5815@1@@ms@("-") «negative sign»/«minus sign», sign of a negative number.@@
@@ -11006,7 +11006,7 @@
 5886@3@@av@«exclusively», in an excluding way.@@
 5886@4@nu %@a@«excluded»/«shut out»/«barred», excluded/shut out, conv. form.@@
 5887@1@@2n@B is the «palm» of F, the inside of the hand.@@B-F
-5888@1@@a@«ten» (of) …, a description quantifier. E.g., ≤Teni le fumna pa merji≥  (Some) Ten of the women were married;  ≤Teni fumna pa hijra≥  (Some) Ten women were here independently. Cf., ≤tenicu≥.@@
+5888@1@@a@«ten» (of) …, a description quantifier. E.g. ≤Teni le fumna pa merji≥ — (Some) Ten of the women were married; ≤Teni fumna pa hijra≥ — (Some) Ten women were here independently. Cf., ≤tenicu≥.@@
 5888@2@@n@«ten», the number 10, in math. exp.@@
 5888@3@lio %@n@«ten», the number 10, non math.@@
 5889@1@@a@«ten» thousand (of) …, a quantifying operator.@@
@@ -11121,12 +11121,12 @@
 5930@3@nu %@n@a «monarchy»/«dictatorship»/«autocracy», that which is ruled.@@
 5930@4@po %@n@a «monarchy»/«dictatorship»/«autocracy», a state of ruling.@@
 5931@1@@2n@B is a «monomer» of F, the repeating unit of a polymer.@@B-F
-5932@1@@2n@B is a «squad»/«squadron»/«flight», the smallest military unit of some larger «military force» F, without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murnergru≥  naval squadron. Cf. ≤surgru≥.@@B-F
+5932@1@@2n@B is a «squad»/«squadron»/«flight», the smallest military unit of some larger «military force» F, without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murnergru≥ — naval squadron. Cf. ≤surgru≥.@@B-F
 5933@1@@2n@a/the «first» term/member of series …, ordinal predicate.@@
 5933@2@@a@«first», of 1st members.@@
 5933@3@% genza@ph@first «occasion»/«time».@@
 5933@4@da pa % genza godzi@Ph@X went for the «first» time.@@
-5934@1@@2v@K  «meet for the first time» D  [RH recommends ≤<neri jmite>≥].@@K-D
+5934@1@@2v@K «meet for the first time» D, [RH recommends ≤<neri jmite>≥].@@K-D
 5935@1@@2n@G has more «energy»/capacity for doing work than J (physics) by amount C.@@G-JC
 5935@2@@a@«energetic»/«vehement», having energy/capacity for work.@@
 5935@3@lopu %@n@«energy», mass term.@@
@@ -11139,7 +11139,7 @@
 5939@1@@2n@B is an «elementary»/«grammar» school, first school of community F.@@B-F
 5940@1@@2n@B is «first» class accommodation on conveyance F.@@B-F
 5940@2@@a@«first» class.@@
-5941@1@@2n@B is a «second lieutenant»/«ensign»/«flying officer» commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murnerkoi≥  ensign. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+5941@1@@2n@B is a «second lieutenant»/«ensign»/«flying officer» commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murnerkoi≥ — ensign. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 5942@1@@2n@B is a 1st degree/close+«relative» of B, a son/brother/father/etc.@@B-B
 5942@2@@ph@immediate «family» of ….@@
 5943@1@@2n@B is a «parent»/«child»/immediate «relative» of B, a 1 step lineal relation.@@B-B
@@ -11150,16 +11150,16 @@
 5945@1@@2n@B is a «January» of year F.@@B-F
 5945@2@la %@na@«January» (the 1st month of the year).@@
 5946@1@@2v@B is «married»/«monogamous» only to/with B.@@B-B
-5947@1@@2v@B is «only»/for one «motive» N. e.g. ≤Da nermoi nerbi lepo preda≥, It is only necessary for ….@@B-N
-5948@1@@2n@B is a «general of the army»/«admiral of the fleet»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murnernerkoi≥  admiral of the fleet. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+5947@1@@2v@B is «only»/for one «motive» N. E.g. ≤Da nermoi nerbi lepo preda≥ — It is only necessary for ….@@B-N
+5948@1@@2n@B is a «general of the army»/«admiral of the fleet»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murnernerkoi≥ — admiral of the fleet. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 5949@1@@2n@B is a «November» of year F.@@B-F
 5949@2@la %@na@«November» (the 11th month of the year).@@
-5950@1@@2n@B is a «general»/«admiral»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murnernirkoi≥  admiral. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+5950@1@@2n@B is a «general»/«admiral»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murnernirkoi≥ — admiral. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 5951@1@@2n@B is an «October» of year F.@@B-F
 5951@2@la %@na@«October» (the 10th month of the year).@@
 5952@1@@3n@P is the «only»/is «exactly one» «effect»/«result» of cause S under conditions N.@@P-SN
 5952@2@@a@«ensuing», of effects, conv. of cause, q.v.@@
-5952@3@@av@«only», of singular effects/results. E.g., ≤Ti pa nernurcko crina≥.  It only rained.@@
+5952@3@@av@«only», of singular effects/results. E.g. ≤Ti pa nernurcko crina≥ — It only rained.@@
 5953@1@@2a@B is «unambiguous» in context F.@@B-F
 5954@1@@2n@B is (a/the) «yesterday»/«day before»/«eve of» day F.@@B-F
 5955@1@@2n@B is a/the «night» before day F.@@B-F
@@ -11185,7 +11185,7 @@
 5965@1@@1n@B is a «dodecahedron».@@B-
 5966@1@@2n@B is a «December» of year F.@@B-F
 5966@2@la %@na@«December» (the 12th month of the year).@@
-5967@1@@2n@B is a «private first class» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murnertro≥  seaman spprentice.@@B-F
+5967@1@@2n@B is a «private first class» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murnertro≥ — seaman spprentice.@@B-F
 5968@1@@1v@K «hop», on one leg.@@K-
 5969@1@@2n@B is a «nerve» fiber of organism F.@@B-F
 5969@2@@a@«neural», pert. to nerves.@@
@@ -11279,7 +11279,7 @@
 6006@4@@pp@«throughout»/«during», throughout a long interval, terms.@@
 6007@1@@1av@«nowhere»/«nohow»/«nothing»/«noone».@@
 6008@1@@af@a combining form of ≤snice≥, «snow».@@
-6009@1@@2n@V is a «blizzard» in N. e.g. ≤Mu pa nu nicbritetri≥  We had a blizzard.@@V-N
+6009@1@@2n@V is a «blizzard» in N. E.g. ≤Mu pa nu nicbritetri≥ — We had a blizzard.@@V-N
 6009@2@@a@«stormy» (of the type specified).@@
 6010@1@@2a@G is more «snowy», full of snow than J is.@@G-J
 6010@2@pu %@n@a «snowiness», a spec. property.@@
@@ -11372,7 +11372,7 @@
 6061@1@@ms@«minus»/«less» ( ) negative sign, sign of subtraction.@@
 6062@1@@1n@B is some «niobium», element 41 (Nb).@@B-
 6063@1@la %@na@«Japan», the name of the country.@@
-6064@1@la %@na@«Japanese», the  language.@@
+6064@1@la %@na@«Japanese», the language.@@
 6065@1@@af@a combining form of ≤ni≥, «zero».@@
 6066@1@@1n@a/the «naught»/«blank»/«nullad»/«nothing»/the «empty set»/«null set», the set with zero members, a cardinal predicate.@@
 6066@2@@a@«nil»/«none»/«null»/«empty»/«void»/«blank», of the empty set.@@
@@ -11387,7 +11387,7 @@
 6073@1@@1n@B is a «girl»/female human «child».@@B-
 6074@1@@2n@B measure(s) C in «year» (s), default 1, international unit of time.@@B-C
 6074@2@@a@«annual», pert. to years.@@
-6074@3@@n@is a «year», something that measures a year. E.g., ≤Fa fo nirne da pa cirpregei≥  After four years X graduated.@@
+6074@3@@n@is a «year», something that measures a year. E.g. ≤Fa fo nirne da pa cirpregei≥ — After four years X graduated.@@
 6075@1@@2a@K is «only»/«just» a B.@@K-B
 6076@1@@2a@B is «free»/«gratis»/«gratuitous» to D, of zero cost.@@B-D
 6076@2@@av@«gratuitously», in a gratuitous way.@@
@@ -11397,7 +11397,7 @@
 6078@2@po %@n@a specific act of «meditation» <thought excluding sense input.>.@@
 6079@1@@1@B is «vacant», as a vacant lot.@@B-
 6080@1@@1n@B is a «void»/«vacuum».@@B-
-6081@1@@2n@B is a «private» «attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murnirtro≥  seaman recruit.@@B-F
+6081@1@@2n@B is a «private» «attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murnirtro≥ — seaman recruit.@@B-F
 6082@1@@3v@K «empty» B in/on D.@@K-BD
 6083@1@@1v@B is/are «empty», contain(s) nothing.@@B-
 6083@2@@a@«vacant»/«empty», contains nothing.@@
@@ -11424,7 +11424,7 @@
 6090@1@@af@«in»—/«non»—/«un»—, forms «negative» of any predicate.@@
 6090@2@@av@«not»/«never», as in 'x is not … ', before predicates/operators & after indicators.@@
 6090@3@@op@«no», generalized negative, before terms/sents or alone.@@
-6090@4@@ph@it is «not» the case that …  before sentences.@@
+6090@4@@ph@it is «not» the case that …, before sentences.@@
 6090@5@% ba@p@«none», in the sense of 'no one', q.v.@@
 6090@6@% ba@ph@«no one»/«nobody»/«nothing», lit., it is false that someone x ….@@
 6090@7@% na ba@ph@«never», in no interval x.@@
@@ -11568,14 +11568,14 @@
 6161@1@@2a@B is/are «harmless» to D.@@B-D
 6162@1@@af@a combining form of ≤norsa/e/i/o≥, "«Norwegian»".@@
 6163@1@@pp@«despite» (premise) …, used before designations of unentailed claims.@@
-6164@1@@c@«even though»/«although», of unproductive premises, as in ≤'nosoaki … ki … ≥;  despite …, … '.@@
+6164@1@@c@«even though»/«although», of unproductive premises, as in ≤'nosoaki … ki … ≥; despite …, … '.@@
 6165@1@@1n@K is a «Norwegian speaker», a speaker of the … language.@@K-
 6166@1@@af@a combining form of ≤notbi≥, «other».@@
 6167@1@@2a@B is «other»/«another»/a «different»/not the «same» object/person as B.@@B-B
 6167@2@@n@«another»/«other», not the same thing as.@@
 6167@3@@v@be «different from», another thing.@@
 6167@4@lo %@n@(the) «others», the mass of such others.@@
-6168@1@@3v@K «sympathize»/feel «sympathy for» D about V, i.e., feels … 's trouble.@@K-DV
+6168@1@@3v@K «sympathize»/feel «sympathy for» D about V, i.e. feels … 's trouble.@@K-DV
 6168@2@@a@«sympathetic», of one who -izes.@@
 6168@3@po %@n@a «sympathy», a spec. state of feeling -ic.@@
 6169@1@@3v@K «meddle» in N by doing V.@@K-NV
@@ -11589,7 +11589,7 @@
 6173@1@@2v@K «simulate B»/«pretend to be» …, without malice.@@K-B
 6173@2@@n@a «simulator»/«pretender», one who -s to be ….@@
 6173@3@po %@n@a «pretension»/«pretense»/«simulation», an act of pretending to be ….@@
-6174@1@@2v@K «pity»/feel «sorry for» D, i.e., feels … 's sorrow.@@K-D
+6174@1@@2v@K «pity»/feel «sorry for» D, i.e. feels … 's sorrow.@@K-D
 6174@2@lopu %@n@«pity», general property.@@
 6174@3@nu %@a@«pitiable», conv. of pity.@@
 6174@4@po %@n@a «pity», a state/condition/instance of -ing. 'That's a pity'.@@
@@ -11969,21 +11969,21 @@
 6360@1@@1a@B is «picturesque».@@B-
 6361@1@@a@«three» (3), in math. expressions.@@
 6361@2@@af@the «digit three» (3), as in ≤netote≥ (123).@@
-6361@3@@l@«three» (3) (of), a description quantifier. E.g., ≤Te le fumna pa merji≥  (Some) Three of the women were married;  ≤Te fumna pa hijra≥  (Some) Three women were here independently. Cf., ≤tecu≥.@@
+6361@3@@l@«three» (3) (of), a description quantifier. E.g. ≤Te le fumna pa merji≥ — (Some) Three of the women were married; ≤Te fumna pa hijra≥ — (Some) Three women were here independently. Cf., ≤tecu≥.@@
 6361@4@lio %@ph@«three» (3), the number three, non math.@@
 6362@1@@af@a combining form of ≤tetcu≥, «stretch».@@
 6363@1@@2n@F is a «Trinity»/«trilogy» of B.@@
 6364@1@@3v@K «extend»/«stretch» D on/over/between B, collective.@@K-DB
 6364@2@nu %@a@«stretchable»/«extendable», capable of being stretched.@@
 6364@3@po nu %@n@a «stretch»/«extension», state of having been -ed.@@
-6366@1@@a@«three»/«triple»/«triplet», a «triad» of … acting together, an indefinite set describer. E.g., ≤Tecu mrenu pa hijra≥  Some three men/A group of three men were here together. Cf., ≤Te mrenu pa hijra≥  Some three men were here independently.@@
+6366@1@@a@«three»/«triple»/«triplet», a «triad» of … acting together, an indefinite set describer. E.g. ≤Tecu mrenu pa hijra≥ — Some three men/A group of three men were here together. Cf., ≤Te mrenu pa hijra≥ — Some three men were here independently.@@
 6367@1@@1n@B is a «reclining chair»/«recliner».@@B-
 6368@1@@af@a combining form of ≤tedji≥, «attend», «pay attention».@@
 6369@1@@2a@D is «absent minded»/«distracted» by V.@@D-V
 6370@1@@2@B is a «spectator»/«auditor» in audience/spectacle F.@@B-F
 6371@1@@2v@K «attend»/pay «attention» to D.@@K-D
 6371@2@@a@«attentive», pert. to one who attends.@@
-6371@3@@i@«look here»!/«listen»/«attention»!, attend, w/o;  1st arg., an imp.@@
+6371@3@@i@«look here»!/«listen»/«attention»!, attend, w/o; 1st arg., an imp.@@
 6371@4@no %@a@«inattentive», neg. of attentive to ….@@
 6371@5@po %@n@an «attention», an act of being attentive.@@
 6371@6@po no %@n@an «inattention», a state of being -ive.@@
@@ -11997,7 +11997,7 @@
 6373@3@po nu %@n@a «fascination», a state of being -ed.@@
 6373@4@pu %@n@a «fascination», a property of a -ing thing.@@
 6374@1@@4v@K «quote»/«cite» B to D for purposes P.@@K-BDP
-6375@1@@2v@K «empathize with»/feel «empathy»/«compassion» for D, i.e., feels … 's pain.@@K-D
+6375@1@@2v@K «empathize with»/feel «empathy»/«compassion» for D, i.e. feels … 's pain.@@K-D
 6375@2@@a@«compassionate»/«empathetic», having compassion.@@
 6375@3@lopu %@n@«compassion», general property.@@
 6375@4@po %@n@an «empathy»/«compassion», a spec. act/condition.@@
@@ -12013,19 +12013,19 @@
 6384@1@@a@«less» … than …, antonym of some predicates.@@
 6384@2@@af@«un»—<,antonym of some preds.: 1st conv. op.>.@@
 6384@3@@op@conversion of 1st & 2nd places of a predicate/«passive» voice.@@
-6384@4@@va@«is  ed», passive of some predicates.@@
+6384@4@@va@«is -ed», passive of some predicates.@@
 6385@1@@va@am/is/are+(now) «habitually» -ing, continuous present tense (PA).@@
 6386@1@@c@«whether» …, … as one wd. between modifiers.@@
 6387@1@@c@«whether» … not …, between modified/ fying words.@@
-6388@1@@h@«Mr»/«Ms»/«Mrs», an attitudinal indicating both distance and neutrality;  part of the series ≤'rie/kae/nue/fie/die'≥, q.v.;  always follows a designation/vocative. E.g., ≤'Smiq, Nue'≥.  'Smith, Mr.' ('Mr. Smith');  ≤'Ne nu sange nue'≥ 'A suggestion toward which.@@
+6388@1@@h@«Mr»/«Ms»/«Mrs», an attitudinal indicating both distance and neutrality; part of the series ≤'rie/kae/nue/fie/die'≥, q.v.; always follows a designation/vocative. E.g. ≤'Smiq, Nue.'≥ — 'Smith, Mr.' ('Mr. Smith'); ≤'Ne nu sange nue'≥ 'A suggestion toward which.@@
 6389@1@@op@reorders the 1st three places of a ≤preda≥ as 231.@@
 6390@1@@op@exchanges the 2nd and 3rd places of a predicate.@@
-6391@1@@aux@«may»/is «permitted to» …, objective sense used before predicates (PA). E.g., ≤Tu nui godzi da≥ You may/are permitted to go to X. Cf. ≤oi≥ for subjective sense: ≤Oi tu godzi da≥ You may go to X.@@
+6391@1@@aux@«may»/is «permitted to» …, objective sense used before predicates (PA). E.g. ≤Tu nui godzi da≥ You may/are permitted to go to X. Cf. ≤oi≥ for subjective sense: ≤Oi tu godzi da≥ You may go to X.@@
 6391@2@@pp@«in»/«during»/«under» …, used before event/state terms to specify the conditions of a permission.@@
 6392@1@@2n@B is the «nucleus» of (cell/atom) F.@@B-F
 6392@2@% acdi@ph@a «nucleic acid», the basic genetic material.@@
 6393@1@@pp@«therefore» (effect) ….@@
-6394@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», causal, as used with ≤ki≥ in ≤'nukouki … ki … ≥;  best translated … because(cause) … '.@@
+6394@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», causal, as used with ≤ki≥ in ≤'nukouki … ki … ≥; best translated … because(cause) … '.@@
 6395@1@@c@«whether» …, …, used with ≤ki≥ in ≤'nuku … ki … '≥.@@
 6396@1@@c@«whether» …, not …, with ≤ki≥ in ≤'nukunoi … ki … '≥.@@
 6397@1@@af@a combining form of ≤numcu≥, «number».@@
@@ -12041,7 +12041,7 @@
 6404@1@@1n@B is a «numeral»/«digit»/«figure».@@B-
 6404@2@@a@«numeric»/«digital», pert. to digits.@@
 6405@1@@pp@«therefore» (action) ….@@
-6406@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», motivational, used with ≤ki≥ in ≤'numoiki … ki … ≥;  best translated … because(motive) … '.@@
+6406@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», motivational, used with ≤ki≥ in ≤'numoiki … ki … ≥; best translated … because(motive) … '.@@
 6407@1@@2n@B is a mathematical «function» for N.@@B-N
 6407@2@nu %@n@a «value» (of a mathematical function).@@
 6408@1@@1a@N is «exact»/«precise», numerically.@@N-
@@ -12061,13 +12061,13 @@
 6414@1@@1n@F is «calculus», a mathematical calculation system.@@F-
 6415@1@@af@a combining form of ≤nu≥, 2nd place «passive», before 'r'.@@
 6416@1@@pp@«nevertheless» (unexpected effect).@@
-6417@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unexpected events, as in ≤'nunokouki … ki≥;  best translated … despite(cause) … '.@@
+6417@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unexpected events, as in ≤'nunokouki … ki≥; best translated … despite(cause) … '.@@
 6418@1@@pp@«nevertheless» (unexpected action).@@
-6419@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unmotivated acts, as in ≤'nunomoiki … ki≥;  best translated … despite(motive) … '.@@
+6419@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unmotivated acts, as in ≤'nunomoiki … ki≥; best translated … despite(motive) … '.@@
 6420@1@@pp@«nevertheless» (unexpected decision).@@
-6421@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unjustified events, in ≤'nunorauki … ki≥;  best translated … despite(reason) … '.@@
+6421@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unjustified events, in ≤'nunorauki … ki≥; best translated … despite(reason) … '.@@
 6422@1@@pp@«nevertheless» (unexpected consequence).@@
-6423@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unentailed sents., as in ≤'nunosoaki … ki≥;  best translated … despite(premise) … '.@@
+6423@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unentailed sents., as in ≤'nunosoaki … ki≥; best translated … despite(premise) … '.@@
 6424@1@@2v@F «consist»/be «composed»/«constituted» of parts B.@@F-B
 6424@2@pu %@n@«constitution», composition, a property.@@
 6425@1@@1n@B is a «missile»/«projectile»/«shot», any thrown or fired thing.@@B-
@@ -12083,10 +12083,10 @@
 6429@1@@2a@G is more «silly»/«frivolous»/«paltry», less grave than J.@@G-J
 6429@2@lopu %@n@«frivolity»/«frivolousness» (about …), mass prop.@@
 6429@3@po %@n@a «frivolity», a spec. state/event.@@
-6430@1@@mod@2nd «reflexive», equivalent to inserting a second argument identical to the 1st argument e.g. ≤Da nuo ditka≥  he bit himself.@@
+6430@1@@mod@2nd «reflexive», equivalent to inserting a second argument identical to the 1st argument e.g. ≤Da nuo ditka≥ — he bit himself.@@
 6431@1@@af@a combining form of ≤nu≥, 2nd place «passive».@@
 6432@1@@pp@«therefore» (decision) ….@@
-6433@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of justification, with ≤ki≥ in ≤'nurauki … ki … ≥;  best translated … because(reason) … '.@@
+6433@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of justification, with ≤ki≥ in ≤'nurauki … ki … ≥; best translated … because(reason) … '.@@
 6434@1@@2n@B is a «porter»/«concierge»/«superintendent» of F.@@B-F
 6435@1@@1n@B is a «building»/«edifice»/«structure», any built thing.@@B-
 6436@1@@2n@B is the «foundation» of building F.@@B-F
@@ -12117,7 +12117,7 @@
 6449@2@@n@a «mute» (for deadening sounds).@@
 6450@1@@5v@K «deprive» D of B by V with purpose P.@@K-DBVP
 6450@2@lopu %@n@«deprivation» (mass property of -ing.).@@
-6450@3@po %@n@an instance of «deprivation» (of … of … for …)   -ing someone.@@
+6450@3@po %@n@an instance of «deprivation» (of … of … for …), -ing someone.@@
 6451@1@@3a@G is «older»/more «familiar»/less «novel» than J to D.@@G-JD
 6451@2@@a@«old»/«familiar», less novel than … to ….@@
 6451@3@pu %@n@a «familiarity», a prop. of familiar things.@@
@@ -12381,7 +12381,7 @@
 6597@2@@a@«fine»/«powdery».@@
 6597@3@nu %@a@«coarse».@@
 6598@1@@pp@«therefore» (consequence) ….@@
-6599@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of entailment, with ≤ki≥ in ≤'nusoaki … ki … ≥;  best translated … because(premise) … '.@@
+6599@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of entailment, with ≤ki≥ in ≤'nusoaki … ki … ≥; best translated … because(premise) … '.@@
 6600@1@@3a@B is «neutral» in dispute/struggle V between parties D.@@B-VD
 6600@2@@n@a «neutral», one who is neutral.@@
 6600@3@lopo %@n@«neutrality», the mass of such states.@@
@@ -12618,10 +12618,10 @@
 6747@1@@af@a combining form of ≤parti≥, «part».@@
 6748@1@@3n@J is the «proportion»/«fractional» part of G that does/contains N.@@J-GN
 6749@1@@2n@B is a «table of contents» of (book/periodical) F.@@B-F
-6750@1@@2v@F «resolves»/«separates» into parts/elements B, by itself;  cf. ≤parmao≥.@@F-B
+6750@1@@2v@F «resolves»/«separates» into parts/elements B, by itself; cf. ≤parmao≥.@@F-B
 6750@2@lopo %@1n@the mass of such «resolutions»/«spontaneous separations».@@
 6750@3@nu %@v@«become part of».@@
-6750@4@po %@2n@is a «resolution»/«spontaneous separation» of whole … into parts … ;  cf. ≤po parmao≥.@@
+6750@4@po %@2n@is a «resolution»/«spontaneous separation» of whole … into parts … ; cf. ≤po parmao≥.@@
 6751@1@@1n@B is a female «leopard».@@B-
 6752@1@@1a@B is «leopard like», pertaining to leopards.@@B-
 6753@1@@1n@B is a «leopard» kitten, an infant leopard.@@B-
@@ -12679,7 +12679,7 @@
 6777@3@lo %@n@«subscribers» of/to periodicals, mass term.@@
 6777@4@lo % je da@n@the «subscribers» of/to X, partial mass term.@@
 6777@5@lopo %@n@«subscription», the mass of such events. V (K BVC).@@
-6777@6@po %@n@a «subscription» by … to … E.g., ≤Lepo mi … da ga meisto ne nirne.≥  My subscription to X lasts one year. V (K-BVC).@@
+6777@6@po %@n@a «subscription» by … to … E.g. ≤Lepo mi … da ga meisto ne nirne.≥ — My subscription to X lasts one year. V (K-BVC).@@
 6778@1@@4v@K «precede»/go «earlier than»/go «before» B to D from S.@@K-BDS
 6778@2@@ph@«after you»!/«go first», imperatives.@@
 6778@3@po %@n@a «precedence», an act of going before.@@
@@ -12783,7 +12783,7 @@
 6832@2@nu %@n@a user of «jargon»/«argot» ….@@
 6833@1@@4n@B, a token or label, is a «logical set» of denumerable objects/members/elements F with a defining property indicated by their membership in some superset S, and with cardinality C.@@B FSC
 6833@2@fu %@n@a «superset» specifying the «defining» «property» of the members … of some set.@@
-6833@3@ju %@n@the «cardinal» «number» of the members/elements … of some set;  cf. ≤konte≥.@@
+6833@3@ju %@n@the «cardinal» «number» of the members/elements … of some set; cf. ≤konte≥.@@
 6833@4@nu %@n@the «membership» of/are the «members»/«elements» of set ….@@
 6834@1@@2n@F is a «commando group»/«special strike force» of country N.@@F-N
 6835@1@@4v@K «specify» details B of task/project/goal V for P.@@K-BVP
@@ -12986,7 +12986,7 @@
 6925@4@po %@n@a «distribution», an act/event of -ing.@@
 6926@1@@3v@K «hand out»/«give out» B to D.@@K-BD
 6926@2@nu %@n@a «handout».@@
-6927@1@@3n@F is a «multiple», a subset of some superset S, over whose members some claim V is «distributed». E.g., ≤'Le neni mrenu'≥ in ≤'Le neni mrenu ga merji'≥ designates a multiple. Contrasts with ≤'setci'≥, q.v. Usage: ≤Li, le neni mrenu, lu namsaa ne petrysei je lea≥.@@F-SV
+6927@1@@3n@F is a «multiple», a subset of some superset S, over whose members some claim V is «distributed». E.g. ≤'Le neni mrenu'≥ in ≤'Le neni mrenu ga merji'≥ designates a multiple. Contrasts with ≤'setci'≥, q.v. Usage: ≤Li, le neni mrenu, lu namsaa ne petrysei je lea≥.@@F-SV
 6927@2@fu %@n@a «claim» «distributed» over each member of a multiple.@@
 6927@3@nu %@n@a «superset» of a set corresponding to a multiple.@@
 6928@1@@av@«re»/«concerning»/«as for».@@
@@ -13058,7 +13058,7 @@
 6965@2@lo %@n@«urine», mass term.@@
 6966@1@@1n@B is a «pin», a pointed fastener used for fabrics.@@B-
 6967@1@@3v@K «paint» D color B.@@K-DB
-6967@2@@n@a «painter», one who paints, e.g., a house.@@
+6967@2@@n@a «painter», one who paints, e.g. a house.@@
 6967@3@nu %@a@«painted», conv. of paint.@@
 6967@4@po %@n@a «painting», a spec. act.@@
 6968@1@@a@a «tenth»/«ten-percent»/point one of …, a quantifying oper.@@
@@ -13269,8 +13269,8 @@
 7081@1@@3v@K «perfume»/«scent» D with B.@@K-DB
 7082@1@@1n@B is some «plutonium», element 94 (Pu).@@B-
 7083@1@@c@«that», event op., as in 'x said that y came'.@@
-7083@2@@op@ … «-ing»/«-hood»/«-ion»/«-ment»/«-ness» to …  the «event»/act/state/condition oper.@@
-7083@3@@va@«to» …  infinitive, as in 'to swim is good'.@@
+7083@2@@op@ … «-ing»/«-hood»/«-ion»/«-ment»/«-ness» to …, the «event»/act/state/condition oper.@@
+7083@3@@va@«to» …, infinitive, as in 'to swim is good'.@@
 7083@4@% da fremi de@ph@a sp. «friendship» between x and y.@@
 7084@1@@af@a combining form of ≤ponda≥, «respond».@@
 7085@1@@3a@G is more «sensitive» to N than J.@@G-NJ
@@ -13411,7 +13411,7 @@
 7154@1@lao %@na@the order of «Primates», highest order of mammals.@@
 7155@1@@2n@B is a «primate» of genus/species/type F, a mammal of order Primates.@@B-F
 7156@1@@1v@B «recess»/«recede», «go back», as the ocean «receded».@@B-
-7156@2@po %@1n@a «recession», a backward motion. e.g. the economy.@@
+7156@2@po %@1n@a «recession», a backward motion. E.g. the economy.@@
 7157@1@@2n@B is a/the «posterior»/«rear»/«back»+(part) of F.@@B-F
 7157@2@@a@«dorsal»/«back»/«posterior», dorsal, pert. to backs.@@
 7158@1@@2pp@N is in «back of»/«behind» B.@@N-B
@@ -13713,7 +13713,7 @@
 7315@1@@1n@B is a «scoop», an instrument/tool for scooping.@@B-
 7316@1@@af@a combining form of ≤puntu≥, «pain».@@
 7317@1@@a@«all»/«each»/«every»/«apiece» (member of set …), before ≤ba≥ series every something ….@@
-7317@2@-ra@af@-some/-ad/-et, as in ≤'tora≥: «twosome»/«dyad»/«duo»/«pair»/«couple» ', the cardinal suffix;  makes 2 place predicates of the form ' … is a N member subset of set … '.@@
+7317@2@-ra@af@-some/-ad/-et, as in ≤'tora≥: «twosome»/«dyad»/«duo»/«pair»/«couple» ', the cardinal suffix; makes 2 place predicates of the form ' … is a N member subset of set … '.@@
 7318@1@@af@a combining form of ≤grasa≥, «grass».@@
 7319@1@@p@«whatever»/«whichever»/«whoever», every …, 'Whatever runs, eats'.@@
 7319@2@@p@«anything»/«anyone»/«anybody», every …, as in 'anything wins'.@@
@@ -13987,7 +13987,7 @@
 7473@3@po %@n@a «bargain», an event/act of -ing.@@
 7474@1@@pp@«because of» (reason), a relative oper. before design'ns (PA).@@
 7474@2@% hu@ph@«why»? for what reason?@@
-7475@1@@c@«because»/«since»/«for»/«as», of reasons, with ≤ki≥ in ≤'rauki … ki … ≥;  because …, … '.@@
+7475@1@@c@«because»/«since»/«for»/«as», of reasons, with ≤ki≥ in ≤'rauki … ki … ≥; because …, … '.@@
 7476@1@@af@a combining form of ≤raznu≥, «reason».@@
 7477@1@@3v@K give «reasons for»/«justify act» V with reason S.@@K-VS
 7477@2@@a@«reasonable», of those who give reasons.@@
@@ -14189,7 +14189,7 @@
 7582@1@@1n@B is a «ribosome», a cell organelle.@@B-
 7583@1@@af@a combining form of ≤ritco≥, «right».@@
 7584@1@@2av@B is «rightward», in a rightward direction from S.@@B-S
-7585@1@@a@a «small group»/«several», a «few» … acting together, an indefinite set describer. E.g., ≤Ricu mrenu pa hijra≥  A small group men were here together. Cf., ≤Ri mrenu pa hijra≥  Several men were here independently.@@
+7585@1@@a@a «small group»/«several», a «few» … acting together, an indefinite set describer. E.g. ≤Ricu mrenu pa hijra≥ — A small group men were here together. Cf., ≤Ri mrenu pa hijra≥ — Several men were here independently.@@
 7586@1@@1n@B is a «dextrogyre», one that rotates polarized light clockwise.@@B-
 7586@2@@a@«dextrorotatory», pert. to dextrogyres.@@
 7587@1@@af@a combining form of ≤ridle≥, «read».@@
@@ -14203,7 +14203,7 @@
 7591@1@@3v@K let «read» book B by D c.f. ≤vizlei≥.@@K-BD
 7592@1@@2v@K «experience» B «vicariously» by reading about it.@@K-B
 7593@1@@2v@K «discover»/«find out» B by reading about it.@@K-B
-7594@1@@h@«sir»/«madam»/«sire»/«m»'am/«honorable», an attitudinal used by an inferior addresng a superior;  part of the series ≤'rie/kae/nue/fie/die'≥, q.v.;  always follows a designation/vocative. E.g., ≤'Gandias Smiq, Rie'≥  'Professor Smith, Sir'. (DIE).@@
+7594@1@@h@«sir»/«madam»/«sire»/«m»'am/«honorable», an attitudinal used by an inferior addresng a superior; part of the series ≤'rie/kae/nue/fie/die'≥, q.v.; always follows a designation/vocative. E.g. ≤'Gandias Smiq, Rie'≥ — 'Professor Smith, Sir'. (DIE).@@
 7595@1@@1n@B is an «instrument maker».@@B-
 7596@1@@af@a combining form of ≤briga≥, «brave».@@
 7597@1@@2v@D is «discouraged» about V.@@D-V
@@ -14217,7 +14217,7 @@
 7599@3@nu %@a@«discouraged» (by … from …).@@
 7599@4@po nu %@n@a «discouragement» (by … from …).@@
 7600@1@@1n@B is an «exploit».@@B-
-7601@1@@3v@K  «appear brave» to D in circumstances N.@@K-DN
+7601@1@@3v@K «appear brave» to D in circumstances N.@@K-DN
 7602@1@@af@a combining form of ≤rilri≥, «regular».@@
 7603@1@@2n@C is the «period»/«interval»/«periodicity» between repetitions of cycle V.@@C-V
 7603@2@nu %@a@«cyclic», having regular intervals.@@
@@ -14363,7 +14363,7 @@
 7681@1@@af@a combining form of ≤brocu≥, «brush».@@
 7682@1@@3v@K «sweep»/«brush» B from (surface/object) D.@@K-BD
 7683@1@@2n@a «union» of ….@@
-7684@1@@a@a «large-group»/«many», a «large number» of … acting together, an indefinite set describer. E.g., ≤Rocu mrenu pa hijra≥  A large group men were here together. Cf., ≤Ro mrenu pa hijra≥  Many men were here independently.@@
+7684@1@@a@a «large-group»/«many», a «large number» of … acting together, an indefinite set describer. E.g. ≤Rocu mrenu pa hijra≥ — A large group men were here together. Cf., ≤Ro mrenu pa hijra≥ — Many men were here independently.@@
 7685@1@@3v@K «brush»/«apply» liquid B to/on D.@@K-BD
 7686@1@@af@a combining form of ≤rodlu≥, «road».@@
 7687@1@@1n@B is some «rhodium», element 45 (Rh).@@B-
@@ -14387,7 +14387,7 @@
 7702@1@@2a@G is «rougher»/more «abrasive», less smooth than J.@@G-J
 7702@2@@a@«rough», more abrasive than ….@@
 7702@3@pu %@n@a «roughness»/«abrasiveness», a spec. property.@@
-7703@1@@aux@«will»/«intend to»/«mean to» …, objective sense used before predicates (PA). E.g., ≤Mi roi godzi da≥ I will/intend to go to X. Cf. ≤ai≥ for subjective sense: ≤Ai mi godzi da≥ I intend to go to X.@@
+7703@1@@aux@«will»/«intend to»/«mean to» …, objective sense used before predicates (PA). E.g. ≤Mi roi godzi da≥ I will/intend to go to X. Cf. ≤ai≥ for subjective sense: ≤Ai mi godzi da≥ I intend to go to X.@@
 7703@2@@pp@«in»/«during»/«under» …, used before event/state terms to specify the conditions of an intention.@@
 7704@1@@2v@K «glare» at D, look angrily at.@@K-D
 7705@1@@2v@V «annoy»/«irritate» B.@@V-B
@@ -14442,7 +14442,7 @@
 7733@1@@1v@K «roll», from side to side.@@K-
 7733@2@@a@«rocking»/«rolling».@@
 7733@3@@vi@«rock», back and forth.@@
-7733@4@po %@n@a «roll», rolling, e.g., as of a ship.@@
+7733@4@po %@n@a «roll», rolling, e.g. as of a ship.@@
 7734@1@@2v@N «rock» D (nonintentional cause) as the wind rocks the trees.@@N-D
 7735@1@@1n@B is a metal «bolt».@@B-
 7736@1@@2n@V is a «roll»/«peal» of B (e.g. thunder).@@V-B
@@ -14472,7 +14472,7 @@
 7753@1@@af@a combining form of ≤ro≥, «many of».@@
 7754@1@@2v@be in «abundance of»/«abound in» ….@@
 7754@2@@a@«abundant»/«plentiful»/«manifold»/«copious»/«full».@@
-7754@3@po %@n@«abundance»/«plenty»/«fullness»/«legion», a specific state. e.g. their name is legion.@@
+7754@3@po %@n@«abundance»/«plenty»/«fullness»/«legion», a specific state. E.g. their name is legion.@@
 7755@1@@1n@B is «multiple», consisting of more than one part.@@B-
 7756@1@@2v@K «beat»/«pound»/«thrash» D, hit … repeatedly.@@K-D
 7756@2@po %@n@a «thrashing»/«beating», an act of -ing something.@@
@@ -14524,7 +14524,7 @@
 7786@1@@2a@K is «multilingual» in languages B, pl. set.@@K-B
 7786@2@@n@a «linguist», one speaking many languages.@@
 7787@1@@2v@B is be «polyandrous»/«married» to men F.@@B-F
-7788@1@@2v@F pl. are «married» to each other, forming family N;  a «group marriage».@@F-N
+7788@1@@2v@F pl. are «married» to each other, forming family N; a «group marriage».@@F-N
 7789@1@@2v@B is «polygamous» with spouses F, general term.@@B-F
 7790@1@@1a@B is «multidisciplinary», contributed to by many disciplines.@@B-
 7791@1@@3a@G is more «popular» than J to/amongst F.@@G-JF
@@ -14572,7 +14572,7 @@
 7820@1@@4v@K «direct» (s), give directions to D from S to (person) B.@@K-DSB
 7820@2@@n@a «director», one who/that which -s.@@
 7820@3@po %@n@a «direction», an act of giving directions.@@
-7821@1@@3v@N «obstruct»/«block» K's way to D, nonintentional;  'water blocked the road'.@@N-KD
+7821@1@@3v@N «obstruct»/«block» K's way to D, nonintentional; 'water blocked the road'.@@N-KD
 7821@2@@av@in the «way», blocking … 's way to ….@@
 7821@3@@n@a «bar»/«barrier»/«obstacle»/«obstruction», obstacle to … in going to ….@@
 7821@4@nu %@a@«obstructed», conv. of obstruct.@@
@@ -14769,10 +14769,10 @@
 7929@2@nu %@a@«frozen»/«freezing», of temps. at which … -es.@@
 7929@3@po %@n@a spec. «freeze»/«freezing»/«solidification»/«crystallization».@@
 7930@1@@1n@B is some «sleet»/«freezing rain», precipitation freezing on impact.@@B-
-7931@1@@2v@N «freeze»/«solidify»/«crystallize» D, nonintentional;  'The sun melts the snow'.@@N-D
+7931@1@@2v@N «freeze»/«solidify»/«crystallize» D, nonintentional; 'The sun melts the snow'.@@N-D
 7931@2@@n@a «solidifier», that which makes … solid.@@
 7931@3@po %@n@a specific instance of «freezing»/«solidification»/«crystallization» <unintentional>.@@
-7932@1@@2a@B is normally «solid», i.e., below conditions N pl.set (e.g. temperature and pressure).@@B-N
+7932@1@@2a@B is normally «solid», i.e. below conditions N pl.set (e.g. temperature and pressure).@@B-N
 7932@2@@a@«solid»/«frozen»/«firm», solid in conditions ….@@
 7932@3@@vi@«freeze», of normal solids, under conditions ….@@
 7932@4@pu %@n@a «solidity», property of the solid state.@@
@@ -14876,15 +14876,15 @@
 7980@1@@2n@V is the study of «semantics»/«semiotics» in language F.@@V-F
 7981@1@@2n@K is a «semanticist» for language F.@@K-F
 7982@1@@2n@P is a «sign system» of K.@@P-K
-7983@1@@4v@K «signal»/«communicate» with/«send message»/signal  conveying intention/message/meaning P to D concerning topic/matter V.@@K-PDV
+7983@1@@4v@K «signal»/«communicate» with/«send message»/signal conveying intention/message/meaning P to D concerning topic/matter V.@@K-PDV
 7983@2@nu %@n@a «message»/«communication», conv. of communicate with.@@
 7983@3@po %@n@a «communication», an act of -ing.@@
 7984@1@@4n@B is a «communication channel» from S to D of capacity C.@@B-SDC
 7985@1@@2a@G is «quieter» than J.@@G-J
 7985@2@@a@«quiet», quieter/less noisy than ….@@
 7985@3@@av@«quietly», in a quiet way.@@
-7985@4@@i@«shut up»!, be quiet, w/o;  1st arg., an imp.@@
-7985@5@@i@be/keep+«still»!/«quiet»!, w/o a;  1st arg., an imperative.@@
+7985@4@@i@«shut up»!, be quiet, w/o; 1st arg., an imp.@@
+7985@5@@i@be/keep+«still»!/«quiet»!, w/o a; 1st arg., an imperative.@@
 7985@6@lopo %@n@«quietude»/«quiet»/«quietness», general state term.@@
 7985@7@lopu %@n@«quietness», mass prop.@@
 7986@1@@4n@B is a «communication» from S to D about N.@@B-SDN
@@ -14892,7 +14892,7 @@
 7987@2@fu %@n@«embroidery», the object decorated.@@
 7987@3@nu %@n@«embroidery», the pattern -ed.@@
 7987@4@po %@n@an instance of «embroidery».@@
-7988@1@@p@turns the next foreign word in original form to a L predicate. e.g. ≤sao dharma≥.@@
+7988@1@@p@turns the next foreign word in original form to a L predicate. E.g. ≤sao dharma≥.@@
 7989@1@@3v@D «know» the identity of S to be P.@@D-SP
 7989@2@nu %@a@«known»/«identifiable», of persons/things.@@
 7990@1@@3n@B is a «half sibling» of B through father S.@@B-BS
@@ -14952,7 +14952,7 @@
 8025@1@@pp@Sources/Reasons/Causes, case tag («source»/«reason»/«cause»).@@
 8026@1@@a@«seven» (7), in math. expressions.@@
 8026@2@@af@the «digit seven» (7), as in ≤sevove≥ (789).@@
-8026@3@@l@«seven» (7) (of), a description quantifier. E.g., ≤Se le fumna pa merji≥  (Some) Seven of the women were married;  ≤Se fumna pa hijra≥  (Some) Seven women were here independently. Cf., ≤secu≥.@@
+8026@3@@l@«seven» (7) (of), a description quantifier. E.g. ≤Se le fumna pa merji≥ — (Some) Seven of the women were married; ≤Se fumna pa hijra≥ — (Some) Seven women were here independently. Cf., ≤secu≥.@@
 8026@4@lio %@ph@«seven» (7), the number seven, non math.@@
 8027@1@@pp@«instead of»/in «place of», a relative oper. before design'ns (PA).@@
 8028@1@@af@a combining form of ≤sekci≥, «court», «flirt».@@
@@ -15009,7 +15009,7 @@
 8061@1@@2n@B is some «celery» from S.@@B-S
 8061@2@lo %@n@«celery», mass term.@@
 8062@1@@2n@V is a/the «self»/«ego»/«identity image» of person B.@@V-B
-8063@1@@1a@B is   «vain»/«arrogant»/«egotistical»/«stuffy»/«self important».@@B-
+8063@1@@1a@B is «vain»/«arrogant»/«egotistical»/«stuffy»/«self important».@@B-
 8063@2@po %@n@a «self importance», a state/condition.@@
 8063@3@pu %@n@a «stuffiness», a spec. property.@@
 8064@1@@2v@S «divide»/«transform»/«replicate» itself to P copies, default 2.@@S-P
@@ -15031,16 +15031,16 @@
 8073@1@@2n@B is a «sanctuary» of/for N, a sacred/holy place.@@B-N
 8074@1@@2n@B is an «altar» in church/religion F.@@B-F
 8075@1@@af@a combining form of ≤se≥, «seven».@@
-8076@1@@2n@B is a «septet»/«seven member» subset of set …, a cardinal predicate; e.g., ≤Da sera lea atletu.≥  X is a septet of athletes.@@
+8076@1@@2n@B is a «septet»/«seven member» subset of set …, a cardinal predicate; e.g. ≤Da sera lea atletu.≥ — X is a septet of athletes.@@
 8077@1@@2n@B is a «Sunday» of week/month F.@@B-F
 8077@2@la %@na@«Sunday» (the 1st day of the week).@@
 8078@1@@2n@B is some «serum» of/from S.@@B-S
 8079@1@@2n@a/the «seventh» term/member of series …, an ordinal pred.@@
 8079@2@@a@«seventh», of 7th members, before predicates.@@
-8080@1@@2n@B is a «brigadier»/«brigadier general»/«commodore»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murserkoi≥  commodore. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+8080@1@@2n@B is a «brigadier»/«brigadier general»/«commodore»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murserkoi≥ — commodore. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 8081@1@@2n@B is a «July» of year F.@@B-F
 8081@2@la %@na@«July» (the name of the 4th month of the year).@@
-8082@1@@2n@B is a «first»/«master sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤mursertro≥  senior chief petty officer.@@B-F
+8082@1@@2n@B is a «first»/«master sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤mursertro≥ — senior chief petty officer.@@B-F
 8083@1@@af@a combining form of ≤sensi≥, «science».@@
 8084@1@@3v@K «experiment» with V to find P.@@K-VP
 8085@1@@2n@B is a «scientist» in field N, a contributor to science ….@@B-N
@@ -15206,20 +15206,20 @@
 8181@2@lo %@n@(the) «cinema»/«movies», general term.@@
 8182@1@@1n@B is a «movie maker»/«cinematographer».@@B-
 8182@2@@n@a «producer», of movie ….@@
-8183@1@@1n@B is  «cinematography»/«movie making» art.@@B-
+8183@1@@1n@B is «cinematography»/«movie making» art.@@B-
 8184@1@@2n@B is a movie «theatre»/«cinema»/«movie house»/«motion picture theatre» of place S.@@B-S
 8185@1@@3v@K «synthesize» P from S.@@K-PS
 8185@2@@a@«synthetic», pert to ….@@
 8185@3@po %@n@an instance of «synthesis».@@
-8186@1@@av@«certainly»/«certain to be», the objective sense. E.g., ≤Da sio mamla≥  X is certainly/certain to be a mammal. Cf. ≤ia≥ for the subjective sense.@@
-8186@2@@in@«certainly», is certainly true/will certainly happen (under the circumstances implied by speech) (PA). E.g., ≤Ta sio mamla≥  That's certainly a mammal.@@
-8186@3@@pp@(that … is ) «certain» under conditions …, used before state/event terms. E.g., ≤Da mamla sio ta≥  (That) X is a mammal is certain under those conditions.@@
+8186@1@@av@«certainly»/«certain to be», the objective sense. E.g. ≤Da sio mamla≥ — X is certainly/certain to be a mammal. Cf. ≤ia≥ for the subjective sense.@@
+8186@2@@in@«certainly», is certainly true/will certainly happen (under the circumstances implied by speech) (PA). E.g. ≤Ta sio mamla≥ — That's certainly a mammal.@@
+8186@3@@pp@(that … is ) «certain» under conditions …, used before state/event terms. E.g. ≤Da mamla sio ta≥ — (That) X is a mammal is certain under those conditions.@@
 8187@1@@2v@D «know»/«comprehend»/«understand» N.@@D-N
 8187@2@lopu %@n@«understanding», mass prop.@@
 8187@3@nu %@a@«understood», of known systems.@@
 8187@4@po %@n@an «understanding»/«comprehension», a state of -ing.@@
-8188@1@@pp@«would»/«would certainly», a probability specific subjective subjunctive operator;  used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g., ≤Mi hapci siomia lepo mi bragai≥ I am certainly happy in the mental place where I am king (I would certainly be happy if I were king).@@
-8188@2@% ba@ph@«would»/«would certainly», as used in subjective subjunctive sentences in which the causal condition is missing. E.g., ≤Mi hapci siomia ba≥ I would certainly be happy (in some mental place/under some unspecified condition x).@@
+8188@1@@pp@«would»/«would certainly», a probability specific subjective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci siomia lepo mi bragai≥ I am certainly happy in the mental place where I am king (I would certainly be happy if I were king).@@
+8188@2@% ba@ph@«would»/«would certainly», as used in subjective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci siomia ba≥ I would certainly be happy (in some mental place/under some unspecified condition x).@@
 8189@1@@1v@V is a «system crash», an inadvertent system failure (≤sisrod -cko≥ and ≤-mao≥ are also possible).@@V-
 8189@2@po %@n@an inst. of a «system crash».@@
 8190@1@@3v@K «reform» D by V.@@K-DV
@@ -15227,8 +15227,8 @@
 8190@3@po %@1n@«reform»/an act of -ing.@@
 8191@1@@3v@K «learn system» N from S.@@K-NS
 8192@1@@3n@B is a «diagram»/«illustration» of S made by K.@@B-SK
-8193@1@@pp@«would»/«would certainly», a probability specific objective subjunctive operator;  used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g., ≤Mi hapci siovie lepo mi bragai≥ I am certainly happy in the possible world where I am king (I would certainly be happy if I were king). Cf. ≤siomia≥ for the subjective sense of this subjunctive.@@
-8193@2@% ba@ph@«would»/«would certainly», as used in objective subjunctive sentences in which the causal condition is missing. E.g., ≤Mi hapci siovie ba≥ I would certainly be happy (in some possible world/under some unspecified condition x). Cf. ≤siomia ba≥ for the subjective sense of this subjective.@@
+8193@1@@pp@«would»/«would certainly», a probability specific objective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci siovie lepo mi bragai≥ I am certainly happy in the possible world where I am king (I would certainly be happy if I were king). Cf. ≤siomia≥ for the subjective sense of this subjunctive.@@
+8193@2@% ba@ph@«would»/«would certainly», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci siovie ba≥ I would certainly be happy (in some possible world/under some unspecified condition x). Cf. ≤siomia ba≥ for the subjective sense of this subjective.@@
 8194@1@@af@a combining form of ≤sirto≥, «certain».@@
 8195@1@@2v@D become «certain»/«convinced» of/that N is true.@@D-N
 8195@2@@i@«make sure»!, … /o 1st arg., an imperative.@@
@@ -15265,7 +15265,7 @@
 8200@7@pu %@n@a «certainty»/«inevitability», a property of something that is bound to happen.@@
 8200@8@pu no %@n@«uncertainty», a property of something that is not inevitable.@@
 8201@1@@av@«scant»/«scanty», not more than just enough.@@
-8202@1@@2n@a «scarce» amount of …  not more than just enough.@@
+8202@1@@2n@a «scarce» amount of …, not more than just enough.@@
 8202@2@lopu %@n@«scarcity»/«penury»/«want», mass property.@@
 8202@3@po %@n@an instance of «scarcity»/«penury»/«want».@@
 8203@1@@af@a combining form of ≤sisto≥, «system».@@
@@ -15332,9 +15332,9 @@
 8232@1@@1n@B is a serving/quantity of «coffee» from source S.@@B-S
 8233@1@@2v@B, a point in 3 space above a planet, or a flying object, or a building or other vertical object, measures C scalar units in «height»/rises … scalar units vertically above the surface of the planet or its own base.@@B-C
 8233@2@fu %@n@an «altitude scale»/altitude «scale», one for measuring alt.@@
-8234@1@@3n@B has a «temperature» of C, a dim. num. E.g., ≤La Djan skahatro lio 100 F≥  John has a temperature of 100 degrees Fahrenheit.@@B-CF
+8234@1@@3n@B has a «temperature» of C, a dim. num. E.g. ≤La Djan skahatro lio 100 F≥ — John has a temperature of 100 degrees Fahrenheit.@@B-CF
 8234@2@nu %@n@a «temperature»/«heat», in the units of some scale.@@
-8235@1@@2v@B «last» (s) C, a dim. num. representing an interval on some time scale. E.g., ≤La Po Genbra, pa skakeo lio sate heknie≥  The Rennaissance lasted about three centuries.@@B-C
+8235@1@@2v@B «last» (s) C, a dim. num. representing an interval on some time scale. E.g. ≤La Po Genbra, pa skakeo lio sate heknie≥ — The Rennaissance lasted about three centuries.@@B-C
 8235@2@nu %@n@a «term»/«time»/«interval», in the units of some scale.@@
 8236@1@@3n@N is a «scale»/«system of units» for measuring C among F.@@N-CF
 8237@1@@1n@B is «scandium», made of scandium, element 21 (Sc).@@B-
@@ -15356,7 +15356,7 @@
 8247@1@@2n@B is an expanse of «heavens»/«sky» at S.@@B-S
 8247@2@@a@«celestial»/«heavenly», pertaining to the —.@@
 8247@3@lo %@n@(the) «sky»/«heavens», collective term.@@
-8248@1@@3v@B «weigh» (s) C, a dim. num., in gravity field N. E.g., ≤La Djan, skatio lio 70 kg≥  John weighs 70 kilograms.@@B-CN
+8248@1@@3v@B «weigh» (s) C, a dim. num., in gravity field N. E.g. ≤La Djan, skatio lio 70 kg≥ — John weighs 70 kilograms.@@B-CN
 8248@2@nu %@n@a «weight», in the units of some scale.@@
 8249@1@@1n@B is a «rainbow».@@B-
 8250@1@@1n@B is a «skyscraper».@@B-
@@ -15413,7 +15413,7 @@
 8275@5@po %@n@an «ambition», spec. instance of -ing.@@
 8276@1@@1@B is «successful», as "a successful man" as distinct from a specific success.@@B-
 8277@1@@3v@K «congratulates» D on/for V.@@K-DV
-8277@2@nu %@a@«congratulated», one receiving -tions;  ≤Nu skutaa!≥  Be congratulated! / Congratulations!@@
+8277@2@nu %@a@«congratulated», one receiving -tions; ≤Nu skutaa!≥ — Be congratulated! / Congratulations!@@
 8277@3@po %@n@a specific instance of «congratulation».@@
 8278@1@@af@a combining form of ≤slano≥, «slow».@@
 8279@1@@1v@D is/are «slowed down»/«slackened» (actor unspecified).@@D-
@@ -15433,13 +15433,13 @@
 8288@3@no nu %@a@«unsweetened», neg. of sweetened, q.v.@@
 8288@4@nu %@a@«sweetened», conv. of sweeten.@@
 8289@1@@2n@B is «syrup» from S.@@B-S
-8290@1@@2n@B is some «licorice»/«liquorice» from S.  (The English word is derived from a Greek word meaning 'sweet root').@@B-S
+8290@1@@2n@B is some «licorice»/«liquorice» from S. (The English word is derived from a Greek word meaning 'sweet root').@@B-S
 8291@1@@1n@B is a portion/quantity of «liqueur», sweetened liquor.@@B-
 8292@1@@3v@K «sweeten» D, makes … sweet by/with B, intentional.@@K-DB
 8292@2@no nu %@a@«unsweetened», neg. of sweetened, q.v.@@
 8292@3@nu %@a@«sweetened», conv. of sweeten.@@
 8293@1@@3a@G is «sweeter» than J to D.@@G-JD
-8293@2@@a@«sweet»/«sugary», i.e., sweeter than ….@@
+8293@2@@a@«sweet»/«sugary», i.e. sweeter than ….@@
 8293@3@@n@a «candy»/«goody»/«sweet», that which is sweet.@@
 8293@4@lopu %@n@«sweetness», collective prop.@@
 8294@1@@af@a combining form of ≤slopu≥, «steep».@@
@@ -15465,7 +15465,7 @@
 8306@2@@a@«smoke», made of/pert. to smoke.@@
 8306@3@lo %@n@«smoke», collective term.@@
 8307@1@@2v@K «smoke» D, preserves … by smoking it.@@K-D
-8307@2@nu %@a@«smoked», e.g., of food preserved by -ing.@@
+8307@2@nu %@a@«smoked», e.g. of food preserved by -ing.@@
 8308@1@@1v@K «smoke», produce smoke.@@K-
 8309@1@@1n@B is an «emerald», a bright green variety of beryl.@@B-
 8310@1@@2n@B is a «chimney» for oven/lamp/furnace F.@@B-F
@@ -15517,7 +15517,7 @@
 8336@4@nu %@n@a «code», a secret message.@@
 8336@5@pu nu %@a@«cryptic».@@
 8337@1@@1n@F is a system for «encryption»/«encoding» text.@@F-
-8338@1@@3v@K «hoard» B  against V.@@K-BV
+8338@1@@3v@K «hoard» B against V.@@K-BV
 8339@1@@3v@K «hoard» B against V.@@K-BV
 8339@2@@n@«hoarder», one who -s.@@
 8340@1@@3v@K «hoard»/«store secretly» B, for use/purpose P.@@K-BP
@@ -15593,7 +15593,7 @@
 8378@1@@1n@B is a «foreground».@@B-
 8379@1@@2a@G is more «recent» than J.@@G-J
 8379@2@lo %@n@the «recent past».@@
-8380@1@@4a@G is «nearer»/«closer»/«proximate»/«proximal» to B than J  by C.@@G-BJC
+8380@1@@4a@G is «nearer»/«closer»/«proximate»/«proximal» to B than J by C.@@G-BJC
 8380@2@@pp@«around», is «around»/«near» ….@@
 8380@3@fu %@a@«far», less near to … than … is, conv.@@
 8380@4@fu nu %@a@more «distant»/«farther»/«further»/«distal» than … is from …, far.@@
@@ -15602,7 +15602,7 @@
 8380@7@nu fu nu %@a@«closer» than … is to …, 3 ple conv.@@
 8380@8@po %@n@a «closeness»/«nearness», a spec. state.@@
 8380@9@pu %@n@a «closeness»/«nearness»/«proximity», a spec. property.@@
-8381@1@@2n@B is a «cluster»/spatial «group»/physical «aggregatation» the elements of which are physically close to one another and belong to some superset F. e.g., ≤Ne snisei je lo troku≥ - A cluster of rocks.@@B-F
+8381@1@@2n@B is a «cluster»/spatial «group»/physical «aggregatation» the elements of which are physically close to one another and belong to some superset F. E.g. ≤Ne snisei je lo troku≥ - A cluster of rocks.@@B-F
 8381@2@nu %@n@a/the «superset» of some cluster ….@@
 8382@1@@2n@B is the «vicinity»/«neighborhood» of F, general term for proximity.@@B-F
 8382@2@@av@«nearby», something reasonably close.@@
@@ -15612,11 +15612,11 @@
 8384@3@pu %@n@an «entailment», a spec. property.@@
 8385@1@@a@«six» (6), in math. expressions.@@
 8385@2@@af@the «digit six» (6), as in ≤fofeso≥ (456).@@
-8385@3@@l@«six» (6) (of), a description quantifier. E.g., ≤So le fumna pa merji≥  (Some) Six of the women were married;  ≤So fumna pa hijra≥  (Some) Six women were here independently. Cf., ≤socu≥.@@
+8385@3@@l@«six» (6) (of), a description quantifier. E.g. ≤So le fumna pa merji≥ — (Some) Six of the women were married; ≤So fumna pa hijra≥ — (Some) Six women were here independently. Cf., ≤socu≥.@@
 8385@4@lio %@ph@«six» (6), the number six, non math.@@
 8386@1@@pp@«because of» (premise), a relative oper. before design'ns (PA).@@
 8386@2@% hu@ph@«why»?, by what premise?.@@
-8387@1@@c@«because»/«since»/«for»/«as», of premises, with ≤ki≥ in ≤'soaki … ki … ≥;  because …, … '.@@
+8387@1@@c@«because»/«since»/«for»/«as», of premises, with ≤ki≥ in ≤'soaki … ki … ≥; because …, … '.@@
 8388@1@@af@a combining form of ≤socli≥, «interact».@@
 8389@1@@3a@G is «inferior» to J in social system/ hierarchy N.@@G-JN
 8389@2@lopu %@n@«inferiority», mass property.@@
@@ -15754,11 +15754,11 @@
 8465@4@po %@n@a «recording» (act of).@@
 8466@1@@3v@V «sound» like B to D, appears by its sound to be … to ….@@V-BD
 8467@1@@af@a combining form of ≤so≥, «six».@@
-8468@1@@2n@B is a «sextet»/«hexad»/«six member» subset of set F, a cardinal predicate; e.g., ≤Da sora lea muzmao≥  X is a sextet of musicians.@@
+8468@1@@2n@B is a «sextet»/«hexad»/«six member» subset of set F, a cardinal predicate; e.g. ≤Da sora lea muzmao≥ — X is a sextet of musicians.@@
 8469@1@@2n@B is a «Saturday» of week/month F.@@B-F
 8469@2@la %@na@«Saturday» (the 7th day of the week).@@
 8470@1@@3n@F is a «store»/«reserve»/«deposit»/«depot» of B made/kept by D.@@F-BD
-8471@1@@2n@B is a «brigade», the 6th smallest military unit of some larger «military force» F, without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤lansorgru≥  army brigade. Cf. ≤surgru≥.@@B-F
+8471@1@@2n@B is a «brigade», the 6th smallest military unit of some larger «military force» F, without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤lansorgru≥ — army brigade. Cf. ≤surgru≥.@@B-F
 8472@1@@2n@B is an «ear» of F.@@B-F
 8472@2@@a@«aural», pert. to ears.@@
 8473@1@@1n@B is a «cube»/«hexahedron».@@B-
@@ -15766,13 +15766,13 @@
 8474@2@@a@«sixth», of 6th members, before predicates.@@
 8475@1@@2n@F is a «hexagon» with vertices B, pl.set.@@F-B
 8475@2@@a@«hexagonal», pertaining to hexagons.@@
-8476@1@@2n@B is a «colonel»/«captain»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤mursorkoi≥  naval captain. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+8476@1@@2n@B is a «colonel»/«captain»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤mursorkoi≥ — naval captain. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 8477@1@@3n@B is a «sister» of B through parents S.@@B-BS
 8477@2@@a@«sororal», pert. to sisters, q.v.@@
 8478@1@@2n@B is a «June» of year F.@@B-F
 8478@2@la %@na@«June» (the name of the 4th month of the year).@@
 8479@1@@2n@B is a/the «prince» of domain N.@@B-N
-8480@1@@2n@B is a «platoon»/«technical sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤mursortro≥  chief petty officer.@@B-F
+8480@1@@2n@B is a «platoon»/«technical sergeant» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤mursortro≥ — chief petty officer.@@B-F
 8481@1@@af@a combining form of ≤solte≥, «salt».@@
 8482@1@@2a@G is more «salty»/«saline», full of salt than J.@@G-J
 8482@2@pu %@n@a «saltiness», a spec. property.@@
@@ -15837,7 +15837,7 @@
 8514@5@fu %@n@a «habitat», of breeding population.@@
 8514@6@ju %@a@a «characteristic»/«racial»/racial «trait».@@
 8514@7@nu %@a@«racial», of species having races.@@
-8515@1@@2v@K «knows»/«recognizes»/is «familiar-with»/«acquainted»  with B by/through direct experience.@@K-B
+8515@1@@2v@K «knows»/«recognizes»/is «familiar-with»/«acquainted» with B by/through direct experience.@@K-B
 8515@2@no nu %@v@«unknown»/«unfamiliar» to … by direct experience.@@
 8515@3@nu %@a@«known»/«recognizable»/«familiar» to … by experience.@@
 8515@4@po %@n@a «recognition», an act of -izing a familiar thing.@@
@@ -16047,14 +16047,14 @@
 8619@1@@2n@B is a/the «step»/«stair» of F.@@B-F
 8620@1@@1n@B is an «owl», a bird of the Striges spp.@@B-
 8621@1@@2v@K «stop»/«cease»/«halt»/«quit» doing V.@@K-V
-8621@2@@i@«halt»!/«stop»! w/o;  1st argument, an imperative.@@
+8621@2@@i@«halt»!/«stop»! w/o; 1st argument, an imperative.@@
 8621@3@po %@n@a «stop»/«cessation», an act/event of -ing.@@
 8622@1@@1n@B is a «stop», as for a bus, tram or taxi.@@B-
 8623@1@@2n@B is an «arrestor wire» on aircraft carrier F.@@B-F
 8624@1@@af@a combining form of ≤stolo≥, «remain».@@
 8625@1@@2a@G is more «classic» than J.@@G-J
 8625@2@lo %@n@the «classics», mass term.@@
-8626@1@@2v@N «detain» D, cause … to stay, nonintentional;  'The snow detained me'.@@N-D
+8626@1@@2v@N «detain» D, cause … to stay, nonintentional; 'The snow detained me'.@@N-D
 8626@2@po %@n@a «detention», an event of -ing.@@
 8626@3@po nu %@n@a «detention», a state of being -ed.@@
 8627@1@@1n@B is some «capital», fixed assets.@@B-
@@ -16111,7 +16111,7 @@
 8647@1@@3v@K «struggle», fight a long time with D over issue N.@@K-DN
 8647@2@lopo %@n@«struggle», mass term of events.@@
 8647@3@po %@n@a «struggle», a spec. event/process of -ing.@@
-8648@1@@2v@D is/are  «melancholy about»/«pine for»  V, a lengthy sad mood.@@D-V
+8648@1@@2v@D is/are «melancholy about»/«pine for» V, a lengthy sad mood.@@D-V
 8648@2@lopu %@n@«melancholy», mass property.@@
 8648@3@po %@n@a specific state of «melancholy» <continuing sadness>.@@
 8649@1@@3v@K «survive» N by V.@@K-NV
@@ -16261,7 +16261,7 @@
 8726@4@nu %@a@«sent», of sent things.@@
 8726@5@po %@n@an instance of «sending»/«expedition».@@
 8727@1@@a@«at-least one» of …, a quantifier, usually abbreviated as ≤su≥, q.v.@@
-8728@1@@3n@P is a/the «son» of parents  S.@@P-S
+8728@1@@3n@P is a/the «son» of parents S.@@P-S
 8728@2@@a@«filial», pert. to sons.@@
 8729@1@@3n@P is a/the (filial) «grandson» of B through son S.@@P-BS
 8730@1@@p@«self»/«own» as in ≤ra lufta lesuo kupta≥ (Each lifted his own cup).@@
@@ -16286,10 +16286,10 @@
 8741@1@@2a@D is more «southern»/«southerly» than S.@@D-S
 8741@2@@av@to the «south of»/«southward» (from) ….@@
 8741@3@@pp@«south» (ward) of …, toward the south.@@
-8742@1@@2n@B is a «military unit» of some larger «military force»/ «organization» F, without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is added. For specific military units, viz. ≤sergru, torgru, …, sorgru≥.@@B-F
+8742@1@@2n@B is a «military unit» of some larger «military force»/ «organization» F, without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is added. For specific military units, viz. ≤sergru, torgru, …, sorgru≥.@@B-F
 8743@1@@1a@a «considerable» amount of ….@@
 8744@1@@2n@B is a/the «air marshal» of F, rank identified by number.@@B-F
-8745@1@@2n@B is a «second lieutenant»/«ensign»/«flying officer» commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murnerkoi≥  ensign. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+8745@1@@2n@B is a «second lieutenant»/«ensign»/«flying officer» commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murnerkoi≥ — ensign. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 8746@1@@2n@B is a «sector»/«quadrant»/«octant», a pie shaped fraction of a circle with radius C.@@B-C
 8747@1@@3v@K «hurt»/«harm»/«injure»/«damage» D at/in V.@@K-DV
 8747@2@@a@«injurious», of that which -s.@@
@@ -16299,11 +16299,11 @@
 8747@6@po nu %@n@a/the «damage»/«hurt»/«injury», a state of being -ed.@@
 8748@1@@2n@B is a/the «brigadier general»/«major general»/«lieutenant general»/«general» of F, rank identified by number.@@B-F
 8749@1@@2n@B is a «corps»/«division»/«regiment»/«company»/«platoon» of F, any army part, identify by number.@@B-F
-8750@1@@2n@B is a «lord»/«peer» of vassals/domain/realm N, i.e. a member of its peerage;  for specific ranks, prefix ≤ner , tor , … , sor≥  to ≤-poi≥.@@
-8750@2@Hoi % je mi, rie@ph@«M»'Lord/My «Lord»  O Lord of me, Respected One, a form used by inferiors to address the male peerage;  cf. ≤Femsurpoi≥.@@
+8750@1@@2n@B is a «lord»/«peer» of vassals/domain/realm N, i.e. a member of its peerage; for specific ranks, prefix ≤ner , tor , … , sor≥ to ≤-poi≥.@@
+8750@2@Hoi % je mi, rie@ph@«M»'Lord/My «Lord»/O Lord of me, Respected One, a form used by inferiors to address the male peerage; cf. ≤Femsurpoi≥.@@
 8751@1@@2n@B is a «count»/«earl»/«lord»/«duke»/«baron»/«nobleman»/«peer», of land/estate F, any peer, identify by number.@@B-F
 8751@2@lo %@n@the «nobility»/«peerage».@@
-8752@1@@2n@B is an «NCO»/«non com»/«non commissioned officer» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed. For non commissioned ranks, viz. ≤nertro, tortro, …, sortro≥. For commissioned officer ranks, see ≤nerkoi, torkoi, …, sorkoi≥.@@B-F
+8752@1@@2n@B is an «NCO»/«non com»/«non commissioned officer» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed. For non commissioned ranks, viz. ≤nertro, tortro, …, sortro≥. For commissioned officer ranks, see ≤nerkoi, torkoi, …, sorkoi≥.@@B-F
 8753@1@@3v@K «serve»/«service» D by doing V.@@K-DV
 8753@2@@n@a «servant», server, general term.@@
 8753@3@lopo %@n@«servitude», mass term of states.@@
@@ -16335,7 +16335,7 @@
 8766@1@@3v@K «sniff» B for signal V.@@K-BV
 8767@1@@3v@K «smell» scent/«scent» V from/on odoriferous object B.@@K-VB
 8767@2@nu %@n@a «smell»/«scent», a detected odor, conv. form.@@
-8768@1@@2@K «sniff»  for B, hunt by scent.@@K-B
+8768@1@@2@K «sniff» for B, hunt by scent.@@K-B
 8769@1@@1a@B is «harsh» in smell, see specific sense words.@@B-
 8769@2@lopu %@n@«harshness» (to smell).@@
 8770@1@@2n@B is a/the sense of «smell» of F.@@B-F
@@ -16395,7 +16395,7 @@
 8801@3@fu %@n@a «discussant», one talked with.@@
 8801@4@po %@n@an act of speaking in a «discussion».@@
 8802@1@@2a@B is «speech impaired» in respect N.@@B-N
-8803@1@@3n@B is an «expression»/«utterance»/«speech form» of  «grammar class»  X in language F.@@
+8803@1@@3n@B is an «expression»/«utterance»/«speech form» of «grammar class» X in language F.@@
 8804@1@@1n@B is a «tachyon», a hypothetical particle.@@B-
 8805@1@@3v@K «attack» D with goal/objective P.@@K-DP
 8805@2@@n@an «attacker», one who -s.@@
@@ -16469,7 +16469,7 @@
 8837@2@@n@an «armorer», one who makes -s.@@
 8838@1@@af@a combining form of ≤trana≥, «turn».@@
 8839@1@@v@B «rotate»/are «rotated» by an unspecified force.@@B-
-8840@1@@2@N «turn» D, (nonintentional cause);  'The water turns the mill'.@@N-D
+8840@1@@2@N «turn» D, (nonintentional cause); 'The water turns the mill'.@@N-D
 8841@1@@2v@D «skid»/«slip» while turning on B.@@D-B
 8841@2@po %@n@a «slip»/«skid», a spec. event of skidding.@@
 8842@1@@3n@V is the «attitude»/«orientation» of B toward person/object/situation N, physical or mental.@@V-BN
@@ -16546,7 +16546,7 @@
 8883@1@lao %@na@an «eland», an antelope.@@
 8884@1@@af@a combining form of ≤tcaro≥, «car».@@
 8885@1@@2v@K «operate» (s)/is the «driver»/«operator» of vehicle B.@@K-B
-8885@2@@n@a/the «driver»/«operator», of some vehicle;  cf. ≤tcatro≥.@@
+8885@2@@n@a/the «driver»/«operator», of some vehicle; cf. ≤tcatro≥.@@
 8886@1@@5v@K «transport»/give a «ride» to person/material B to D from S via V.@@K-BDSV
 8887@1@@2n@B is a vehicle «window», any window of vehicle F.@@B-F
 8888@1@@2n@B is a «windshield»/«windscreen» of vessel/vehicle F.@@B-F
@@ -16579,12 +16579,12 @@
 8903@1@@4n@K «travels by automobile»/car to D from S via V.@@K-DSV
 8903@2@po %@n@a «car trip»/«automobile trip».@@
 8904@1@@5v@K «drive»/«conduct» vehicle/vessel B to D from S via V.@@K-BDSV
-8904@2@@n@a/the «driver»/«operator» of some vehicle/vessel during some journey;  cf. ≤tcabapra≥.@@
+8904@2@@n@a/the «driver»/«operator» of some vehicle/vessel during some journey; cf. ≤tcabapra≥.@@
 8905@1@@af@a combining form of ≤tceru≥, «penetrate».@@
 8906@1@@2v@B run «through» (body) D, as a sword might.@@B-D
 8907@1@@2n@B is some «Cheddar» from S, a cheese.@@B-S
 8908@1@@4v@K «walk through» N on the way to D from S.@@K-NDS
-8909@1@@2v@B «go through»/«run through» N to D from S. e.g. ≤La Tigris tcegoi la Irak lo mursi lo monca.≥  The Tigris runs through Iraq to the sea from the mountains.@@B-N
+8909@1@@2v@B «go through»/«run through» N to D from S. E.g. ≤La Tigris tcegoi la Irak lo mursi lo monca.≥ — The Tigris runs through Iraq to the sea from the mountains.@@B-N
 8910@1@@2v@N «pierce»/«puncture»/«perforate»/make a «hole» in D, nonintentional.@@N-D
 8910@2@@n@a «punch», any device for making holes.@@
 8910@3@nu %@a@«punctured»/«perforated».@@
@@ -16594,7 +16594,7 @@
 8912@2@nu %@a@«punctured»/«perforated».@@
 8912@3@po %@n@a «puncture»/«perforation».@@
 8913@1@@2n@B is a «hole»/«perforation», perforated place in F.@@B-F
-8914@1@@4v@B «come through»/«go through»/«run through» N to D from S. e.g. ≤La Tigris tcegoi la Irak lo mursi lo monca≥  The Tigris runs through Iraq from the mountains to the sea. Cf. ≤tcegoi≥.@@B-NDS
+8914@1@@4v@B «come through»/«go through»/«run through» N to D from S. E.g. ≤La Tigris tcegoi la Irak lo mursi lo monca≥ — The Tigris runs through Iraq from the mountains to the sea. Cf. ≤tcegoi≥.@@B-NDS
 8915@1@@2n@B is a/the «wing» of F.@@B-F
 8916@1@@3v@K «permit» B to go in D.@@K-BD
 8917@1@@1n@B is a «hydrofoil».@@B-
@@ -16721,7 +16721,7 @@
 8986@1@@l@«tau», Greek lower case letter, one of a pool of symbols.@@
 8987@1@@af@a combining form of ≤tepli≥, «church».@@
 8988@1@@2n@B is a «church»/«temple window» in church/temple F.@@B-F
-8989@1@@3n@B is a «bishop»/«priest»/«cardinal»/«canon» over group F for religion N;  any member of a church hierarchy.@@B-FN
+8989@1@@3n@B is a «bishop»/«priest»/«cardinal»/«canon» over group F for religion N; any member of a church hierarchy.@@B-FN
 8990@1@@2n@B is a «church»/«temple» of god(s) S.@@B-S
 8990@2@@a@«clerical»/«ecclesiastical», pert. to churches.@@
 8991@1@@2n@B is an/the «altar» of church/temple F.@@B-F
@@ -16736,7 +16736,7 @@
 8996@1@@2n@B is a «cleric»/«clergyperson»/«priest» of religion N.@@B-N
 8997@1@la %@na@(the planet) «Earth».@@
 8998@1@@af@a combining form of te, «three».@@
-8999@1@@2n@is a «triple»/«trio»/«triad»/«threesome»/3 member subset of set …, a cardinal predicate; e.g., ≤Da tera lea murki≥  X is a trio of monkeys.@@
+8999@1@@2n@is a «triple»/«trio»/«triad»/«threesome»/3 member subset of set …, a cardinal predicate; e.g. ≤Da tera lea murki≥ — X is a trio of monkeys.@@
 9000@1@@2n@F is 2E40 fold «quantity» of B (ISV tebi).@@F-B
 9001@1@@1n@B is some «terbium», element 65 (Tb).@@B-
 9002@1@@3n@B is the «great granddaughter» of grandfather S and grandmother S.@@B-SS
@@ -16746,7 +16746,7 @@
 9005@1@@1n@B is a «tripod».@@B-
 9006@1@@2n@S is a «great grandfather» of P, similarly for older ancestors.@@S-P
 9007@1@@2n@B is the «day after the day after tomorrow» of day F.@@B-F
-9008@1@@2n@B is a «company»/«group», the 3rd smallest military unit in some larger «military organization»/ «force» F, without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤kertergru≥  air group. Cf. ≤surgru≥.@@B-F
+9008@1@@2n@B is a «company»/«group», the 3rd smallest military unit in some larger «military organization»/ «force» F, without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤kertergru≥ — air group. Cf. ≤surgru≥.@@B-F
 9009@1@@1n@B is a «terrapin», a variety of «turtle».@@B-
 9010@1@@2n@F is a «trillionfold»(US)/«billionfold»(UK) of B, (10E12) international prefix.@@F-B
 9011@1@@2n@a/the «third» term/member of series …, an ordinal predicate.@@
@@ -16759,7 +16759,7 @@
 9015@1@@3n@B is a «college» of/specializing in teaching P at (location) N.@@B-PN
 9016@1@@1n@B is a «turkey», a large American fowl.@@B-
 9017@1@@3v@K «trisect» D, cut … into three equal parts along lines N.@@K-DN
-9018@1@@2n@B is a «captain»/«army captain»/«lieutenant senior grade»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murterkoi≥  naval lieutenant senior grade. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+9018@1@@2n@B is a «captain»/«army captain»/«lieutenant senior grade»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murterkoi≥ — naval lieutenant senior grade. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 9019@1@@1a@B is «terrestrial»/«earthbound»/«earth»/«world», pert. to the planet earth.@@B-
 9020@1@@2n@S is a «great grandmother» of P, similarly for older ancestors.@@S-P
 9021@1@@1v@K «triplicate»/«triple», multiply threefold.@@K-
@@ -16770,7 +16770,7 @@
 9024@1@@2n@B is a/the «count»/«earl» of domain N.@@B-N
 9025@1@lao %@na@a variety of «turtle».@@
 9026@1@lao %@na@a «swallow tanager».@@
-9027@1@@1n@B is a «tanager»,  a bird of genus Tersina.@@B-
+9027@1@@1n@B is a «tanager», a bird of genus Tersina.@@B-
 9028@1@@2n@C is the «volume» of B, a container.@@C-B
 9028@2@lo %@n@«volume», mass term.@@
 9029@1@@3v@K «measure» the «volume» of B to be C.@@K-BC
@@ -16778,7 +16778,7 @@
 9030@1@@3n@P is a «statue» of B by K.@@P-BK
 9031@1@@3n@P is the «great grandson» of grandfather S and grandmother S.@@P-SS
 9032@1@@3n@P is the «great grandchild» of grandfather S and grandmother S.@@P-SS
-9033@1@@2n@B is a «corporal» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murtertro≥  petty officer third class.@@B-F
+9033@1@@2n@B is a «corporal» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murtertro≥ — petty officer third class.@@B-F
 9034@1@@4v@K «canter» to D from S via V, a gait.@@K-DSV
 9035@1@@2n@B is a «testicle»/«ovary»/«gonad» of F.@@B-F
 9035@2@@a@«gonadal», pert. to gonads.@@
@@ -16813,7 +16813,7 @@
 9050@1@@ms@«times»/«multiplied by», the multiplication operator, math.@@
 9051@1@@2n@B is an «adoptive father» of D.@@B-D
 9052@1@@2n@B is some «ptyalin» of/from S, a salivary amylase.@@B-S
-9053@1@@3n@B is a «shift key»/«modifier key» selecting value set C on keyboard/system F, default upper case;  a key which modifies the action of other keys.@@B-CF
+9053@1@@3n@B is a «shift key»/«modifier key» selecting value set C on keyboard/system F, default upper case; a key which modifies the action of other keys.@@B-CF
 9054@1@@1a@N is the «Tibetan» language.@@N-
 9055@1@@1a@N is an «Tibetan» place/territory, a region inhabited by Tibetans.@@N-
 9056@1@@1n@B is a «Tibetan» person.@@B-
@@ -16888,7 +16888,7 @@
 9094@1@@3v@D have a «nightmare»/bad «dream» B about V.@@D-BV
 9094@2@nu %@n@a «nightmare», had by … about ….@@
 9094@3@po %@n@a bad «dream»/«nightmare», an event of -ing.@@
-9095@1@@3v@K «reject»/«throw out»/away B  for reason S, as a faulty product.@@K-BS
+9095@1@@3v@K «reject»/«throw out»/away B for reason S, as a faulty product.@@K-BS
 9095@2@nu %@a@«rejected», pert. to an faulty product.@@
 9095@3@po %@n@an instance of «rejection», discarding a faulty object.@@
 9096@1@@2a@V is «sinister» to D.@@V-D
@@ -16973,7 +16973,7 @@
 9143@2@@a@«mammary», pert. to breasts.@@
 9144@1@@1n@B is some «titanium», element 22 (Ti).@@B-
 9145@1@@af@a combining form of ≤tifru≥, «offer».@@
-9146@1@@a@«two»/«pair»/«couple» of …, a description quantifier. E.g., ≤To le fumna pa merji≥  (Some) Two of the women were married;  ≤To fumna pa hijra≥  (Some) Two women were here independently. Cf., ≤tocu≥.@@
+9146@1@@a@«two»/«pair»/«couple» of …, a description quantifier. E.g. ≤To le fumna pa merji≥ — (Some) Two of the women were married; ≤To fumna pa hijra≥ — (Some) Two women were here independently. Cf., ≤tocu≥.@@
 9146@2@@a@«two» (2), in math. expressions.@@
 9146@3@@af@the «digit two» (2), as in ≤netote≥ (123).@@
 9146@4@lio %@ph@«two» (2), the number two, in non math. expressions.@@
@@ -16995,7 +16995,7 @@
 9159@1@@2n@B is a/the «touch», way of touching of S.@@B-S
 9160@1@@2n@B is a «key» to N, for opening locks.@@B-N
 9161@1@@a@«two» (2), in math. expressions.@@
-9161@2@@a@«two»/«pair»/«couple» of … acting together, an indefinite set describer. E.g., ≤Tocu mrenu pa hijra≥  Some two men were here together. Cf., ≤To mrenu pa hijra≥  Some two men were here independently.@@
+9161@2@@a@«two»/«pair»/«couple» of … acting together, an indefinite set describer. E.g. ≤Tocu mrenu pa hijra≥ — Some two men were here together. Cf., ≤To mrenu pa hijra≥ — Some two men were here independently.@@
 9161@3@lio %@ph@«two» (2), the number two, non math.@@
 9162@1@@a@«respective», a discourse operator (UI).@@
 9162@2@@av@«respectively», a discourse operator (UI).@@
@@ -17027,7 +17027,7 @@
 9174@2@po %@n@an «automation», a spec. act of -ing.@@
 9174@3@pu %@a@«automated», conv. of automate.@@
 9175@1@@3v@K «appropriate»/«remove»/«take» (away) B from D.@@K-BD
-9175@2@% ti@i@Here!/«Take» this!, w/o;  1st arg., an imperative.@@
+9175@2@% ti@i@Here!/«Take» this!, w/o; 1st arg., an imperative.@@
 9175@3@nu %@n@an «appropriation», a thing appropriated.@@
 9175@4@po %@n@an «appropriation»/«removal», an act of taking … from.@@
 9176@1@@2n@B is a piece of «chalk» from S.@@B-S
@@ -17088,7 +17088,7 @@
 9207@1@@3v@K «warp»/«twist» D under load C, intentional.@@K-DC
 9207@2@fu %@n@a «torque», an applied load twisting.@@
 9207@3@nu %@a@«twisted», of that which is made -ed.@@
-9208@1@@2v@B «weigh»  C in «ton» (s) Specify ≤gleco≥ or ≤merko≥, or better yet ≤megygramo≥.@@B-C
+9208@1@@2v@B «weigh» C in «ton» (s) Specify ≤gleco≥ or ≤merko≥, or better yet ≤megygramo≥.@@B-C
 9208@2@gleco %@2v@weigh in British «ton» (s) (20cwt, 160 stones 2240lbs) ….@@
 9208@3@merko %@2v@weigh in US «ton» (s) (2000 lbs) ….@@
 9209@1@@2n@B is a «tornado» in F, e.g. ≤Mu pa nu tontetri≥. We had a tornado.@@B-F
@@ -17097,7 +17097,7 @@
 9210@2@% he?@ph@«How-are-you-all»?/«What-are-you-individually»?/«What-does-each-of-you do»?.@@
 9210@3@Hu namci %?@ph@«What-are-your»(-individual) names?.@@
 9211@1@@af@a combining form of to, «two».@@
-9212@1@@2n@is a «pair»/«dyad»/«twosome»/«couple», a two member subset of set …, a cardinal predicate; e.g., ≤Da tora lea blanirda≥  X is a pair of bluebirds.@@
+9212@1@@2n@is a «pair»/«dyad»/«twosome»/«couple», a two member subset of set …, a cardinal predicate; e.g. ≤Da tora lea blanirda≥ — X is a pair of bluebirds.@@
 9212@2@@a@«dyadic»/«dual», pert. to pairs/dyads /two somes/.@@
 9212@3@@n@«both», as in 'both went', the twosome.@@
 9213@1@@1a@B is «binary».@@B-
@@ -17117,7 +17117,7 @@
 9220@1@@2n@S is a «grandfather» of P.@@S-P
 9221@1@@1n@V is the «day after tomorrow».@@V-
 9221@2@@1n@the day after «tomorrow».@@
-9222@1@@2n@B is a «platoon»/«squadron», the 2nd smallest military unit of some larger «military force» F, without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤kertorgru≥  air squadron. Cf. ≤surgru≥.@@B-F
+9222@1@@2n@B is a «platoon»/«squadron», the 2nd smallest military unit of some larger «military force» F, without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤kertorgru≥ — air squadron. Cf. ≤surgru≥.@@B-F
 9223@1@@2n@N is a «treaty»/«accord»/«agreement»/«entente»/«settlement»/«pact» between countries F.@@N-F
 9224@1@@1n@B is some «thorium», element 90 (Th).@@B-
 9225@1@@2n@the «second» term/member of series …, an ordinal predicate.@@
@@ -17131,7 +17131,7 @@
 9229@2@nu %@n@a «rival», one who -s with another … for ….@@
 9230@1@@2n@B is a secondary «school»/«high school» of community F.@@B-F
 9231@1@@2v@K «bisect», cut D into two equal parts.@@K-D
-9232@1@@2n@B is a «first lieutenant»/«lieutenant junior grade»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murtorkoi≥  naval lieutenant junior grade. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+9232@1@@2n@B is a «first lieutenant»/«lieutenant junior grade»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murtorkoi≥ — naval lieutenant junior grade. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 9233@1@@1n@B is a «bicycle», or any two wheeled vehicle.@@B-
 9234@1@@2n@C is a «half hour»/thirty «minute» period of hour B.@@C-B
 9235@1@@3v@K «invert» D/«turn» … «upsidedown», rotates 180° with respect to some axis N (the horizontal axis being the default).@@K-DN
@@ -17172,7 +17172,7 @@
 9255@2@fu %@n@a/the «area» measured.@@
 9256@1@@3n@P is the «grandson» of grandfather S and grandmother S.@@P-SS
 9257@1@@3n@P is the «grandchild» of grandfather S and grandmother S.@@P-SS
-9258@1@@2n@B is a «lance corporal» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murtortro≥  seaman.@@B-F
+9258@1@@2n@B is a «lance corporal» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murtortro≥ — seaman.@@B-F
 9259@1@@1v@V «happen» twice/two times.@@V-
 9259@2@@av@«twice», two times.@@
 9260@1@@2n@B is the «skull» of F.@@B-F
@@ -17572,7 +17572,7 @@
 9467@2@@a@«supervising», pertaining to -ion.@@
 9467@3@@n@«supervisor», one in charge of work.@@
 9467@4@lopo %@n@«supervision», mass term.@@
-9468@1@@3n@B is a «workshift» from time S  to time D, referring to the interval.@@B-SD
+9468@1@@3n@B is a «workshift» from time S to time D, referring to the interval.@@B-SD
 9469@1@@3n@F is a «workshift» from time S to time D (referring to its members).@@F-SD
 9470@1@@3v@K «assign»/«order»/«tell» D to do V.@@K-DV
 9470@2@fu %@n@an «assignment», ork -ed.@@
@@ -17762,7 +17762,7 @@
 9571@3@@pp@«near» …, a large space, be near the place where.@@
 9572@1@@a@«nine» (9), in math. expressions.@@
 9572@2@@af@the «digit nine»(9), as in ≤sevove≥ (789).@@
-9572@3@@l@«nine» (9) (of), a description quantifier. E.g., ≤Ve le fumna pa merji≥  (Some) Nine of the women were married;  ≤Ve fumna pa hijra≥  (Some) Nine women were here independently. Cf., ≤veocu≥.@@
+9572@3@@l@«nine» (9) (of), a description quantifier. E.g. ≤Ve le fumna pa merji≥ — (Some) Nine of the women were married; ≤Ve fumna pa hijra≥ — (Some) Nine women were here independently. Cf., ≤veocu≥.@@
 9572@4@lio %@ph@«nine» (9), the number nine, non math.@@
 9573@1@@af@a combining form of ≤vedma≥, «sell».@@
 9574@1@@af@a combining form of ≤vedma≥, «sell».@@
@@ -17840,17 +17840,17 @@
 9609@2@po %@n@a «sting», an event of -ing.@@
 9610@1@@l@«psi», Greek lower case letter, one of a pool of symbols.@@
 9611@1@@af@a combining form of ≤ve≥, «nine».@@
-9612@1@@2n@B is a «nine member» subset of set F, a cardinal predicate; e.g., ≤Da besbo vera.≥  X is a baseball nine;  ≤Da vera lea besbo.≥  X is a nine member group of baseball players.@@
+9612@1@@2n@B is a «nine member» subset of set F, a cardinal predicate; e.g. ≤Da besbo vera.≥ — X is a baseball nine; ≤Da vera lea besbo.≥ — X is a nine member group of baseball players.@@
 9613@1@@2n@a/the «ninth» term/member of series …, an ordinal predicate.@@
 9613@2@@a@«ninth», of 9th members, before predicates.@@
-9614@1@@2n@B is a «lieutenant general»/«vice admiral»/etc. commanding/«attached to» military unit F, within a military vorvice addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murserkoi≥  vice admiral. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+9614@1@@2n@B is a «lieutenant general»/«vice admiral»/etc. commanding/«attached to» military unit F, within a military vorvice addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murserkoi≥ — vice admiral. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 9615@1@@2n@V is a «September» of year F.@@V-F
 9615@2@la %@na@«September» (the name of the 9th month of the year).@@
 9616@1@@2n@B is some «vermouth» from S.@@B-S
 9617@1@@3n@P is a «poem»/«verse»/a piece of «poetry» about V by poet K.@@P-VK
 9617@2@@a@«poetical», of poems/verse.@@
 9617@3@lo %@n@«poetry»/«verse», mass term.@@
-9618@1@@2n@B is a «sergeant major of the army» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murvertro≥  master chief petty officer of the navy.@@B-F
+9618@1@@2n@B is a «sergeant major of the army» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murvertro≥ — master chief petty officer of the navy.@@B-F
 9619@1@@af@a combining form of ≤versa≥, «verse».@@
 9620@1@@2v@B «hold»/«contain» N, a container of ….@@B-N
 9620@2@@n@a «container»/«vessel», vessel of ….@@
@@ -17877,7 +17877,7 @@
 9627@5@nu %@n@an «invention», an invented thing.@@
 9627@6@po %@n@an «invention», a spec. act of -ing.@@
 9628@1@@2n@B is a «timetable»/«schedule» for events V.@@B-V
-9629@1@@3v@K let V «happen» to D, i.e., doesn't try to stop it.@@K-VD
+9629@1@@3v@K let V «happen» to D, i.e. doesn't try to stop it.@@K-VD
 9630@1@@2n@B is a «program» of V, a list of events, as at a concert.@@B-V
 9631@1@@3v@K make «real to»/«actualize»/«realize» N for D, intentional act.@@K-ND
 9631@2@nu %@a@«realized», made real, conv. of actualize.@@
@@ -17932,13 +17932,13 @@
 9651@3@nu %@a@«conceived», as an idea.@@
 9651@4@nu %@n@«conception», that which is -ed.@@
 9651@5@po %@n@a specific instance of «conception».@@
-9653@1@@pp@«would»/«should»/«could», the objective subjunctive operator;  used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g., ≤Mi hapci vie lepo mi bragai.≥ I am happy in the possible where I am king (I would be happy if I were king). Cf. ≤biumia≥ for the subjective sense of the subjunctive.@@
-9653@2@% ba@ph@«would»/«should»/«could», as used in objective subjunctive sentences in which the causal condition is missing. E.g., ≤Mi hapci vie ba.≥ I would be happy (in some possible world/under some unspecified condition x). Cf. ≤biumia ba≥ for the subjective version of the "missing condition" subjunctive.@@
+9653@1@@pp@«would»/«should»/«could», the objective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci vie lepo mi bragai.≥ I am happy in the possible where I am king (I would be happy if I were king). Cf. ≤biumia≥ for the subjective sense of the subjunctive.@@
+9653@2@% ba@ph@«would»/«should»/«could», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci vie ba.≥ I would be happy (in some possible world/under some unspecified condition x). Cf. ≤biumia ba≥ for the subjective version of the "missing condition" subjunctive.@@
 9654@1@@2a@G is more «idealistic» than J.@@G-J
 9654@2@@n@an «idealism», a spec. creed.@@
 9654@3@lo %@n@«idealism», mass term of creeds.@@
 9655@1@@3v@K has/«hit on idea» V about N.@@K-VN
-9655@2@Soi %@ph@«Eureka»!  «Bingo»!@@
+9655@2@Soi %@ph@«Eureka»! «Bingo»!@@
 9656@1@@av@«throughout», a small place (PA).@@
 9656@2@@c@«throughout», a small place, before clauses.@@
 9657@1@@af@a combining form of ≤vidju≥, «view».@@
@@ -17967,7 +17967,7 @@
 9671@1@@2a@G is more «winey», like wine than J.@@G-J
 9672@1@@1n@B is a quantity of «alcohol», wine substance.@@B-
 9672@2@lo %@n@«alcohol», mass term of quantities.@@
-9673@1@@2v@N «ferment» D/make … alcoholic …, nonintentional;  'yeast ferments sugar'.@@N-D
+9673@1@@2v@N «ferment» D/make … alcoholic …, nonintentional; 'yeast ferments sugar'.@@N-D
 9673@2@lopo %@n@«fermentation», mass term.@@
 9673@3@po %@n@a «fermentation», an act of -ing.@@
 9674@1@@3v@K «ferment» D /make … alcoholic with/by V, intentional.@@K-DV
@@ -18027,7 +18027,7 @@
 9702@3@@pp@«in» …, a small space, before terms.@@
 9703@1@@4v@K «scan» on rewind video record/tape B to position C on machine N.@@K-BCN
 9704@1@@1a@B is «visually impaired»/«blind».@@B-
-9705@1@@4v@K go to «visit» D from S via V.  cf. ≤vizkaa≥.@@K-DSV
+9705@1@@4v@K go to «visit» D from S via V. Cf. ≤vizkaa≥.@@K-DSV
 9706@1@@av@«right here»/at this «spot», before preds.@@
 9706@2@@c@at the spot «where», with point like events.@@
 9706@3@@pp@«at»/«coincident with» …, a point in space.@@
@@ -18076,7 +18076,7 @@
 9724@1@@2n@B is a «lake» of region/land mass F.@@B-F
 9725@1@@a@«eight» (8), in math. expressions.@@
 9725@2@@af@the «digit eight» (8), as in ≤sevove≥ (789).@@
-9725@3@@l@«eight» (8) (of), a description quantifier. E.g., ≤Vo le fumna pa merji≥  (Some) Eight of the women were married;  ≤Vo fumna pa hijra≥  (Some) Eight women were here independently. Cf., ≤vocu≥.@@
+9725@3@@l@«eight» (8) (of), a description quantifier. E.g. ≤Vo le fumna pa merji≥ — (Some) Eight of the women were married; ≤Vo fumna pa hijra≥ — (Some) Eight women were here independently. Cf., ≤vocu≥.@@
 9725@4@lio %@ph@«eight» (8), the number eight, non math.@@
 9726@1@@av@«eighthly», in the eighth place.@@
 9727@1@@av@skipping «details»/without going into «details», a sent. modifier.@@
@@ -18103,17 +18103,17 @@
 9739@2@@n@«eighty», the number 80, in math. exp.@@
 9739@3@lio %@n@«eighty», the number eighty, non math.@@
 9740@1@@af@a combining form of ≤vo≥, «eight».@@
-9741@1@@2n@B is an «octet»/«eight member» subset of set F, a cardinal predicate;  ≤Da vora lea tenhisu.≥  X is a group of eight tennis players.@@
+9741@1@@2n@B is an «octet»/«eight member» subset of set F, a cardinal predicate; ≤Da vora lea tenhisu.≥ — X is a group of eight tennis players.@@
 9742@1@@2v@B measures C in «byte» (s), default 1.@@B-C
 9743@1@@1n@B is an «octahedron».@@B-
 9744@1@@2n@a/the «eighth» term/member of series …, an ordinal predicate.@@
 9744@2@@a@«eighth», of 8th members, before predicates.@@
 9745@1@@2n@B is an «octagon» with vertices F.@@B-F
 9745@2@@a@«octagonal» with vertices ….@@
-9746@1@@2n@B is a «major general»/«rear admiral»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murvorkoi≥  rear admiral. Use ≤surkoi≥. q.v., for officers in general.@@B-F
+9746@1@@2n@B is a «major general»/«rear admiral»/etc. commanding/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murvorkoi≥ — rear admiral. Use ≤surkoi≥. q.v., for officers in general.@@B-F
 9747@1@@2n@V is an «August» of year F.@@V-F
 9747@2@la %@na@«August» (the name of the 8th month of the year).@@
-9748@1@@2n@B is a «sergeant major» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥  (land), ≤mur≥  (sea), ≤ker≥  (air), or ≤spa≥  (space) is prefixed; e.g., ≤murvortro≥  master chief petty officer.@@B-F
+9748@1@@2n@B is a «sergeant major» «controling»/«attached to» military unit F, within a military service addressed without service designation, otherwise ≤lan≥ — (land), ≤mur≥ — (sea), ≤ker≥ — (air), or ≤spa≥ — (space) is prefixed; e.g. ≤murvortro≥ — master chief petty officer.@@B-F
 9749@1@@2n@B is the «liver» of F.@@B-F
 9750@1@@af@a combining form of ≤vreti≥, «vertical».@@
 9751@1@@2a@G is «shorter»/vertically shorter than J.@@G-J
@@ -18135,8 +18135,8 @@
 9759@1@@2n@B is a «tributary»/«branch» of river/river system F.@@B-F
 9760@1@@2n@B is a «bank»/«river bank»/«shore» of river N.@@B-N
 9761@1@@3n@B is a «river» draining basin N of land mass F.@@B-NF
-9762@1@@2n@B is a/the «mouth» of river  F.@@B-F
-9763@1@@3@B is a «swimming race» from S to D.  (use of por is considered poor Loglan).@@B-SD
+9762@1@@2n@B is a/the «mouth» of river F.@@B-F
+9763@1@@3@B is a «swimming race» from S to D. (use of ≤por≥ is considered poor Loglan).@@B-SD
 9764@1@@1n@B is a «river-taxi» of waterway system F.@@B-
 9765@1@@av@«far» (away)/«away» from here, before predicates.@@
 9765@2@@av@«there», in the far distance (a location op.).@@
@@ -18164,7 +18164,7 @@
 9773@1@@av@«far from» this region, before predicates.@@
 9773@2@@c@«far from» where, of extensive events.@@
 9773@3@@pp@«far from» …, a large space, before terms.@@
-9774@1@@l@«X», Latin upper case letter, one of a pool of symbols.  The former ≤Xai≥ is no longer suitable as X is no longer a Loglan letter.@@
+9774@1@@l@«X», Latin upper case letter, one of a pool of symbols. The former ≤Xai≥ is no longer suitable as X is no longer a Loglan letter.@@
 9775@1@@2n@B is some «X radiation» from source S.@@B-S
 9775@2@nu %@n@an «X ray» source.@@
 9776@1@@l@«x», Latin lower case letter, one of a pool of symbols. [original ≤xei≥ no longer suitable as x is not a Loglan letter any more].@@
@@ -18280,31 +18280,31 @@
 9826@1@@2n@B is the 10E 21st «quantity» of F (ISV zepto).@@B-F
 9827@1@@2n@F is 10E21 fold «quantity» of B ( ISV zetta).@@F-B
 9828@1@-zi@af@the mark of «Greek» lower case vowel names as in ≤azi/ezi/izi/≥etc.@@
-9828@2@-zi@af@the point like interval space time suffix, as in ≤fazi≥  'right away'.@@
-9829@1@@af@attached to <predy>, means «part of» <preda> «language»; e.g., ≤lepsyzia≥  rabbit language.@@
-9830@1@@af@attached to <predy>, means «part of» <preda> «territory»; e.g., ≤lepsyzie≥  rabbit territory.@@
+9828@2@-zi@af@the point like interval space time suffix, as in ≤fazi≥ — 'right away'.@@
+9829@1@@af@attached to <predy>, means «part of» <preda> «language»; e.g. ≤lepsyzia≥ — rabbit language.@@
+9830@1@@af@attached to <predy>, means «part of» <preda> «territory»; e.g. ≤lepsyzie≥ — rabbit territory.@@
 9831@1@@1n@B is some «zinc», element 30 (Zn).@@B-
-9832@1@@af@attached to <predy>, means «part of» <preda> «culture»; e.g., ≤lepsyzia≥  rabbit culture.@@
+9832@1@@af@attached to <predy>, means «part of» <preda> «culture»; e.g. ≤lepsyzia≥ — rabbit culture.@@
 9833@1@@2n@B is a «lip» of F.@@B-F
 9834@1@@2n@B is a «moustache» of F.@@B-F
 9835@1@@1n@B is a «jug».@@B-
 9836@1@@1n@B is a quantity of «lipstick».@@B-
-9837@1@@op@an «amount»/«quantity» of …  as in 'the amount of blue', an abstraction operator.@@
+9837@1@@op@an «amount»/«quantity» of …, as in 'the amount of blue', an abstraction operator.@@
 9838@1@@ms@«double prime», mathematical sign.@@
 9839@1@@ms@«single prime», mathematical sign.@@
 9840@1@@av@«by the way»/«incidentally», a discourse operator (UI).@@
 9841@1@@1v@B «buzz»/«hum», a droning sound.@@B-
 9841@2@@n@«buzzer», a device which -es.@@
 9841@3@po %@n@an instance of a «buzz»/«hum».@@
-9842@1@-zu@af@the long interval space time suffix as in ≤fazu≥  'eventually'.@@
-9843@1@@af@attached to <predy>, means «female of this animal»/animallike species/taxon; e.g., ≤mamlyzua≥  is a female mammal.@@
+9842@1@-zu@af@the long interval space time suffix as in ≤fazu≥ — 'eventually'.@@
+9843@1@@af@attached to <predy>, means «female of this animal»/animallike species/taxon; e.g. ≤mamlyzua≥ — is a female mammal.@@
 9843@2@@pp@(sign of the 1st argument DIO).@@
-9844@1@@af@attached to <predy>, means «like this animal»/animallike species/taxon; e.g., ≤mamlyzue≥  is mammalian/like a mammal.@@
+9844@1@@af@attached to <predy>, means «like this animal»/animallike species/taxon; e.g. ≤mamlyzue≥ — is mammalian/like a mammal.@@
 9844@2@@pp@(sign of the 2nd argument DIO).@@
-9845@1@@af@attached to <predy>, means «baby»/«infant of this animal»/animallike species/taxon; e.g., ≤mamlyzui≥  is a baby/infant mammal.@@
+9845@1@@af@attached to <predy>, means «baby»/«infant of this animal»/animallike species/taxon; e.g. ≤mamlyzui≥ — is a baby/infant mammal.@@
 9845@2@@pp@(sign of the 3rd argument DIO).@@
 9846@1@@2n@B is some «zucchini» from S.@@B-S
-9847@1@@af@attached to <predy>, means «male of this animal»/animallike species/taxon; e.g., ≤mamlyzuo≥  is a male mammal.@@
+9847@1@@af@attached to <predy>, means «male of this animal»/animallike species/taxon; e.g. ≤mamlyzuo≥ — is a male mammal.@@
 9847@2@@pp@(sign of the 4th argument DIO).@@
 9848@1@@pp@(sign of the 5th argument DIO).@@
 9849@1@@af@a combining form of ≤zvoto≥, «outside».@@
@@ -18352,7 +18352,7 @@
 9867@4@lopu %@n@«infection», mass property term.@@
 9867@5@nu %@a@«infected», ill with disease —.@@
 9867@6@po %@n@a specific instance of «infection».@@
-9868@1@@2v@B is «married» to outsider B;  «exogamous marriage», specify social groups.@@B-B
+9868@1@@2v@B is «married» to outsider B; «exogamous marriage», specify social groups.@@B-B
 9869@1@@2v@S «output» (s) P.@@S-P
 9869@2@nu %@n@an «output» (from …).@@
 9869@3@po %@n@an inst. of «output» (of …).@@
@@ -18387,7 +18387,7 @@
 9886@2@@a@«exporting» (… to … from …).@@
 9886@3@@n@«exporter» (of … to … from …).@@
 9886@4@nu %@1n@an «export» (by … to … from …).@@
-9887@1@@1n@a «screen». e.g. sunscreen, sieves, windscreen, viewscreen etc.@@K-BFB
+9887@1@@1n@a «screen». E.g. sunscreen, sieves, windscreen, viewscreen etc.@@K-BFB
 9887@2@@4v@K «screen»/«sift»/«strain»/«turn» away/out B from set F retaining B(1).@@
 9888@1@@1n@B is a «sieve».@@B-
 9889@1@@2pp@N is «out»/«outside» of B.@@N-B
@@ -18435,7 +18435,7 @@
 9949@1@@af@a combining form of ≤dirco≥, «direction».@@
 9950@1@@af@a combining form of ≤citre≥, «thread».@@
 9951@1@@af@a combining form of ≤cirzo≥, «scissors».@@
-9952@1@@af@a combining form of ≤ciktu≥ «equal to»/«equally»/«as much as» that makes comparative predas out of non comparative ones. E.g., ≤ckaciu≥ out of ≤ckano≥ (X is kind to Y): ≤Da ckaciu de di do≥  X is as kind to Y as Z is kind to W. Cf. ≤mou≥.@@
+9952@1@@af@a combining form of ≤ciktu≥ «equal to»/«equally»/«as much as» that makes comparative predas out of non comparative ones. E.g. ≤ckaciu≥ out of ≤ckano≥ (X is kind to Y): ≤Da ckaciu de di do≥ — X is as kind to Y as Z is kind to W. Cf. ≤mou≥.@@
 9953@1@@af@a combining form of ≤corta≥, «short».@@
 9954@1@@af@a combining form of ≤cutri≥, «water».@@
 9955@1@@af@a combining form of ≤donsu≥, «give».@@
@@ -18492,7 +18492,7 @@
 10006@1@@af@a combining form of ≤mitro≥, «meat».@@
 10007@1@@af@a combining form of ≤minku≥, «mineral».@@
 10008@1@@af@a combining form of ≤modvi≥, «motive».@@
-10009@1@@af@a combining form of ≤mordu≥ «more»/ er than that makes comparative predas out of non comparative ones. E.g., ≤ckamou≥ out of ≤ckano≥ (X is kind to Y): ≤Da ckamou de di do≥  X is kinder to Y than Z is kind to W. Cf. ≤ciu≥.@@
+10009@1@@af@a combining form of ≤mordu≥ «more»/ er than that makes comparative predas out of non comparative ones. E.g. ≤ckamou≥ out of ≤ckano≥ (X is kind to Y): ≤Da ckamou de di do≥ — X is kinder to Y than Z is kind to W. Cf. ≤ciu≥.@@
 10010@1@@af@a combining form of ≤muvdo≥, «move».@@
 10011@1@@af@a combining form of ≤nadzo≥, «now».@@
 10012@1@@af@a combining form of ≤nedza≥, «next».@@
@@ -18544,7 +18544,7 @@
 10058@1@@3v@X is the «word class» of word Y in language Z.@@
 10059@1@@3v@X is the «structure word class» of structure word Y in language Z.@@
 10060@1@@3v@X is the «grammar class» of utterance Y in language Z.@@
-10061@1@@3v@X is a «metaphor» (in the sense of Loglan grammar)  in which predicate Y modifies predicate Z.@@
+10061@1@@3v@X is a «metaphor» (in the sense of Loglan grammar) in which predicate Y modifies predicate Z.@@
 10061@2@nufu %@2v (3v)@X «modifies» Y (in metaphor Z).@@
 10062@1@@1n@X is an «elephant».@@
 10063@1@@1n@X is a female «elephant».@@
@@ -18557,10 +18557,10 @@
 10070@1@@1n@X is a male Asian «elephant».@@
 10071@1@@1n@X is an Asian «elephant».@@
 10073@1@la %@na@«Japan», the name of the country.@@
-10074@1@la %@na@«Japanese», the  language.@@
+10074@1@la %@na@«Japanese», the language.@@
 10075@1@@af@«more than», quantifier prefix.@@
 10076@1@@af@«less than», quantifier prefix.@@
-10077@1@@af@«thousand», quantifier suffix, formerly  ≤mo≥.@@
+10077@1@@af@«thousand», quantifier suffix, formerly ≤mo≥.@@
 10078@1@@l@the letter «a» -- letteral and pronoun -- lower case.@@
 10079@1@@l@the letter «A» -- letteral and pronoun -- upper case.@@
 10080@1@@l@the letter «e» -- letteral and pronoun -- lower case.@@
@@ -18583,7 +18583,7 @@
 10097@1@@2n@B is a «kaleidoscope» of type N.@@
 10098@1@@2n (3n)@X is more «aerodynamic» than Y (in medium Z).@@
 10099@1@@2n@X is a «battery» for appliance Y.@@
-10100@1@@c@short scope  «event» predicate constructor, modification of ≤po≥.@@
+10100@1@@c@short scope «event» predicate constructor, modification of ≤po≥.@@
 10101@1@@op@short scope «quality» abstractor, variant of ≤pu≥.@@
 10102@1@@op@short scope «quantity» abstractor, variant of ≤zo≥.@@
 10103@1@@i@attitudinal marking «answer»s.@@
