@@ -689,7 +689,7 @@
 449@3@@pp@«beside» ….@@
 450@1@@3v@K «interpose» (s) between B and B.@@K-BB
 450@2@lopo %@n@«interposition», placing … between … and ….@@
-451@1@@av@«possible»/«perhaps»/«maybe», the objective sense. E.g., ≤Da biu mamla≥  X is possibly a mammal. Cf. ii for the subjective sense.@@
+451@1@@av@«possible»/«perhaps»/«maybe», the objective sense. E.g., ≤Da biu mamla≥ — X is possibly a mammal. Cf. ≤ii≥ for the subjective sense.@@
 451@2@@in@«possibly», is possibly true/may happen (under the circumstances implied by speech) (PA). E.g., ≤Ta biu mamla≥  That's possibly a mammal.@@
 451@3@@pp@(that … is) «maybe»/«possible» under conditions …, used before state/event terms. E.g., ≤Da mamla biu ta≥  (That) X is a mammal is possible under those conditions.@@
 452@1@@3v@K «judge» (s) the behavior of D about N.@@K-DN
@@ -1696,7 +1696,7 @@
 1011@1@@3v@K «spin» material S into thread P.@@K-SP
 1012@1@@1n@B is a (piece of) «thread» of substance S.@@B-S
 1012@2@lo %@n@«thread», mass term.@@
-1013@1@@pp@«as much as»/«to the same degree as», an oper. used before args to give the accompanying non comparative ≤preda≥ a comparative sense (PA). E.g., ≤Da farfu ciu de≥  X is a father as much as Y is  X is as much a father as Y is. Cf. mou.@@
+1013@1@@pp@«as much as»/«to the same degree as», an oper. used before args to give the accompanying non comparative ≤preda≥ a comparative sense (PA). E.g., ≤Da farfu ciu de≥  X is a father as much as Y is  X is as much a father as Y is. Cf. ≤mou≥.@@
 1014@1@@2a@D is «indifferent» to B, have the same opinion about … e.g. I'm indifferent to whether to use ≤'norfio'≥ or ≤'fiocle'≥.@@D-B
 1014@2@po %@n@an «indifference» to /about …  same opinion about ….@@
 1015@1@@3n@B is an «equation» relating C and C.@@B-CC
@@ -10490,7 +10490,7 @@
 5625@2@@a@«community»/«communal», pertaining to -s.@@
 5625@3@treci %@Ph@an «interest community», a group with common interests.@@
 5626@1@@2n@B is some «Muenster» from S, a cheese.@@B-S
-5627@1@@p@«we»/«us»/«ourselves» (you and I and others independently) cf. mu/mo, miu/mio.@@
+5627@1@@p@«we»/«us»/«ourselves» (you and I and others independently) cf. ≤mu/mo, miu/mio≥.@@
 5628@1@@2v@K «bump»/«collide»/«crash with»/«run into» D.@@K-D
 5628@2@po %@n@a «collision»/«bump»/«crash», an act/event of -ing.@@
 5629@1@@4v@K «move»/«remove» B to D from S, nonintentional.@@K-BDS
