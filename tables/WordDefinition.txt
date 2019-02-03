@@ -1590,7 +1590,7 @@
 951@1@@1n@B is a «swan», a bird of spp. Cygnus.@@B-
 952@1@@af@a combining form of ≤ciktu≥, «equal».@@
 953@1@@3v@K «catch up»/become «equal» to B in V.@@K-BV
-954@1@@2a@K is «indifferent» to V, feel the same about … e.g. I'm indifferent to whether you serve tea or coffee.@@K-V
+954@1@@2a@K is «indifferent» to V, feel the same about …. E.g. I'm indifferent to whether you serve tea or coffee.@@K-V
 954@2@po %@n@an «indifference» to /about … equal feeling for ….@@
 955@1@@2n@B is a «stork» from S.@@B-S
 956@1@@2n@B has a «cycle» of C per unit time; default 1 per sec.@@B-C
@@ -1697,7 +1697,7 @@
 1012@1@@1n@B is a (piece of) «thread» of substance S.@@B-S
 1012@2@lo %@n@«thread», mass term.@@
 1013@1@@pp@«as much as»/«to the same degree as», an oper. used before args to give the accompanying non comparative ≤preda≥ a comparative sense (PA). E.g. ≤Da farfu ciu de≥ — X is a father as much as Y is X is as much a father as Y is. Cf. ≤mou≥.@@
-1014@1@@2a@D is «indifferent» to B, have the same opinion about … e.g. I'm indifferent to whether to use ≤'norfio'≥ or ≤'fiocle'≥.@@D-B
+1014@1@@2a@D is «indifferent» to B, have the same opinion about …. E.g. I'm indifferent to whether to use ≤'norfio'≥ or ≤'fiocle'≥.@@D-B
 1014@2@po %@n@an «indifference» to /about …, same opinion about ….@@
 1015@1@@3n@B is an «equation» relating C and C.@@B-CC
 1016@1@@af@a combining form of ≤ckano≥, «kind».@@
@@ -4060,7 +4060,7 @@
 2184@2@@a@«moving»/«touching», emotionally touching, of an incident.@@
 2184@3@nu %@v@«touched»/made to feel emotion by incident ….@@
 2184@4@po %@n@«emotion», brought about in … by ….@@
-2185@1@@2a@K is «indifferent» to V, complete lack of feeling about … E.g. I'm indifferent to Third World poverty.@@K-V
+2185@1@@2a@K is «indifferent» to V, complete lack of feeling about …. E.g. I'm indifferent to Third World poverty.@@K-V
 2185@2@po %@n@an «indifference» to /about …, lack of feeling for ….@@
 2185@3@pu %@n@«apathy».@@
 2186@1@@2a@G is more «emotional»/full of emotions than J is.@@G-J
@@ -10915,7 +10915,7 @@
 5842@1@@1v@K «ovulate», produce eggs.@@K-
 5842@2@lp po %@n@«ovulation», mass term of acts.@@
 5842@3@po %@n@an «ovulation», a spec. act/event of -ing.@@
-5843@1@@2v@V is «slow»/«short» by C, have a negative error in … e.g. ≤Lemi jokla ga negnurtse lio fe minta≥, My watch is 5 minutes slow.@@V-C
+5843@1@@2v@V is «slow»/«short» by C, have a negative error in …. E.g. ≤Lemi jokla ga negnurtse lio fe minta≥ — My watch is 5 minutes slow.@@V-C
 5844@1@@4v@K «subtract» B from F getting difference C.@@K-BFC
 5844@2@lopo %@n@«subtraction», mass term of acts.@@
 5844@3@po %@n@a «subtraction», a spec. act of -ing.@@
@@ -11760,7 +11760,7 @@
 6254@3@nu %@n@some «mail», material sent by post.@@
 6255@1@@pp@Products/Purposes, case tag («product»/«purpose»).@@
 6256@1@@af@a combining form of ≤pozvo≥, «positive».@@
-6257@1@@2v@V is «fast»/«over» by C, have a positive error in … e.g. ≤Lemi jokla ga povnurtse lio fe minta≥, My watch is 5 minutes fast.@@V-C
+6257@1@@2v@V is «fast»/«over» by C, have a positive error in …. E.g. ≤Lemi jokla ga povnurtse lio fe minta≥ — My watch is 5 minutes fast.@@V-C
 6258@1@@af@a combining form of ≤pozfa≥, «oppose».@@
 6259@1@@3v@K «oppose»/«resist»/be «against» K on issue/matter N.@@K-KN
 6259@2@@a@«against»/«resisting», opposed to … on issue ….@@
@@ -12679,7 +12679,7 @@
 6777@3@lo %@n@«subscribers» of/to periodicals, mass term.@@
 6777@4@lo % je da@n@the «subscribers» of/to X, partial mass term.@@
 6777@5@lopo %@n@«subscription», the mass of such events. V (K BVC).@@
-6777@6@po %@n@a «subscription» by … to … E.g. ≤Lepo mi … da ga meisto ne nirne.≥ — My subscription to X lasts one year. V (K-BVC).@@
+6777@6@po %@n@a «subscription» by … to …. E.g. ≤Lepo mi … da ga meisto ne nirne.≥ — My subscription to X lasts one year. V (K-BVC).@@
 6778@1@@4v@K «precede»/go «earlier than»/go «before» B to D from S.@@K-BDS
 6778@2@@ph@«after you»!/«go first», imperatives.@@
 6778@3@po %@n@a «precedence», an act of going before.@@
