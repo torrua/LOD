@@ -16074,7 +16074,7 @@
 8632@1@@3v@K «guard»/«protect» D against V.@@K-DV
 8632@2@@a@«guarding»/«protecting» (… against …), pertaining to the action.@@
 8632@3@@n@«guardian»/«protector» (of … against …).@@
-8632@4@po %@n@a «protection» (… against …), the act therof.@@
+8632@4@po %@n@a «protection» (… against …), the act thereof.@@
 8633@1@@2v@B «desire»/«crave»/«long» for, have an insatiable desire for V.@@B-V
 8633@2@nu %@n@a «desire»/«craving», a thing -ed, conv. of crave.@@
 8633@3@po %@n@a «desire»/«longing»/«craving», an act/state of craving.@@
@@ -16218,7 +16218,7 @@
 8702@2@@2n@a «pulse» of ….@@
 8703@1@@2n@D have a sudden «insight» about N, a "Eureka" incident.@@D-N
 8704@1@@2n@V is a «torrent» of F.@@V-F
-8705@1@@op@ converts a «onamatopoetic» sound to a predicate '≤Le katma pa sue miao.≥' 'The cat meouwed.' (PREDA).@@
+8705@1@@op@ converts a «onamatopoetic» sound to a predicate '≤Le katma pa sue miao.≥' — 'The cat meouwed.' (PREDA).@@
 8706@1@@av@«also»/«too»/«moreover»/«besides»/«as well»/in «addition»/«furthermore», a discourse operator (UI).@@
 8706@2@@av@«neither»/«either»/«nor», in the senses 'He didn't either/Neither did he/Nor did he'.@@
 8706@3@% ue@av@«even», as in 'I couldn't remember even the simplest tunes.'.@@
@@ -16264,7 +16264,7 @@
 8728@1@@3n@P is a/the «son» of parents S.@@P-S
 8728@2@@a@«filial», pert. to sons.@@
 8729@1@@3n@P is a/the (filial) «grandson» of B through son S.@@P-BS
-8730@1@@p@«self»/«own» as in ≤ra lufta lesuo kupta≥ (Each lifted his own cup).@@
+8730@1@@p@«self»/«own» as in ≤ra lufta lesuo kupta≥ — (Each lifted his own cup).@@
 8731@1@@af@a combining form of ≤supta≥, «soup».@@
 8732@1@@2a@G is «soupier» than J.@@G-J
 8732@2@@a@«soupy», more like soup than ….@@
