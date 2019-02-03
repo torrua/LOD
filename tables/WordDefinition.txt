@@ -6803,7 +6803,7 @@
 3623@1@@l@«I», Latin upper case letter, one of a pool of symbols.@@
 3624@1@@2a@D is «immune» to B.@@D-B
 3625@1@@c@«that», in order that, motiv'l with clauses.@@
-3625@2@@c@«because»/«since»/«for»/«as», of motives, as in 'because i wanted it'.@@
+3625@2@@c@«because»/«since»/«for»/«as», of motives, as in 'because I wanted it'.@@
 3626@1@@2n@B measures C in «inch» (es), a unit measuring 2.54cm.@@B-C
 3627@1@@1@B is some «indium», element 49 (In).@@B-
 3628@1@@1n@D suffers from «flu»/«influenza».@@D-
@@ -6834,7 +6834,7 @@
 3645@1@@c@«whether not» …, …, between sentences, reduces to ≤inucu≥, q.v.@@
 3645@2@@c@«comma», in 'whether not …, … ' w/sents.@@
 3646@1@@c@«whether not» … not, bet. sents., reduces to ≤inucunoi≥, q.v.@@
-3647@1@@c@«even though»/«although»/«despite», of unproductive reasons ('although i earned it').@@
+3647@1@@c@«even though»/«although»/«despite», of unproductive reasons ('although I earned it').@@
 3648@1@@c@«even though»/«although»/«despite», of unproductive premises ('although two is even').@@
 3649@1@lao %@na@the «Insecta», the insect family.@@
 3650@1@@2n@B is some «insulin» from S.@@B-S
@@ -6846,19 +6846,19 @@
 3655@1@@c@«whether» …, not …, a single word used between sents./clauses.@@
 3656@1@@c@«hence»/«consequently»<, of physical consequences, as in 'so it rained'>.@@
 3656@2@@c@«therefore»/«thus»/«so», of physical consequences, between sents. as in 'so it rained'.@@
-3657@1@@c@«therefore»/«thus»/«so», of motivated consequences, between sents. as in 'so i went'.@@
-3657@2@@c@«consequently»/«hence»<, of motivated consequences, as in 'so i went'>.@@
+3657@1@@c@«therefore»/«thus»/«so», of motivated consequences, between sents. as in 'so I went'.@@
+3657@2@@c@«consequently»/«hence»<, of motivated consequences, as in 'so I went'>.@@
 3658@1@@av@«even», use sent. op. 'even so', phys. cause.@@
 3658@2@@c@«still»/«yet», of unexpected events ('even so, it's wet').@@
 3658@3@@c@«nevertheless»/«even so»/«all the same», of unexpected events ('even so, it's wet').@@
 3659@1@@av@«even», use sent. op. 'even so'.@@
-3659@2@@c@«still»/«yet», of unmotivated acts ('even so, i went').@@
-3659@3@@c@«nevertheless»/«even so»/«all the same», of unmotivated acts ('even so, i went').@@
+3659@2@@c@«still»/«yet», of unmotivated acts ('even so, I went').@@
+3659@3@@c@«nevertheless»/«even so»/«all the same», of unmotivated acts ('even so, I went').@@
 3660@1@@av@«even», use sent. op. 'even so', justifying.@@
-3660@2@@c@«nevertheless»/«even so»/«all the same», of unjustified events ('even so, i won').@@
-3660@3@@c@«still»/«yet», of unjustified events ('even so, i won').@@
+3660@2@@c@«nevertheless»/«even so»/«all the same», of unjustified events ('even so, I won').@@
+3660@3@@c@«still»/«yet», of unjustified events ('even so, I won').@@
 3661@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unentailed concl'ns (even so, it's true).@@
-3662@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of justified consequences, as in 'so i won'.@@
+3662@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of justified consequences, as in 'so I won'.@@
 3663@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of entailed consequences, as in 'so 2 is prime.'.@@
 3664@1@@i@I «expect»/in all likelyhood …, exp. of moderate belief.@@
 3664@2@@i@«apparently»/«probably»/it is «likely that» …, exp. of moderate belief.@@
@@ -6867,7 +6867,7 @@
 3666@1@@3n@B is an «ion» of S with charge C.@@B-SC
 3666@2@@a@«ionic», pert. to -s.@@
 3667@1@@2v@K «ionize» to P, form ions ….@@K-P
-3668@1@@c@«because»/«since»/«for»/«as», of reasons, as in 'because i earned it'.@@
+3668@1@@c@«because»/«since»/«for»/«as», of reasons, as in 'because I earned it'.@@
 3669@1@@1n@B is some «iridium», element 77 (Ir).@@B-
 3670@1@@2n@B is an «iris» of F.@@B-F
 3671@1@@2n@B is an «isomer» of B.@@B-B
