@@ -695,12 +695,12 @@
 452@1@@3v@K «judge» (s) the behavior of D about N.@@K-DN
 452@2@@n@«arbiter»/«arbitrator», one who judges behaviour.@@
 452@3@po %@n@«arbitration», a spec. instance of -ing.@@
-453@1@@pp@«could»/«might»/«would possibly», the subjective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci biumia lepo mi bragai≥ I am possibly happy in the mental place where I am king (I might be happy if I were king).@@
-453@2@% ba@ph@«could»/«might»/«would possibly», as used in subjective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci biumia ba≥ I might be happy (in some mental place/under some unspecified condition x).@@
+453@1@@pp@«could»/«might»/«would possibly», the subjective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci biumia lepo mi bragai≥ — I am possibly happy in the mental place where I am king (I might be happy if I were king).@@
+453@2@% ba@ph@«could»/«might»/«would possibly», as used in subjective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci biumia ba≥ — I might be happy (in some mental place/under some unspecified condition x).@@
 454@1@@2a@K is «harsh» in behaviour N - see specific sense words.@@K-N
 454@2@lopu %@n@«harshness»/«severity» (in behaviour …).@@
-455@1@@pp@«could»/«might»/«would possibly», the objective subjunctive operator; used before an argument, usually a lepo clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci biuvie lepo mi bragai≥ I am possibly happy in the possible world where I am king (I might be happy if I were king). Cf. ≤biumia≥ for the subjective sense of this subjunctive.@@
-455@2@% ba@ph@«could»/«might»/«would possibly», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci biuvie ba≥ I might be happy (in some possible world/under some unspecified condition x). Cf. ≤biumia ba≥ for the subjective version of this subjunctive.@@
+455@1@@pp@«could»/«might»/«would possibly», the objective subjunctive operator; used before an argument, usually a lepo clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci biuvie lepo mi bragai≥ — I am possibly happy in the possible world where I am king (I might be happy if I were king). Cf. ≤biumia≥ for the subjective sense of this subjunctive.@@
+455@2@% ba@ph@«could»/«might»/«would possibly», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci biuvie ba≥ — I might be happy (in some possible world/under some unspecified condition x). Cf. ≤biumia ba≥ for the subjective version of this subjunctive.@@
 456@1@@af@a combining form of ≤bivdu≥, «behave».@@
 457@1@@3v@V «adapt»/«adjust»/«fit» behavior to situation N by V.@@V-NV
 457@2@@a@«adaptable» (behaviourally)/«adaptive» (to situations).@@
@@ -986,7 +986,7 @@
 605@1@@2a@G is more «stormy»/«boisterous» than J.@@G-J
 605@2@@v@«storm», behave stormily.@@
 605@3@pu %@n@a «boisterousness»/«storminess», a spec. property.@@
-606@1@@2n@V is a «windstorm» in F, e.g. ≤Mu pa nu britetri≥ We had a windstorm.@@V-F
+606@1@@2n@V is a «windstorm» in F, e.g. ≤Mu pa nu britetri≥ — We had a windstorm.@@V-F
 606@2@@a@«stormy» (of the type specified).@@
 607@1@@1n@B is a «British» person.@@B-
 608@1@@1n@V is «British» culture.@@V-
@@ -2664,9 +2664,9 @@
 1495@1@@av@«probably»/«likely to be», the objective sense. E.g. ≤Da dau mamla≥ — X is probably/likely to be a mammal. Cf. ≤io≥ for the subjective sense.@@
 1495@2@@in@«probably», is probably true/will probably happen (under the circumstances implied by speech) (PA). E.g. ≤Ta dau mamla≥ — That's probably a mammal.@@
 1495@3@@pp@(that … is) «probable»/«likely» under conditions …, used before state/event terms. E.g. ≤Da mamla dau ta≥ — (That) X is a mammal is likely under those conditions.@@
-1496@1@@pp@«should»/«would probably», a probability specific subjective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci daumia lepo mi bragai≥ I am probably happy in the mental place where I am king (I would probably be happy if I were king).@@
-1497@1@@pp@«should»/«would probably», a probability specific objective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci dauvie lepo mi bragai≥ I am probably happy in the possible world where I am king (I would probably be happy if I were king). Cf. ≤daumia≥ for the subjective sense of this subjunctive.@@
-1497@2@% ba@ph@«should»/«would probably», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci dauvie ba≥ I would probably be happy (in some possible world/under some unspecified condition x). Cf. ≤daumia ba≥ for the suobjective sense of this subjunctive.@@
+1496@1@@pp@«should»/«would probably», a probability specific subjective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci daumia lepo mi bragai≥ — I am probably happy in the mental place where I am king (I would probably be happy if I were king).@@
+1497@1@@pp@«should»/«would probably», a probability specific objective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci dauvie lepo mi bragai≥ — I am probably happy in the possible world where I am king (I would probably be happy if I were king). Cf. ≤daumia≥ for the subjective sense of this subjunctive.@@
+1497@2@% ba@ph@«should»/«would probably», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci dauvie ba≥ — I would probably be happy (in some possible world/under some unspecified condition x). Cf. ≤daumia ba≥ for the suobjective sense of this subjunctive.@@
 1498@1@@af@a combining form of ≤danza≥, «want».@@
 1499@1@@4v@K «tempt» D to do V by inducement N (intentionally).@@K-DVN
 1499@2@@n@«tempter», one who -s.@@
@@ -4294,7 +4294,7 @@
 2312@1@@2n@B is a «flap», a folded piece of F.@@B-F
 2313@1@@1n@B is a «folding» table/«tray table».@@B-
 2314@1@@av@«fourthly», in the fourth place.@@
-2315@1@@aux@«must»/is «obliged to» …, objective sense used before predicates (PA). E.g. ≤Mi foi godzi da≥ I must go to X. Cf. ≤oa≥ for subjective sense: ≤oa mi godzi da≥ I must go to X.@@
+2315@1@@aux@«must»/is «obliged to» …, objective sense used before predicates (PA). E.g. ≤Mi foi godzi da≥ — I must go to X. Cf. ≤oa≥ for subjective sense: ≤oa mi godzi da≥ — I must go to X.@@
 2315@2@@pp@«in»/«during»/«under» …, used before event/state terms to specify the conditions of an obligation.@@
 2316@1@@5v@K «force to walk» B to D from S via V.@@K-BDSV
 2316@2@po %@n@a «forced march», as of prisoners.@@
@@ -5034,7 +5034,7 @@
 2719@1@@3v@K «predestine» V for D.@@K-VD
 2719@2@lopo %@n@«predestination», mass term.@@
 2719@3@nu %@a@«predestined».@@
-2720@1@@aux@«should»/«ought to» …, objective sense used before predicates (PA). E.g. ≤Mi fui godzi da≥ I should go to X. Cf. ≤oe≥ for subjective sense: ≤Oe mi godzi da≥ I should go to X.@@
+2720@1@@aux@«should»/«ought to» …, objective sense used before predicates (PA). E.g. ≤Mi fui godzi da≥ — I should go to X. Cf. ≤oe≥ for subjective sense: ≤Oe mi godzi da≥ — I should go to X.@@
 2720@2@@pp@«in»/«during»/«under» …, used before event/state terms to specify the conditions of an injunction.@@
 2721@1@@1a@N is «forward looking»/«progressive».@@N-
 2722@1@@3n@B is a «prospect» for V under conditions N.@@B-VN
@@ -5157,7 +5157,7 @@
 2764@4@pu %@n@a/the «imaginability»/«conceivability»/«describability» of specific places/worlds/things, a spec. property of such things.@@
 2765@1@@3n@P is a/the «reason»/«purpose»/«end» for means V being used by K.@@P-VK
 2765@2@@n@the «function» of (system/tool) ….@@
-2766@1@@1n@B «function», to be operating. E.g. ≤le matci ga —.≥ — The machine is functional. ≤le matci na —≥ — The machine is running.@@B-
+2766@1@@1n@B «function», to be operating. E.g. ≤le matci ga —.≥ — The machine is functional. ≤le matci na —.≥ — The machine is running.@@B-
 2766@2@@a@«functioning»/«operating», carrying out a —.@@
 2767@1@@3n@K «function» (system/apparatus) B to (do) V.@@K-BV
 2767@2@@a@«functioning», pert. to the act of -ing ….@@
@@ -7615,7 +7615,7 @@
 4061@1@@4v@B is the «predicate»/«word» with meaning Fand number of places X in (Loglandical) language Y.@@
 4061@2@@n@a «predicate», a predicate word/expression.@@
 4061@3@nu %@n@a «meaning», of a predicate.@@
-4062@1@@aux@«can»/is «able to» …, used before predicates (PA). E.g. ≤Mi kau godzi da≥ I can go to X.@@
+4062@1@@aux@«can»/is «able to» …, used before predicates (PA). E.g. ≤Mi kau godzi da≥ — I can go to X.@@
 4062@2@@pp@«in»/«during»/«under» …, used before event/state terms to specify the conditions of an ability/ capability.@@
 4063@1@@3v@K «growl»/«snarl» at D for/under conditions N.@@K-DN
 4063@2@po %@n@a «growl»/«snarl», as of a dog.@@
@@ -10869,7 +10869,7 @@
 5818@1@@af@a combining form of ≤nerbi≥, «necessary».@@
 5819@1@@3v@N «necessitate» V, make … necessary for P, nonintentional.@@N-VP
 5819@2@nu %@n@a «necessity», that which is made necessary.@@
-5820@1@@2av@V «without»/«lacking»/for «want of» B, e.g. ≤Le nebcle ji ne naldi pa dirlycko le dorja≥ "For want of a nail, the war was lost".@@V-B
+5820@1@@2av@V «without»/«lacking»/for «want of» B, e.g. ≤Le nebcle ji ne naldi pa dirlycko le dorja≥ — "For want of a nail, the war was lost".@@V-B
 5821@1@@2n@B is a «nebula» in F.@@B-F
 5822@1@@3v@K «necessitate» B, make … necessary for V, intentional.@@K-BV
 5822@2@nu %@n@a «necessity», that which is made necessary.@@
@@ -11288,7 +11288,7 @@
 6012@2@pu %@n@a «snowiness», a spec. property.@@
 6013@1@@2v@D is «snowed» on by weather system N.@@D-N
 6013@2@Ti %@ph@It's «snowing».@@
-6014@1@@2n@B is a «snowstorm» in F, e.g. ≤Mu pa nu nictetri≥ We had a snowstorm.@@B-F
+6014@1@@2n@B is a «snowstorm» in F, e.g. ≤Mu pa nu nictetri≥ — We had a snowstorm.@@B-F
 6014@2@@a@«stormy» (of the type specified).@@
 6015@1@@1n@B is a «needle», instrument for sewing.@@B-
 6016@1@@av@in «detail»/«looking closely», a discourse oper., used before sentences (UI).@@
@@ -12020,7 +12020,7 @@
 6388@1@@h@«Mr»/«Ms»/«Mrs», an attitudinal indicating both distance and neutrality; part of the series ≤'rie/kae/nue/fie/die'≥, q.v.; always follows a designation/vocative. E.g. ≤'Smiq, Nue.'≥ — 'Smith, Mr.' ('Mr. Smith'); ≤'Ne nu sange nue'≥ 'A suggestion toward which.@@
 6389@1@@op@reorders the 1st three places of a ≤preda≥ as 231.@@
 6390@1@@op@exchanges the 2nd and 3rd places of a predicate.@@
-6391@1@@aux@«may»/is «permitted to» …, objective sense used before predicates (PA). E.g. ≤Tu nui godzi da≥ You may/are permitted to go to X. Cf. ≤oi≥ for subjective sense: ≤Oi tu godzi da≥ You may go to X.@@
+6391@1@@aux@«may»/is «permitted to» …, objective sense used before predicates (PA). E.g. ≤Tu nui godzi da≥ — You may/are permitted to go to X. Cf. ≤oi≥ for subjective sense: ≤Oi tu godzi da≥ — You may go to X.@@
 6391@2@@pp@«in»/«during»/«under» …, used before event/state terms to specify the conditions of a permission.@@
 6392@1@@2n@B is the «nucleus» of (cell/atom) F.@@B-F
 6392@2@% acdi@ph@a «nucleic acid», the basic genetic material.@@
@@ -12083,7 +12083,7 @@
 6429@1@@2a@G is more «silly»/«frivolous»/«paltry», less grave than J.@@G-J
 6429@2@lopu %@n@«frivolity»/«frivolousness» (about …), mass prop.@@
 6429@3@po %@n@a «frivolity», a spec. state/event.@@
-6430@1@@mod@2nd «reflexive», equivalent to inserting a second argument identical to the 1st argument e.g. ≤Da nuo ditka≥ — he bit himself.@@
+6430@1@@mod@2nd «reflexive», equivalent to inserting a second argument identical to the 1st argument. E.g. ≤Da nuo ditka≥ — he bit himself.@@
 6431@1@@af@a combining form of ≤nu≥, 2nd place «passive».@@
 6432@1@@pp@«therefore» (decision) ….@@
 6433@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of justification, with ≤ki≥ in ≤'nurauki … ki … ≥; best translated … because(reason) … '.@@
@@ -14348,7 +14348,7 @@
 7670@1@@af@a combining form of ≤prizi≥, «private».@@
 7671@1@@2n@B is a «club»/private «association»/«society» including member(s) F.@@B-F
 7672@1@@a@«many»/a large number of set …, a quantifying operator.@@
-7672@2@-ro@af@ … -st/-nd/-rd/-th, the quality ordinal suffix, postfixed to integers e.g. ≤le tori gudbi bedpu≥ - the second-best bed.@@
+7672@2@-ro@af@ … -st/-nd/-rd/-th, the quality ordinal suffix, postfixed to integers e.g. ≤le tori gudbi bedpu≥ — the second-best bed.@@
 7673@1@@af@a combining form of ≤rodja≥, «grow».@@
 7674@1@@2n@S is a «culture»/«medium»/«substrate» for growing P.@@S-P
 7675@1@@1n@B is a/the «grain», growth mark(s) of, as of wood.@@B-
@@ -14387,7 +14387,7 @@
 7702@1@@2a@G is «rougher»/more «abrasive», less smooth than J.@@G-J
 7702@2@@a@«rough», more abrasive than ….@@
 7702@3@pu %@n@a «roughness»/«abrasiveness», a spec. property.@@
-7703@1@@aux@«will»/«intend to»/«mean to» …, objective sense used before predicates (PA). E.g. ≤Mi roi godzi da≥ I will/intend to go to X. Cf. ≤ai≥ for subjective sense: ≤Ai mi godzi da≥ I intend to go to X.@@
+7703@1@@aux@«will»/«intend to»/«mean to» …, objective sense used before predicates (PA). E.g. ≤Mi roi godzi da≥ — I will/intend to go to X. Cf. ≤ai≥ for subjective sense: ≤Ai mi godzi da≥ — I intend to go to X.@@
 7703@2@@pp@«in»/«during»/«under» …, used before event/state terms to specify the conditions of an intention.@@
 7704@1@@2v@K «glare» at D, look angrily at.@@K-D
 7705@1@@2v@V «annoy»/«irritate» B.@@V-B
@@ -15218,8 +15218,8 @@
 8187@2@lopu %@n@«understanding», mass prop.@@
 8187@3@nu %@a@«understood», of known systems.@@
 8187@4@po %@n@an «understanding»/«comprehension», a state of -ing.@@
-8188@1@@pp@«would»/«would certainly», a probability specific subjective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci siomia lepo mi bragai≥ I am certainly happy in the mental place where I am king (I would certainly be happy if I were king).@@
-8188@2@% ba@ph@«would»/«would certainly», as used in subjective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci siomia ba≥ I would certainly be happy (in some mental place/under some unspecified condition x).@@
+8188@1@@pp@«would»/«would certainly», a probability specific subjective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci siomia lepo mi bragai≥ — I am certainly happy in the mental place where I am king (I would certainly be happy if I were king).@@
+8188@2@% ba@ph@«would»/«would certainly», as used in subjective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci siomia ba≥ — I would certainly be happy (in some mental place/under some unspecified condition x).@@
 8189@1@@1v@V is a «system crash», an inadvertent system failure (≤sisrod -cko≥ and ≤-mao≥ are also possible).@@V-
 8189@2@po %@n@an inst. of a «system crash».@@
 8190@1@@3v@K «reform» D by V.@@K-DV
@@ -15227,8 +15227,8 @@
 8190@3@po %@1n@«reform»/an act of -ing.@@
 8191@1@@3v@K «learn system» N from S.@@K-NS
 8192@1@@3n@B is a «diagram»/«illustration» of S made by K.@@B-SK
-8193@1@@pp@«would»/«would certainly», a probability specific objective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci siovie lepo mi bragai≥ I am certainly happy in the possible world where I am king (I would certainly be happy if I were king). Cf. ≤siomia≥ for the subjective sense of this subjunctive.@@
-8193@2@% ba@ph@«would»/«would certainly», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci siovie ba≥ I would certainly be happy (in some possible world/under some unspecified condition x). Cf. ≤siomia ba≥ for the subjective sense of this subjective.@@
+8193@1@@pp@«would»/«would certainly», a probability specific objective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci siovie lepo mi bragai≥ — I am certainly happy in the possible world where I am king (I would certainly be happy if I were king). Cf. ≤siomia≥ for the subjective sense of this subjunctive.@@
+8193@2@% ba@ph@«would»/«would certainly», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci siovie ba≥ — I would certainly be happy (in some possible world/under some unspecified condition x). Cf. ≤siomia ba≥ for the subjective sense of this subjective.@@
 8194@1@@af@a combining form of ≤sirto≥, «certain».@@
 8195@1@@2v@D become «certain»/«convinced» of/that N is true.@@D-N
 8195@2@@i@«make sure»!, … /o 1st arg., an imperative.@@
@@ -15602,7 +15602,7 @@
 8380@7@nu fu nu %@a@«closer» than … is to …, 3 ple conv.@@
 8380@8@po %@n@a «closeness»/«nearness», a spec. state.@@
 8380@9@pu %@n@a «closeness»/«nearness»/«proximity», a spec. property.@@
-8381@1@@2n@B is a «cluster»/spatial «group»/physical «aggregatation» the elements of which are physically close to one another and belong to some superset F. E.g. ≤Ne snisei je lo troku≥ - A cluster of rocks.@@B-F
+8381@1@@2n@B is a «cluster»/spatial «group»/physical «aggregatation» the elements of which are physically close to one another and belong to some superset F. E.g. ≤Ne snisei je lo troku≥ — A cluster of rocks.@@B-F
 8381@2@nu %@n@a/the «superset» of some cluster ….@@
 8382@1@@2n@B is the «vicinity»/«neighborhood» of F, general term for proximity.@@B-F
 8382@2@@av@«nearby», something reasonably close.@@
@@ -17091,7 +17091,7 @@
 9208@1@@2v@B «weigh» C in «ton» (s) Specify ≤gleco≥ or ≤merko≥, or better yet ≤megygramo≥.@@B-C
 9208@2@gleco %@2v@weigh in British «ton» (s) (20cwt, 160 stones 2240lbs) ….@@
 9208@3@merko %@2v@weigh in US «ton» (s) (2000 lbs) ….@@
-9209@1@@2n@B is a «tornado» in F, e.g. ≤Mu pa nu tontetri≥. We had a tornado.@@B-F
+9209@1@@2n@B is a «tornado» in F, e.g. ≤Mu pa nu tontetri≥ — We had a tornado.@@B-F
 9209@2@@a@«stormy» (of the type specified).@@
 9210@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "each of you individually" sense, the plural 2nd person mutliple variable, of several persons spoken/written to independently. Cf. ≤tu≥ for the singular sense of you, ≤tou≥ for the "you all collectively" sense of you, and ≤tuu/tuo≥ for the "you and others" sense of you.@@
 9210@2@% he?@ph@«How-are-you-all»?/«What-are-you-individually»?/«What-does-each-of-you do»?.@@
@@ -17679,7 +17679,7 @@
 9529@1@@1n@B is an «airsickness bag».@@B-
 9530@1@@af@a combining form of ≤valna≥, «violent».@@
 9531@1@@2n@V is a «hurricane», violent wind from storm center S.@@V-S
-9532@1@@2n@V is a «hurricane» in S, e.g. ≤Mu pa nu vanbritetri.≥ We had a hurricane.@@V-S
+9532@1@@2n@V is a «hurricane» in S, e.g. ≤Mu pa nu vanbritetri.≥ — We had a hurricane.@@V-S
 9532@2@@a@«stormy» (of the type specified).@@
 9533@1@@2v@K «rage» about/at/in N.@@K-N
 9534@1@@3n@V is a «riot» of F against N.@@V-FN
@@ -17932,8 +17932,8 @@
 9651@3@nu %@a@«conceived», as an idea.@@
 9651@4@nu %@n@«conception», that which is -ed.@@
 9651@5@po %@n@a specific instance of «conception».@@
-9653@1@@pp@«would»/«should»/«could», the objective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci vie lepo mi bragai.≥ I am happy in the possible where I am king (I would be happy if I were king). Cf. ≤biumia≥ for the subjective sense of the subjunctive.@@
-9653@2@% ba@ph@«would»/«should»/«could», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci vie ba.≥ I would be happy (in some possible world/under some unspecified condition x). Cf. ≤biumia ba≥ for the subjective version of the "missing condition" subjunctive.@@
+9653@1@@pp@«would»/«should»/«could», the objective subjunctive operator; used before an argument, usually a ≤lepo≥ clause, to give the accompanying predicate a subjunctive sense (PA). E.g. ≤Mi hapci vie lepo mi bragai.≥ — I am happy in the possible where I am king (I would be happy if I were king). Cf. ≤biumia≥ for the subjective sense of the subjunctive.@@
+9653@2@% ba@ph@«would»/«should»/«could», as used in objective subjunctive sentences in which the causal condition is missing. E.g. ≤Mi hapci vie ba.≥ — I would be happy (in some possible world/under some unspecified condition x). Cf. ≤biumia ba≥ for the subjective version of the "missing condition" subjunctive.@@
 9654@1@@2a@G is more «idealistic» than J.@@G-J
 9654@2@@n@an «idealism», a spec. creed.@@
 9654@3@lo %@n@«idealism», mass term of creeds.@@
@@ -18435,7 +18435,7 @@
 9949@1@@af@a combining form of ≤dirco≥, «direction».@@
 9950@1@@af@a combining form of ≤citre≥, «thread».@@
 9951@1@@af@a combining form of ≤cirzo≥, «scissors».@@
-9952@1@@af@a combining form of ≤ciktu≥ «equal to»/«equally»/«as much as» that makes comparative predas out of non comparative ones. E.g. ≤ckaciu≥ out of ≤ckano≥ (X is kind to Y): ≤Da ckaciu de di do≥ — X is as kind to Y as Z is kind to W. Cf. ≤mou≥.@@
+9952@1@@af@a combining form of ≤ciktu≥ «equal to»/«equally»/«as much as» that makes comparative predas out of non comparative ones. E.g. ≤ckaciu≥ — out of ≤ckano≥ (X is kind to Y): ≤Da ckaciu de di do≥ — X is as kind to Y as Z is kind to W. Cf. ≤mou≥.@@
 9953@1@@af@a combining form of ≤corta≥, «short».@@
 9954@1@@af@a combining form of ≤cutri≥, «water».@@
 9955@1@@af@a combining form of ≤donsu≥, «give».@@
@@ -18492,7 +18492,7 @@
 10006@1@@af@a combining form of ≤mitro≥, «meat».@@
 10007@1@@af@a combining form of ≤minku≥, «mineral».@@
 10008@1@@af@a combining form of ≤modvi≥, «motive».@@
-10009@1@@af@a combining form of ≤mordu≥ «more»/ er than that makes comparative predas out of non comparative ones. E.g. ≤ckamou≥ out of ≤ckano≥ (X is kind to Y): ≤Da ckamou de di do≥ — X is kinder to Y than Z is kind to W. Cf. ≤ciu≥.@@
+10009@1@@af@a combining form of ≤mordu≥ «more»/ er than that makes comparative predas out of non comparative ones. E.g. ≤ckamou≥ — out of ≤ckano≥ (X is kind to Y): ≤Da ckamou de di do≥ — X is kinder to Y than Z is kind to W. Cf. ≤ciu≥.@@
 10010@1@@af@a combining form of ≤muvdo≥, «move».@@
 10011@1@@af@a combining form of ≤nadzo≥, «now».@@
 10012@1@@af@a combining form of ≤nedza≥, «next».@@
