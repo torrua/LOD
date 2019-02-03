@@ -2373,7 +2373,7 @@
 1345@1@@2v@be/become B is «guarded»/«protected»/«secure»/«preserved» from (danger) N, intransitive.@@B-N
 1345@2@@a@«guarded»/«protected», of that which is -ed.@@
 1345@3@po %@n@a «preservation»/«security», a state of being -ed.@@
-1346@1@@3v@V «secure»/«protect»/«preserve»/«guard» D from danger/threat N, nonintentional i.e. paint protects iron from rust.@@V-DN
+1346@1@@3v@V «secure»/«protect»/«preserve»/«guard» D from danger/threat N (nonintentional), i.e. paint protects iron from rust.@@V-DN
 1346@2@@a@«protective», of that which -s.@@
 1346@3@@n@a «guardian»/«protector», that which -s.@@
 1346@4@nu %@a@«guarded»/«protected», of that which is so -ed.@@
@@ -3753,7 +3753,7 @@
 2028@1@@3v@K cause «trouble» for D by V, intentional.@@K-DV
 2028@2@@a@«troublesome», of troublemakers.@@
 2028@3@@n@a «troublemaker», one who causes trouble.@@
-2028@4@po %@n@«trouble», an event of, as in "≤Mi no stodaa lepo fatmoa≥" — "I don't want trouble".@@
+2028@4@po %@n@«trouble», an event of, as in '≤Mi no stodaa lepo fatmoa≥' — 'I don't want trouble'.@@
 2029@1@@2v@K «tolerate» (annoyance) N.@@K-N
 2029@2@lopu %@n@«toleration» (of annoyance …), mass property.@@
 2030@1@@2a@G is/are more «carefree» than J.@@G-J
@@ -4199,7 +4199,7 @@
 2255@4@po %@n@a specific instance of «melting»/«dissolution»/«condensation»/«liquefaction».@@
 2256@1@@4v@N «liquefy»/«melt»/make liquid S into D under conditions N, nonintentional; 'the sun melts the ice'.@@N-SDN
 2256@2@po %@n@a «melting»/«dissolution»/«liquefaction», an act of -ing.@@
-2257@1@@2a@B is normally «liquid», i.e. under conditions (of temerature and pressure) N.@@B-N
+2257@1@@2a@B is normally «liquid», i.e. under conditions (of temperature and pressure) N.@@B-N
 2257@2@@n@a «liquid», a quantity of liquid.@@
 2257@3@lo %@n@«liquid», mass term.@@
 2258@1@@2a@G is more «juicy» than J.@@G-J
@@ -5412,7 +5412,7 @@
 2887@2@@n@a «gardener», one who -s.@@
 2887@3@@v@«garden», cultivate garden ….@@
 2888@1@@voc@«Queen», a vocative.@@
-2888@2@la %@na@«Queen», a name/name part as in '≤la garf meris≥';.@@
+2888@2@la %@na@«Queen», a name/name part as in '≤la garf meris≥'.@@
 2889@1@@2n@B is the «president»/«premier»/«prime» minister of F.@@B-F
 2889@2@@a@«presidential», pert. to presidents.@@
 2889@3@po %@n@a «presidency», a state of being a -dent.@@
@@ -7008,7 +7008,7 @@
 3752@1@@2n@B is an «envelope»/«wrapping» of D (packages/data points etc.).@@B-D
 3753@1@@3v@K «envelop»/«wrap»/«enclose» D in B.@@K-DB
 3753@2@nu %@a@«enveloped»/«wrapped»/«enclosed» (by … in …).@@
-3754@1@@2v@S «tighten»/«shrink» D (non intentional) i.e. Hot water shrinks wool.@@S-D
+3754@1@@2v@S «tighten»/«shrink» D (non intentional), i.e. Hot water shrinks wool.@@S-D
 3755@1@@3v@K «seal» D with B, tightly close, as an envelope.@@K-DB
 3756@1@@2v@K «grasp» D firmly.@@K-D
 3757@1@@2v@K «wring» D.@@K-D
@@ -8118,7 +8118,7 @@
 4320@1@@1n@B is a piece/length of «line»/«cord»/«rope»/«twine»/«string».@@B-
 4320@2@@a@«string»/«twine»/«cord», made of —.@@
 4320@3@@n@a «rope»/«string»/«twine»/«cordage», mass term.@@
-4320@4@% cpula@ph@«warp», as a boat i.e. pull in with cords.@@
+4320@4@% cpula@ph@«warp», as a boat, i.e. pull in with cords.@@
 4321@1@@3v@K «adapt» to environment N by bodily changes V.@@K-NV
 4321@2@@a@«adapted»/«adaptable», of that which changes bodily.@@
 4321@3@po %@n@an «adaptation», a spec. state/process.@@
@@ -10018,7 +10018,7 @@
 5351@5@po %@n@an instance of «evasion» (of …).@@
 5352@1@@2n@B is a «sanctuary» of/for D, a place where one is free from being caught/punished.@@B-D
 5353@1@@1a@N is «abstract»/«unobservable».@@N-
-5354@1@@1a@B is «unheard» of, in the sense That's unheard of i.e. not to be believed.@@B-
+5354@1@@1a@B is «unheard» of, in the sense That's unheard of, i.e. not to be believed.@@B-
 5355@1@@1a@B is «solid», «cavity free», contains no cavities.@@B-
 5355@2@@n@a «solid» object, i.e. containing no cavities.@@
 5356@1@@1n@B is a «superconductor».@@B-
@@ -10174,7 +10174,7 @@
 5447@1@@2a@B is «nervous»/«uneasy»/«anxious» about F.@@B-F
 5447@2@lopo %@1n@«nerves»/«nervousness», the mass of such states.@@
 5447@3@po %@1n@«nerves»/«nervousness»/«uneasiness», a spec.state of being -ous.@@
-5448@1@@p@«we»/«us»/«ourselves», in the "I/me and others independently" sense, the 1st & 3rd person mutliple variable. Equivalent to '≤mi, e da≥'. Cf. ≤mu/mo≥ for the "you and I/me" sense of we/us, and ≤muu/muo≥ for the "you and I and others" sense of we/us.@@
+5448@1@@p@«we»/«us»/«ourselves», in the "I/me and others independently" sense, the 1st & 3rd person multiple variable. Equivalent to '≤mi, e da≥'. Cf. ≤mu/mo≥ for the "you and I/me" sense of we/us, and ≤muu/muo≥ for the "you and I and others" sense of we/us.@@
 5449@1@@2a@G is «meatier» than J is.@@G-J
 5449@2@@a@«meaty», meatier than ….@@
 5450@1@@1n@B is a «butcher», a preparer of meat for sale.@@B-
@@ -10232,7 +10232,7 @@
 5481@1@@3v@K «mine» P from S, removes mineral … from … by mining.@@K-PS
 5481@2@@n@a «miner», one who -s minerals/ores.@@
 5482@1@@1n@B is a «miner», one who mines.@@B-
-5483@1@@p@«we»/«us»/«ourselves», in the "you and I/me independently" sense, the 1st & 2nd person mutliple variable. Equivalent to '≤mi, e tu≥'. Cf. ≤mu≥ for the "you and I/me jointly" sense of we/us, ≤miu/mio≥ for the "I and others" sense of we/us, and ≤muu/muo≥ for the "you and I and others" sense of we/us.@@
+5483@1@@p@«we»/«us»/«ourselves», in the "you and I/me independently" sense, the 1st & 2nd person multiple variable. Equivalent to '≤mi, e tu≥'. Cf. ≤mu≥ for the "you and I/me jointly" sense of we/us, ≤miu/mio≥ for the "I and others" sense of we/us, and ≤muu/muo≥ for the "you and I and others" sense of we/us.@@
 5484@1@@af@a combining form of ≤monca≥, «mountain».@@
 5485@1@@af@a combining form of ≤motci≥, «motor».@@
 5486@1@@2v@K «motorize» D, furnish with a motor.@@K-D
@@ -10844,7 +10844,7 @@
 5807@1@@3v@K «root» in D for P, dig with the snout.@@K-DP
 5808@1@@2n@B is a/the «day» of V, some event.@@B-V
 5808@2@@av@«today», the current day, incompl.@@
-5809@1@@3n@P is a/the «heading»/«course» of vessel B thru point V.@@P-BV
+5809@1@@3n@P is a/the «heading»/«course» of vessel B through point V.@@P-BV
 5810@1@@av@right «now»/at this «instant».@@
 5810@2@@c@at the time «when», momentary event clauses.@@
 5810@3@@pp@«at»/«coincident» with …, an instant in time.@@
@@ -12684,7 +12684,7 @@
 6778@2@@ph@«after you»!/«go first», imperatives.@@
 6778@3@po %@n@a «precedence», an act of going before.@@
 6778@4@pu %@n@«precedence», property of one who -s.@@
-6779@1@@3n@V is a «course» (made good) by vessel B thru points C.@@V-BC
+6779@1@@3n@V is a «course» (made good) by vessel B through points C.@@V-BC
 6780@1@@1a@N is «prehistoric».@@N-
 6781@1@@1n@B is a fact/law/principle of «paleoanthropology».@@B-
 6781@2@lo %@n@«paleoanthropology», the science of early man.@@
@@ -13353,7 +13353,7 @@
 7119@1@@2v@N «open»/«start» function V, nonintentional.@@N-V
 7120@1@@3n@F is a «process» passing through stages B of system N.@@F-BN
 7120@2@@a@«continuous»/«continuing», pert. to processes.@@
-7120@3@@vi@«continue»/«persist», thru stages … of …, as a process.@@
+7120@3@@vi@«continue»/«persist», through stages … of …, as a process.@@
 7120@4@Djela %!@ph@«Stay well»!, a common valediction.@@
 7120@5@nu %@n@the «states»/«stages», of a system in process, q.v.@@
 7120@6@nu %@ph@the stages of a «process», conv. form.@@
@@ -14698,7 +14698,7 @@
 7884@2@@n@a «starter»/«initiator», one who -s.@@
 7884@3@nu %@n@«initiate», one who/that which is -ed.@@
 7884@4@po %@n@a «start»/«initiation», an act of -ing.@@
-7885@1@@2n@B is the «opening» of F i.e. a play, meeting, opera etc.@@B-F
+7885@1@@2n@B is the «opening» of F, i.e. a play, meeting, opera etc.@@B-F
 7886@1@@1v@V «begin»/«start»/«commence».@@V-
 7886@2@napa %@v@V has «started» to happen.@@
 7887@1@@v@K «catch sight of» D.@@K-D
@@ -15256,7 +15256,7 @@
 8199@4@nu %@a@«convinceable», can be -ed.@@
 8199@5@po %@n@an «assurance», an act of -ing.@@
 8199@6@po nu %@n@a «conviction»/«assurance», a state of being -ed.@@
-8200@1@@3a@state/event V is «sure»/«certain» to be/happen/has a probability of 1.0 of being/happening umder conditions N given knowledge system S.@@V-NS
+8200@1@@3a@state/event V is «sure»/«certain» to be/happen/has a probability of 1.0 of being/happening under conditions N given knowledge system S.@@V-NS
 8200@2@@a@«certain»/«inevitable»/«bound to happen».@@
 8200@3@@n@a «certainty»/«inevitability», something that is bound to happen.@@
 8200@4@lopu %@n@«certainty», the mass of such properties.@@
@@ -15332,7 +15332,7 @@
 8232@1@@1n@B is a serving/quantity of «coffee» from source S.@@B-S
 8233@1@@2v@B, a point in 3 space above a planet, or a flying object, or a building or other vertical object, measures C scalar units in «height»/rises … scalar units vertically above the surface of the planet or its own base.@@B-C
 8233@2@fu %@n@an «altitude scale»/altitude «scale», one for measuring alt.@@
-8234@1@@3n@B has a «temperature» of C, a dim. num. E.g. ≤La Djan skahatro lio 100 F≥ — John has a temperature of 100 degrees Fahrenheit.@@B-CF
+8234@1@@3n@B has a «temperature» of C, a dim. num. E.g. ≤La Djan skahatro lio 38 C≥ — John has a temperature of 38 degrees Celsius.@@B-CF
 8234@2@nu %@n@a «temperature»/«heat», in the units of some scale.@@
 8235@1@@2v@B «last» (s) C, a dim. num. representing an interval on some time scale. E.g. ≤La Po Genbra, pa skakeo lio sate heknie≥ — The Rennaissance lasted about three centuries.@@B-C
 8235@2@nu %@n@a «term»/«time»/«interval», in the units of some scale.@@
@@ -15374,7 +15374,7 @@
 8259@1@@2v@K «sit on» B.@@K-B
 8259@2@@n@a «sitter», one who sits.@@
 8259@3@po %@n@«sitting», an act of -ing.@@
-8260@1@@1n@B is a (pair of )«ski» (s).@@B-
+8260@1@@1n@B is a (pair of) «ski»(s).@@B-
 8260@2@lo %@n@«skis», general term for skis.@@
 8261@1@@1n@B suffer(s) from «sclerosis», tissue hardening.@@B-
 8261@2@@a@«sclerotic», pert. to ….@@
@@ -15417,7 +15417,7 @@
 8277@3@po %@n@a specific instance of «congratulation».@@
 8278@1@@af@a combining form of ≤slano≥, «slow».@@
 8279@1@@1v@D is/are «slowed down»/«slackened» (actor unspecified).@@D-
-8280@1@@2v@N «slow down»/«slacken» D, (nonintentional cause) i.e. The wind slows down the cyclist.@@N-D
+8280@1@@2v@N «slow down»/«slacken» D, (nonintentional cause), i.e. The wind slows down the cyclist.@@N-D
 8281@1@@4v@K «stroll» to D from S via V.@@K-DSV
 8282@1@@2v@K «slow down»/«slacken» D, (intentional act).@@K-D
 8283@1@@3a@G is «slower», less fast than J by C.@@G-JC
@@ -15968,8 +15968,8 @@
 8574@2@@n@a «threatener», one who -s to do … to ….@@
 8574@3@nu %@n@a «threat», that which is -ed, conv. form.@@
 8574@4@po %@n@a «threat», an act of -ing.@@
-8575@1@@3v@N «scar» D with S (nonintentionally) i.e. The accident scarred him for life.@@N-DS
-8576@1@@3v@K «scar» D with S (intentionally) e.g. a tattoo or other intentional scar.@@K-DS
+8575@1@@3v@N «scar» D with S (nonintentionally), i.e. The accident scarred him for life.@@N-DS
+8576@1@@3v@K «scar» D with S (intentionally), e.g. a tattoo or other intentional scar.@@K-DS
 8577@1@@3n@B is a «scar» on D made by V.@@B-DV
 8578@1@@4v@K «compensate»/«redress»/make «amends to» D for B by V.@@K-DBV
 8578@2@po %@n@a «compensation», an event of making amends.@@
@@ -16879,7 +16879,7 @@
 9087@1@@2v@K «worsen» N/make … «worse».@@K-N
 9088@1@@2a@C is «too» much/an «excessive» amount of F.@@C-F
 9089@1@@1n@B is an «oven» in F, general term.@@B-F
-9090@1@@2v@D «tolerate» (bad coditions) N.@@D-N
+9090@1@@2v@D «tolerate» (bad conditions) N.@@D-N
 9090@2@lopu %@n@«toleration» (of bad conditions …), mass property.@@
 9091@1@@3v@K «solicit» D for copulation for price/reward C.@@K-DC
 9092@1@@2v@D is «viciously pleased» by N, e.g. smoking.@@D-N
@@ -17093,7 +17093,7 @@
 9208@3@merko %@2v@weigh in US «ton» (s) (2000 lbs) ….@@
 9209@1@@2n@B is a «tornado» in F, e.g. ≤Mu pa nu tontetri≥ — We had a tornado.@@B-F
 9209@2@@a@«stormy» (of the type specified).@@
-9210@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "each of you individually" sense, the plural 2nd person mutliple variable, of several persons spoken/written to independently. Cf. ≤tu≥ for the singular sense of you, ≤tou≥ for the "you all collectively" sense of you, and ≤tuu/tuo≥ for the "you and others" sense of you.@@
+9210@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "each of you individually" sense, the plural 2nd person multiple variable, of several persons spoken/written to independently. Cf. ≤tu≥ for the singular sense of you, ≤tou≥ for the "you all collectively" sense of you, and ≤tuu/tuo≥ for the "you and others" sense of you.@@
 9210@2@% he?@ph@«How-are-you-all»?/«What-are-you-individually»?/«What-does-each-of-you do»?.@@
 9210@3@Hu namci %?@ph@«What-are-your»(-individual) names?.@@
 9211@1@@af@a combining form of to, «two».@@
@@ -18136,7 +18136,7 @@
 9760@1@@2n@B is a «bank»/«river bank»/«shore» of river N.@@B-N
 9761@1@@3n@B is a «river» draining basin N of land mass F.@@B-NF
 9762@1@@2n@B is a/the «mouth» of river F.@@B-F
-9763@1@@3@B is a «swimming race» from S to D. (use of ≤por≥ is considered poor Loglan).@@B-SD
+9763@1@@3@B is a «swimming race» from S to D. (Use of ≤por≥ is considered poor Loglan).@@B-SD
 9764@1@@1n@B is a «river-taxi» of waterway system F.@@B-
 9765@1@@av@«far» (away)/«away» from here, before predicates.@@
 9765@2@@av@«there», in the far distance (a location op.).@@
