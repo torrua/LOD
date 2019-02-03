@@ -307,7 +307,7 @@
 219@1@@1n@B is a «bathroom».@@B-
 220@1@@5av@G is «beyond»/«farther than» J from D on route V by distance C.@@G-JDVC
 221@1@@3v@K «infer»/«induce» P from data S.@@K-PS
-221@2@lopu %@n@«induction»/(inductive) «inference», mass preoperty of the process.@@
+221@2@lopu %@n@«induction»/(inductive) «inference», mass property of the process.@@
 221@3@nu %@n@an (inductive) «inference».@@
 222@1@@3v@G «surpass»/«pass»/«go past»/«overtake» J doing/going to D.@@G-JD
 222@2@nu %@a@«passed»/«surpassed»/«overtaken», conv. of overtake/surpass.@@
@@ -1629,7 +1629,7 @@
 969@3@lo %@n@«autumn»/«fall», mass term.@@
 970@1@@1n@B is a female «chimpanzee».@@B-
 971@1@@1a@N pertains to a «chimpanzee», is chimpanzee like.@@N-
-972@1@@1n@B is a «chimpanzee» ≤(Kongo chimpenzi)≥.@@B-
+972@1@@1n@B is a «chimpanzee» (≤Kongo chimpenzi≥).@@B-
 973@1@@1n@B is an infant «chimpanzee».@@B-
 973@2@@n@B is an infant «chimpanzee».@@
 974@1@@1n@B is a male «chimpanzee».@@B-
@@ -3885,7 +3885,7 @@
 2101@2@lo %@n@«iron ore», mass term.@@
 2102@1@@1n@K is a «blacksmith», a worker in iron.@@K-
 2103@1@@af@a combining form of ≤fekto≥, «fact».@@
-2104@1@@3v@D «know» (s) B from source S, book learning as opposed to experience ≤(spedja)≥.@@D-BS
+2104@1@@3v@D «know» (s) B from source S, book learning as opposed to experience (≤spedja≥).@@D-BS
 2105@1@@2n@B is a «database» about F.@@B-F
 2106@1@@3v@B are actually «related» to/«occur» in the same world as F according to point-of view/observer/metaphysics/reality N.@@B-FN
 2107@1@@2n@F is a «computer memory» of type B.@@F-B
@@ -13938,7 +13938,7 @@
 7443@3@@av@«weekly», happening every week.@@
 7444@1@@1v@V have a «monthly rhythm»/happen «every month».@@V-
 7444@2@@a@«monthly»/«menstrual», every month.@@
-7444@3@@av@«monthly», occuring every month.@@
+7444@3@@av@«monthly», occurring every month.@@
 7445@1@@1v@V have a «nightly rhythm»/happen «every night».@@V-
 7445@2@@a@«nightly», every night.@@
 7445@3@@av@«nocturnally»/«nightly», occurring every night.@@
@@ -14203,7 +14203,7 @@
 7591@1@@3v@K let «read» book B by D c.f. ≤vizlei≥.@@K-BD
 7592@1@@2v@K «experience» B «vicariously» by reading about it.@@K-B
 7593@1@@2v@K «discover»/«find out» B by reading about it.@@K-B
-7594@1@@h@«sir»/«madam»/«sire»/«m»'am/«honorable», an attitudinal used by an inferior addresng a superior; part of the series '≤rie/kae/nue/fie/die≥', q.v.; always follows a designation/vocative. E.g. '≤Gandias Smiq, Rie≥' — 'Professor Smith, Sir'. (DIE).@@
+7594@1@@h@«sir»/«madam»/«sire»/«m»'am/«honorable», an attitudinal used by an inferior addressing a superior; part of the series '≤rie/kae/nue/fie/die≥', q.v.; always follows a designation/vocative. E.g. '≤Gandias Smiq, Rie≥' — 'Professor Smith, Sir'. (DIE).@@
 7595@1@@1n@B is an «instrument maker».@@B-
 7596@1@@af@a combining form of ≤briga≥, «brave».@@
 7597@1@@2v@D is «discouraged» about V.@@D-V
@@ -14464,7 +14464,7 @@
 7746@3@lo %@n@(the) «Romans», the mass of all romans.@@
 7747@1@@1a@B is «Roman», of the Roman culture.@@B-
 7748@1@@1n@K is a «Latin speaker», a speaker of the … language.@@K-
-7749@1@@1a@B is «romance», pert. to languages derived from Latin ≤(romna)≥.@@B-
+7749@1@@1a@B is «romance», pert. to languages derived from Latin (≤romna≥).@@B-
 7750@1@@af@a combining form of ≤brona≥, «brown».@@
 7751@1@@av@«frequently»/«often».@@
 7752@1@@2v@K «toast»/«brown» B.@@K-B
