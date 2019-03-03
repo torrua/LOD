@@ -10275,7 +10275,7 @@
 5506@1@su%@ms@—«million», add 6 zeros to the number.@@
 5507@1@@af@a combining form of ≤monca≥, «mountain».@@
 5509@1@@3v@K «overload»/«overburden» D with N.@@K-DN
-5510@1@@2n@B is a local «valley» of river/stream S, cf. nuvri basin.@@B-S
+5510@1@@2n@B is a local «valley» of river/stream S, cf. ≤nurvri≥, basin.@@B-S
 5511@1@@2n@B is a «mountain»/«hill» of land mass F.@@B-F
 5512@1@@2a@B is «blissful»/«ecstatic»/«rapturous» over V.@@B-V
 5512@2@lopu %@n@«bliss»/«ecstasy»/«rapture», mass term of property.@@
