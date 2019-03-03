@@ -1,7 +1,5 @@
 1@Start@@The initial vocabulary before updates.@@
-2@94/2@1994@Any 3+ syllable Complex that is CVC initial AND the C/C is a permissible initial must be 'y' hyphenated. The Slinkui test is vacated, and Tosmabru is replaced by this.
-
-Eg: 'paslinkui' -> 'pasylinkui' while the currently prohibitted '*tosmabru' -> 'tosymabru'.@@
+2@94/2@1994@Any 3+ syllable Complex that is CVC initial AND the C/C is a permissible initial must be 'y' hyphenated. The Slinkui test is vacated, and Tosmabru is replaced by this. Eg: 'paslinkui' -> 'pasylinkui' while the currently prohibitted '*tosmabru' -> 'tosymabru'.@@
 3@No double vowels in borrowings@2013@Doubled vowels (which require one to be stressed) are prohibited from Borrowings so they can be attached to Complexes without problems. Only 'alkooli' -> 'alkoholi' is affected.@@
 4@Randall Trial Words 1@12/18/2013@Randall Holmes trial words plus grammar vocab@Randall Trial@RH1
 5@Randall Dictionary Cleanup@1/15/2016@parsed all the words in the dictionary, identified ones that the parser did not recognize as words@RDC@
