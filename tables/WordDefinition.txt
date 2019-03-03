@@ -8922,7 +8922,7 @@
 4782@1@@2n@N is a/the «language»/«tongue» of B.@@N-B
 4782@2@@a@«linguistic», pert. to languages.@@
 4782@3@lo %@n@«language», mass term.@@
-4783@1@@2n@B is a «hole»/«gap»/«absent» element in language F.@@B F
+4783@1@@2n@B is a «hole»/«gap»/«absent» element in language F.@@B-F
 4784@1@@2n@V is an «electric charge» in/on object B.@@V-B
 4784@2@@a@«electrical»/«electric», pert. to electric charges on ….@@
 4784@3@@n@a spec. charge of «electricity» in/on object ….@@
@@ -9312,7 +9312,7 @@
 4990@1@@pm@The spoken word …, a single word «quotation mark».@@
 4991@1@@pm@The written word …, a single word «quotation mark».@@
 4992@1@@af@a combining form of ≤clivi≥, «live».@@
-4993@1@@3v@K «behave» like (model, pattern) S in situation N.@@K SN
+4993@1@@3v@K «behave» like (model, pattern) S in situation N.@@K-SN
 4994@1@@1v@B «comes-to-life»/«becomes alive».@@B-
 4995@1@@2v@K «resurrects»/makes B come to life.@@K-B
 4995@2@nu %@a@«resurrected», of someone restored to life.@@
@@ -12292,7 +12292,7 @@
 6545@1@@2v@N «disorder» D (unintentional).@@N-D
 6546@1@@2v@K «disorder» D (intentional).@@K-D
 6547@1@@1a@B is «pointed».@@B-
-6548@1@@2n@K is a «prostitute» of community F.@@K F
+6548@1@@2n@K is a «prostitute» of community F.@@K-F
 6549@1@@3n@C is a/the «payment», amount paid by D for B.@@C-DB
 6550@1@@2a@B is «considerable», thought to be worthy of consideration by S.@@B-S
 6551@1@@2n@B is a «topic»/«subject» for «thought» to K.@@B-K
@@ -12781,7 +12781,7 @@
 6831@1@@2n@F is an «Academy» for B, a special school.@@F-B
 6832@1@@2n@V is an «argot»/«jargon»/«technical vocabulary» used by K.@@V-K
 6832@2@nu %@n@a user of «jargon»/«argot» ….@@
-6833@1@@4n@B, a token or label, is a «logical set» of denumerable objects/members/elements F with a defining property indicated by their membership in some superset S, and with cardinality C.@@B FSC
+6833@1@@4n@B, a token or label, is a «logical set» of denumerable objects/members/elements F with a defining property indicated by their membership in some superset S, and with cardinality C.@@B-FSC
 6833@2@fu %@n@a «superset» specifying the «defining» «property» of the members … of some set.@@
 6833@3@ju %@n@the «cardinal» «number» of the members/elements … of some set; cf. ≤konte≥.@@
 6833@4@nu %@n@the «membership» of/are the «members»/«elements» of set ….@@
@@ -16013,7 +16013,7 @@
 8601@1@@2n@B is a «jaeger» of/from S, a sea bird.@@B-S
 8602@1@lao %@na@a «tern», a sea bird.@@
 8603@1@@2n@F is a «corpus» of utterances in language N.@@F-N
-8604@1@@4n@B is a «sentence»/«statement» claiming P about N in language S.@@B PNS
+8604@1@@4n@B is a «sentence»/«statement» claiming P about N in language S.@@B-PNS
 8604@2@@a@«sentential», pert. to sentences.@@
 8605@1@@3v@K «parse» sentence B obtaining parse D.@@K-BD
 8605@2@fu %@n@a «parse», the result of parsing.@@
