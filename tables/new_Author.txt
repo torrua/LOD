@@ -15,7 +15,7 @@ JF@Jerome Frazee@
 JFB@Jenny Brown@
 JFC@James Carter@(?) questionable
 JJ@James Jennings@
-JLS@?@
+JLS@Jim Smith@Source:http://www.loglan.org/Lognet/purda-92-2.html
 JLT@Jeremy Taylor@
 JPC@John Parks-Clifford@
 JR@?@
@@ -24,7 +24,7 @@ JT@?@
 JWK@?@
 KAC@Kieran A. Carroll@
 KAD@?@
-KS@?@
+KS@Kirk Sattley@(?) questionable
 L1@Loglan 1@The standard textbook on Loglan
 L4@Loglan 4&5@The printed-on-paper book, 1975 version of the dictionary.
 MD@Michael Demoulin@
@@ -43,5 +43,5 @@ SRL@Scott Layson or Sheldon Linker@Both early L students at San Diego
 TB@?@
 TED@?@
 UA@Unknown Author@
-WDG@?@
+WDG@Bill Gober@Source: http://www.loglan.org/Lognet/purda-92-2.html (?)questionable.
 WG@William G. Gober@(likely)
