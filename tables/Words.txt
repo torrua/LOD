@@ -4532,7 +4532,7 @@
 4541@2-Cpx@Predicate@@@RAM/JCB/SLR@'88@4.0@ku(r)n(i)+kra(ku)@warn cry@@
 4542@2-Cpx@Predicate@@@RAM@'88@4.3@ku(r)n(i)+pa(tc)e@warn device@@
 4543@2-Cpx@Predicate@@@RAM/JCB@'90@4.3@ku(r)n(i)+so(nd)a@warn sound@@
-4544@3-Cpx@Predicate@@@APL@'00@7+@ku(r)n(i)+son(da)+pa(tc)e@warn sound devic@@
+4544@3-Cpx@Predicate@@@APL@'00@7+@ku(r)n(i)+son(da)+pa(tc)e@warn sound device@@
 4545@LW@Struct@@@L4@'75@1.0@kusmo@@@
 4546@2-Cpx@Predicate@@@L4@'75@1.0@ku(sm)o+dja(no)@custom know@@
 4547@Afx@Affix@@@JCB@'88@7+@kupta@@@
