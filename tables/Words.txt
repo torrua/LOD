@@ -5595,7 +5595,7 @@
 5608@2-Cpx@Predicate@@@L4@'75@2.1@mu(t)c(e)+(b)ri(g)a@extremely brave@@
 5609@Afx@Affix@@@JCB@'88@7+@muvdo@@@
 5610@3-Cpx@Predicate@@@JCB/RAM@'91@3.2@mu(v)d(o)+lit(la)+pro(ju)@move light produce@@
-5611@Afx@Struct@@@L4@'75@1.0@mutce@@@
+5611@Afx@Affix@@@L4@'75@1.0@mutce@@@
 5612@2-Cpx@Predicate@@@L4@'75@1.0@mu(tc)e+cma(lo)@extremely small@@
 5613@2-Cpx@Predicate@@@L4@'75@1.0@mu(tc)e+gro(da)@extremely large@@
 5614@3-Cpx@Predicate@@@L4@'75@2@mu(tc)e+r+zav(lo)+ka(kt)o@much bad act@@
