@@ -1139,7 +1139,7 @@
 1139@2-Cpx@Predicate@@@L4@'75@2.3@cma(lo)+nun+re(nr)o@small thrown@@
 1140@2-Cpx@Predicate@@@JCB/RAM@'90@5.0@cma(lo)+pi(sk)u@small piece@@
 1141@3-Cpx@Predicate@@@DB@'83@2.2@cma(lo)+pi(sk)u+ce(nj)a@small piece change@@
-1142@2-Cpx@@@@RH@2013@grammar vocab project@cma(lo)+pu(rd)a@small word@@
+1142@2-Cpx@Predicate@@@RH@2013@grammar vocab project@cma(lo)+pu(rd)a@small word@@
 1143@3-Cpx@Predicate@@@JCB/RAM@'90@2.4@cma(lo)+re(tc)a+sa(ns)e@small difference sense@@
 1144@2-Cpx@Predicate@@@APL@'99@7+@cma(lo)+(t)re(l)u@small rod@@
 1145@3-Cpx@Predicate@@@HA/RAM@'87@4.7@cma(lo)+rol(gu)+ve(sl)o@small cylindrical vessel@@
@@ -2149,7 +2149,7 @@
 2153@D-Prim@Predicate@@@JCB/RAM@'94@7+@ficli@@@
 2154@3-Cpx@Predicate@@@JCB@'88@7+@fic(li)+y+jan(to)+ki(nc)i@fish hunt accompany@@
 2155@2-Cpx@Predicate@@@JLT@'86@2.1@fic(li)+y+janto@fish hunt@@
-2156@2-Cpx@@@@RH@'09@SL group words -- originally *ficnirli, but '94 ruling requires hyphen@fic(li)+y+nirli@fish girl@@
+2156@2-Cpx@Predicate@@@RH@'09@SL group words -- originally *ficnirli, but '94 ruling requires hyphen@fic(li)+y+nirli@fish girl@@
 2157@Afx@Affix@@@JCB@'88@7+@fizdi@@@
 2158@2-Cpx@Predicate@@@L4@'75@8.0@fi(z)d(i)+sensi@physical science@@
 2159@3-Cpx@Predicate@@@L4@'75@7.4@fi(z)d(i)+se(n)s(i)+ma(dz)o@physics science maker@@
@@ -5731,7 +5731,7 @@
 5744@2-Cpx@Predicate@@@JCB@'95@7+@nam(ci)+nur+sri(te)@name(d) written@@
 5745@2-Cpx@Predicate@@@RAM@'88@4.6@nam(ci)+p(ap)re@name paper@@
 5746@3-Cpx@Predicate@@@RAM@'88@4.6@nam(ci)+p(ap)re+do(ns)u@name paper give@@
-5747@2-Cpx@@@@RH@2013@grammar vocab project@nam(ci)+ pu(rd)a@name word@@
+5747@2-Cpx@Predicate@@@RH@2013@grammar vocab project@nam(ci)+ pu(rd)a@name word@@
 5748@2-Cpx@Predicate@@@L4@'75@7.4@nam(ci)+sa(np)a@name sign@@
 5749@3-Cpx@Predicate@@@L4@'75@7.4@nam(ci)+san(pa)+du(rz)o@name sign do@@
 5750@2-Cpx@Predicate@@@RAM@'87@3.6@nam(ci)+sri(te)@name write@@
@@ -10008,53 +10008,53 @@
 10053@Afx@Affix@@@JCB (?)@'88?@7+?@@@@
 10054@Afx@Affix@@@JCB (?)@'88?@7+?@@@@
 10055@Afx@Affix@@@JCB (?)@'88?@7+?@@@@
-10056@3-Cpx@@@@RH@2013@grammar vocab project@FU(R)+djifoa@@@
-10057@2-Cpx@@@@RH@2013@grammar vocab project@ginru+purda@root word@@
-10058@2-Cpx@@@@RH@2013@grammar vocab project@purda+klesa@word class@@
-10059@3-Cpx@@@@RH@2013@grammar vocab project@NU(R)+cmapua@@@
-10060@3-Cpx@@@@RH@2013@grammar vocab project@NU(R)+takfoa@@@
-10061@2-Cpx@@@@RH@2013@grammar vocab project@purda+tcure@word picture@@
-10062@Bor.@@@@RH@2014@@Sp. elefante@elephant@@
-10063@Bor.@@@@RH@2014@@Sp, elefante@elephant@@
-10064@Bor.@@@@RH@2014@@Sp. elefante@elephant@@
-10065@Bor.@@@@RH@2014@@Sp. elefante@elephant@@
-10066@Bor.@@@@RH@2014@@Sp. elefante@elephant@@
-10067@Bor.@@@@RH@2014@@Hindi hathi@elephant@@
-10068@Bor.@@@@RH@2014@@Hindi hathi@elephant@@
-10069@Bor.@@@@RH@2014@@Hindi hathi@elephant@@
-10070@Bor.@@@@RH@2014@@Hindi hathi@elephant@@
-10071@Bor.@@@@RH@2014@@Hindi hathi@elephant@@
-10073@Name@@@@RH@2014@@J. Nihon@Japan@@
-10074@Name@@@@RH@2014@@J. Nihongo@Japanese language@@
-10075@LW@@@@RH@2015@@si-noi@@@
-10076@LW@@@@RH@2015@@sun-noi@@@
-10077@LW@@@@RH@2013-5@@changed from original mo@@@
-10078@LW@@@@RH@2013-15@@@@@
-10079@LW@@@@RH@2013-15@@@@@
-10080@LW@@@@RH@2013-15@@@@@
-10081@LW@@@@RH@2013-15@@@@@
-10082@LW@@@@RH@2013-15@@@@@
-10083@LW@@@@RH@2013-15@@@@@
-10084@LW@@@@RH@2013-15@@@@@
-10085@LW@@@@RH@2013-15@@@@@
-10086@LW@@@@RH@2013-15@@@@@
-10087@LW@@@@RH@2013-15@@@@@
-10088@LW@@@@RH@2013-15@@@@@
-10089@LW@@@@RH@2013-15@@@@@
-10090@LW@@@@RH@2013-15@@@@@
-10091@LW@@@@RH@2013-15@@@@@
-10092@LW@@@@RH@2013-15@@@@@
-10093@LW@@@@RH@2013-15@@@@@
-10094@LW@@@@JC@2013-15@@@@@
-10095@LW@@@@RH@2013-15@@@@@
-10096@2-Cpx@@@@AW@2008-15@@@@@
-10097@4-Cpx@@@@AW@2008-15@@@@@
-10098@3-Cpx@@@@SLC@2008-15@@@@@
-10099@2-Cpx@@@@SLC@2008-15@@lek-veo@electricity-vessel@@
-10100@LW@@@@JC/RH@2013-15@@modification of po@@@
-10101@LW@@@@RH@2013-15@@modification of pu@@@
-10102@LW@@@@RH@2013-15@@modification of zo@@@
-10103@LW@@@@RH@2015@@@@@
-10104@LW@@@@RH@2016@@@@@
-10105@LW@@@@RH@2016@@@@@
-10106@2-Cpx@@lei@@UA (omitted about 2000:  see nui)@2016 (but really older)@@nu(r) + letci@@@
+10056@3-Cpx@Predicate@@@RH@2013@grammar vocab project@FU(R)+djifoa@@@
+10057@2-Cpx@Predicate@@@RH@2013@grammar vocab project@ginru+purda@root word@@
+10058@2-Cpx@Predicate@@@RH@2013@grammar vocab project@purda+klesa@word class@@
+10059@3-Cpx@Predicate@@@RH@2013@grammar vocab project@NU(R)+cmapua@@@
+10060@3-Cpx@Predicate@@@RH@2013@grammar vocab project@NU(R)+takfoa@@@
+10061@2-Cpx@Predicate@@@RH@2013@grammar vocab project@purda+tcure@word picture@@
+10062@Bor.@Predicate@@@RH@2014@@Sp. elefante@elephant@@
+10063@Bor.@Predicate@@@RH@2014@@Sp, elefante@elephant@@
+10064@Bor.@Predicate@@@RH@2014@@Sp. elefante@elephant@@
+10065@Bor.@Predicate@@@RH@2014@@Sp. elefante@elephant@@
+10066@Bor.@Predicate@@@RH@2014@@Sp. elefante@elephant@@
+10067@Bor.@Predicate@@@RH@2014@@Hindi hathi@elephant@@
+10068@Bor.@Predicate@@@RH@2014@@Hindi hathi@elephant@@
+10069@Bor.@Predicate@@@RH@2014@@Hindi hathi@elephant@@
+10070@Bor.@Predicate@@@RH@2014@@Hindi hathi@elephant@@
+10071@Bor.@Predicate@@@RH@2014@@Hindi hathi@elephant@@
+10073@Name@Name@@@RH@2014@@J. Nihon@Japan@@
+10074@Name@Name@@@RH@2014@@J. Nihongo@Japanese language@@
+10075@LW@Struct@@@RH@2015@@si-noi@@@
+10076@LW@Struct@@@RH@2015@@sun-noi@@@
+10077@LW@Struct@@@RH@2013-5@@changed from original mo@@@
+10078@LW@Struct@@@RH@2013-15@@@@@
+10079@LW@Struct@@@RH@2013-15@@@@@
+10080@LW@Struct@@@RH@2013-15@@@@@
+10081@LW@Struct@@@RH@2013-15@@@@@
+10082@LW@Struct@@@RH@2013-15@@@@@
+10083@LW@Struct@@@RH@2013-15@@@@@
+10084@LW@Struct@@@RH@2013-15@@@@@
+10085@LW@Struct@@@RH@2013-15@@@@@
+10086@LW@Struct@@@RH@2013-15@@@@@
+10087@LW@Struct@@@RH@2013-15@@@@@
+10088@LW@Struct@@@RH@2013-15@@@@@
+10089@LW@Struct@@@RH@2013-15@@@@@
+10090@LW@Struct@@@RH@2013-15@@@@@
+10091@LW@Struct@@@RH@2013-15@@@@@
+10092@LW@Struct@@@RH@2013-15@@@@@
+10093@LW@Struct@@@RH@2013-15@@@@@
+10094@LW@Struct@@@JC@2013-15@@@@@
+10095@LW@Struct@@@RH@2013-15@@@@@
+10096@2-Cpx@Predicate@@@AW@2008-15@@@@@
+10097@4-Cpx@Predicate@@@AW@2008-15@@@@@
+10098@3-Cpx@Predicate@@@SLC@2008-15@@@@@
+10099@2-Cpx@Predicate@@@SLC@2008-15@@lek-veo@electricity-vessel@@
+10100@LW@Struct@@@JC/RH@2013-15@@modification of po@@@
+10101@LW@Struct@@@RH@2013-15@@modification of pu@@@
+10102@LW@Struct@@@RH@2013-15@@modification of zo@@@
+10103@LW@Struct@@@RH@2015@@@@@
+10104@LW@Struct@@@RH@2016@@@@@
+10105@LW@Struct@@@RH@2016@@@@@
+10106@2-Cpx@Predicate@lei@@UA (omitted about 2000:  see nui)@2016 (but really older)@@nu(r) + letci@@@
