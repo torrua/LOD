@@ -2149,7 +2149,7 @@
 2153@D-Prim@Predicate@@@JCB/RAM@1994@7+@ficli@@@
 2154@3-Cpx@Predicate@@@JCB@1988@7+@fic(li)+y+jan(to)+ki(nc)i@fish hunt accompany@@
 2155@2-Cpx@Predicate@@@JLT@1986@2.1@fic(li)+y+janto@fish hunt@@
-2156@2-Cpx@Predicate@@@RH@2009@SL group words -- originally *ficnirli, but '94 ruling requires hyphen@fic(li)+y+nirli@fish girl@@
+2156@2-Cpx@Predicate@@@RH@2009@N (SL group words -- originally *ficnirli, but '94 ruling requires hyphen)@fic(li)+y+nirli@fish girl@@
 2157@Afx@Affix@@@JCB@1988@7+@fizdi@@@
 2158@2-Cpx@Predicate@@@L4@1975@8.0@fi(z)d(i)+sensi@physical science@@
 2159@3-Cpx@Predicate@@@L4@1975@7.4@fi(z)d(i)+se(n)s(i)+ma(dz)o@physics science maker@@
