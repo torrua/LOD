@@ -7734,7 +7734,7 @@
 7751@Cpd@Struct@@@APL@1999@7+@ro+na@@@
 7752@2-Cpx@Predicate@@@JCB/RAM@1991@4.9@(b)ron(a)+ma(dz)o@brown make@@
 7753@Afx@Affix@@@JCB@1988@7+@ro@@@
-7754@LW@Struct@@@JCB/RAM@1990@4.6@rora@manyad@@
+7754@LW@Struct@@@JCB/RAM@1990@4.6@rora@many ad@@
 7755@1-Cpx@Predicate@@@JLT@1985@4.2@ror+bekti@many object@@
 7756@1-Cpx@Predicate@@@L4@1975@1.1@ror+blo(da)@many blows@@
 7757@2-Cpx@Predicate@@@JCB/RAM@1990@3.7@ror+blo(da)+ku/(t)l(a)@many blow cut@@
