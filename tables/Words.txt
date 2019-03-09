@@ -157,7 +157,7 @@
 157@3-Cpx@Predicate@@@JCB/RAM@1991@4.0@aurmo+y+kuv(ga)+ma(dz)o@gold cover make@@
 158@Bor.@Predicate@@@JCB@1988@7+@Lin@@austrralopithekuiyfoa@
 159@2-Cpx@Predicate@@@JCB@1988@7+@austrralopithekui+y+fo(rm)a@australopithecine form@@
-160@Bor.@Predicate@@@APL/JCB@'01@7+@ISV@@@
+160@Bor.@Predicate@@@APL/JCB@2001@7+@ISV@@@
 161@LW@Struct@@@L4@1975@15@a + -zi@@@
 162@LW@Struct@@@L4@1975@1.4@@@@
 163@Afx@Affix@@@JCB@1988@7+@barma@@@
@@ -194,11 +194,11 @@
 194@I-Prim@Predicate@@@L4@1975@7.4@Int.@@muirbalko@
 195@C-Prim@Predicate@bam@42%@L4@1975@2.1@3/3F balle | 3/3G ball | 3/4S bola | 3/4J tama | 2/3E ball@@bamcli | bamfoa | bamfomcartu | bamhanco | bamkuspypae | bamsekta | bamtrufa | bamymoa | fordiobalma | pambalma | tolbalma | trokybalma | trokybamduo@
 196@2-Cpx@Predicate@@@L4@1975@3.2@bal(pi)+ma(dz)o@balance make@@
-197@D-Prim@Predicate@@@APL@'00@7+@balnu@@@
-198@D-Prim@Predicate@@@APL@'00@7+@balnu@@@
-199@D-Prim@Predicate@@@APL@'00@7+@balnu@@@
-200@D-Prim@Predicate@@@APL@'00@7+@balnu@@@
-201@S-Prim@Predicate@@@APL@'00@7+@L. balaena@@@
+197@D-Prim@Predicate@@@APL@2000@7+@balnu@@@
+198@D-Prim@Predicate@@@APL@2000@7+@balnu@@@
+199@D-Prim@Predicate@@@APL@2000@7+@balnu@@@
+200@D-Prim@Predicate@@@APL@2000@7+@balnu@@@
+201@S-Prim@Predicate@@@APL@2000@7+@L. balaena@@@
 202@2-Cpx@Predicate@@@L4@1975@1.8@bal(pi)+pa(tc)e@balance apparatus@@
 203@C-Prim@Predicate@bal@39%@L4@1975@2.6@2/3C ping | 3/5F balance | 3/6G balance | 3/7S balance ar | 2/6E balance | 2/7J baransu@@balbiu | balcea | balfiu | balfro | balkao | balmao | balpae | baltio | minbalpi@
 204@2-Cpx@Predicate@@@SRL@1995@7+@bal(pi)+ti(dj)o@balance heavy@@
@@ -275,7 +275,7 @@
 275@2-Cpx@Predicate@@@APL@1995@7+@bat(mi)+kle(si)@business class@@
 276@2-Cpx@Predicate@@@JPC@1985@2.8@bat(mi)+lilfa@trade law@@
 277@C-Prim@Predicate@bat@45%@L4@1975@2.4@3/5E barter | 3/5S cambi ar | 3/5J shobai suru | 3/6C mai mai | 2/5R miena@@batfantoa | batfusto | batkle | batlilfa | batmra | batmurhao | batsia | cmebatmi | cmebatsio | kakbatmi | kulbatmi | lerbatmi | nenzvobatmi | ponparbatsia | sanbatmi | sifbatmi@
-278@2-Cpx@Predicate@@@JWK@'00@7+@bat(mi)+ma/r(ka)@trade mark@@
+278@2-Cpx@Predicate@@@JWK@2000@7+@bat(mi)+ma/r(ka)@trade mark@@
 279@3-Cpx@Predicate@@@L4@1975@2.0@bat(mi)+mur(si)+ha(rk)o@trading sea harbor@@
 280@C-Prim@Predicate@bap@54%@L4@1975@2.1@3/4E bottle | 2/3C ping | 3/5F bouteille | 3/6S botella | 2/5H botal | 2/7R butilka@@bapcai | bapduo@
 281@C-Prim@Predicate@@34%@L4@1975@3.5@4/4J bata | 3/4E butter | 3/4G butter | 3/9S mantequilla@@batryduo@
@@ -285,7 +285,7 @@
 285@LW@Struct@@@L4@1975@1.4@@@@
 286@LW@Struct@@@L4@1975@1.4@bleka@@@
 287@Afx@Affix@@@JCB@1988@7+@bedpu@@@
-288@2-Cpx@Predicate@@@APL@'00@7+@bed(pu)+barta@bed board@@
+288@2-Cpx@Predicate@@@APL@2000@7+@bed(pu)+barta@bed board@@
 289@2-Cpx@Predicate@@@L4@1975@3.0@bed(pu)+go(dz)i@bed go@@
 290@2-Cpx@Predicate@@@FR/RAM@1987@4.1@bed(pu)+hedto@bed head@@
 291@2-Cpx@Predicate@@@L4@1975@4.9@bed(pu)+kla(bu)@bed cloth@@
@@ -475,13 +475,13 @@
 475@2-Cpx@Predicate@@@RAM/SLR@1995@7+@bla(da)+krilu@blade wheel@@
 476@2-Cpx@Predicate@@@L4@1975@5.0@bla(da)+mroza@bladed hammer@@
 477@C-Prim@Predicate@@76%@L4@1975@1.4@3/3E blue | 3/3C lan | 4/4G blau | 2/3F bleu | 2/4H nila | 2/4S azul | 2/7R galuboi@@blanysitha@
-478@2-Cpx@Predicate@@@APL/RAM@'00@7+@blan(u)+y+sitha@blue jay@@
+478@2-Cpx@Predicate@@@APL/RAM@2000@7+@blan(u)+y+sitha@blue jay@@
 479@2-Cpx@Predicate@@@L4@1975@2.0@bla(da)+ta(rm)u@blade weapon@@
 480@Afx@Affix@@@JCB@1988@7+@bleka@@@
 481@2-Cpx@Predicate@@@L4@1975@1.9@ble(ka)+fo(rm)a@look form@@
 482@2-Cpx@Predicate@@@JCB/RAM@1991@4.9@ble(ka)+go(dz)i@look go@@
 483@C-Prim@Predicate@ble@47%@L4@1975@1.0@3/4G blick en | 2/3E look | 2/3C kan | 2/3H dekh na@@blefoa | blegoi | blekue | blemao | blesia | cilble | conblekue | damble | darblemai | dioble | duible | fuible | ganble | genble | gensnible | jarble | kubmekble | kubyble | kukble | lisyble | lisyblegoi | lufble | nenbeible | paspyble | prable | prible | raeble | reible | roible | selblerie | selganble | smible | snible | sniblegea | tamble | tanmekble | teible@
-484@2-Cpx@Predicate@@@APL@'00@7+@ble(ka)+ku(mc)e@look reciprocally@@
+484@2-Cpx@Predicate@@@APL@2000@7+@ble(ka)+ku(mc)e@look reciprocally@@
 485@2-Cpx@Predicate@@@SLR@1994@7+@ble(ka)+ma(dz)o@look make@@
 486@2-Cpx@Predicate@@@L4@1975@1.0@ble(ka)+si(tf)a@look location@@
 487@Afx@Affix@@@JCB@1988@7+@blicu@@@
@@ -537,7 +537,7 @@
 537@2-Cpx@Predicate@@@L4@1975@15@bon(gu)+fo/l(ma)@bone full@@
 538@C-Prim@Predicate@bon@56%@L4@1975@2.6@ 3/3E bone | 2/2C gu | 2/4J hone@@betytuebongu | bonflo | brutybongu | ditbongu | ficbongu | frubongu | hedbongu@
 539@Afx@Affix@@@JCB@1988@7+@borku@@@
-540@2-Cpx@Predicate@@@APL@'00@7+@bor(ku)+cpu(la)@bow pull@@
+540@2-Cpx@Predicate@@@APL@2000@7+@bor(ku)+cpu(la)@bow pull@@
 541@N-Prim@Predicate@@@JCB@1988@7+@Fr. Bordeaux@@@
 542@2-Cpx@Predicate@@@APL@1985@7+@bor(ku)+ko(rc)e@bow cord@@
 543@C-Prim@Predicate@bor@56%@L4@1975@2.4@2/2E bow | 2/3C kung | 2/3F arc | 2/4S arco | 2/5G bogen@@borcpu | borkoe | bortcidi@
@@ -545,7 +545,7 @@
 545@2-Cpx@Predicate@@@RAM@1990@2.8@bor(ku)+tcidi@bow food@@
 546@Afx@Affix@@@JCB@1988@7+@botsu@@@
 547@2-Cpx@Predicate@@@SLR@1995@7+@bot(su)+bo(ts)u@boat boat@@
-548@D-Prim@Predicate@@@RAM@'00@7+@botci@@@
+548@D-Prim@Predicate@@@RAM@2000@7+@botci@@@
 549@C-Prim@Predicate@boi@46%@L4@1975@1.4@3/3E boy | 4/6J bochan | 3/7R malchik | 2/7C syiao nan | 2/8S muchacho@@boicli | nilboi | nilboicli | nilboikru@
 550@3-Cpx@Predicate@@@RAM@1987@4.6@bot(su)+ko(r)c(e)+du(rz)o@boat cord do@@
 551@2-Cpx@Predicate@@@L4@1975@4.4@bot(su)+ko(rj)i@boat command@@
@@ -644,7 +644,7 @@
 644@2-Cpx@Predicate@@@JCB@1999@7+@bu(st)e+blo(da)@step blow@@
 645@Afx@Affix@@@JCB@1988@7+@bufpo@@@
 646@2-Cpx@Predicate@@@RAM@1993@3.7@buf(po)+klini@opposite to clean@@
-647@3-Cpx@Predicate@@@APL@'00@7+@buf(po)+ner+tu(gl)e+prano@opposite one leg run @@
+647@3-Cpx@Predicate@@@APL@2000@7+@buf(po)+ner+tu(gl)e+prano@opposite one leg run @@
 648@2-Cpx@Predicate@@@L4@1975@3.8@buf(po)+plu(ci)@opposite please@@
 649@C-Prim@Predicate@buf@36%@L4@1975@1.4@3/4C bu fu | 2/4E oppose | 2/4F oppose@@bufklini | bufnertueprano | bufplu | bufrii | bufsensi | bufste | buftrili@
 650@2-Cpx@Predicate@@@JRK@1985@4.4@buf(po)+ri(lr)i@opposite(of) regular@@
@@ -660,7 +660,7 @@
 660@Afx@Affix@@@JCB@1988@7+@bukcu@@@
 661@C-Prim@Predicate@buk buu@47%@L4@1975@1.0@2/2C shu | 2/3E book | 2/3G buch@@bukpai | buksatci | buksrosia | bukvea | bukvemsia | bukylisdjo | buusro | ckebuu | ckelisybuu | dicbuu | fucdribuu | kepybuu | nerbuu | ninfeobuu | nurvembuu | pasdribuu | purbuktua | purbuu | racbuu | rardjabuu | rolbuu | sribuu@
 662@2-Cpx@Predicate@@@FR@1987@2.1@buk(cu)+pa(rt)i@book part@@
-663@2-Cpx@Predicate@@@JWK@'00@7+@buk(cu)+satci@book start @@
+663@2-Cpx@Predicate@@@JWK@2000@7+@buk(cu)+satci@book start @@
 664@3-Cpx@Predicate@@@L4@1975@3.5@buk(cu)+so/r(di)+si(tf)a@book store place@@
 665@2-Cpx@Predicate@@@L4@1975@9.0@buk(cu)+ve(dm)a@book sell@@
 666@3-Cpx@Predicate@@@L4@1982@3.7@buk(cu)+ve(d)m(a)+si(tf)a@book sell place@@
@@ -696,7 +696,7 @@
 696@LW@Struct@@@L4@1975@15+@@@@
 697@Afx@Affix@@@JCB@1988@7+@canli@@@
 698@Afx@Affix@@@JCB@1988@7+@tcaku@@@
-699@2-Cpx@Predicate@@@JWK@'00@7+@(t)cak(u)+cko(zu)@shock cause@@
+699@2-Cpx@Predicate@@@JWK@2000@7+@(t)cak(u)+cko(zu)@shock cause@@
 700@2-Cpx@Predicate@@@L4@1975@1.8@(t)cak(u)+fi(rp)a@shock fear@@
 701@I-Prim@Predicate@@@APL@1998@7+@Farsi?@@@
 702@2-Cpx@Predicate@@@L4@1975@3.2@(t)cak(u)+y+ka(kt)o@shock act@@
@@ -952,7 +952,7 @@
 952@Afx@Affix@@@JCB@1988@15+@ciktu@@@
 953@2-Cpx@Predicate@@@L4@1975@2.3@cik(tu)+ce(nj)a@equal become@@
 954@2-Cpx@Predicate@@@JCB/RAM@1991@4.1@cik(tu)+fi(lm)o@equal feeling@@
-955@Bor.@Predicate@@@APL@'00@7+@Lin. Ciconiidae@@@
+955@Bor.@Predicate@@@APL@2000@7+@Lin. Ciconiidae@@@
 956@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
 957@2-Cpx@Predicate@@@L4@1975@2.3@cik(tu)+ma(dz)o@equal make@@
 958@2-Cpx@Predicate@@@JCB/RAM@1991@1.0@cik(tu)+po(nd)a@equal respond@@
@@ -1049,7 +1049,7 @@
 1049@2-Cpx@Predicate@@@SLR@1992@7+@cko(zu)+fo/r(li)@cause strong@@
 1050@C-Prim@Predicate@cko@44%@L4@1975@1.0@3/3F cause | 3/4C sh you | 2/3E cause@@bekyliacko | betcko | bilcko | blicko | blidensaecko | bodcko | bricko | bujycko | cakcko | caocko | ceacko | ceocko | ceucko | cidcko | cinflocko | ckodou | ckofro | clecko | cmacko | cmicko | comcko | concko | conkeicko | corcko | curcko | daacko | damcko | damfiocko | darmuocko | diicko | djadaacko | djiseicko | dracko | dricko | dutcko | dzecko | fabspocko | fagcko | falkricko | fanfodcko | fansmucko | fasycko | fatlatcko | faucko | felcko | fetcko | fetyckopli | fiacko | fidsticko | fiocko | fircakcko | firckomou | flicko | fliholcko | flimorcko | flocko | fodcko | fodflocko | fodliacko | folcko | folkaocko | frelycko | fulcko | furcko | furckosei | furplicko | furviacko | genkaecko | godrycko | grocko | grucko | gubdiocko | gudcko | gudckomou | gudfiocko | gudnurcko | hadcko | haicko | hapckocle | hatcko | herclecko | holcko | jarcko | jelcko | jelstocko | jiucko | jmicko | juicko | kalmycko | kalsaicko | kaltalcko | kamcko | kaocko | kapcko | karkycko | keicko | kikcko | kinclecko | klinycko | klocko | kofcko | kofkledycko | kokceacko | kolkaicko | kovcko | kovkamcko | krebetcko | kretancko | krisalcko | krocko | krosticko | kubcko | kukcko | kuksiucko | kuktancko | kuspycko | kuspykrocko | kuspymorcko | kutcko | laacko | labcko | laocko | ledfomcko | lelckorie | licycko | limcko | litcko | livmuocko | makbricko | malcko | marcko | minpuncko | misflocko | misfurckosei | misycko | molcko | monbercko | morcko | muocko | musytolclecko | mutneicko | mutpuncko | nabckocitlu | nartycko | nebcko | nercko | nernurcko | norblicko | norcko | nordjafiacko | norkalylivcko | norkofcko | normuocko | norveicko | norviacko | nunrilcko | nurcko | nurckocue | nurfeicko | nurjiucko | nurkarkycko | nurkofcko | nurnitcko | paicko | paltancko | prasacycko | pubcko | puncko | ragcko | rakcko | rancko | redcko | refclecko | retcko | rezycko | rigclecko | rilcko | riucko | rofcko | roicko | roircakcko | rolcko | rolsiucko | rorbrocko | ruarsticko | sacycko | salcko | sapcko | sarcko | selviacko | sesycko | simbuocko | simgrocko | sircko | siucko | skucko | slacko | slicko | slocko | snimalcko | socycomcko | soicko | sonrircko | srumarcko | sticko | stifycko | stocko | stogudcko | stolivcko | stomarcko | stopuncko | sulcko | talcko | tancko | tasgycakcko | tceholcko | tciclecko | tidbercko | tocfiucko | toncko | totcko | tsefuicko | vadcko | vapmuocko | veicko | viacko | vidceacko | vinbuocko | vincticko | zaocko | zavceacko | zavckomou | zbucko | zvomalcko@
 1051@Afx@Affix@@@JCB@1988@15+@clado@@@
-1052@2-Cpx@Predicate@@@APL@'00@7+@cla(do)+cla(do)@loud loud@@
+1052@2-Cpx@Predicate@@@APL@2000@7+@cla(do)+cla(do)@loud loud@@
 1053@2-Cpx@Predicate@@@L4@1975@1.4@cla(do)+cu(ts)e@loud say@@
 1054@C-Prim@Predicate@cla@47%@L4@1975@1.2@3/4E loud | 3/4C chao | 2/4G laut | 2/5S ruido@@clacla | clacla | clacue | claflo | clamao | claroi | claroicue | clataksoa | nurcla | nurclamao | puacla | purclamao@
 1055@2-Cpx@Predicate@@@L4@1975@5.8@cla(do)+fo/l(ma)@noise full@@
@@ -1075,7 +1075,7 @@
 1075@2-Cpx@Predicate@@@JCB@1997@7+@cli(ka)+bi(vd)u@similar behave@@
 1076@C-Prim@Predicate@@41%@L4@1975@2.8@3/4C sh dzu | 3/5E slide | 2/4F gliss er | 2/5G schlüpf en@@clidyfea | clidykarti | kerclidu | sticlidu | tanclidu@
 1077@2-Cpx@Predicate@@@JJ@1991@7+@clid(u)+y+fe(ld)a@slide fall@@
-1078@2-Cpx@Predicate@@@APL@'00@7+@clid(u)+y+karti@slide cart@@
+1078@2-Cpx@Predicate@@@APL@2000@7+@clid(u)+y+karti@slide cart@@
 1079@3-Cpx@Predicate@@@L4@1975@6.0@cli(ka)+fa(nd)o+so(nd)a@like end sound@@
 1080@4-Cpx@Predicate@@@L4@1975@6.0@cli(ka)+fa(nd)o+son(da)+ma(dz)o@like end sound make@@
 1081@C-Prim@Predicate@lif@52%@L4@1975@2.6@3/3E leaf | 3/4C shu ye | 2/4R list@@lifcinpro | lifcinta | lifclemao | liftaa | lifyflo | lifyrinje@
@@ -1103,7 +1103,7 @@
 1103@Afx@Affix@@@JCB@1988@15+@cmalo@@@
 1104@3-Cpx@Predicate@@@JCB/RAM@1991@2.3@cma(lo)+bak(to)+vla(ko)@small bucket lake@@
 1105@2-Cpx@Predicate@@@RAM@1983@3.5@cma(lo)+bekti@small object@@
-1106@4-Cpx@Predicate@@@APL@'00@7+@cma(lo)+be(k)l(i)+son(da)+pro(ju)@small bell sound produce @@
+1106@4-Cpx@Predicate@@@APL@2000@7+@cma(lo)+be(k)l(i)+son(da)+pro(ju)@small bell sound produce @@
 1107@2-Cpx@Predicate@@@L4@1975@7.4@cma(lo)+be(nd)u@small orchestra@@
 1108@2-Cpx@Predicate@@@L4@1975@1.0@cma(lo)+bi(lt)i@small beautiful@@
 1109@3-Cpx@Predicate@@@JCB/RAM@1990@2.3@cma(lo)+bli(cu)+stari@small possibility surprise@@
@@ -1114,8 +1114,8 @@
 1114@2-Cpx@Predicate@@@RAM@1987@3.0@cma(lo)+ce(tl)o@a bit wet@@
 1115@2-Cpx@Predicate@@@RAM@1987@2.2@cma(lo)+ci(kt)u@small equal@@
 1116@2-Cpx@Predicate@@@JCB/RAM@1991@4.6@cma(lo)+cko(zu)@small cause@@
-1117@2-Cpx@Predicate@@@APL@'00@7+@cma(lo)+clafo@small laugh@@
-1118@2-Cpx@Predicate@@@APL@'00@7+@cma(lo)+cma(lo)@small small@@
+1117@2-Cpx@Predicate@@@APL@2000@7+@cma(lo)+clafo@small laugh@@
+1118@2-Cpx@Predicate@@@APL@2000@7+@cma(lo)+cma(lo)@small small@@
 1119@3-Cpx@Predicate@@@JCB@1995@7+@cma(lo)+cme(ni)+ma(dz)o@small money make@@
 1120@2-Cpx@Predicate@@@L4@1975@7.4@cma(lo)+dampa@small pump@@
 1121@2-Cpx@Predicate@@@JCB/RAM@1990@3.3@cma(lo)+ditka@small bite@@
@@ -1223,7 +1223,7 @@
 1223@3-Cpx@Predicate@@@SLR@1995@7+@com(tu)+to(kn)a+be(gc)o@shame take request@@
 1224@C-Prim@Predicate@com cot cou@45%@L4@1975@3.3@3/4C syiou | 2/3E shame | 2/3F honte | 2/3G scham@@comcea | comcko | comcle | comcmi | comflo | comtoabeo | cotmao | fatcou | socycomcea | socycomcko | socycou | socycoumao@
 1225@Afx@Affix@@@JCB@1988@15+@condi@@@
-1226@3-Cpx@Predicate@@@APL@'00@7+@con(di)+ble(ka)+ku(mc)e@deep look reciprocally@@
+1226@3-Cpx@Predicate@@@APL@2000@7+@con(di)+ble(ka)+ku(mc)e@deep look reciprocally@@
 1227@2-Cpx@Predicate@@@L4@1975@5.0@con(di)+cko(zu)@deep cause@@
 1228@2-Cpx@Predicate@@@JCB/RAM@1991@2.3@con(di)+cu(tr)i@deep water@@
 1229@3-Cpx@Predicate@@@L4@1975@2.3@con(di)+cu(tr)i+ru(tm)a@deep water way@@
@@ -1264,7 +1264,7 @@
 1264@2-Cpx@Predicate@@@APL@1995@7+@cor(ta)+takma@short attack@@
 1265@2-Cpx@Predicate@@@L4@1975@1.0@cor(ta)+ve(tc)i@short event@@
 1266@2-Cpx@Predicate@@@L4@1975@2.3@cor(ta)+vi(zk)a@short see@@
-1267@2-Cpx@Predicate@@@APL@'00@7+@cor(ta)+y+(b)ru(t)e@short breathe@@
+1267@2-Cpx@Predicate@@@APL@2000@7+@cor(ta)+y+(b)ru(t)e@short breathe@@
 1268@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
 1269@Afx@Affix@@@JCB@1988@15+@comtu@@@
 1270@2-Cpx@Predicate@@@RAM@1987@4.9@co(m)t(u)+ma(dz)o@shame make@@
@@ -1317,7 +1317,7 @@
 1317@2-Cpx@Predicate@@@SLR@1995@7+@cu(t)c(i)+ko(rc)e@shoe cord@@
 1318@2-Cpx@Predicate@@@L4@1975@5.5@cu(t)c(i)+ma(dz)o@shoe make@@
 1319@2-Cpx@Predicate@@@L4@1975@7.5@cu(t)c(i)+y+lakse@shoe wax@@
-1320@2-Cpx@Predicate@@@APL@'00@7+@cu(t)c(i)+y+se(tc)i@shoe set@@
+1320@2-Cpx@Predicate@@@APL@2000@7+@cu(t)c(i)+y+se(tc)i@shoe set@@
 1321@2-Cpx@Predicate@@@L4@1975@1.0@cu(t)c(i)+y+sta(di)@shoe platform@@
 1322@Afx@Affix@@@L4@1981@15+@cutse@@@
 1323@2-Cpx@Predicate@@@L4@1975@1.5@cu(ts)e+p(ap)re@say paper@@
@@ -1418,7 +1418,7 @@
 1418@2-Cpx@Predicate@@@L4@1975@1.0@dam(ni)+pa(rt)i@lowest part@@
 1419@2-Cpx@Predicate@@@JLT@1985@4.3@dam(ni)+pu(ct)o@down push@@
 1420@2-Cpx@Predicate@@@L4@1975@5.3@damp(a)+y+du(rz)o@pump do@@
-1421@2-Cpx@Predicate@@@JWK@'01@7+@dam(ni)+so(nd)a@low sound @@
+1421@2-Cpx@Predicate@@@JWK@2001@7+@dam(ni)+so(nd)a@low sound @@
 1422@2-Cpx@Predicate@@@FR@1987@3.9@dam(ni)+spali@down side@@
 1423@2-Cpx@Predicate@@@FR@1985@2.4@dam(ni)+to(kn)a@down take@@
 1424@2-Cpx@Predicate@@@L4@1975@2.3@dam(ni)+y+ma(dz)o@low make@@
@@ -1442,11 +1442,11 @@
 1442@Afx@Affix@@@JCB@1988@15+@darto@@@
 1443@2-Cpx@Predicate@@@APL@1995@7+@da(rt)o+r+ho(ld)u@door hole@@
 1444@2-Cpx@Predicate@@@JFC/JCB/RAM@1983@3.7@da(rt)o+r+nilca@door below@@
-1445@2-Cpx@Predicate@@@JWK@'00@7+@da(rt)o+r+(s)ti(r)e@door step@@
+1445@2-Cpx@Predicate@@@JWK@2000@7+@da(rt)o+r+(s)ti(r)e@door step@@
 1446@Afx@Affix@@@JCB@1988@15+@dapli@@@
 1447@C-Prim@Predicate@dap@41%@L4@1975@1.0@3/4C da ying | 3/6E reply | 3/6S replic ar | 3/6G replik@@nabdapli@
 1448@Afx@Affix@@@JCB@1988@15+@darli@@@
-1449@2-Cpx@Predicate@@@AFL@'00@7+@dar(li)+be(rt)i@far carry@@
+1449@2-Cpx@Predicate@@@AFL@2000@7+@dar(li)+be(rt)i@far carry@@
 1450@2-Cpx@Predicate@@@SLR@1995@7+@dar(li)+bi(dj)e@far edge@@
 1451@3-Cpx@Predicate@@@RAM/JCB@1988@4.7@dar(li)+ble(ka)+ma(tc)i@far look machine@@
 1452@2-Cpx@Predicate@@@JCB/RAM@1990@1.0@dar(li)+go(dz)i@far go@@
@@ -1488,7 +1488,7 @@
 1488@3-Cpx@Predicate@@@L4@1975@7.4@da(n)t(e)+klin(i)+y+ma(dz)o@tooth clean make@@
 1489@3-Cpx@Predicate@@@SLR@1993@7+@da(n)t(e)+ko(r)c(e)+pli(zo)@tooth brush use@@
 1490@2-Cpx@Predicate@@@SLR@1993@7+@da(n)t(e)+ko(rc)e@tooth cord@@
-1491@2-Cpx@Predicate@@@APL@'00@7+@da(n)t(e)+kraco@tooth crush@@
+1491@2-Cpx@Predicate@@@APL@2000@7+@da(n)t(e)+kraco@tooth crush@@
 1492@2-Cpx@Predicate@@@SLR@1993@7+@da(n)t(e)+(b)ro(c)u@tooth brush@@
 1493@3-Cpx@Predicate@@@SLR@1993@7+@da(n)t(e)+y+(b)roc(u)+du(rz)o@tooth brush do@@
 1494@3-Cpx@Predicate@@@SLR@1993@7+@da(n)t(e)+y+(b)roc(u)+pli(zo)@tooth brush use@@
@@ -1535,7 +1535,7 @@
 1536@C-Prim@Predicate@dic dia@45%@L4@1975@1.0@3/4E teach | 2/3R uch it | 3/5C jiao | 2/5G zeig en@@bivdia | diarcei | diartaakru | diartcustu | dicbuu | dicfikco | dicfoa | dichea | diclae | dicrui | dictaa | fomdia | fomnurdia | furdia | gandia | jundia | kridia | lidydia | logdia | narlidydia | nurdia | rornurdia@
 1537@C-Prim@Predicate@dit@39%@L4@1975@3.7@2/3H kat na | 3/5C jiao | 2/4E bite | 2/4J kamu@@cluditka | cmaditka | ditbongu | ditsia | ditysonmao@
 1538@2-Cpx@Predicate@@@L4@1975@3.5@dit(ka)+si(tf)a@bite place@@
-1539@3-Cpx@Predicate@@@APL@'00@7+@dit(ka)+y+son(da)+ma(dz)o@bite sound make@@
+1539@3-Cpx@Predicate@@@APL@2000@7+@dit(ka)+y+son(da)+ma(dz)o@bite sound make@@
 1540@Afx@Affix@@@JCB@1988@7+@dislu@@@
 1541@Afx@Affix@@@JCB@1988@7+@djano@@@
 1542@2-Cpx@Predicate@@@JJ@1993@7.4@dja(no)+basni@know below@@
@@ -1793,7 +1793,7 @@
 1797@2-Cpx@Predicate@@@JCB@1985@2.3@dza(bi)+sti(se)@exist cease@@
 1798@Afx@Affix@@@JCB@1988@7+@dzeli@@@
 1799@2-Cpx@Predicate@@@JRK@1991@7.4@dze(li)+ce(nj)a@jelly become@@
-1800@2-Cpx@Predicate@@@JWK@'00@7.4@dze(li)+cko(zu)@jelly cause@@
+1800@2-Cpx@Predicate@@@JWK@2000@7.4@dze(li)+cko(zu)@jelly cause@@
 1801@2-Cpx@Predicate@@@JRK@1991@7.4@dze(li)+du(rz)o@jelly do@@
 1802@C-Prim@Predicate@dze@41%@L4@1975@6.1@4/5E jelly | 3/5J jeri | 3/6R zhielie | 2/6C dueng dz | 2/6G suelze@@dzecea | dzecko | dzeduo | dzemao@
 1803@2-Cpx@Predicate@@@L4@1975@7.4@dze(li)+ma(dz)o@jelly make@@
@@ -1880,7 +1880,7 @@
 1884@2-Cpx@Predicate@@@RAM@1987@3.9@fag(ro)+pe(nt)a@fire point@@
 1885@C-Prim@Predicate@fag@46%@L4@1975@1.0@2/2H ag | 3/4E fire | 3/4R ogon | 3/5S fuego@@fagcea | fagcko | fagcli | fagctu | fagcui | fagdua | fagmao | fagpea | fagsacmao | fagsticea | fagstimao | fagtcidi | fagtroku | kapfagveo | klofagveo | nenfagflo@
 1886@3-Cpx@Predicate@@@JCB/RAM@1991@2.3@fag(ro)+sa(t)c(i)+ma(dz)o@fire start make@@
-1887@3-Cpx@Predicate@@@APL@'00@7+@fag(ro)+sti(se)+ce(nj)a@fire stop become@@
+1887@3-Cpx@Predicate@@@APL@2000@7+@fag(ro)+sti(se)+ce(nj)a@fire stop become@@
 1888@3-Cpx@Predicate@@@L4@1975@1.9@fag(ro)+sti(se)+ma(dz)o@fire stop make@@
 1889@2-Cpx@Predicate@@@RAM/JCB@1985@4.6@fag(ro)+tcidi@fire food@@
 1890@2-Cpx@Predicate@@@RAM@1988@7+@fag(ro)+troku@fire stone@@
@@ -1993,7 +1993,7 @@
 1997@2-Cpx@Predicate@@@L4@1975@1.0@fa(n)r(a)+la(nd)i@farm land@@
 1998@3-Cpx@Predicate@@@L4@1975@1.0@fa(n)r(a)+la(nd)i+cli(ka)@farm land like@@
 1999@Bor.@Predicate@@@JCB/RAM@1991@2.6@Name Fahrenheit@@@
-2000@2-Cpx@Predicate@@@JWK@'01@7+@fa(n)r(a)+ni(ml)a@ farm animal@@
+2000@2-Cpx@Predicate@@@JWK@2001@7+@fa(n)r(a)+ni(ml)a@ farm animal@@
 2001@3-Cpx@Predicate@@@JFB@1987@3.4@fa(n)r(a)+nim(la)+ha(sf)a@farm animal house@@
 2002@N-Prim@Predicate@@@RAM@1985@4.9@Irani farsi@@@
 2003@D-Prim@Predicate@@@JFB/JCB@1988@3.4@Irani farsi@@@
@@ -2059,13 +2059,13 @@
 2063@Afx@Affix@@@JCB@1988@7+@felda@@@
 2064@2-Cpx@Predicate@@@L4@1975@1.0@fel(da)+cko(zu)@fall cause@@
 2065@2-Cpx@Predicate@@@APL@1999@7+@fel(da)+cti(fu)@fall substance@@
-2066@2-Cpx@Predicate@@@APL@'00@7+@fel(da)+cu(tr)i@fall water@@
+2066@2-Cpx@Predicate@@@APL@2000@7+@fel(da)+cu(tr)i@fall water@@
 2067@C-Prim@Predicate@fel fed fea@50%@L4@1975@1.0@3/3E fell | 3/3G fell en | 2/3C dau@@clidyfea | fanfealei | fedlei | felcko | felcti | felcui | feldzo | felfoi | felmao | felnengoi | felsanla | felsanlysolda | felsia | felvai | felvaibarta | frefelprano | hedfea | kalfea | norfelcri | rolfea@
 2068@2-Cpx@Predicate@@@RWJ@1983@2.7@fel(da)+dzo(ru)@fall walk@@
 2069@2-Cpx@Predicate@@@JCB@1988@7+@fel(da)+fo(sl)i@ fall force@@
 2070@Name@Name@@@JCB@1988@7+@Lin@@@
 2071@2-Cpx@Predicate@@@L4@1975@1.0@fel(da)+ma(dz)o@fall make@@
-2072@3-Cpx@Predicate@@@JWK@'01@7+@fel(da)+nen(ri)+go(dz)i@fall inside go @@
+2072@3-Cpx@Predicate@@@JWK@2001@7+@fel(da)+nen(ri)+go(dz)i@fall inside go @@
 2073@2-Cpx@Predicate@@@APL@1995@7+@fel(da)+sanla@fall umbrella@@
 2074@3-Cpx@Predicate@@@APL@1995@7+@fel(da)+sanl(a)+y+solda@fall umbrella soldier@@
 2075@S-Prim@Predicate@@@JCB@1988@7+@Lin. Felis@@@
@@ -2102,7 +2102,7 @@
 2106@2-Cpx@Predicate@@@EM@1995@7+@fe(kt)o+r+ku(nc)i@factually related@@
 2107@2-Cpx@Predicate@@@RAM@1993@7+@fe(kt)o+so/r(di)@fact store@@
 2108@2-Cpx@Predicate@@@L4@1975@1.0@fe(kt)o+tra(du)@fact true@@
-2109@I-Prim@Predicate@fep@@JWK@'02@7+@ISV@@@
+2109@I-Prim@Predicate@fep@@JWK@2002@7+@ISV@@@
 2110@Afx@Affix@@@JCB@1988@7+@fe@@@
 2111@Cpd@Struct@@@L4@1975@15@fe+ra@@@
 2112@2-Cpx@Predicate@@@L4@1975@1.7@fer+cen(ti)+dalra@five hundredth dollar@@
@@ -2149,7 +2149,7 @@
 2153@D-Prim@Predicate@@@JCB/RAM@1994@7+@ficli@@@
 2154@3-Cpx@Predicate@@@JCB@1988@7+@fic(li)+y+jan(to)+ki(nc)i@fish hunt accompany@@
 2155@2-Cpx@Predicate@@@JLT@1986@2.1@fic(li)+y+janto@fish hunt@@
-2156@2-Cpx@Predicate@@@RH@'09@SL group words -- originally *ficnirli, but '94 ruling requires hyphen@fic(li)+y+nirli@fish girl@@
+2156@2-Cpx@Predicate@@@RH@2009@SL group words -- originally *ficnirli, but '94 ruling requires hyphen@fic(li)+y+nirli@fish girl@@
 2157@Afx@Affix@@@JCB@1988@7+@fizdi@@@
 2158@2-Cpx@Predicate@@@L4@1975@8.0@fi(z)d(i)+sensi@physical science@@
 2159@3-Cpx@Predicate@@@L4@1975@7.4@fi(z)d(i)+se(n)s(i)+ma(dz)o@physics science maker@@
@@ -2197,7 +2197,7 @@
 2203@3-Cpx@Predicate@@@JCB/RAM@1991@3.9@fir(pa)+plu(ci)+spe(ni)@fear pleasure experience@@
 2204@Afx@Affix@@@JCB@1988@7+@fitpi@@@
 2205@2-Cpx@Predicate@@@SLR@1991@7+@fit(pi)+levga@foot lever@@
-2206@4-Cpx@Predicate@@@RAM@'01@7+@fit(pi)+lev(ga)+ple(ci)+tca(ro)@foot lever play car@@
+2206@4-Cpx@Predicate@@@RAM@2001@7+@fit(pi)+lev(ga)+ple(ci)+tca(ro)@foot lever play car@@
 2207@3-Cpx@Predicate@@@APL@1996@7+@fit(pi)+lev(ga)+pu(ct)o@foot lever push@@
 2208@3-Cpx@Predicate@@@APL@1996@7+@fit(pi)+lev(ga)+taksi@foot lever taxi@@
 2209@2-Cpx@Predicate@@@RAM@1991@2.0@fit(pi)+ma/r(ka)@foot print@@
@@ -2242,7 +2242,7 @@
 2248@2-Cpx@Predicate@@@APL@1995@7+@fle(ti)+si(tf)a@fly place@@
 2249@2-Cpx@Predicate@@@APL@1995@7+@fle(ti)+stana@fly station@@
 2250@2-Cpx@Predicate@@@FR@1991@2.7@fle(ti)+sti(se)@fly stop@@
-2251@3-Cpx@Predicate@@@APL@'01@7+@fle(ti)+sti(se)+rodlu@fly stop road@@
+2251@3-Cpx@Predicate@@@APL@2001@7+@fle(ti)+sti(se)+rodlu@fly stop road@@
 2252@2-Cpx@Predicate@@@APL@1995@7+@fle(ti)+su(rv)a@fly serve@@
 2253@C-Prim@Predicate@fle@56%@L4@1975@1.0@3/3C fei | 3/4E fly | 3/5R lieta t | 3/4G flieg en@@bombyflemai | cmaflemai | cutflemai | cutlaiflemai | dorflegru | flebomba | fledjadou | flegimna | flehao | flekompi | flelansa | flemai | flemaisro | flenensea | flerodlu | flesatci | flesia | flestana | flesti | flestirodlu | flesua | ganfle | gentcelyflemai | grocuiflemai | kadflemai | kalflesti | kukdamfle | latflemai | latflepae | lelfle | macflesia | maifle | mocyclefle | normuofle | tantcelyflemai | vresacfle@
 2254@Afx@Affix@@@JCB@1988@7+@flidu@@@
@@ -2256,7 +2256,7 @@
 2262@3-Cpx@Predicate@@@L4@1975@7.4@fli(du)+gre(sa)+du(rz)o@liquid grease do@@
 2263@3-Cpx@Predicate@@@L4@1975@7.4@fli(du)+gre(sa)+fo/l(ma)@oil full@@
 2264@3-Cpx@Predicate@@@L4@1975@7.4@fli(du)+gre(sa)+ku(vg)a@oil covered@@
-2265@3-Cpx@Predicate@@@JWK@'00@7+@fli(du)+hol(du)+cko(zu)@bubble(liquid hole) cause @@
+2265@3-Cpx@Predicate@@@JWK@2000@7+@fli(du)+hol(du)+cko(zu)@bubble(liquid hole) cause @@
 2266@3-Cpx@Predicate@@@RAM@1987@4.9@fli(du)+hol(du)+ve(tc)i@liquid hole happen@@
 2267@2-Cpx@Predicate@@@RAM@1987@4.9@fli(du)+ho(ld)u@liquid hole@@
 2268@3-Cpx@Predicate@@@APL@1998@7+@fli(du)+kro(li)+sne(ku)@liquid flow neck@@
@@ -2264,7 +2264,7 @@
 2270@2-Cpx@Predicate@@@L4@1975@7.4@fli(du)+ma(dz)o@liquid make@@
 2271@2-Cpx@Predicate@@@RAM@1987@3.8@fli(du)+mo(rt)o@liquid dead@@
 2272@3-Cpx@Predicate@@@RAM/JCB@1987@3.8@fli(du)+mor(to)+ce(nj)a@water dead become@@
-2273@3-Cpx@Predicate@@@APL@'00@7+@fli(du)+mor(to)+cko(zu)@liquid death cause@@
+2273@3-Cpx@Predicate@@@APL@2000@7+@fli(du)+mor(to)+cko(zu)@liquid death cause@@
 2274@3-Cpx@Predicate@@@RAM/JCB@1987@3.8@fli(du)+mor(to)+ma(dz)o@water dead make@@
 2275@3-Cpx@Predicate@@@RAM@1987@2.8@fli(du)+nen(ri)+pu(ct)o@liquid into push@@
 2276@3-Cpx@Predicate@@@JCB/RAM@1990@2.8@fli(du)+nen(ri)+se(tf)a@liquid in set@@
@@ -2307,7 +2307,7 @@
 2313@2-Cpx@Predicate@@@APL@1995@7+@fo(l)d(i)+to(bm)e@fold table@@
 2314@Cpd@Struct@@@JCB@1988@1.0@fo+fi@@@
 2315@LW@Struct@@@JCB@1997@7+@folfunrui@must@@
-2316@2-Cpx@Predicate@@@RAM@'01@7+@fo(sl)i+dzo(ru)@force walk@@
+2316@2-Cpx@Predicate@@@RAM@2001@7+@fo(sl)i+dzo(ru)@force walk@@
 2317@3-Cpx@Predicate@@@L4@1975@2.2@fo(sl)i+r+cma(lo)+ma(dz)o@forcefully reduce@@
 2318@2-Cpx@Predicate@@@RAM@1991@1.3@fo(sl)i+r+ju(gr)a@forcefully grab@@
 2319@3-Cpx@Predicate@@@APL@1999@7+@fo(sl)i+r+lel(pi)+se(tf)a@force level set@@
@@ -2337,7 +2337,7 @@
 2343@3-Cpx@Predicate@@@L4@1975@2.4@fo(r)l(i)+kri(do)+ka(kt)o@strong belief act@@
 2344@2-Cpx@Predicate@@@RAM@1988@4.1@fo(r)l(i)+kru(ma)@strong room@@
 2345@C-Prim@Predicate@flo@45%@L4@1975@1.0@3/3G voll | 2/3E full | 2/3C man | 2/5R polno@@bonflo | briflo | ceorderflo | ceuflo | ciaflo | cilflo | cinflo | cinflocko | ckaflo | claflo | clafyflo | cniflo | comflo | criflo | cuiflo | datflo | disflo | donflo | dusflo | dutflo | fauflo | fenflo | fioflo | fliflo | fligreflo | flocea | flocko | flomao | flomou | flopai | fodflocea | fodflocko | fodflomao | fodliaflo | frelykaoflo | graflo | greflo | greflocea | grimuiflo | haiflo | helflo | holflo | jaoflo | jitflomao | julflo | kacflo | kalflo | kalflocea | kanpyflo | kaoflo | karkyflo | kerflo | kerkroflo | kladyflo | koiflo | kriflo | ledflo | lekflo | lidflo | lifyflo | litflo | livflo | lodflo | lorflo | mioflo | misflocko | muiflo | muoflo | musflo | nejflo | nenfagflo | nicflo | norkoiduoflo | norpoaflo | nurflo | paiflo | penckaflo | penflo | perflo | pisflo | pliflo | poaflo | poiflo | puaflo | pulflo | ragflo | ragflocea | razflo | recykaiflo | risflo | salgreflo | sanflo | secflo | selsacflo | skuflo | smaflo | solflo | sotflo | spoflo | susflo | taaflo | taoflo | tarflo | tceholflo | tcupenflo | teiflo | trokyflo | tseflo | tuaflo | vefyflo | venflo | zasflo | zavdazflo@
-2346@2-Cpx@Predicate@@@JWK@'00@7+@fo(r)l(i)+madji@strong magician@@
+2346@2-Cpx@Predicate@@@JWK@2000@7+@fo(r)l(i)+madji@strong magician@@
 2347@2-Cpx@Predicate@@@JPC/JCB/RAM@1983@3.0@fo(r)l(i)+ma(dz)o@strong make@@
 2348@2-Cpx@Predicate@@@JCB/RAM/JJ@1991@3.7@fo(r)l(i)+pru(ci)@strong test@@
 2349@2-Cpx@Predicate@@@JFB@1987@3.6@fo(r)l(i)+ro(dj)a@strongly grow@@
@@ -2363,9 +2363,9 @@
 2369@3-Cpx@Predicate@@@L4@1975@2.0@fo(r)m(a)+gu(d)b(i)+do(ns)u@formal good give@@
 2370@2-Cpx@Predicate@@@JCB@1995@7+@ford(i)+y+bi(ts)a@floor between@@
 2371@3-Cpx@Predicate@@@JCB@1995@7+@ford(i)+y+bi(ts)a+spa(si)@floor between space@@
-2372@2-Cpx@Predicate@@@RAM@'01@7+@ford(i)+y+ge(nz)a@floor repeat@@
+2372@2-Cpx@Predicate@@@RAM@2001@7+@ford(i)+y+ge(nz)a@floor repeat@@
 2373@2-Cpx@Predicate@@@JFB@1987@3.7@ford(i)+y+kla(bu)@floor fabric@@
-2374@3-Cpx@Predicate@@@APL@'01@7+@ford(i)+y+kla(bu)+ve(dm)a@floor clith sell(er)@@
+2374@3-Cpx@Predicate@@@APL@2001@7+@ford(i)+y+kla(bu)+ve(dm)a@floor clith sell(er)@@
 2375@3-Cpx@Predicate@@@JCB@1994@7+@ford(i)+y+(b)roc(u)+du(rz)o@floor brush do@@
 2376@3-Cpx@Predicate@@@APL@1999@7+@ford(i)+y+vlac(i)+y+(t)ri(m)e@floor wash tool@@
 2377@1-Cpx@Predicate@@@RAM/JCB@1990@3.5@for+gru(pa)@4th group@@
@@ -2414,7 +2414,7 @@
 2420@2-Cpx@Predicate@@@RAM/MWZ@1991@2.2@ko(r)j(i)+po(nd)a@order respond@@
 2421@3-Cpx@Predicate@@@RAM@1993@7+@ko(r)j(i)+ti(sr)a+klaki@order selector key@@
 2422@Afx@Affix@@@JCB@1988@7+@kokfa@@@
-2423@3-Cpx@Predicate@@@JWK@'00@7+@kok(fa)+ce(nj)a+cko(zu)@cook change cause@@
+2423@3-Cpx@Predicate@@@JWK@2000@7+@kok(fa)+ce(nj)a+cko(zu)@cook change cause@@
 2424@C-Prim@Predicate@kok@44%@L4@1975@2.5@3/3J kok ku | 2/3E cook | 2/3G koch | 3/6C dzo fan | 2/5S cocin ar@@kokceacko | kokpae | kokveo | kokykanra | kokykru | nurkoktokri | zanynurkokfa | zanynurkokmio@
 2425@2-Cpx@Predicate@@@L4@1975@3.3@kok(fa)+pa(tc)e@cook apparatus@@
 2426@2-Cpx@Predicate@@@JCB/RAM@1990@4.0@kok(fa)+ve(sl)o@cook container@@
@@ -2459,7 +2459,7 @@
 2465@Afx@Affix@@@JCB@1988@7+@magne@@@
 2466@2-Cpx@Predicate@@@RAM/JCB@1988@4.1@mag(ne)+fa(nd)o@magnet end@@
 2467@3-Cpx@Predicate@@@RAM@1993@7+@mag(ne)+fe(kt)o+so/r(di)@magnetic memory(fact store)@@
-2468@2-Cpx@Predicate@@@TED@'02@7+@mag(ne)+me(rl)i@magnetic measure@@
+2468@2-Cpx@Predicate@@@TED@2002@7+@mag(ne)+me(rl)i@magnetic measure@@
 2469@I-Prim@Predicate@mag@@JCB@1989@7+@ISV@@magfao | magfeosro | magmei@
 2470@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
 2471@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
@@ -2479,7 +2479,7 @@
 2485@3-Cpx@Predicate@@@SLR@1992@7+@ma(d)j(i)+pip(lo)+stu(ci)@magic people story@@
 2486@2-Cpx@Predicate@@@FR/RAM@1987@3.9@ma(d)j(i)+pu(rd)a@magic words@@
 2487@3-Cpx@Predicate@@@FR/RAM@1987@3.9@ma(d)j(i)+pur(da)+cu(ts)e@magic words say@@
-2488@2-Cpx@Predicate@@@APL@'00@7+@ma(d)j(i)+y+ce(nj)a@magic change@@
+2488@2-Cpx@Predicate@@@APL@2000@7+@ma(d)j(i)+y+ce(nj)a@magic change@@
 2489@2-Cpx@Predicate@@@SLR@1992@7+@ma(d)j(i)+y+miksa@magic mixture@@
 2490@2-Cpx@Predicate@@@SLR@1992@7+@ma(d)j(i)+y+sa(np)a@magic sign@@
 2491@2-Cpx@Predicate@@@JFB@1984@2.8@ma(d)j(i)+y+stuka@magic stick@@
@@ -2496,7 +2496,7 @@
 2502@2-Cpx@Predicate@@@APL@1995@7+@ma(n)k(o)+trufa@mouth roof@@
 2503@2-Cpx@Predicate@@@JCB/RAM@1990@2.4@ma(n)k(o)+va(pr)o@mouth gas@@
 2504@2-Cpx@Predicate@@@SLR@1993@7+@ma(n)k(o)+vlaci@mouth wash@@
-2505@2-Cpx@Predicate@@@RAM@'01@7+@ma(n)k(o)+y+kraco@mouth crush(into pulp)@@
+2505@2-Cpx@Predicate@@@RAM@2001@7+@ma(n)k(o)+y+kraco@mouth crush(into pulp)@@
 2506@Afx@Affix@@@JCB@1988@7+@malbi@@@
 2507@C-Prim@Predicate@mal@48%@L4@1975@1.6@3/3S mal | 2/3C bing | 4/6F maladie | 3/5J...amai | 3/6E malady@@bludrumalbi | kuspynurmalbi | malblabi | malcea | malcko | malfiu | malfro | malhatro | malmao | malpetri | malsatci | malsulba | malylabcea | muvmalbi | snimalcko | volfiumalbi | zvomalcko@
 2508@2-Cpx@Predicate@@@JFB@1984@2.3@mal(bi)+blabi@sickly white@@
@@ -2511,10 +2511,10 @@
 2517@C-Prim@Predicate@man@41%@L4@1975@2.5@2/3C nai | 4/6R moloko | 2/4E milk | 2/4G milch@@mancli | mansia@
 2518@2-Cpx@Predicate@@@JCB@1988@7+@mal(bi)+petri@sickness spread@@
 2519@2-Cpx@Predicate@@@FR/JCB/RAM@1985@4.6@mal(bi)+satci@sickness start@@
-2520@2-Cpx@Predicate@@@APL@'00@7+@mal(bi)+sulba@sore swelling @@
-2521@S-Prim@Predicate@@@APL@'01@7+@malt@@maltycli@
+2520@2-Cpx@Predicate@@@APL@2000@7+@mal(bi)+sulba@sore swelling @@
+2521@S-Prim@Predicate@@@APL@2001@7+@malt@@maltycli@
 2522@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
-2523@2-Cpx@Predicate@@@RAM@'01@7+@malt(i)+y+cli(ka)@malt like@@
+2523@2-Cpx@Predicate@@@RAM@2001@7+@malt(i)+y+cli(ka)@malt like@@
 2524@3-Cpx@Predicate@@@FR/JCB/RAM@1987@2.9@mal(bi)+y+(b)lab(i)+ce(nj)a@sickly white become@@
 2525@Afx@Affix@@@JCB@1988@7+@matma@@@
 2526@2-Cpx@Predicate@@@L4@1975@7.4@ma(t)m(a)+bi(vd)u@mother behave@@
@@ -2581,9 +2581,9 @@
 2587@Afx@Affix@@@JCB@1988@7+@mensa@@@
 2588@2-Cpx@Predicate@@@RAM@1991@1.0@me(ns)a+cke(mo)@month interval@@
 2589@2-Cpx@Predicate@@@APL@1999@7+@me(ns)a+r+ketpi@month ticket@@
-2590@S-Prim@Predicate@@@APL@'00@7+@L. mephiti@@@
+2590@S-Prim@Predicate@@@APL@2000@7+@L. mephiti@@@
 2591@Afx@Affix@@@JCB@1988@7+@megdo@@@
-2592@I-Prim@Predicate@meb@@JWK@'02@7+@ISV@@@
+2592@I-Prim@Predicate@meb@@JWK@2002@7+@ISV@@@
 2593@I-Prim@Predicate@meg@@JCB@1989@7+@Int@@megherzi | megygramo@
 2594@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 2595@2-Cpx@Predicate@@@RAM/JCB@1991@3.3@meg(do)+herzi@million herzi@@
@@ -2842,7 +2842,7 @@
 2848@2-Cpx@Predicate@@@L4@1975@2.5@gan(ta)+ga(nc)u@high winner@@
 2849@2-Cpx@Predicate@@@JLT@1986@2.3@gan(ta)+go(dz)i@high go@@
 2850@3-Cpx@Predicate@@@L4@1975@2.3@gan(ta)+gud(bi)+ta(kn)a@high good talk/@@
-2851@2-Cpx@Predicate@@@JWK@'01@7+@gan(ta)+(d)ju(p)o@high support @@
+2851@2-Cpx@Predicate@@@JWK@2001@7+@gan(ta)+(d)ju(p)o@high support @@
 2852@3-Cpx@Predicate@@@JCB/RAM@1990@2.3@gan(ta)+ka(kt)o+ta(kn)a@high praise@@
 2853@2-Cpx@Predicate@@@JRK@1985@4.4@gan(ta)+la(nd)i@high land@@
 2854@2-Cpx@Predicate@@@JCB@1995@7+@gan(ta)+le(tr)a@high letter@@
@@ -2865,10 +2865,10 @@
 2871@2-Cpx@Predicate@@@RAM@1987@3.7@gan(ta)+(s)ta(l)i@high stand@@
 2872@3-Cpx@Predicate@@@APL@1998@7+@gan(ta)+t(r)an(a)+ma(dz)o@high turn make@@
 2873@3-Cpx@Predicate@@@RAM@1993@7+@gan(ta)+ti(sr)a+klaki@high selector key@@
-2874@2-Cpx@Predicate@@@APL@'00@7+@gan(ta)+tor+spa(si)@high surface@@
+2874@2-Cpx@Predicate@@@APL@2000@7+@gan(ta)+tor+spa(si)@high surface@@
 2875@2-Cpx@Predicate@@@L4@1975@5.2@gan(ta)+tu(gl)e@upper leg@@
 2876@3-Cpx@Predicate@@@FR@1986@4.9@gan(ta)+tu(g)l(e)+mi(tr)o@thigh meat@@
-2877@2-Cpx@Predicate@@@APL@'00@7+@gan(ta)+y+nazbi@high nose@@
+2877@2-Cpx@Predicate@@@APL@2000@7+@gan(ta)+y+nazbi@high nose@@
 2878@2-Cpx@Predicate@@@L4@1975@2.3@gan(ta)+y+nur+ba(lc)i@high building@@
 2879@LW@Struct@@@JC@2013 (to '15)@@gasno@@@
 2880@3-Cpx@Predicate@@@L4@1975@1.0@ga(sn)o+r+bri(ze)+ma(dz)o@anal wind make@@
@@ -2914,12 +2914,12 @@
 2921@D-Prim@Predicate@@@JCB@1988@7+@Lin@@@
 2922@Afx@Affix@@@JCB@1988@7+@genza@@@
 2923@2-Cpx@Predicate@@@JCB@1984@2.7@gen(za)+ble(ka)@again look@@
-2924@2-Cpx@Predicate@@@APL@'00@7+@gen(za)+bra(na)@again born@@
+2924@2-Cpx@Predicate@@@APL@2000@7+@gen(za)+bra(na)@again born@@
 2925@3-Cpx@Predicate@@@RAM@1987@4.2@gen(za)+bra(na)+de(nl)i@again born day@@
 2926@2-Cpx@Predicate@@@L4@1975@1.0@gen(za)+cu(ts)e@again say@@
 2927@2-Cpx@Predicate@@@L4@1975@7.4@gen(za)+du(rz)o@again do@@
 2928@2-Cpx@Predicate@@@JCB/RAM@1991@4.6@gen(za)+fur+po(nd)a@again stimulate@@
-2929@2-Cpx@Predicate@@@APL@'00@7+@gen(za)+ge(nz)a@again again@@
+2929@2-Cpx@Predicate@@@APL@2000@7+@gen(za)+ge(nz)a@again again@@
 2930@2-Cpx@Predicate@@@L4@1975@1.9@gen(za)+ge(ts)i@again get@@
 2931@Bor.@Predicate@@@JCB@1990@15+@genome: ISV@@@
 2932@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
@@ -2930,7 +2930,7 @@
 2937@3-Cpx@Predicate@@@JCB/RAM@1991@4.1@gen(za)+kin(ci)+go(dz)i@again together go@@
 2938@2-Cpx@Predicate@@@JCB/RAM@1991@3.6@gen(za)+pa(rt)i@again part@@
 2939@2-Cpx@Predicate@@@JCB/RAM@1991@3.0@gen(za)+pro(ju)@again produce@@
-2940@S-Prim@Predicate@ger geu@@JCB@'00@7+@ISV@@geersei | gerseicea | nurgertia | nurgeu@
+2940@S-Prim@Predicate@ger geu@@JCB@2000@7+@ISV@@geersei | gerseicea | nurgertia | nurgeu@
 2941@3-Cpx@Predicate@@@L4@1975@1.0@gen(za)+sa(t)c(i)+du(rz)o@again start@@
 2942@3-Cpx@Predicate@@@FR@1985@3.4@gen(za)+sni(re)+ble(ka)@again close look-at@@
 2943@2-Cpx@Predicate@@@RAM/JLT@1986@2.5@gen(za)+so(nd)a@again sound@@
@@ -2962,7 +2962,7 @@
 2969@LW@Struct@@@L4@1975@1.0@gia+internal i@@@
 2970@LW@Struct@@@L4@1975@7.0@@@@
 2971@Afx@Affix@@@JCB@1988@7+@gigdo@@@
-2972@I-Prim@Predicate@gib@@JWK@'02@7+@ISV@@@
+2972@I-Prim@Predicate@gib@@JWK@2002@7+@ISV@@@
 2973@I-Prim@Predicate@gig@@JCB@1989@7+@Int@@@
 2974@I-Prim@Predicate@@@L4@1975@7.2@Int.@@flegimna@
 2975@Bor.@Predicate@@@JCB@1988@7+@Lin@@@
@@ -2989,7 +2989,7 @@
 2996@Afx@Affix@@@JCB@1988@7+@glidu@@@
 2997@C-Prim@Predicate@gli@57%@L4@1975@1.3@3/3S guia | 3/3F guide | 3/4E guide | 4/6C ling dao | 3/5J gaido@@fangli | glidurfoa | glikrilu | glireu | neigli | spigli@
 2998@3-Cpx@Predicate@@@JJ@1993@7+@gli(da)+dur(zo)+fo(rm)a@guide do form@@
-2999@2-Cpx@Predicate@@@APL@'00@7+@gli(da)+krilu@guide wheel@@
+2999@2-Cpx@Predicate@@@APL@2000@7+@gli(da)+krilu@guide wheel@@
 3000@2-Cpx@Predicate@@@APL/RAM@1996@7+@gli(da)+(t)re(l)u@guide bar@@
 3001@C-Prim@Predicate@@45%@L4@1975@1.0@3/4E glass | 3/4G glas | 3/5H gilas | 2/4C bo li@@rorkolgliso@
 3002@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
@@ -3008,7 +3008,7 @@
 3015@2-Cpx@Predicate@@@RAM@1995@7+@godr(u)+y+sputa@drain spoon@@
 3016@2-Cpx@Predicate@@@SLR@1993@7+@godr(u)+y+su(nd)i@drain send@@
 3017@C-Prim@Predicate@god goz goi@46%@L4@1975@1.0@2/2E go | 2/4C dzou | 2/4R idti@@bangoi | bedgoi | beldygoi | betgoi | bicfregoi | blacucgoi | blegoi | cangoi | ckelisgoi | cutpalgoi | dargoi | dergoi | dirgoi | durgoi | fadgoi | fanbedgoi | fangoi | fanzvogoi | felnengoi | foirnengoi | fredirgoi | fregoi | fregoigru | fresnigoi | fucgoi | fucgoigru | gangoi | garfregoi | genkingoi | gesgoisia | godbeopre | godcea | godrygoi | goidji | goigru | gozbei | gozbeo | gozdio | gozdre | gozkii | gozlei | gozleiketpi | gozmao | gozmazpea | goznurlei | goztaa | goztsefui | grugoi | gunfregoi | hargoi | hasgoi | helgoi | jmigoi | jupkingoi | kamgoi | kasgoi | kasgoisia | kingoi | kizgoi | kovgoi | kriprigoi | kukygoi | langoi | lingoi | lisgoi | lisyblegoi | nazgozdio | nengoi | nengoicibra | nengoiketpi | nengoikru | nengoisia | nengoista | nengozlei | nengozliu | palgoi | pasgoi | pasgozdio | pazgoi | pifgoi | pragoi | pridirgoi | prifregoi | prigoi | prikingoi | radgoi | sacgoi | sacgoikru | safgoi | smigoi | smugoi | snigoi | socgoi | spegoi | tcagoi | tcegoi | tcelygoi | tovneagoi | tsekovgoi | vijbangoi | vijgoi | vizgoi@
-3018@S-Prim@Predicate@@@APL@'00@7+@L. Gopherus@@@
+3018@S-Prim@Predicate@@@APL@2000@7+@L. Gopherus@@@
 3019@LW@Struct@@@L4@1975@15+@godzi@@@
 3020@2-Cpx@Predicate@@@L4@1975@2.3@go(dz)i+dji(ne)@go join@@
 3022@2-Cpx@Predicate@@@L4@1975@1.6@go(dz)i+gru(pa)@go group@@
@@ -3060,12 +3060,12 @@
 3068@2-Cpx@Predicate@@@FR@1986@2.6@gra(da)+gu(nt)i@great country@@
 3069@2-Cpx@Predicate@@@L4@1975@7.4@gra(da)+kru(ma)@great room@@
 3070@2-Cpx@Predicate@@@JCB/RAM@1990@3.9@gra(da)+la(nd)i@great land@@
-3071@2-Cpx@Predicate@@@JWK@'00@7+@gra(da)+madji@great magician@@
+3071@2-Cpx@Predicate@@@JWK@2000@7+@gra(da)+madji@great magician@@
 3072@2-Cpx@Predicate@@@MP@1983@3.1@gra(da)+mi(lf)a@great meal@@
 3073@C-Prim@Predicate@@66%@L4@1975@7.4@4/4H gram | 4/4R gram | 5/5S gramo | 4/4F gramme | 4/4 gramm | 3/4E gram | 4/6J guramu@@kilgramo | megygramo | milgramo@
 3074@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 3075@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-3076@2-Cpx@Predicate@@@APL@'00@7+@gra(da)+po(rl)i@great power@@
+3076@2-Cpx@Predicate@@@APL@2000@7+@gra(da)+po(rl)i@great power@@
 3077@3-Cpx@Predicate@@@L4@1975@2.0@gra(da)+ris(pe)+do(ns)u@honor give@@
 3078@3-Cpx@Predicate@@@APL@1996@7+@gra(da)+ris(pe)+dri(ki)@great respect remember@@
 3079@2-Cpx@Predicate@@@L4@1975@1.0@gra(da)+rispe@great respect@@
@@ -3087,12 +3087,12 @@
 3095@2-Cpx@Predicate@@@L4@1975@6.5@gri(tu)+cli(ka)@song like@@
 3096@2-Cpx@Predicate@@@RAM@1987@2.8@gri(tu)+cu(ts)e@sing say@@
 3097@2-Cpx@Predicate@@@RAM@1987@3.6@gri(tu)+gru(pa)@sing group@@
-3098@S-Prim@Predicate@@@APL@'00@7+@L. Gryllidae@@@
+3098@S-Prim@Predicate@@@APL@2000@7+@L. Gryllidae@@@
 3099@2-Cpx@Predicate@@@SLR@1992@7+@gri(tu)+madji@song magic@@
 3100@2-Cpx@Predicate@@@L4@1975@3.0@gri(tu)+mu(zg)i@song music@@
 3101@3-Cpx@Predicate@@@L4@1975@7.4@gri(tu)+mu(zg)i+fo/l(ma)@tune full@@
 3102@2-Cpx@Predicate@@@L4@1975@7.4@gri(tu)+pu(rd)a@song word@@
-3103@2-Cpx@Predicate@@@APL@'00@7+@gri(tu)+sakli@sing bag@@
+3103@2-Cpx@Predicate@@@APL@2000@7+@gri(tu)+sakli@sing bag@@
 3104@C-Prim@Predicate@@50%@L4@1975@2.2@4/4S gris | 3/3F gris | 2/3E grey | 2/4R sier yi | 2/4G grau | 2/6C huei se@@@
 3105@2-Cpx@Predicate@@@L4@1975@1.6@gri(tu)+ta(kn)a@sing talk@@
 3106@C-Prim@Predicate@gri@55%@L4@1975@1.6@2/2C gr | 3/3H git | 2/3E tune@@gadgri | gricli | gricue | grigru | grimadji | grimui | grimuiflo | gripua | grisakli | gritaa | guigri | lidnurgri | nurgristu@
@@ -3106,7 +3106,7 @@
 3114@2-Cpx@Predicate@@@L4@1975@3.3@gro(da)+cko(zu)@larger cause@@
 3115@4-Cpx@Predicate@@@APL@1995@7+@gro(da)+cu(tr)i+fle(ti)+ma(tc)i@large water fly machine@@
 3116@C-Prim@Predicate@gro@66%@L4@1975@1.0@2/2C da | 3/3F gros | 3/4E gross | 3/4G gross | 3/5S grand e | 2/5R shirok yii@@bilgro | fregrokru | gardiugrokru | grobao | grobeu | grobou | grobousui | grocea | grocko | grocuiflemai | grodansykru | grodatcti | grofarnurbai | grofau | grokru | grokukreo | grolea | gromao | gromroza | gromursi | gronaldi | gropla | groracbao | groranjo | grositci | grotaa | grotci | grotroku | humgro | muegro | niagro | numgro | pergrobou | ratgrocea | simgrocea | simgrocko | simgromao | zvonomgro@
-3117@3-Cpx@Predicate@@@APL@'00@7+@gro(da)+dans(e)+y+kru(ma)@big dance room@@
+3117@3-Cpx@Predicate@@@APL@2000@7+@gro(da)+dans(e)+y+kru(ma)@big dance room@@
 3118@3-Cpx@Predicate@@@FR@1985@4.9@gro(da)+da(n)t(e)+cti(fu)@big tooth substance@@
 3119@3-Cpx@Predicate@@@FR@1985@4.8@gro(da)+fa(n)r(a)+nur+ba(lc)i@large farm building@@
 3120@2-Cpx@Predicate@@@L4@1975@2.2@gro(da)+fa(tr)u@big trouble@@
@@ -3261,7 +3261,7 @@
 3270@2-Cpx@Predicate@@@APL@1997@7+@ha(pc)i+jmi(te)@happily meet@@
 3271@2-Cpx@Predicate@@@RAM@1993@3.0@ha(pc)i+r+bi(vd)u@happy behave@@
 3272@2-Cpx@Predicate@@@RAM/JCB@1991@2.9@ha(pc)i+spe(ni)@happily experience@@
-3273@S-Prim@Predicate@@@APL@'00@7+@Gk. acne L. acne vulgaris@@@
+3273@S-Prim@Predicate@@@APL@2000@7+@Gk. acne L. acne vulgaris@@@
 3274@Afx@Affix@@@JCB@1988@7+@harmo@@@
 3275@2-Cpx@Predicate@@@L4@1975@2.7@ha(r)m(o)+se(tc)i@harmony set@@
 3276@2-Cpx@Predicate@@@RWJ@1983@3.0@ha(r)m(o)+to(gr)i@harmony agree@@
@@ -3308,7 +3308,7 @@
 3317@2-Cpx@Predicate@@@JCB/RAM@1991@1.1@hap(ci)+do(ns)u@happiness giver@@
 3318@3-Cpx@Predicate@@@SLR@1992@7+@hap(ci)+fa(nd)o+stu(ci)@happy end story@@
 3319@3-Cpx@Predicate@@@JRK@1991@1.0@hap(ci)+ges(ko)+ve(tc)i@happy guest event@@
-3320@2-Cpx@Predicate@@@APL@'00@7+@hap(ci)+ha(pc)i@happy happy@@
+3320@2-Cpx@Predicate@@@APL@2000@7+@hap(ci)+ha(pc)i@happy happy@@
 3321@2-Cpx@Predicate@@@L4@1975@3.4@hap(ci)+(c)ke(m)o@happy time@@
 3322@3-Cpx@Predicate@@@L4@1975@7.4@hap(ci)+(c)ke(m)o+cli(ka)@festival like@@
 3323@2-Cpx@Predicate@@@L4@1975@1.9@hap(ci)+ma(dz)o@happy make@@
@@ -3355,7 +3355,7 @@
 3364@2-Cpx@Predicate@@@CJB/JCB/RAM@1983@2.1@hat(ro)+nor+to(gr)i@hotly not agree@@
 3365@C-Prim@Predicate@hat@58%@L4@1975@1.7@3/3E hot | 2/2C ro | 2/4G heiss | 2/5J atsui@@derhatnerji | hatcea | hatcko | hatfio | hatmao | hatmei | hatmelrie | hatmotci | hatnortoi | hatska | hatysonpro | kofhatro | malhatro | melhatro | midhatro | skahatro@
 3366@2-Cpx@Predicate@@@JCB@1995@7+@hat(ro)+ska(lu)@heat scale@@
-3367@3-Cpx@Predicate@@@RAM@'01@7+@hat(ro)+y+son(da)+pro(ju)@heat sound produce@@
+3367@3-Cpx@Predicate@@@RAM@2001@7+@hat(ro)+y+son(da)+pro(ju)@heat sound produce@@
 3368@Afx@Affix@@@JCB@1988@7+@hansu@@@
 3369@2-Cpx@Predicate@@@RAM/JCB@1991@5.0@ha(ns)u+pro(ju)@sweat produce@@
 3370@2-Cpx@Predicate@@@JCB/RAM@1991@5.0@ha(ns)u+r+ku(vg)a@sweat covered@@
@@ -3392,7 +3392,7 @@
 3401@LW@Struct@@@L4@1975@15+@@@@
 3402@Afx@Affix@@@JCB@1988@7+@hekto@@@
 3403@2-Cpx@Predicate@@@L4@1975@1.4@hek(to)+ni(rn)e@100 years@@
-3404@I-Prim@Predicate@hes@@JWK@'02@7+@ISV@@@
+3404@I-Prim@Predicate@hes@@JWK@2002@7+@ISV@@@
 3405@Bor.@Predicate@@@JFB@1984@3.9@international unit for 10000 square meters@@@
 3406@I-Prim@Predicate@hek@@JCB@1989@7+@Int@@heknie@
 3407@Afx@Affix@@@JCB@1988@7+@helba@@@
@@ -3425,7 +3425,7 @@
 3434@D-Prim@Predicate@@@JCB@1990@4.2@L henji@@@
 3435@2-Cpx@Predicate@@@APL@1998@7+@henj(i)+y+clafo@hen laugh@@
 3436@Afx@Affix@@@JCB@1988@7+@hedro@@@
-3437@I-Prim@Predicate@het@@JWK@'02@7+@ISV@@@
+3437@I-Prim@Predicate@het@@JWK@2002@7+@ISV@@@
 3438@Afx@Affix@@@JCB@1988@7+@herfa@@@
 3439@C-Prim@Predicate@heb@41%@L4@1975@1.5@3/3E herb | 3/3F herbe | 4/5S hierba@@gushebpai | hebduo | hebfli | hebkonce | hebmismia | hebnidla | hebpelpi | hebsensi | hebsesmao | hebtci | hebtcipai | hebyblu | kochebfii | kocherba | normubherba | rezherba | snihebgru@
 3440@3-Cpx@Predicate@@@SLR@1995@7+@her(fa)+bas(ni)+limji@hair base limit@@
@@ -3530,7 +3530,7 @@
 3539@Afx@Affix@@@JCB@1988@7+@hompi@@@
 3540@Bor.@Predicate@@@JCB@1988@7+@Lin. Hominidae@@@
 3541@Bor.@Predicate@@@JCB@1988@7+@Lin. Hominoidea@@@
-3542@2-Cpx@Predicate@@@AFL@'00@7+@hom(pi)+horno@drink horn@@
+3542@2-Cpx@Predicate@@@AFL@2000@7+@hom(pi)+horno@drink horn@@
 3543@Name@Name@@@JCB@1988@7+@Lin.@@@
 3544@Name@Name@@@JCB@1988@7+@Lin.@@@
 3545@Name@Name@@@JCB@1988@7+@Lin@@@
@@ -3568,7 +3568,7 @@
 3577@LW@Struct@@@L4@1984@15@@@@
 3578@LW@Struct@@@RAM/JCB@1990@15+@@@@
 3579@Afx@Affix@@@JCB@1988@7+@hutri@@@
-3580@2-Cpx@Predicate@@@JWK@'00@7+@hu(tr)i+r+vlaci@destroy wash@@
+3580@2-Cpx@Predicate@@@JWK@2000@7+@hu(tr)i+r+vlaci@destroy wash@@
 3581@2-Cpx@Predicate@@@L4@1982@3.4@hu(tr)i+t(it)ci@destroy eat@@
 3582@Afx@Affix@@@JCB@1988@7+@humni@@@
 3583@2-Cpx@Predicate@@@JPC (?)@1985@4.7@hum(ni)+cka(no)@human kind@@
@@ -3674,11 +3674,11 @@
 3683@LW@Struct@@@L4@1975@1.0@@@@
 3684@Afx@Affix@@@JCB@1988@7+@jaglo@@@
 3685@2-Cpx@Predicate@@@APL@1999@7+@jag(lo)+dugri@angle degree@@
-3686@3-Cpx@Predicate@@@APL@'00@7+@jag(lo)+ja(gl)o+(c)li(n)a@angle angle line@@
+3686@3-Cpx@Predicate@@@APL@2000@7+@jag(lo)+ja(gl)o+(c)li(n)a@angle angle line@@
 3687@C-Prim@Predicate@jag jao@39%@L4@1975@3.4@4/6S angulo | 2/3F angle | 3/5C jiao | 2/4E angle@@dirjao | ferjaofoa | forjaofoa | jagdugri | jagjaolia | jagjaolia | jaoflo | krujao | kurjao | kurjaofoa | kurjaolia | kurjaopiu | nazbyjao | nenjao | paljao | pearjao | rorjaofoa | skojao | sorjaofoa | terjaofoa | tridyjao | vorjaofoa | zvojao | zvojaodua@
 3688@LW@Struct@@@L4@1975@15+@@@@
 3689@Afx@Affix@@@JCB@1988@7+@jalti@@@
-3690@I-Prim@Predicate@jak@@JWK@'02@7+@ISV@@@
+3690@I-Prim@Predicate@jak@@JWK@2002@7+@ISV@@@
 3691@Afx@Affix@@@JCB@1988@7+@jalti@@@
 3692@2-Cpx@Predicate@@@L4@1975@5.1@jal(ti)+du(vr)i@product discover@@
 3693@C-Prim@Predicate@jal jai@31%@L4@1975@5.1@2/3C ja | 3/8S multiplic ar | 3/8F multipli er | 3/9E multiply@@cnajai | jaldui | konjai | norceajai | nortorjai | nurjai | torjai@
@@ -3698,7 +3698,7 @@
 3707@2-Cpx@Predicate@@@JCB@1988@7+@ja(n)r(o)+ku/(t)l(a)@narrow cut@@
 3708@2-Cpx@Predicate@@@L4@1975@1.0@ja(n)r(o)+ma(dz)o@narrow make@@
 3709@2-Cpx@Predicate@@@HA@1987@4.1@ja(n)r(o)+trida@narrow street@@
-3710@I-Prim@Predicate@jat@@JWK@'02@7+@ISV@@@
+3710@I-Prim@Predicate@jat@@JWK@2002@7+@ISV@@@
 3711@LW@Struct@@@L4@1975@15@@@@
 3712@LW@Struct@@@L4@1975@15+@@@@
 3713@Afx@Affix@@@JCB@1988@7+@djela@@@
@@ -3707,7 +3707,7 @@
 3716@2-Cpx@Predicate@@@JCB/RAM@1990@2.5@(d)jel(a)+cko(zu)@healthy cause@@
 3717@2-Cpx@Predicate@@@SLR@1993@7+@(d)jel(a)+cti(fu)@healthy stuff@@
 3718@3-Cpx@Predicate@@@SLR@1993@7+@(d)jel(a)+cti(fu)+ve(sl)o@healthy stuff container@@
-3719@2-Cpx@Predicate@@@APL@'00@7+@(d)jel(a)+fi(lm)o@well feel@@
+3719@2-Cpx@Predicate@@@APL@2000@7+@(d)jel(a)+fi(lm)o@well feel@@
 3720@2-Cpx@Predicate@@@SLR@1992@7+@(d)jel(a)+fi(br)u@healthy weak@@
 3721@2-Cpx@Predicate@@@L4@1975@1.2@(d)jel(a)+fo/r(li)@healthily strong@@
 3722@2-Cpx@Predicate@@@JFB/FR/JLT@1986@2.5@(d)jel(a)+ma(dz)o@well make@@
@@ -3841,11 +3841,11 @@
 3850@3-Cpx@Predicate@@@APL@1995@7+@ka(m)d(a)+fle(ti)+ma(tc)i@fight fly machine@@
 3851@2-Cpx@Predicate@@@L4@1975@1.0@ka(m)d(a)+ga(nc)u@fight win@@
 3852@2-Cpx@Predicate@@@JCB/RAM@1990@3.0@ka(m)d(a)+ki(nc)i@battle companion@@
-3853@2-Cpx@Predicate@@@APL@'00@7+@ka(m)d(a)+ku(mc)e@fight reciprocally@@
+3853@2-Cpx@Predicate@@@APL@2000@7+@ka(m)d(a)+ku(mc)e@fight reciprocally@@
 3854@C-Prim@Predicate@@38%@PI@1987@5.0@3/5H khapra | 2/4E tile | 2/4F carreau | 3/6J kawara | 3/7C wa jiang@@@
 3855@2-Cpx@Predicate@@@RAM/JCB@1990@3.6@ka(m)d(a)+ti(fr)u@fight offer@@
 3856@LW@Struct@@@SLR@1990@15+@ckano@@@
-3857@2-Cpx@Predicate@@@APL@'00@7+@ka(nc)e+sto(lo)@conscious remain@@
+3857@2-Cpx@Predicate@@@APL@2000@7+@ka(nc)e+sto(lo)@conscious remain@@
 3858@Afx@Affix@@@JCB@1988@7+@kasfa@@@
 3859@2-Cpx@Predicate@@@JLT@1986@2.3@ka(s)f(a)+cu(ts)e@punish say@@
 3860@3-Cpx@Predicate@@@L4@1975@2.2@ka(s)f(a)+dur(zo)+cu(ts)e@punish do say(promise)@@
@@ -3853,7 +3853,7 @@
 3862@2-Cpx@Predicate@@@JLT@1986@2.3@ka(s)f(a)+ko(rj)i@punish order@@
 3863@C-Prim@Predicate@@41%@L4@1975@5.7@3/4C kyu so | 2/3E cough | 2/6R kashiel@@@
 3864@2-Cpx@Predicate@@@L4@1975@4.0@ka(s)f(a)+ta(kn)a@punish talk@@
-3865@Bor.@Predicate@@@APL/RAM@'00 (h dropped '16)@7+@Lin. Castor spp.@@@
+3865@Bor.@Predicate@@@APL/RAM@2000 (h dropped '16)@7+@Lin. Castor spp.@@@
 3866@LW@Struct@@@L4@1975@15+@@@@
 3867@Afx@Affix@@@JCB@1988@7+@katli@@@
 3868@2-Cpx@Predicate@@@SLR@1994@7+@ka(tl)i+dja(no)@quality know@@
@@ -3879,7 +3879,7 @@
 3888@2-Cpx@Predicate@@@L4@1975@1.0@ka(p)l(i)+fo/l(ma)@completely full@@
 3889@3-Cpx@Predicate@@@JCB@1999@7+@ka(p)l(i)+fo/l(ma)+ce(nj)a@completely full become@@
 3890@2-Cpx@Predicate@@@JCB/JJ@1993@7+@ka(p)l(i)+ga(nc)u@completely win@@
-3891@2-Cpx@Predicate@@@APL@'00@7+@ka(p)l(i)+ho(mp)i@complete drink@@
+3891@2-Cpx@Predicate@@@APL@2000@7+@ka(p)l(i)+ho(mp)i@complete drink@@
 3892@2-Cpx@Predicate@@@L4@1975@2.4@ka(p)l(i)+hu(tr)i@completely destroy@@
 3893@3-Cpx@Predicate@@@JCB/RAM@1990@4.1@ka(p)l(i)+jun(ti)+ke(rj)u@complete young care@@
 3894@2-Cpx@Predicate@@@L4@1975@1.0@ka(p)l(i)+ka(kt)o@completely act@@
@@ -3942,7 +3942,7 @@
 3951@3-Cpx@Predicate@@@APL@1995@7+@kam(la)+tse(ro)+fu(tc)i@go erroneously after@@
 3952@2-Cpx@Predicate@@@RAM@1991@2.6@kam(la)+y+ma(dz)o@come(go) make@@
 3953@Afx@Affix@@@JCB@1988@7+@kanmo@@@
-3954@2-Cpx@Predicate@@@TED@'02@7+@kan(mo)+ca(nl)i@capability quantity@@
+3954@2-Cpx@Predicate@@@TED@2002@7+@kan(mo)+ca(nl)i@capability quantity@@
 3955@C-Prim@Predicate@kac kae@29%@L4@1975@1.0@4/6E conscious | 3/7F connaissance | 2/6H sachet | 3/9S consciente@@genkacmao | genkaecea | genkaecko | kacdru | kacfiu | kacflo | kacfro | kacycea | kaesto | norkactro | norkae | nurkae@
 3956@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 3957@D-Prim@Predicate@@@RAM@1993@7+@Canada@@@
@@ -4002,7 +4002,7 @@
 4011@Afx@Affix@@@JCB@1988@7+@kamra@@@
 4012@C-Prim@Predicate@@36%@L4@1975@1.0@2/3F coeur | 4/7E cardiac | 2/4C syieng | 2/5J shinzo | 2/7S corazon@@karcykei | karcysri | lekykarcysri@
 4013@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-4014@2-Cpx@Predicate@@@JWK@'00@7+@karc(i)+y+ke(cr)i@heart sad @@
+4014@2-Cpx@Predicate@@@JWK@2000@7+@karc(i)+y+ke(cr)i@heart sad @@
 4015@2-Cpx@Predicate@@@JCB@1988@7+@karc(i)+y+sri(te)@heart writer@@
 4016@C-Prim@Predicate@@71%@L4@1975@2.1@4/4E card | 4/4H kard | 4/5R karta | 4/5S curtu | 3/4F carte | 3/5G karte | 2/6C ka pien@@kardysei | plekarda | tcidykarda@
 4017@2-Cpx@Predicate@@@L4@1975@4.0@ka(m)r(a)+du(rz)o@camera do@@
@@ -4018,7 +4018,7 @@
 4027@3-Cpx@Predicate@@@APL@1998@7+@ka(m)r(a)+tcu(re)+ma(dz)o@camera picture make@@
 4028@C-Prim@Predicate@@57%@L4@1975@1.5@4/4E cart | 3/4H gari | 3/4S carro | 3/4G karre | 3/5F chariot | 4/7R karieta@@clidykarti | cpukarti | ctikarti | dorkarti | horkarti | kartysrosia | perkarti | puorkarti | racvelkarti | racykarti | trekarti@
 4029@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-4030@3-Cpx@Predicate@@@APL@'00@7+@kart(i)+y+so/r(di)+si(tf)a@vehicle store place@@
+4030@3-Cpx@Predicate@@@APL@2000@7+@kart(i)+y+so/r(di)+si(tf)a@vehicle store place@@
 4031@Afx@Affix@@@JCB@1988@7+@karsa@@@
 4032@2-Cpx@Predicate@@@JRK@1983@3.6@ka(r)s(a)+di(rc)o@across direction@@
 4033@C-Prim@Predicate@kaf@46%@L4@1975@2.1@2/2C fa | 3/5R karat | 3/6S castig ar | 2/4J bassu ru | 2/8E castigate@@cmekasfa | gadkafbeo | gadnurkasfa | kafcue | kafdurcue | kafkeodou | kafkoi | kaftaa | lidselkasfa | morkafsia | norkafbeo | norkafdou | norkasfa | notkrikasfa | nurkasfa | pubkaftaa | recykaikasfa@
@@ -4051,7 +4051,7 @@
 4060@C-Prim@Predicate@@44%@L4@1975@3.8@4/4E cotton | 3/4R vata | 3/4J wata | 2/4F coton@@@
 4061@2-Cpx@Predicate@@@L4 (modified 2013)@1975@7.4@kat(li)+pu(rd)a@quality word@@
 4062@LW@Struct@@@JCB@1997@7+@kanmo@can@@
-4063@3-Cpx@Predicate@@@APL@'00@7+@ka(ng)u+r+ku(r)n(i)+ta(kn)a@dog warning talk@@
+4063@3-Cpx@Predicate@@@APL@2000@7+@ka(ng)u+r+ku(r)n(i)+ta(kn)a@dog warning talk@@
 4064@2-Cpx@Predicate@@@RAM@1988@4.5@ka(ng)u+r+ta(kn)a@dog talk@@
 4065@LW@Struct@@@L4@1975@1.0@@@@
 4066@Afx@Affix@@@JCB@1988@7+@ckela@@@
@@ -4071,7 +4071,7 @@
 4080@3-Cpx@Predicate@@@RAM/JCB@1987@3.9@ke(cr)i+r+sta(di)+stu(ci)@sad stage story@@
 4081@Afx@Affix@@@JCB@1988@7+@kerju@@@
 4082@2-Cpx@Predicate@@@RAM@1991@1.0@ke(r)j(u)+ka(kt)o@care act@@
-4083@2-Cpx@Predicate@@@JWK@'01@7+@ke(r)j(u)+klipu@care keep @@
+4083@2-Cpx@Predicate@@@JWK@2001@7+@ke(r)j(u)+klipu@care keep @@
 4084@2-Cpx@Predicate@@@FR/JCB/RAM@1990@3.6@ke(r)j(u)+ta(rg)o@carefully argue@@
 4085@C-Prim@Predicate@@50%@L4@1975@3.6@2/2C ti | 2/2J ke ru | 2/3E kick@@@
 4086@Afx@Affix@@@JCB@1988@7+@ckela@@@
@@ -4150,7 +4150,7 @@
 4159@2-Cpx@Predicate@@@JCB/RAM@1991@3.6@ki(n)k(u)+y+gu(st)o@sharp taste@@
 4160@2-Cpx@Predicate@@@JCB/RAM@1991@3.6@ki(n)k(u)+y+kamki@sharp humorous@@
 4161@Afx@Affix@@@JCB@1988@7+@kilto@@@
-4162@I-Prim@Predicate@kib@@JWK@'02@7+@ISV@@@
+4162@I-Prim@Predicate@kib@@JWK@2002@7+@ISV@@@
 4163@2-Cpx@Predicate@@@JCB@1988@7+@kil(to)+calri@1000 calories@@
 4164@2-Cpx@Predicate@@@JCB@1988@7+@kil(to)+gramo@1000 grams@@
 4165@2-Cpx@Predicate@@@JCB@1988@7+@kil(to)+herzi@1000 hertz@@
@@ -4181,8 +4181,8 @@
 4190@3-Cpx@Predicate@@@L4@1975@5.1@kin(ci)+ka(kt)o+gru(pa)@together act group@@
 4191@2-Cpx@Predicate@@@RAM/JCB@1990@2.4@kin(ci)+kra(ku)@together call@@
 4192@C-Prim@Predicate@kik@44%@L4@1975@4.8@3/3E keen | 2/4C kuai | 2/4J kire ru@@kikcko | kikmao | kiksrusia | kikyguo | kikykamki@
-4193@2-Cpx@Predicate@@@APL@'00@7+@kin(ci)+ku(mc)e@accompany reciprocally@@
-4194@2-Cpx@Predicate@@@APL@'00@7+@kin(ci)+(c)li(v)i@with live@@
+4193@2-Cpx@Predicate@@@APL@2000@7+@kin(ci)+ku(mc)e@accompany reciprocally@@
+4194@2-Cpx@Predicate@@@APL@2000@7+@kin(ci)+(c)li(v)i@with live@@
 4195@2-Cpx@Predicate@@@JFB@1983@2.2@kin(ci)+ma(dz)o@together make@@
 4196@3-Cpx@Predicate@@@SLR@1995@7+@kin(ci)+ma(dz)o+tcu(re)@together make picture@@
 4197@2-Cpx@Predicate@@@L4@1975@1.5@kin(ci)+se(tf)a@together put@@
@@ -4193,7 +4193,7 @@
 4202@2-Cpx@Predicate@@@MWZ@1990@1.0@kin(ci)+traci@with travel@@
 4203@2-Cpx@Predicate@@@L4@1975@7.4@kin(ci)+tu(rk)a@together work@@
 4204@LW@Struct@@@L4@1975@2.9@@@@
-4205@Bor.@Predicate@@@APL@'00@7+@Nahuatl coyotl@@@
+4205@Bor.@Predicate@@@APL@2000@7+@Nahuatl coyotl@@@
 4206@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
 4207@Bor.@Predicate@@@JCB/RAM@1991@3.3@ISV chitin@material of arthropod exoskeletons@@
 4208@C-Prim@Predicate@kia@46%@L4@1975@1.0@3/4C tsao | 4/6E coitus | 3/5S coito | 2/6F s'accoupl er@@norpaskia | nurpeckia | peckia@
@@ -4224,7 +4224,7 @@
 4233@C-Prim@Predicate@@47%@L4@1975@1.0@3/4E cold | 2/3C leng | 3/6R kholod | 2/5H thandha@@kledymao | kofkleda | kofkledycea | kofkledycko | kofkledymao | kofkledypae@
 4234@2-Cpx@Predicate@@@L4@1975@1.8@kle(si)+di(sr)i@class decide@@
 4235@2-Cpx@Predicate@@@SLR@1992@7+@kle(si)+dja(no)@class know@@
-4236@2-Cpx@Predicate@@@APL@'01@7+@kle(si)+djo(ri)@class member@@
+4236@2-Cpx@Predicate@@@APL@2001@7+@kle(si)+djo(ri)@class member@@
 4237@2-Cpx@Predicate@@@SLR@1991@1.8@kle(si)+du(vr)i@class discover@@
 4238@2-Cpx@Predicate@@@FR@1987@3.8@kled(a)+y+ma(dz)o@cool make@@
 4239@3-Cpx@Predicate@@@SLR@1992@7+@kle(si)+han(co)+sa(np)a@class hand sign@@
@@ -4363,7 +4363,7 @@
 4372@C-Prim@Predicate@kra@65%@L4@1975@2.6@2/2C ku | 3/4E cry | 3/4J naku | 2/3F cri | 2/4R plak at | 2/4S clam ar@@ceokra | darkra | drukra | fiakra | frekra | kamkra | keikra | keukra | kinkra | krakra | krakra | krapae | krataa | kunkra | neikra | nurpifsiukra | punkra | ruskra | seckra | sudnyceokra | teikra@
 4373@Bor.@Predicate@@@JCB@1988@7+@Eng.@@@
 4374@C-Prim@Predicate@@48%@L4@1975@1.0@3/5E drive | 3/5G treib en | 3/6C kai che | 2/4R prav it | 2/5S manej ar@@pridiokrani | tankrani@
-4375@2-Cpx@Predicate@@@APL@'00@7+@kra(ku)+pa(tc)e@call device@@
+4375@2-Cpx@Predicate@@@APL@2000@7+@kra(ku)+pa(tc)e@call device@@
 4376@2-Cpx@Predicate@@@L4@1975@1.0@kra(ku)+ta(kn)a@cry talk@@
 4377@Afx@Affix@@@JCB@1988@7+@kreni@@@
 4378@3-Cpx@Predicate@@@L4@1975@7.4@kre(ni)+bet(cu)+cko(zu)@ray bend cause@@
@@ -4450,14 +4450,14 @@
 4459@Afx@Affix@@@JCB@1988@7+@kubra@@@
 4460@2-Cpx@Predicate@@@JCB/RAM@1990@2.9@kub(ra)+ce(nj)a@wide become@@
 4461@2-Cpx@Predicate@@@JCB/RAM@1990@2.9@kub(ra)+cko(zu)@wide cause@@
-4462@2-Cpx@Predicate@@@APL@'00@7+@kub(ra)+cra(no)@wide smile @@
+4462@2-Cpx@Predicate@@@APL@2000@7+@kub(ra)+cra(no)@wide smile @@
 4463@N-Prim@Predicate@@@JCB/RAM@1990@6.2@Sp. Cuba@@@
 4464@N-Prim@Predicate@@@JFB/JCB@1988@6.2@Sp. Cuba@@@
 4465@N-Prim@Predicate@@@JCB/RAM@1990@6.2@Sp. Cuba@@@
 4466@N-Prim@Predicate@@@JCB/RAM@1990@6.2@Sp. Cuba@@@
 4467@2-Cpx@Predicate@@@APL@1998@7+@kub(ra)+kubra@broad broad@@
 4468@2-Cpx@Predicate@@@JCB/RAM@1990@2.9@kub(ra)+ma(dz)o@wide make@@
-4469@3-Cpx@Predicate@@@APL@'00@7+@kub(ra)+me(n)k(i)+ble(ka)@wide eye look@@
+4469@3-Cpx@Predicate@@@APL@2000@7+@kub(ra)+me(n)k(i)+ble(ka)@wide eye look@@
 4470@2-Cpx@Predicate@@@JCB/RAM@1991@2.6@kub(ra)+nur+ba(rm)a@wide armed@@
 4471@2-Cpx@Predicate@@@RAM@1988@3.5@kub(ra)+pe(ns)o@wide think@@
 4472@2-Cpx@Predicate@@@L4@1975@2.4@kub(ra)+petri@wide distrIbute@@
@@ -4480,7 +4480,7 @@
 4489@2-Cpx@Predicate@@@JCB/RAM@1991@1.2@kuk(ra)+cko(zu)@fast cause@@
 4490@2-Cpx@Predicate@@@JCB/RAM@1991@4.2@kuk(ra)+cle(si)@speed without@@
 4491@2-Cpx@Predicate@@@JCB/RAM@1991@2.3@kuk(ra)+cu(tr)i@swift water@@
-4492@3-Cpx@Predicate@@@AFL@'00@7+@kuk(ra)+dam(ni)+fle(ti)@fast down fly@@
+4492@3-Cpx@Predicate@@@AFL@2000@7+@kuk(ra)+dam(ni)+fle(ti)@fast down fly@@
 4493@3-Cpx@Predicate@@@SLR@1991@7+@kuk(ra)+fit(pi)+levga@fast foot lever@@
 4494@2-Cpx@Predicate@@@JLT@1983@1.2@kuk(ra)+ma(dz)o@fast make@@
 4495@S-Prim@Predicate@@@RAM/JCB@1995@7+@L. Cucumis sativa@@@
@@ -4532,7 +4532,7 @@
 4541@2-Cpx@Predicate@@@RAM/JCB/SLR@1988@4.0@ku(r)n(i)+kra(ku)@warn cry@@
 4542@2-Cpx@Predicate@@@RAM@1988@4.3@ku(r)n(i)+pa(tc)e@warn device@@
 4543@2-Cpx@Predicate@@@RAM/JCB@1990@4.3@ku(r)n(i)+so(nd)a@warn sound@@
-4544@3-Cpx@Predicate@@@APL@'00@7+@ku(r)n(i)+son(da)+pa(tc)e@warn sound device@@
+4544@3-Cpx@Predicate@@@APL@2000@7+@ku(r)n(i)+son(da)+pa(tc)e@warn sound device@@
 4545@LW@Struct@@@L4@1975@1.0@kusmo@@@
 4546@2-Cpx@Predicate@@@L4@1975@1.0@ku(sm)o+dja(no)@custom know@@
 4547@Afx@Affix@@@JCB@1988@7+@kupta@@@
@@ -4540,7 +4540,7 @@
 4549@2-Cpx@Predicate@@@L4@1975@7.4@kup(ta)+grato@cup cake@@
 4550@C-Prim@Predicate@kup@41%@L4@1975@4.3@2/3E cup | 2/3S copa | 2/3F tasse | 2/3G tasse | 2/4J koppu | 2/5R kubok@@kupcai | kupgrato | putkupduo | putkupta | stagykupta@
 4551@Afx@Affix@@@JCB@1988@7+@kurfa@@@
-4552@S-Prim@Predicate@@@APL@'00@7+@L. Cucurbitae@@@
+4552@S-Prim@Predicate@@@APL@2000@7+@L. Cucurbitae@@@
 4553@2-Cpx@Predicate@@@JPC@1983@3.0@kur(fa)+cli(ka)@square like@@
 4554@C-Prim@Predicate@kur@57%@L4@1975@4.4@2/3C fang | 3/5E square | 4/7G quadrat | 4/8S cuadrado | 2/4F carre | 3/7R kvadrat nyi | 2/6H cho kor @@fordiokurfa | kurcli | kurjao | kurjaofoa | kurjaolia | kurjaopiu | kurklu | kurmao | kursia@
 4555@2-Cpx@Predicate@@@L4@1975@7.4@kur(fa)+ja(gl)o@square angle@@
@@ -4584,7 +4584,7 @@
 4593@C-Prim@Predicate@kuv kua@41%@L4@1975@1.0@3/4F couvr ir | 2/3C gai | 2/4E cover | 2/4S cubr ir@@aurmoykuvmao | barkua | barkuakalra | bedkua | biskua | blukua | botkua | ctikua | cunkua | curkua | cutkua | dedkua | duskua | fankuaspe | fankuvduo | fankuvtaa | faslykua | fligrekua | fomkua | haurkua | herkua | jitkua | julkua | kladykua | krilykua | krukua | kuacle | kuasri | kuvbao | kuvduo | kuvlae | lakykua | lumbedkua | mockua | negdykua | nickua | nurkuatcela | padkua | raskua | rocykuvduo | salgrekua | smikua | smukua | smukuvmao | snakua | tobkua | tovkua@
 4594@C-Prim@Predicate@@47%@L4@1975@3.0@4/5S cueva | 2/3E cave | 3/5H khokhla | 2/4C kueng@@barkuvla | barkuvlyjuo | kuvlysonpro | nornurkuvla | trikuvla@
 4595@2-Cpx@Predicate@@@JCB/RAM@1980@4.7@kuv(ga)+la(rt)e@cover art@@
-4596@3-Cpx@Predicate@@@RAM@'01@7+@kuvl(a)+y+son(da)+pro(ju)@hollow sound produce@@
+4596@3-Cpx@Predicate@@@RAM@2001@7+@kuvl(a)+y+son(da)+pro(ju)@hollow sound produce@@
 4597@LW@Struct@@@L4@1975@1.0@@@@
 4598@Afx@Affix@@@JCB@1988@7+@langa@@@
 4599@2-Cpx@Predicate@@@L4@1975@3.6@la(ng)a+cko(zu)@long cause@@
@@ -4890,8 +4890,8 @@
 4899@2-Cpx@Predicate@@@JCB@1997@7+@lil(fa)+ka(tl)i@legally have@@
 4900@2-Cpx@Predicate@@@JCB@1984@2.6@lil(fa)+kamda@law fighter@@
 4901@2-Cpx@Predicate@@@L4@1975@5.6@lil(fa)+ke(rj)u@legal care@@
-4902@3-Cpx@Predicate@@@JWK/RAM@'01@7+@lil(fa)+kop(ca)+fur+le(tc)i@legal copy permission@@
-4903@3-Cpx@Predicate@@@RAM@'01@7+@lil(fa)+kop(ca)+ka(tl)i@legal copy quality@@
+4902@3-Cpx@Predicate@@@JWK/RAM@2001@7+@lil(fa)+kop(ca)+fur+le(tc)i@legal copy permission@@
+4903@3-Cpx@Predicate@@@RAM@2001@7+@lil(fa)+kop(ca)+ka(tl)i@legal copy quality@@
 4904@2-Cpx@Predicate@@@L4@1975@7.4@lil(fa)+ma(dz)o@law make@@
 4905@3-Cpx@Predicate@@@JCB/RAM@1990@3.0@lil(fa)+ma(dz)o+gru(pa)@law make group@@
 4906@3-Cpx@Predicate@@@L4@1975@1.0@lil(fa)+mor(to)+ma(dz)o@legally kill@@
@@ -4931,7 +4931,7 @@
 4940@2-Cpx@Predicate@@@APL@1996@7+@(c)lin(a)+mu(vd)o@line move@@
 4941@2-Cpx@Predicate@@@APL@1996@7+@(c)lin(a)+pazda@line wait@@
 4942@2-Cpx@Predicate@@@L4@1975@7.4@(c)lin(a)+resra@line restaurant@@
-4943@Bor.@Predicate@@@JWK/RAM@'00@7+@Lin. Lynx rufus@@@
+4943@Bor.@Predicate@@@JWK/RAM@2000@7+@Lin. Lynx rufus@@@
 4944@LW@Struct@@@L4@1975@15+@likro@@@
 4945@2-Cpx@Predicate@@@SLR@1991@2.8@li(kr)o+r+nur+po(rl)i@liquor mastered@@
 4946@Afx@Affix@@@JCB@1988@7+@klipu@@@
@@ -5066,7 +5066,7 @@
 5076@2-Cpx@Predicate@@@L4@1975@7.4@(p)lu(m)a+cli(ka)@feather like@@
 5077@LW@Struct@@@L4@1975@7.0@@@@
 5078@Afx@Affix@@@JCB@1995@7+@lufta@@@
-5079@3-Cpx@Predicate@@@APL@'00@7+@luf(ta)+bar(ma)+dji(ne)@lift shoulders@@
+5079@3-Cpx@Predicate@@@APL@2000@7+@luf(ta)+bar(ma)+dji(ne)@lift shoulders@@
 5080@2-Cpx@Predicate@@@JCB@1994@7+@luf(ta)+ble(ka)@lift look@@
 5081@2-Cpx@Predicate@@@APL@1995@7+@luf(ta)+d(i)r(l)u@lift lose@@
 5082@C-Prim@Predicate@luf@41%@L4@1975@1.0@3/3H utha ua | 3/4E lift | 3/8C fu chi lai@@botlufta | herlufta | lufbardji | lufble | lufdru | lufyfoi | nurlufta | spilufta@
@@ -5077,7 +5077,7 @@
 5087@2-Cpx@Predicate@@@L4@1975@2.8@lu(n)l(i)+cli(ka)@wool like@@
 5088@2-Cpx@Predicate@@@APL@1999@7+@lu(n)l(i)+kla(bu)@wool cloth@@
 5089@Afx@Affix@@@JCB@1988@7+@pluma@@@
-5090@3-Cpx@Predicate@@@APL@'00@7+@(p)lum(a)+bed(pu)+ku(vg)a@feather bed cover@@
+5090@3-Cpx@Predicate@@@APL@2000@7+@(p)lum(a)+bed(pu)+ku(vg)a@feather bed cover@@
 5091@3-Cpx@Predicate@@@JCB/RAM@1991@4.6@(p)lum(a)+cle(si)+ma(dz)o@feathers without make@@
 5092@2-Cpx@Predicate@@@L4@1975@3.7@(p)lum(a)+du(rn)a@feather adorn@@
 5093@Name@Name@@@L4@1975@1.0@L. Luna@ moon@@
@@ -5140,7 +5140,7 @@
 5150@2-Cpx@Predicate@@@L4@1975@2.3@mer(ji)+ce(nj)a@married become@@
 5151@3-Cpx@Predicate@@@JCB/RAM@1990@4.1@mer(ji)+ce(nj)a+fu(mn)a@married become woman@@
 5152@3-Cpx@Predicate@@@JCB/RAM@1990@4.1@mer(ji)+ce(n)j(a)+m(r)e(n)u@married become man@@
-5153@2-Cpx@Predicate@@@APL@'00@7+@mer(ji)+cme(ni)@marriage money@@
+5153@2-Cpx@Predicate@@@APL@2000@7+@mer(ji)+cme(ni)@marriage money@@
 5154@2-Cpx@Predicate@@@L4@1975@7.4@mer(ji)+do(ns)u@married give@@
 5155@3-Cpx@Predicate@@@L4@1975@3.4@mer(ji)+fo(r)m(a)+ve(tc)i@marriage ceremony@@
 5156@2-Cpx@Predicate@@@SLR/RAM@1991@2.8@mer(ji)+fa/r(fu)@marriage father@@
@@ -5226,7 +5226,7 @@
 5236@2-Cpx@Predicate@@@JCB/RAM@1990@3.3@nor+bil(ti)+bi(vd)u@unbeautiful behaviour@@
 5237@1-Cpx@Predicate@@@L4@1975@1.4@nor+bli(cu)@non possible@@
 5238@2-Cpx@Predicate@@@APL@1999@7+@nor+bli(cu)+cko(zu)@not possible cause@@
-5239@2-Cpx@Predicate@@@RAM@'01@7+@nor+bli(cu)+da(nz)a@impossible desire@@
+5239@2-Cpx@Predicate@@@RAM@2001@7+@nor+bli(cu)+da(nz)a@impossible desire@@
 5240@1-Cpx@Predicate@@@L4@1975@2.4@nor+ce(nj)a@non changing@@
 5241@2-Cpx@Predicate@@@RAM@1983@3.9@nor+ce(nj)a+clu(va)@no change love@@
 5242@2-Cpx@Predicate@@@CF/RAM@1983@3.6@nor+ce(nj)a+fur+mo(dv)i@no change intend (unswervable intention)@@
@@ -5273,7 +5273,7 @@
 5283@1-Cpx@Predicate@@@L4@1975@3.2@nor+hi(jr)a@not present@@
 5284@2-Cpx@Predicate@@@JCB/RAM@1990@3.0@nor+hi(jr)a+ka(kt)o@not here act@@
 5285@2-Cpx@Predicate@@@RAM@1987@2.5@nor+hi(jr)a+le(tc)i@not here allow@@
-5286@2-Cpx@Predicate@@@JWK@'01@7+@nor+hir(ti)+ce(nj)a@not hear become @@
+5286@2-Cpx@Predicate@@@JWK@2001@7+@nor+hir(ti)+ce(nj)a@not hear become @@
 5287@1-Cpx@Predicate@@@FR@1985@4.2@nor+hirti@not hear@@
 5288@2-Cpx@Predicate@@@JCB/RAM@1991@1.1@nor+hum(ni)+ni(ml)a@non human animal@@
 5289@C-Prim@Predicate@@40%@L4@1975@1.5@3/4F orange | 3/5G orange | 3/6E orange | 3/6H narangi | 3/7J orenji | 2/7S naranja@@norjyfru | norjyfruloa | norjyfrutri@
@@ -5416,7 +5416,7 @@
 5427@2-Cpx@Predicate@@@JCB/RAM@1991@2.5@(s)min(a)+frezi@mind free@@
 5428@2-Cpx@Predicate@@@RAM@1988@3.2@(s)min(a)+ju(gr)a@mind grab@@
 5429@2-Cpx@Predicate@@@RAM@1992@7+@(s)min(a)+kemdi@mind chemicals@@
-5430@3-Cpx@Predicate@@@APL@'00@7+@(s)min(a)+kem(di)+pli(zo)@mind chemical use@@
+5430@3-Cpx@Predicate@@@APL@2000@7+@(s)min(a)+kem(di)+pli(zo)@mind chemical use@@
 5431@C-Prim@Predicate@miu@61%@L4@1975@6.1@3/3F mine | 3/4E mine | 3/4R mina | 3/4S mina | 3/4G mein | 2/4C kuang | 2/5J tanko@@fenmiu | miurcui | miursia | miurtoa | miurtua@
 5432@I-Prim@Predicate@mim@@JCB@1989@7+@Int@@mimpiu@
 5433@2-Cpx@Predicate@@@APL/JCB@1995@7+@(s)min(a)+pi(sk)u@mind piece@@
@@ -5549,7 +5549,7 @@
 5562@3-Cpx@Predicate@@@FR/RAM@1987@3.8@mo(n)z(a)+mi(lf)a+t(it)ci@morning meal eat@@
 5563@Afx@Affix@@@JCB@1988@7+@marka@@@
 5564@Afx@Affix@@@JCB@1988@7+@mrenu@@@
-5565@2-Cpx@Predicate@@@APL@'00@7+@mre(nu)+bi(lt)i@man attractive@@
+5565@2-Cpx@Predicate@@@APL@2000@7+@mre(nu)+bi(lt)i@man attractive@@
 5566@2-Cpx@Predicate@@@APL@1985@7+@mre(nu)+bu(nb)o@man foolish@@
 5567@2-Cpx@Predicate@@@L4@1975@7.4@mre(nu)+du(rz)o@man do@@
 5568@2-Cpx@Predicate@@@L4@1975@7.4@mre(nu)+fu(mn)a@man woman@@
@@ -5564,12 +5564,12 @@
 5577@3-Cpx@Predicate@@@JLT/RAM@1987@4.2@mo/r(du)+tsu(fi)+da(nz)a@more(than) enough desire@@
 5578@3-Cpx@Predicate@@@JLT/JCB/RAM@1985@4.2@mo/r(du)+tsu(fi)+fo(sl)i@more (than) sufficient force@@
 5579@3-Cpx@Predicate@@@APL@1996@7+@mo/r(du)+tsu(fi)+mu(tc)e@more+sufficient+much@@
-5580@3-Cpx@Predicate@@@APL@'00@7+@mo/r(du)+tsu(fi)+t(it)ci@more sufficient eat@@
+5580@3-Cpx@Predicate@@@APL@2000@7+@mo/r(du)+tsu(fi)+t(it)ci@more sufficient eat@@
 5581@C-Prim@Predicate@roz@48%@L4@1975@4.8@2/3C dza | 3/5R molot | 3/5F marteau | 2/4E hammer | 2/4G hammer | 3/7S martillo@@blamroza | dermroza | gromroza | klumroza | mubmroza | rozduo@
 5582@LW@Struct@@@L4@1975@1.0@@@@
 5583@Afx@Affix@@@JCB@1988@7+@mubre@@@
 5584@2-Cpx@Predicate@@@L4@1975@1.5@mub(re)+cli(ka)@wood like@@
-5585@2-Cpx@Predicate@@@JWK/RAM@'00@7+@mub(re)+ku/(t)l(a)@wood cut@@
+5585@2-Cpx@Predicate@@@JWK/RAM@2000@7+@mub(re)+ku/(t)l(a)@wood cut@@
 5586@2-Cpx@Predicate@@@L4@1975@7.4@mub(re)+mroza@wooden hammer@@
 5587@2-Cpx@Predicate@@@JCB@1988@1.5@mub(re)+netre@wood net@@
 5588@C-Prim@Predicate@mub@45%@L4@1975@1.5@2/2C mu | 3/5E lumber | 2/6R derevo@@bairmubre | bairmubsia | mubcli | mubklu | mubmroza | mubnetre | mubsko | mubtri | mubtua | normubherba@
@@ -5585,7 +5585,7 @@
 5598@3-Cpx@Predicate@@@RAM/JCB@1991@3.4@mu(t)c(e)+ha(pc)i+si(tf)a@very happy place@@
 5599@2-Cpx@Predicate@@@JT@1983@3.3@mu(t)c(e)+ko(mf)u@extreme comfort@@
 5600@2-Cpx@Predicate@@@L4@1975@3.8@mu(t)c(e)+m(r)e(n)u@extreme man@@
-5601@2-Cpx@Predicate@@@APL@'00@7+@mu(t)c(e)+mu(tc)e@much much@@
+5601@2-Cpx@Predicate@@@APL@2000@7+@mu(t)c(e)+mu(tc)e@much much@@
 5602@2-Cpx@Predicate@@@RAM/JCB@1990@4.2@mu(t)c(e)+ne(nr)i@much in@@
 5603@2-Cpx@Predicate@@@JCB@1988@7+@mu(t)c(e)+pa(sk)o@extremely before@@
 5604@2-Cpx@Predicate@@@L4@1975@2.0@mu(t)c(e)+po(rl)i@much power@@
@@ -5662,7 +5662,7 @@
 5675@4-Cpx@Predicate@@@JCB/RAM@1991@4.9@mus(lo)+y+t(r)ol(i)+cle(si)+ma(dz)o@muscle control without make@@
 5676@Afx@Affix@@@JCB@1988@7+@mutce@@@
 5677@C-Prim@Predicate@mut muc mue@53%@L4@1975@1.5@4/4S much o | 3/4E mu0ch | 2/3C shen | 3/5R ochen@@getmue | lipmue | mromue | mrotsumue | mucdou | mucfua | mucgudbi | mucgutra | muchai | muchaisia | muckou | mucmeu | mucmue | mucmue | mucnei | mucpao | mucpoi | mucpuu | mucrai | mucrea | mucria | muecma | muegro | muerzavkao | mueslo | muespu | mutkubviu | mutkusti | mutmoutsu | mutneicko | mutnencea | mutnenmao | mutnorhai | mutnorkou | mutpuncko | mutpunmao | nurmucmao | nurmue | selmucdou | tsumue@
-5678@3-Cpx@Predicate@@@JWK@'00@7+@mut(ce)+kub(ra)+vi(dj)u@very wide view@@
+5678@3-Cpx@Predicate@@@JWK@2000@7+@mut(ce)+kub(ra)+vi(dj)u@very wide view@@
 5679@2-Cpx@Predicate@@@RAM@1988@4.4@mut(ce)+kusti@very costly@@
 5680@3-Cpx@Predicate@@@JFB@1984@3.3@mut(ce)+mo(rd)u+tsu(fi)@much more than sufficient@@
 5681@3-Cpx@Predicate@@@RAM/JCB@1990@4.2@mut(ce)+ne(nr)i+cko(zu)@much in cause@@
@@ -5672,7 +5672,7 @@
 5685@2-Cpx@Predicate@@@JCB/RAM@1991@2.3@mut(ce)+nor+ko(mf)u@much not comfortable@@
 5686@3-Cpx@Predicate@@@FR/RAM@1987@2.7@mut(ce)+pun(tu)+cko(zu)@much pain cause@@
 5687@3-Cpx@Predicate@@@FR/RAM@1987@2.7@mut(ce)+pun(tu)+ma(dz)o@much pain make@@
-5688@LW@Struct@@@APL/JCB@'00@7+@mu+u@@@
+5688@LW@Struct@@@APL/JCB@2000@7+@mu+u@@@
 5689@Afx@Affix@@@JCB@1988@7+@muvdo@@@
 5690@2-Cpx@Predicate@@@SLR@1991@2.6@muv(do)+bi(vd)u@move behaviour@@
 5691@3-Cpx@Predicate@@@RAM/JCB@1988@4.9@muv(do)+blo(da)+so(nd)a@moving hit sound@@
@@ -5785,13 +5785,13 @@
 5798@Afx@Affix@@@JCB@1988@7+@nadzo@@@
 5799@Cpd@Struct@@@L4@1975@1.0@na+za@@@
 5800@C-Prim@Predicate@@51%@L4@1975@1.7@2/2J bi | 3/3G nase | 2/3H nak | 2/3F nez | 3/5S nariz | 2/4E nose | 2/4C bi d@@ganynazbi | maknazbi | nazbyblo | nazbybricue | nazbycpu | nazbyhou | nazbyjao | nazbykla | nazbypafko | nirdynazbi@
-5801@2-Cpx@Predicate@@@APL@'00@7+@nazb(i)+y+blo(da)@nose hit @@
+5801@2-Cpx@Predicate@@@APL@2000@7+@nazb(i)+y+blo(da)@nose hit @@
 5802@3-Cpx@Predicate@@@JCB/RAM@1991@10+@nazb(i)+y+bri(ze)+cu(ts)e@nose breeze say@@
-5803@2-Cpx@Predicate@@@APL@'00@7+@nazb(i)+y+cpu(la)@nose pull@@
+5803@2-Cpx@Predicate@@@APL@2000@7+@nazb(i)+y+cpu(la)@nose pull@@
 5804@2-Cpx@Predicate@@@FR/RAM@1987@4.9@nazb(i)+y+ho(ld)u@nose hole@@
 5805@2-Cpx@Predicate@@@APL@1995@7+@nazb(i)+y+ja(gl)o@nose angle@@
 5806@2-Cpx@Predicate@@@FR@1987@4.0@nazb(i)+y+kla(bu)@nose cloth@@
-5807@2-Cpx@Predicate@@@APL@'00@7+@nazb(i)+y+pafko@nose dig@@
+5807@2-Cpx@Predicate@@@APL@2000@7+@nazb(i)+y+pafko@nose dig@@
 5808@2-Cpx@Predicate@@@L4@1975@1.0@na(d)z(o)+de(nl)i@now day@@
 5809@3-Cpx@Predicate@@@L4@1975@7.4@na(d)z(o)+go(d)z(i)+di(rc)o@now go direction(course)@@
 5810@Cpd@Struct@@@L4@1975@1.0@na+zi@@@
@@ -6003,7 +6003,7 @@
 6016@LW@Struct@@@L4@1975@3.2@snire@@@
 6017@2-Cpx@Predicate@@@RAM@1992@7+@ni(rn)e+gru(pa)@year group@@
 6018@Afx@Affix@@@JCB@1988@7+@nigro@@@
-6019@2-Cpx@Predicate@@@APL@'00@7+@nig(ro)+ce(nj)a@black become@@
+6019@2-Cpx@Predicate@@@APL@2000@7+@nig(ro)+ce(nj)a@black become@@
 6020@2-Cpx@Predicate@@@L4@1975@7.4@nig(ro)+cli(ka)@dark like@@
 6021@C-Prim@Predicate@nig@37%@L4@1975@1.0@5/5E negro | 3/4S negro | 2/5J kuroi@@nigcea | nigcli | nigslicui@
 6022@Name@Name@@@L4@1975@3.8@Log. nigro@@@
@@ -6056,7 +6056,7 @@
 6069@D-Prim@Predicate@@@JCB/RAM@1994@7+@nirda@@@
 6070@D-Prim@Predicate@@@JCB/RAM@1994@7+@nirda@@@
 6071@D-Prim@Predicate@@@JCB/RAM@1994@7+@nirda@@@
-6072@2-Cpx@Predicate@@@APL@'00@7+@nird(a)+y+nazbi@bird nose @@
+6072@2-Cpx@Predicate@@@APL@2000@7+@nird(a)+y+nazbi@bird nose @@
 6073@C-Prim@Predicate@nil@48%@L4@1975@1.0@2/3E girl | 2/3C nyu r | 3/5S nina | 2/5H larki@@nilbii | nilboi | nilboicli | nilboikru | nilcli@
 6074@C-Prim@Predicate@nin nie@51%@L4@1975@1.0@3/4C nien | 2/3E year | 2/3J nen | 2/3F annee | 2/4S ano@@dekninkeo | heknie | kelnie | kilnie | kilninkeo | litnie | niegru | ninfeobuu | ninkeo | ninpai | ninpaireckai | ninveo | pasnie | rarnie@
 6075@2-Cpx@Predicate@@@APL@1999@7+@nir+no(tb)i+ka(tl)i@no other quality@@
@@ -6257,7 +6257,7 @@
 6270@2-Cpx@Predicate@@@APL@1995@7+@pra(se)+ci(rn)a@continue learn@@
 6271@3-Cpx@Predicate@@@L4@1975@8.0@pra(se)+cma(lo)+ce(nj)a@process small become@@
 6272@2-Cpx@Predicate@@@L4@1975@2.0@pra(se)+cu(ts)e@continue say@@
-6273@2-Cpx@Predicate@@@TED@'02@7+@pra(se)+cu(nd)o@process window@@
+6273@2-Cpx@Predicate@@@TED@2002@7+@pra(se)+cu(nd)o@process window@@
 6274@2-Cpx@Predicate@@@SLR@1992@7+@pra(se)+fa(tr)u@process trouble@@
 6275@2-Cpx@Predicate@@@RAM@1993@7+@pra(se)+go(dz)i@continue go@@
 6276@2-Cpx@Predicate@@@L4@1975@2.0@pra(se)+ka(kt)o@continue act@@
@@ -6339,7 +6339,7 @@
 6352@2-Cpx@Predicate@@@L4@1975@1.4@tcu(re)+pe(ns)o@picture think@@
 6353@2-Cpx@Predicate@@@RAM/JCB@1990@2.7@tcu(re)+pu(rd)a@picture word@@
 6354@C-Prim@Predicate@tcu@33%@L4@1975@1.1@2/7J pikucha | 4/7E picture | 3/6H chitra | 3/6F portrait | 3/7R portret | 3/7S pintura@@ceorcaltcu | daitcu | dantcumao | diartcustu | kamkytcu | kartcu | kartcumao | kinmaotcu | kuktcu | kuktcumao | mintcu | nurtcucle | pastytcu | pintcu | pintcumao | piutcu | pubmintcu | rajytcu | rajytcumao | seltcu | siotcu | stutcu | tcucli | tcudai | tcudou | tcufae | tcuframa | tcukla | tculae | tcumao | tcupenflo | tcupeo | tcupua | tcusaa | tcusinma | tcustu | tcutaa | tcutrapeo | tcutreci | terspatcu@
-6355@2-Cpx@Predicate@@@APL@'00@7+@tcu(re)+sa(np)a@picture sign@@
+6355@2-Cpx@Predicate@@@APL@2000@7+@tcu(re)+sa(np)a@picture sign@@
 6356@2-Cpx@Predicate@@@SLR@1991@7+@tcu(re)+sinma@picture movie@@
 6357@2-Cpx@Predicate@@@SLR@1991@7+@tcu(re)+stu(ci)@picture story@@
 6358@2-Cpx@Predicate@@@L4@1975@2.0@tcu(re)+ta(kn)a@picture talk@@
@@ -6523,7 +6523,7 @@
 6537@1-Cpx@Predicate@@@JFB@1984@2.2@nur+mo(dv)i@motivated (deliberate)@@
 6538@2-Cpx@Predicate@@@RAM/JCB@1991@2.8@nur+mo(dv)i+ste(ti)@intend sentence@@
 6539@1-Cpx@Predicate@@@L4@1975@1.0@nur+mo(rd)u@conv. of more@@
-6540@2-Cpx@Predicate@@@APL@'00@7+@nur+mo(rd)u+do(ns)u@less give@@
+6540@2-Cpx@Predicate@@@APL@2000@7+@nur+mo(rd)u+do(ns)u@less give@@
 6541@2-Cpx@Predicate@@@L4@1975@1.0@nur+mo(rd)u+sni(re)@less near@@
 6542@2-Cpx@Predicate@@@JPC@1985@3.7@nur+mu(t)c(e)+ma(dz)o@moderate make@@
 6543@1-Cpx@Predicate@@@L4@1975@1.0@nur+mu(tc)e@less much@@
@@ -6554,7 +6554,7 @@
 6568@1-Cpx@Predicate@@@L4@1975@2.2@nur+sa(np)a@conv. of sign@@
 6569@1-Cpx@Predicate@@@JCB/RAM@1991@4.4@nur+sa(ns)e@sensed@@
 6570@2-Cpx@Predicate@@@SLR@1993@7+@nur+san(pa)+cu(ts)e@(signified) say@@
-6571@2-Cpx@Predicate@@@APL@'01@7+@nur+san(pa)+si(st)o@meaning system@@
+6571@2-Cpx@Predicate@@@APL@2001@7+@nur+san(pa)+si(st)o@meaning system@@
 6572@2-Cpx@Predicate@@@JCB@1990@2.1@nur+san(pa)+ti(sr)a@sign meaning choose@@
 6573@1-Cpx@Predicate@@@RAM@1987@2.6@nur+si(tf)a@placed@@
 6574@1-Cpx@Predicate@@@L4@1975@5.6@nur+ska(lu)@conv. of scale@@
@@ -6571,7 +6571,7 @@
 6585@1-Cpx@Predicate@@@JPC@1985@4.7@nur+ti(sr)a@selected@@
 6586@2-Cpx@Predicate@@@SLR@1991@7+@nur+ti(sr)a+tciha@selected child@@
 6587@2-Cpx@Predicate@@@BW/JCB/RAM@1983@3.3@nur+tif(ru)+se(tc)i@offered set@@
-6588@Illegal@Illegal@@@JCB@'00@1.0@nur+tis(ri)+ge(nr)u@selected genes@@
+6588@Illegal@Illegal@@@JCB@2000@1.0@nur+tis(ri)+ge(nr)u@selected genes@@
 6589@1-Cpx@Predicate@@@L4@1975@3.0@nur+treci@conv. of interesting@@
 6590@1-Cpx@Predicate@@@L4@1975@7.4@nur+va(tl)u@conv. of value@@
 6591@1-Cpx@Predicate@@@L4@1975@1.5@nur+ve(dm)a@conv. of sell@@
@@ -6616,7 +6616,7 @@
 6630@2-Cpx@Predicate@@@JCB@1988@7+@organi+y+metli@organo metal@@
 6631@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6632@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-6633@Bor.@Predicate@@@APL@'00@7+@L. Oriolus@@@
+6633@Bor.@Predicate@@@APL@2000@7+@L. Oriolus@@@
 6634@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6635@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6636@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
@@ -6679,7 +6679,7 @@
 6693@2-Cpx@Predicate@@@JCB/RAM@1990@12+@(s)pal(i)+di(rc)o@side direction@@
 6694@Name@Name@@@JCB@1988@7+@Gr. old stone@@@
 6695@Name@Name@@@JCB@1988@7+@Gr. old animal@@@
-6696@2-Cpx@Predicate@@@APL@'00@7+@(s)pal(i)+go(dz)i@side go@@
+6696@2-Cpx@Predicate@@@APL@2000@7+@(s)pal(i)+go(dz)i@side go@@
 6697@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6698@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6699@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
@@ -6712,7 +6712,7 @@
 6726@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6727@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6728@S-Prim@Predicate@@@JCB@1991@4.3@3/4E pine | 2/3C sung | 3/5J matsu | 2/4S pino | 2/4G Pinie | 3/8H sanaubar@@@
-6729@Bor.@Predicate@@@RAM@'01@7+@L Pan troglodytes@@@
+6729@Bor.@Predicate@@@RAM@2001@7+@L Pan troglodytes@@@
 6730@C-Prim@Predicate@@38%@L4@1975@5.6@2/4C ku dz | 3/7H patlun | 2/5E pants | 3/8R herbalon | 2/6S herbalone s | 2/6G herbalone@@jitpantu | nenpantu | pantyjuo@
 6731@2-Cpx@Predicate@@@SLR@1995@7+@pant(u)+y+(d)ju(p)o@pants support@@
 6732@Afx@Affix@@@JCB@1988@7+@pasko@@@
@@ -6785,14 +6785,14 @@
 6799@Bor.@Predicate@@@L1@1989@8.1@ISV@@@
 6800@Bor.@Predicate@@@L1@1989@8.1@ISV@@@
 6801@C-Prim@Predicate@pam@47%@JCB/RAM@1991@10+@3/4F paté | 3/5E(I) pasta | 3/5H mathri | 3/5S(I) pasta | 2/4C mien@@pambalma | pamfru | pamymio@
-6802@2-Cpx@Predicate@@@APL@'00@7+@pat(pe)+nakso@pot repair@@
+6802@2-Cpx@Predicate@@@APL@2000@7+@pat(pe)+nakso@pot repair@@
 6803@C-Prim@Predicate@pat@52%@L4@1975@2.3@3/3E pot | 3/4S pote | 2/3C pen@@patcai | patnakso | picypatpe | zlupypatpe@
-6804@LW@Struct@@@APL/JCB@'00@7+@@@@
-6805@D-Prim@Predicate@@@APL@'00@7+@pavhu@@@
-6806@D-Prim@Predicate@@@APL@'00@7+@pavhu@@@
-6807@D-Prim@Predicate@@@APL@'00@7+@pavhu@@@
-6808@D-Prim@Predicate@@@APL@'00@7+@pavhu@@@
-6809@S-Prim@Predicate@@@APL@'00@7+@Lin. Pava sp.@@@
+6804@LW@Struct@@@APL/JCB@2000@7+@@@@
+6805@D-Prim@Predicate@@@APL@2000@7+@pavhu@@@
+6806@D-Prim@Predicate@@@APL@2000@7+@pavhu@@@
+6807@D-Prim@Predicate@@@APL@2000@7+@pavhu@@@
+6808@D-Prim@Predicate@@@APL@2000@7+@pavhu@@@
+6809@S-Prim@Predicate@@@APL@2000@7+@Lin. Pava sp.@@@
 6810@Afx@Affix@@@JCB@1988@7+@pazda@@@
 6811@Cpd@Struct@@@L4@1975@1.0@pa+za@@@
 6812@C-Prim@Predicate@paz@36%@L4@1975@1.0@2/3E pause | 2/3F paus er | 2/4S paus ar | 2/6C deng dai@@cirpazda | linpazda | pazfiu | pazfro | pazgoi | pazhao | pazkeo | pazkru | pazlia | pazyspu | pazyspumou | rirpazmao | turpazda@
@@ -6876,7 +6876,7 @@
 6890@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6891@Afx@Affix@@@JCB@1988@7+@pernu@@@
 6892@2-Cpx@Predicate@@@SLR@1992@7+@per(nu)+dja(no)@person know@@
-6893@2-Cpx@Predicate@@@TED@'02@7+@per(nu)+dju(di)@person judge@@
+6893@2-Cpx@Predicate@@@TED@2002@7+@per(nu)+dju(di)@person judge@@
 6894@2-Cpx@Predicate@@@SLR@1994@7+@per(nu)+dri(ki)@person remember@@
 6895@2-Cpx@Predicate@@@RAM@1988@4.7@per(nu)+fo/l(ma)@people full@@
 6896@3-Cpx@Predicate@@@L4@1975@7.4@per(nu)+gro(da)+bo(ts)u@people ship@@
@@ -6990,8 +6990,8 @@
 7004@S-Prim@Predicate@@@RAM@1995@7+@L. Pistacia vera@@@
 7005@Cpd@Struct@@@L4@1975@1.0@pi+su@greater than .1@@
 7006@3-Cpx@Predicate@@@L4@1975@7.4@pis(mi)+y+kri(do)+si(st)o@peace creed@@
-7007@I-Prim@Predicate@pib@@JWK@'02@7+@ISV@@@
-7008@I-Prim@Predicate@pit@@JWK@'02@7+@ISV@@@
+7007@I-Prim@Predicate@pib@@JWK@2002@7+@ISV@@@
+7008@I-Prim@Predicate@pit@@JWK@2002@7+@ISV@@@
 7009@Name@Name@@@JCB@1988@7+@Lin.@@@
 7010@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 7011@Cpd@Struct@@@L4@1975@7.4@pi+to@.2@@
@@ -7268,7 +7268,7 @@
 7282@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
 7283@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
 7284@Afx@Affix@@@JCB@1988@7+@purda@@@
-7285@3-Cpx@Predicate@@@APL@'00@7+@pur(da)+buk(cu)+tu(rk)a@word book worker@@
+7285@3-Cpx@Predicate@@@APL@2000@7+@pur(da)+buk(cu)+tu(rk)a@word book worker@@
 7286@2-Cpx@Predicate@@@L4@1975@7.4@pur(da)+bu(kc)u@word book@@
 7287@2-Cpx@Predicate@@@RAM@1988@4.7@pur(da)+cartu@purt map@@
 7288@3-Cpx@Predicate@@@L4@1975@4.4@pur(da)+cla(do)+ma(dz)o@word loud make@@
@@ -7277,7 +7277,7 @@
 7291@C-Prim@Predicate@pur pua@34%@L4@1975@1.0@3/3E word | 3/7S palabra | 2/5F parole@@dirdurpua | djipua | forkaipua | gripua | kalpursei | katpua | majpua | majpurcue | nerkaipua | nilcypua | notpurcue | pakpuapli | plipua | plipursei | puacla | puaflo | purbuktua | purbuu | purcartu | purclamao | purdanmao | purdou | purfadcea | purfomsao | purfurkui | purgiu | purkai | purkui | purmao | purnable | purpai | purpaipastyduo | purpue | purpuemou | purtia | rispua | sadpua | tcupua | terkaipua | torkaipua | tovpua | zavmajpua@
 7292@3-Cpx@Predicate@@@L4@1975@2.0@pur(da)+dan(ci)+ma(dz)o@word plan@@
 7293@2-Cpx@Predicate@@@RAM/JCB@1991@2.1@pur(da)+do(ns)u@word give@@
-7294@3-Cpx@Predicate@@@APL@'00@7+@pur(da)+fa(n)d(o)+ce(nj)a@word end change@@
+7294@3-Cpx@Predicate@@@APL@2000@7+@pur(da)+fa(n)d(o)+ce(nj)a@word end change@@
 7296@C-Prim@Predicate@puf pue@37%@L4@1975@1.0@4/5F parfait | 3/4H pura | 4/6E perfect | 4/7S perfect o@@lodpue | norpue | numpue | nurpue | puecli | puesni | pufcea | pufmao | purpue | purpuemou@
 7297@3-Cpx@Predicate@@@L4@1975@2.2@pur(da)+fo(r)m(a)+sa(mt)o@word matching@@
 7298@2-Cpx@Predicate@@@JCB/RAM@1991@3.7@pur(da)+fur+ku(nc)i@word related@@
@@ -7288,7 +7288,7 @@
 7303@2-Cpx@Predicate@@@JCB@1989@7+@pur(da)+ma(dz)o@word make@@
 7304@2-Cpx@Predicate@@@RAM@1988@4.1@pur(da)+nable@word problem@@
 7305@2-Cpx@Predicate@@@JLT/JCB/RAM@1985@4.3@pur(da)+pa(rt)i@word part@@
-7306@4-Cpx@Predicate@@@APL@'00@7+@pur(da)+pa(rt)i+past(i)+y+du(rz)o@word part paste do@@
+7306@4-Cpx@Predicate@@@APL@2000@7+@pur(da)+pa(rt)i+past(i)+y+du(rz)o@word part paste do@@
 7307@C-Prim@Predicate@pup@48%@PI@1988@4.3@5/6 R purpur | 5/6 G purpur | 4/5 F pourpre | 3/4 E purple | 5/6 S purpura | 2/8 J murasaki@@labpurpu@
 7308@2-Cpx@Predicate@@@L4@1975@1.4@pur(da)+pu(rf)e@word perfect@@
 7309@3-Cpx@Predicate@@@APL@1999@7+@pur(da)+pu(rf)e+mo(rd)u@word perfect more@@
@@ -7310,7 +7310,7 @@
 7326@2-Cpx@Predicate@@@L4@1975@1.9@(t)rac(i)+fur+mo(dv)i@travel intention@@
 7327@2-Cpx@Predicate@@@APL@1995@7+@(t)rac(i)+ha(sf)a@travel house@@
 7328@S-Prim@Predicate@@@RAM@1995@7+@L. Arachis hypogaea@@@
-7329@2-Cpx@Predicate@@@AFL@'00@7+@(t)rac(i)+(c)ke(m)o@travel interval@@
+7329@2-Cpx@Predicate@@@AFL@2000@7+@(t)rac(i)+(c)ke(m)o@travel interval@@
 7330@2-Cpx@Predicate@@@SLR@1994@7+@(t)rac(i)+(t)ri(m)e@travel tool@@
 7331@2-Cpx@Predicate@@@JCB@1983@2.2@(t)rac(i)+tca(ro)@travel car@@
 7332@2-Cpx@Predicate@@@APL@1998@7+@(t)rac(i)+tce(ru)@travel through@@
@@ -7338,7 +7338,7 @@
 7354@2-Cpx@Predicate@@@APL@1998@7+@ra(n)d(e)+se(tf)a@around set@@
 7355@2-Cpx@Predicate@@@RAM/JCB@1991@3.6@ra(n)d(e)+traci@round travel@@
 7356@Afx@Affix@@@JCB@1988@7+@rande@@@
-7357@2-Cpx@Predicate@@@JWK@'00@7+@ra(nd)e+ble(ka)@round look@@
+7357@2-Cpx@Predicate@@@JWK@2000@7+@ra(nd)e+ble(ka)@round look@@
 7358@2-Cpx@Predicate@@@L4@1975@2.2@ra(nd)e+ma/r(ka)@round mark@@
 7359@3-Cpx@Predicate@@@SLR@1993@7+@ra(nd)e+n+rid(le)+ma(tc)i@ round read machine@@
 7360@2-Cpx@Predicate@@@SLR@1993@7+@ra(nd)e+sri(te)@disk write@@
@@ -7581,7 +7581,7 @@
 7598@3-Cpx@Predicate@@@RAM@1987@5.0@(b)rig(a)+cle(si)+cko(zu)@bravery without cause@@
 7599@3-Cpx@Predicate@@@RAM/JCB@1987@5.0@(b)rig(a)+cle(si)+ma(dz)o@bravery without make@@
 7600@2-Cpx@Predicate@@@RAM@1987@5.0@(b)rig(a)+nur+du(rz)o@brave deed@@
-7601@2-Cpx@Predicate@@@APL@'00@7+@(b)rig(a)+si(mc)i@brave seem@@
+7601@2-Cpx@Predicate@@@APL@2000@7+@(b)rig(a)+si(mc)i@brave seem@@
 7602@Afx@Affix@@@JCB@1988@7+@rilri@@@
 7603@2-Cpx@Predicate@@@L4@1975@2.2@ri(lr)i+cke(mo)@regular interval@@
 7604@Afx@Affix@@@JCB@1988@7+@briku@@@
@@ -7611,7 +7611,7 @@
 7628@2-Cpx@Predicate@@@JFB@1988@3.4@rind(i)+y+ka(ml)a@native American origin@@
 7629@C-Prim@Predicate@rin@41%@L4@1975@2.0@3/3C je | 2/6E circlet | 2/6R koltso@@lifyrinje | loryrinje | molrinje | narmyrinje | rindorja | rinduo | rinresfu | rinsni@
 7630@2-Cpx@Predicate@@@JCB/RAM@1987@4.1@rin(je)+resfu@band clothing@@
-7631@2-Cpx@Predicate@@@JWK@'01@7+@rin(je)+sni(re)@ring near @@
+7631@2-Cpx@Predicate@@@JWK@2001@7+@rin(je)+sni(re)@ring near @@
 7632@C-Prim@Predicate@rit@46%@L4@1975@7.9@3/4R ritm | 3/4F rythme | 2/3C yin | 2/3H tal | 3/5S ritmo | 3/6G rhythmisch@@muzrinta | ritydzo | ritysonmao | ritysrusia | ritystuka | teryritglopa@
 7633@Afx@Affix@@@JCB@1988@7+@rispe@@@
 7634@2-Cpx@Predicate@@@RAM/JCB@1991@3.9@ri(s)p(e)+sa(np)a@respect sign@@
@@ -7643,7 +7643,7 @@
 7660@2-Cpx@Predicate@@@L4@1975@1.4@ri(n)t(a)+y+dzo(ru)@rhythm walk@@
 7661@3-Cpx@Predicate@@@JCB/RAM@1982@4.6@ri(n)t(a)+y+son(da)+ma(dz)o@rhythm sound make@@
 7662@3-Cpx@Predicate@@@RAM/JCB@1991@4.1@ri(n)t(a)+y+su/r(na)+si(tf)a@rhythmic hurt place@@
-7663@2-Cpx@Predicate@@@APL@'00@7+@ri(n)t(a)+y+stuka@rhythm stick@@
+7663@2-Cpx@Predicate@@@APL@2000@7+@ri(n)t(a)+y+stuka@rhythm stick@@
 7664@Afx@Affix@@@JCB@1988@7+@srisu@@@
 7665@2-Cpx@Predicate@@@JCB/RAM@1991@2.8@(s)ri(s)u+cko(zu)@serious cause@@
 7666@2-Cpx@Predicate@@@L4@1975@1.4@(s)ri(s)u+pro(ju)@serious produce@@
@@ -7680,7 +7680,7 @@
 7697@2-Cpx@Predicate@@@L4@1975@7.4@rof(su)+cti(fu)@rough material@@
 7698@3-Cpx@Predicate@@@L4@1975@7.4@rof(su)+cti(fu)+du(rz)o@abrasive do@@
 7699@2-Cpx@Predicate@@@L4@1975@3.0@rof(su)+ma(dz)o@rough make@@
-7700@2-Cpx@Predicate@@@APL@'01@7+@rof(su)+pi(sk)u@rough piece@@
+7700@2-Cpx@Predicate@@@APL@2001@7+@rof(su)+pi(sk)u@rough piece@@
 7701@2-Cpx@Predicate@@@SLR@1995@7+@rof(su)+p(ap)re@rough paper@@
 7702@C-Prim@Predicate@rof ros@42%@L4@1975@3.0@2/3E rough | 2/3C tsu | 2/3G rauh | 2/6R nierov nyi@@biunrofsu | guonrofsu | hiryrofsu | rofcea | rofcko | rofcti | rofctiduo | rofmao | rofpiu | rofpre | rosvoi | sasyrofsu | sutyrofsu | vizrofsu@
 7703@LW@Struct@@@JCB@1997@7+@furmoi@intend@@
@@ -7695,7 +7695,7 @@
 7712@3-Cpx@Predicate@@@JCB/RAM@1990@3.7@(g)ro(c)i+r+dak(li)+bi(vd)u@angry likely behaviour@@
 7713@2-Cpx@Predicate@@@SLR@1994@7+@(g)ro(c)i+r+ta(rg)o@angry argue@@
 7714@Afx@Affix@@@JCB@1988@7+@rodja@@@
-7715@3-Cpx@Predicate@@@APL@'00@7+@ro(d)j(a)+(c)ke(m)o+se(tc)i@grow interval set@@
+7715@3-Cpx@Predicate@@@APL@2000@7+@ro(d)j(a)+(c)ke(m)o+se(tc)i@grow interval set@@
 7716@2-Cpx@Predicate@@@JCB@1993@4.3@ro(d)j(a)+ko(rv)a@grow curve@@
 7717@3-Cpx@Predicate@@@RAM/JCB@1990@4.3@ro(d)j(a)+ko(r)v(a)+ce(nj)a@grow curve become@@
 7718@3-Cpx@Predicate@@@JCB@1990@4.2@ro(d)j(a)+ko(r)v(a)+ma(dz)o@grow curve make@@
@@ -7721,9 +7721,9 @@
 7738@2-Cpx@Predicate@@@JFB@1987@3.2@rol(gu)+ve(sl)o@cylindrical container@@
 7739@Afx@Affix@@@JCB@1996@7+@romn @@@
 7740@Name@Name@@@L4@1975@15@Ital. Roma@@@
-7741@Bor.@Predicate@@@JCB@'01@7+@romany@@@
-7742@Bor.@Predicate@@@JCB@'01@7+@romany@@@
-7743@Bor.@Predicate@@@JCB@'01@7+@romany@@@
+7741@Bor.@Predicate@@@JCB@2001@7+@romany@@@
+7742@Bor.@Predicate@@@JCB@2001@7+@romany@@@
+7743@Bor.@Predicate@@@JCB@2001@7+@romany@@@
 7744@D-Prim@Predicate@rom@@JCB/RAM@1981@2.4@L romni@@romtaa | romtciha@
 7745@D-Prim@Predicate@rom@@JCB/RAM@1981@2.4@L romni@@@
 7746@N-Prim@Predicate@rom@@L4@1975@1.8@L Roma, the capital@@@
@@ -7764,7 +7764,7 @@
 7781@1-Cpx@Predicate@@@APL@1999@7+@ror+ko(rv)a@many curves@@
 7782@2-Cpx@Predicate@@@APL@1995@7+@ror+kol(ro)+gliso@many color glass@@
 7783@1-Cpx@Predicate@@@RAM/JCB@1987@3.4@ror+konte@most count@@
-7784@1-Cpx@Predicate@@@APL@'00@7+@ror+ko(lr)o@many colours @@
+7784@1-Cpx@Predicate@@@APL@2000@7+@ror+ko(lr)o@many colours @@
 7785@2-Cpx@Predicate@@@JCB@1994@7+@ror+len(gu)+si(tf)a@many language place@@
 7786@2-Cpx@Predicate@@@L4@1975@7.4@ror+len(gu)+ta(kn)a@many language talk@@
 7787@2-Cpx@Predicate@@@SLR@1991@7+@ror+men(di)+merji@many male marriage@@
@@ -7803,7 +7803,7 @@
 7820@2-Cpx@Predicate@@@L4@1975@1.0@ru(tm)a+r+do(ns)u@route give@@
 7821@3-Cpx@Predicate@@@RAM@1991@1.7@ru(tm)a+r+sti(se)+cko(zu)@way stop cause@@
 7822@3-Cpx@Predicate@@@L4@1975@1.7@ru(tm)a+r+sti(se)+ma(dz)o@way stop make@@
-7823@I-Prim@Predicate@@@JWK@'00@7+@Incomplete, based on ruby, rubis,Rubin,rubino@@@
+7823@I-Prim@Predicate@@@JWK@2000@7+@Incomplete, based on ruby, rubis,Rubin,rubino@@@
 7824@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 7825@N-Prim@Predicate@@@L4@1975@1.0@R rubl @@@
 7826@Afx@Affix@@@JCB@1988@7+@brute@@@
@@ -7863,8 +7863,8 @@
 7883@2-Cpx@Predicate@@@L4@1975@1.0@sa(t)c(i)+ka(kt)o@start act@@
 7884@2-Cpx@Predicate@@@L4@1975@4.6@sa(t)c(i)+ma(dz)o@start make@@
 7885@2-Cpx@Predicate@@@JCB/RAM@1991@4.1@sa(t)c(i)+pa(rt)i@start part@@
-7886@2-Cpx@Predicate@@@APL@'01@7+@sa(t)c(i)+ve(tc)i@start event@@
-7887@2-Cpx@Predicate@@@APL@'00@7+@sa(t)c(i)+vi(zk)a@start see@@
+7886@2-Cpx@Predicate@@@APL@2001@7+@sa(t)c(i)+ve(tc)i@start event@@
+7887@2-Cpx@Predicate@@@APL@2000@7+@sa(t)c(i)+vi(zk)a@start see@@
 7888@2-Cpx@Predicate@@@JJ@1993@7+@sa(t)c(i)+y+ce(nj)a@start happen@@
 7889@2-Cpx@Predicate@@@L4@1975@4.6@sa(t)c(i)+y+cko(zu)@start cause@@
 7890@2-Cpx@Predicate@@@JJ@1993@7+@sa(t)c(i)+y+cu(ts)e@start speak@@
@@ -7957,11 +7957,11 @@
 7977@2-Cpx@Predicate@@@JCB/RAM@1991@2.7@san(pa)+pli(zo)@sign use@@
 7978@3-Cpx@Predicate@@@L4@1975@2.1@san(pa)+pri(re)+ka(ml)a@sign behind come(follow)@@
 7979@C-Prim@Predicate@sas sae@40%@L4@1975@1.4@3/3F sens | 3/4E sense | 3/7C gan jyue | 2/6J kanji@@beksae | blidensae | blidensaecko | cmareasae | darsae | guorsaskai | gutsae | hirsaskai | metysaspae | nirsaspeo | nomsaecea | nursae | saeblo | saeclu | sasfiu | sasfro | saskai | sasyrofsu | sutsae | sutysaskai | tcosae | tcosaskai | viksaskai@
-7980@2-Cpx@Predicate@@@APL@'00@7+@san(pa)+sensi@sign science@@
-7981@3-Cpx@Predicate@@@APL@'00@7+@san(pa)+se(n)s(i)+ma(dz)o@sign science maker@@
+7980@2-Cpx@Predicate@@@APL@2000@7+@san(pa)+sensi@sign science@@
+7981@3-Cpx@Predicate@@@APL@2000@7+@san(pa)+se(n)s(i)+ma(dz)o@sign science maker@@
 7982@2-Cpx@Predicate@@@APL@1998@7+@san(pa)+si(st)o@sign system@@
 7983@2-Cpx@Predicate@@@L4@1975@4.5@san(pa)+su(nd)i@sign send@@
-7984@3-Cpx@Predicate@@@APL@'00@7+@san(pa)+su(nd)i+ru(tm)a@sign send route@@
+7984@3-Cpx@Predicate@@@APL@2000@7+@san(pa)+su(nd)i+ru(tm)a@sign send route@@
 7985@C-Prim@Predicate@sai@51%@L4@1975@1.0@4/5H shanti | 4/6E silent | 2/3R tih ii | 3/6C an jing | 2/4G still@@kalsai | kalsaicko | kalsaimao | pensai | punsai | saircea | sairmao | sairtao | selsai | taksai@
 7986@2-Cpx@Predicate@@@JCB/RAM@1990@2.1@san(pa)+ve(sl)o@sign container@@
 7987@2-Cpx@Predicate@@@SLR@1995@7+@san(pa)+y+djoso@sign sew@@
@@ -8070,7 +8070,7 @@
 8090@2-Cpx@Predicate@@@SLR@1994@7+@se(n)s(i)+y+cle(si)@science lacking@@
 8091@4-Cpx@Predicate@@@SLR@1992@7+@se(n)s(i)+y+ma(d)j(i)+bli(cu)+fikco@magic possible fiction@@
 8092@2-Cpx@Predicate@@@SLR@1994@7+@se(n)s(i)+y+pozfa@science opposed@@
-8093@2-Cpx@Predicate@@@TED@'02@7+@se(n)s(i)+y+sri(te)@science write@@
+8093@2-Cpx@Predicate@@@TED@2002@7+@se(n)s(i)+y+sri(te)@science write@@
 8094@3-Cpx@Predicate@@@FR@1985@4.8@se(n)s(i)+y+tur(ka)+si(tf)a@scientific work place@@
 8095@Afx@Affix@@@JCB@1988@7+@setci@@@
 8096@C-Prim@Predicate@set sei@46%@L4@1975@2.7@3/3E set | 3/6C shou chi | 3/4J setto@@bertirsei | brasei | braseidjo | cucysei | dakbivsei | djikaosei | djisei | djiseicea | djiseicko | djiseimao | furckosei | furdjasei | geersei | gerseicea | hamsei | hersei | jmikeosei | kalpursei | kardysei | kinsei | krusei | learsei | livdansei | lodsei | misfurckosei | muvtirsei | nedsei | nornurvemsei | nurdazysei | nurponsei | nursuvsei | nurtifsei | pebsei | perkaisei | petrysei | plipursei | recykaisei | reshamsei | rojkeosei | rulsei | samlivkeosei | seidjo | setpai | snisei | spalivsei | stesei | stokaisei | takyrulsei | tirsei | tirseireu | torseimao | zvosei@
@@ -8190,7 +8190,7 @@
 8210@Afx@Affix@@@JCB@1988@7+@sitfa@@@
 8211@C-Prim@Predicate@sic@48%@L4@1975@1.0@2/2J shi | 3/4E city | 3/4F cite | 2/4C cheng | 2/6S ciudad@@cmasitci | garsitci | grositci | norsichaa | norsiclai | norsicpeu | penrysitci | sicdjo | sicgarhaa | sicpai | sictre | sicycefli | sicycli | sicymidju | sicynorloi | sicypolpai | spisitci@
 8212@C-Prim@Predicate@sit sif sia@57%@L4@1975@1.0@3/3F site | 3/4E site | 3/4H sthan | 3/4S siti o | 3/5C di fang@@bairmubsia | batsia | blesia | botkoisia | bourstosia | buksrosia | bukvemsia | cabsia | cabsrusia | calsia | cefsia | ckesifmei | damfordynursia | disgalsia | ditsia | djisia | djusia | dorkadsia | dorsia | duvsia | dzosia | fangausia | felsia | femfersocysia | femforsocysia | femnersocysia | femsursocysia | femtersocysia | femtorsocysia | flesia | fomdrisia | gacysia | gacysifmou | gacysiftoa | galsia | ganfordynursia | ganskisia | gartursia | gesgoisia | gudsia | haftifsia | kapsia | kapsrusia | kartysrosia | kasgoisia | kemsrusia | kiksrusia | kiurctivemsia | klinymaosia | kursia | larviasia | lekdjisia | lildjusia | lisysia | macflesia | madsia | mansia | menfersocysia | menforsocysia | mensursocysia | mentersocysia | mentorsocysia | menynersocysia | minsia | mitvemsia | miursia | morbardysia | morkafsia | muchaisia | nengoisia | nilcynursia | nirsia | noirsifkoi | noirsifsui | nornurjuastosia | notsia | nursia | ponparbatsia | ritysrusia | rorlensia | sacysifdou | seordrisia | seorsia | sesytursia | siasti | sifbatmi | sifdeu | sifdou | sifdui | sifklipu | siflii | sifmuo | sifnamci | sifnamsri | sifsea | sifsensi | siftaa | siftetri | siftoa | sitlivclecea | skisia | smikatcysia | snilivsia | socysifdou | socysiosia | stisia | stogrusia | stosrusia | sursocysia | tcanaksysia | tcastosia | tcosrusia | torsocysia | tovnursia | tursia | vaursrosia | vemsia | zanplisia | zvokamsia | zvosia@
-8213@S-Prim@Predicate@@@APL/RAM@'00@7+@Lin. Cyanocitta@@blanysitha@
+8213@S-Prim@Predicate@@@APL/RAM@2000@7+@Lin. Cyanocitta@@blanysitha@
 8214@4-Cpx@Predicate@@@RAM@1993@7+@sit(fa)+(c)liv(i)+cle(si)+ce(nj)a@place livers(residents) without become@@
 8215@Cpd@Struct@@@L4@1975@7.4@si+to@@@
 8216@LW@Struct@@@L4@1975@1.1@siltu@@@
@@ -8286,12 +8286,12 @@
 8306@C-Prim@Predicate@sma@38%@L4@1975@2.4@3/4E smoke | 2/3C yan@@smaflo | smapli | smapro | smarua | smarue | smaruetubli | smaruetubpli | smazvofodpai@
 8307@2-Cpx@Predicate@@@L4@1975@2.6@sma(no)+pli(zo)@smoke use@@
 8308@2-Cpx@Predicate@@@L4@1975@2.7@sma(no)+pro(ju)@smoke produce@@
-8309@Bor.@Predicate@@@JWK@'00@7+@L smaragdus@@@
+8309@Bor.@Predicate@@@JWK@2000@7+@L smaragdus@@@
 8310@2-Cpx@Predicate@@@KAC@1983@2.9@sma(no)+ru(tm)a@smoke route@@
 8311@2-Cpx@Predicate@@@L4@1975@2.7@sma(no)+(b)ru(t)e@smoke breathe@@
 8312@3-Cpx@Predicate@@@RAM@1988@3.2@sma(no)+(b)ru(t)e+tubli@smoke breathe tube@@
 8313@4-Cpx@Predicate@@@JFB/RAM@1987@3.2@sma(no)+(b)ru(t)e+tub(li)+pli(zo)@smoke breathe tube use@@
-8314@4-Cpx@Predicate@@@APL/RAM@'00@7+@sma(no)+zvo(to)+fo(l)d(i)+pa(rt)i@smoke out fold=part@@
+8314@4-Cpx@Predicate@@@APL/RAM@2000@7+@sma(no)+zvo(to)+fo(l)d(i)+pa(rt)i@smoke out fold=part@@
 8315@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 8316@Afx@Affix@@@JCB@1988@7+@smike@@@
 8317@2-Cpx@Predicate@@@RAM@1987@3.7@smi(ke)+bi(vd)u@secret behave@@
@@ -8311,7 +8311,7 @@
 8331@2-Cpx@Predicate@@@L4@1975@1.0@smi(ke)+ma(dz)o@secret make@@
 8332@C-Prim@Predicate@min@51%@L4@1975@1.1@2/3C nao | 2/3H man | 2/3G sinn | 3/5E mind | 3/6J seishin | 2/5S mente@@minbalpi | minblo | minfau | minfauplepae | minfiu | minfoi | minfospoa | minfrezi | minjua | minkemdi | minkempli | minpiu | minpoa | minpuncko | minpuu | minridcue | minrie | minsia | minsni | minspa | minspu | mintcu | minvei | minynorkou | pubmintcu | sminynei@
 8333@2-Cpx@Predicate@@@JFB@1987@2.6@smin(a)+y+ne(nr)i@mind in@@
-8334@2-Cpx@Predicate@@@APL@'00@7+@smi(ke)+prano@secret run@@
+8334@2-Cpx@Predicate@@@APL@2000@7+@smi(ke)+prano@secret run@@
 8335@2-Cpx@Predicate@@@L4@1975@1.0@smi(ke)+se(tf)a@secret put@@
 8336@2-Cpx@Predicate@@@L4@1975@2.2@smi(ke)+sri(te)@secret write@@
 8337@3-Cpx@Predicate@@@JJ@1994@7+@smi(ke)+sri(te)+si(st)o@secret writing system@@
@@ -8350,7 +8350,7 @@
 8370@3-Cpx@Predicate@@@SLR/RAM@1993@7+@sni(re)+ku/(t)l(a)+cti(fu)@near cut stuff@@
 8371@4-Cpx@Predicate@@@SLR/RAM@1993@7+@sni(re)+ku/(t)l(a)+fu(tc)i+cti(fu)@near cut after stuff@@
 8372@3-Cpx@Predicate@@@SLR/RAM@1993@7+@sni(re)+ku/(t)l(a)+pa(tc)e@near cut apparatus@@
-8373@2-Cpx@Predicate@@@APL@'00@7+@sni(re)+ku(mc)e@near reciprocally@@
+8373@2-Cpx@Predicate@@@APL@2000@7+@sni(re)+ku(mc)e@near reciprocally@@
 8374@2-Cpx@Predicate@@@JCB/RAM@1991@1.8@sni(re)+(c)li(v)i@near live@@
 8375@3-Cpx@Predicate@@@FR@1986@2.5@sni(re)+(c)liv(i)+si(tf)a@near live place@@
 8376@4-Cpx@Predicate@@@APL@1999@7+@sni(re)+(c)liv(i)+tak(na)+fundi@near live(local) talk found@@
@@ -8428,7 +8428,7 @@
 8448@2-Cpx@Predicate@@@JLT@1986@2.8@sol(ra)+y+litla@sun light@@
 8449@Afx@Affix@@@JCB@1988@7+@sorme@@@
 8450@2-Cpx@Predicate@@@L4@1975@4.1@so(r)m(e)+de(tr)a@sister daughter@@
-8451@2-Cpx@Predicate@@@AFL@'00@7+@so(r)m(e)+ku(mc)e@sister reciprocal@@
+8451@2-Cpx@Predicate@@@AFL@2000@7+@so(r)m(e)+ku(mc)e@sister reciprocal@@
 8452@2-Cpx@Predicate@@@L4@1975@3.7@so(r)m(e)+su(nh)o@sistere son@@
 8453@Afx@Affix@@@JCB@1988@7+@sonda@@@
 8454@2-Cpx@Predicate@@@L4@1975@1.4@son(da)+cu(ts)e@sound say@@
@@ -8655,7 +8655,7 @@
 8675@C-Prim@Predicate@tui@37%@L4@1975@4.5@4/5C chu li | 2/5S ajust ar | 2/5F ajust er | 2/6E adjust | 2/9R ustanovka@@hamtui | seltui@
 8676@2-Cpx@Predicate@@@APL@1999@7+@stu(ci)+pa(rt)i@story part@@
 8677@2-Cpx@Predicate@@@SLR@1992@7+@stu(ci)+pe(rn)u@story person@@
-8678@Bor.@Predicate@@@APL@'00@7+@L. Sternella@@@
+8678@Bor.@Predicate@@@APL@2000@7+@L. Sternella@@@
 8679@2-Cpx@Predicate@@@L4@1975@1.0@stu(ci)+ta(kn)a@story talk@@
 8680@2-Cpx@Predicate@@@JCB@1988@7+@stu(ci)+tcu(re)@story picture@@
 8681@2-Cpx@Predicate@@@RAM@1988@4.0@stu(ci)+te(tc)u@story stretch@@
@@ -8755,7 +8755,7 @@
 8775@2-Cpx@Predicate@@@L4@1975@1.5@su(r)v(a)+fu(mn)a@serving woman@@
 8776@2-Cpx@Predicate@@@L4@1975@1.9@su(r)v(a)+m(r)e(n)u@serving man@@
 8777@2-Cpx@Predicate@@@FR/JFB@1987@3.2@su(r)v(a)+prati@service price@@
-8778@Cpd@Struct@@@APL/JCB@'00@7+@su+zo@@@
+8778@Cpd@Struct@@@APL/JCB@2000@7+@su+zo@@@
 8779@Afx@Affix@@@JCB@1996@7+@sven @@@
 8780@D-Prim@Predicate@sve@@L4@1975@1.0@Sw svensk@@svetaa@
 8781@D-Prim@Predicate@sve@@L4@1975@1.0@Sw svensk@@@
@@ -8770,11 +8770,11 @@
 8790@I-Prim@Predicate@@@L4@1975@3.9@Int. E.tobacco@@@
 8791@Afx@Affix@@@JCB@1988@7+@tarle@@@
 8792@Afx@Affix@@@JCB@1988@7+@targo@@@
-8793@2-Cpx@Predicate@@@APL@'00@7+@ta(r)g(o)+ku(mc)e@argue reciprocally@@
+8793@2-Cpx@Predicate@@@APL@2000@7+@ta(r)g(o)+ku(mc)e@argue reciprocally@@
 8794@3-Cpx@Predicate@@@L4@1975@1.8@ta(r)g(o)+sti(se)+ma(dz)o@argument stop make@@
 8795@LW@Struct@@@L4@1975@15+@@@@
 8796@Afx@Affix@@@JCB@1988@7+@stali@@@
-8797@2-Cpx@Predicate@@@AFL@'00@7+@(s)ta(l)i+r+ce(nj)a@stand become@@
+8797@2-Cpx@Predicate@@@AFL@2000@7+@(s)ta(l)i+r+ce(nj)a@stand become@@
 8798@2-Cpx@Predicate@@@APL@1998@7+@(s)ta(l)i+r+frama@stand frame@@
 8799@2-Cpx@Predicate@@@L4@1975@1.0@(s)ta(l)i+r+ma(dz)o@stand make@@
 8800@Afx@Affix@@@JCB@1988@7+@takna@@@
@@ -8816,7 +8816,7 @@
 8836@2-Cpx@Predicate@@@RAM@1988@3.2@ta(r)m(u)+visra@weapon gut@@
 8837@2-Cpx@Predicate@@@L4@1975@7.4@ta(r)m(u)+y+ma(dz)o@weapon maker@@
 8838@Afx@Affix@@@JCB@1988@7+@trana@@@
-8839@2-Cpx@Predicate@@@JWK@'01@7+@t(r)an(a)+ce(nj)a@rotate become @@
+8839@2-Cpx@Predicate@@@JWK@2001@7+@t(r)an(a)+ce(nj)a@rotate become @@
 8840@2-Cpx@Predicate@@@JCB/RAM@1991@3.5@t(r)an(a)+cko(zu)@rapid rotation cause@@
 8841@2-Cpx@Predicate@@@L4@1975@2.8@t(r)an(a)+clidu@turning slip@@
 8842@2-Cpx@Predicate@@@JCB/RAM@1990@3.2@t(r)an(a)+di(rc)o@turn direction@@
@@ -8829,7 +8829,7 @@
 8849@3-Cpx@Predicate@@@FR@1987@4.3@t(r)an(a)+(c)lin(a)+pa(rt)i@rotate line part@@
 8850@2-Cpx@Predicate@@@SLR@1991@7+@t(r)an(a)+litla@turn light@@
 8851@2-Cpx@Predicate@@@L4@1975@1.0@t(r)an(a)+ma(dz)o@turn make@@
-8852@3-Cpx@Predicate@@@JWK@'01@7+@t(r)an(a)+me(n)k(i)+ble(ka)@turn eye look @@
+8852@3-Cpx@Predicate@@@JWK@2001@7+@t(r)an(a)+me(n)k(i)+ble(ka)@turn eye look @@
 8853@2-Cpx@Predicate@@@JJ@1993@7+@t(r)an(a)+mu(vd)o@turn move@@
 8854@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
 8855@4-Cpx@Predicate@@@APL@1995@7+@t(r)an(a)+tcel(a)+y+fle(ti)+ma(tc)i@rotate wing fly machine@@
@@ -8896,7 +8896,7 @@
 8916@2-Cpx@Predicate@@@RAM/JCB@1990@3.9@tce(ru)+le(tc)i@penetrate let@@
 8917@2-Cpx@Predicate@@@RAM@1995@7+@tcel(a)+y+bo(ts)u@wing boat@@
 8918@2-Cpx@Predicate@@@L4@1975@7.4@tcel(a)+y+go(dz)i@wing go@@
-8919@2-Cpx@Predicate@@@APL@'00@7+@tcel(a)+y+te(tc)u@wing stretch@@
+8919@2-Cpx@Predicate@@@APL@2000@7+@tcel(a)+y+te(tc)u@wing stretch@@
 8920@2-Cpx@Predicate@@@JCB@1996@7+@tce(ru)+mu(vd)o@through move@@
 8921@C-Prim@Predicate@@40%@L4@1975@2.1@3/3F chaine | 3/4E chain | 3/6S cadena | 2/6C lien dz@@tcenyduo | tcenymao | tcenypai@
 8922@2-Cpx@Predicate@@@JLT@1986@2.3@tcen(a)+y+du(rz)o@chain do@@
@@ -8977,12 +8977,12 @@
 8997@Name@Name@@@L4@1975@1.0@ISV@@@
 8998@Afx@Affix@@@JCB@1988@7+@te@@@
 8999@Cpd@Struct@@@L4@1975@5.8@te+ra@@@
-9000@I-Prim@Predicate@teb@@JWK@'02@7+@ISV@@@
+9000@I-Prim@Predicate@teb@@JWK@2002@7+@ISV@@@
 9001@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 9002@1-Cpx@Predicate@@@RAM@1988@4.1@ter+de(tr)a@three daughter@@
 9003@1-Cpx@Predicate@@@L4@1975@3.6@ter+de(nl)i@3 day@@
 9004@2-Cpx@Predicate@@@SLR@1992@7+@ter+dir(co)+ka(tl)i@3 dimension quality@@
-9005@2-Cpx@Predicate@@@RAM@'01@7+@ter+fit(pi)+y+(d)ju(p)o@3 feet support@@
+9005@2-Cpx@Predicate@@@RAM@2001@7+@ter+fit(pi)+y+(d)ju(p)o@3 feet support@@
 9006@1-Cpx@Predicate@@@RAM@1991@2.8@ter+fa/r(fu)@three father@@
 9007@2-Cpx@Predicate@@@L4@1975@1.0@ter+fu(t)c(i)+de(nl)i@three after day@@
 9008@1-Cpx@Predicate@@@RAM/JCB@1990@3.5@ter+gru(pa)@3rd group@@
@@ -9105,7 +9105,7 @@
 9126@2-Cpx@Predicate@@@L4@1975@1.6@ti(dj)o+cri(na)@heavy rain@@
 9127@2-Cpx@Predicate@@@RAM/JCB@1990@3.6@ti(dj)o+kla(bu)@heavy cloth@@
 9128@2-Cpx@Predicate@@@JCB@1995@7+@ti(dj)o+ska(lu)@heavy scale@@
-9129@N-Prim@Predicate@@@APL@'00@7+@Sioux tipi@@@
+9129@N-Prim@Predicate@@@APL@2000@7+@Sioux tipi@@@
 9130@Afx@Affix@@@JCB@1988@7+@stire@@@
 9131@C-Prim@Predicate@tic@38%@L4@1975@4.2@2/3C syan | 2/3H tar | 2/4E wire@@nalpeatirca | rortirca | stitirca | ticycli | ticynetre | ticysea@
 9132@2-Cpx@Predicate@@@APL@1999@7+@(s)tir(e)+fo(rm)a@stair form@@
@@ -9179,7 +9179,7 @@
 9200@2-Cpx@Predicate@@@JCB/RAM@1991@3.1@to(r)n(i)+cko(zu)@twist cause@@
 9201@C-Prim@Predicate@@39%@L4@1975@1.8@2/3E tongue | 3/5C she tou | 3/6S lengua@@tongyliukamda | tongysanduo | tongytco@
 9202@3-Cpx@Predicate@@@APL@1999@7+@tong(u)+y+li(tn)u+kamda@tongue restrain battle@@
-9203@3-Cpx@Predicate@@@APL@'00@7+@tong(u)+y+san(pa)+du(rz)o@tongue sign do@@
+9203@3-Cpx@Predicate@@@APL@2000@7+@tong(u)+y+san(pa)+du(rz)o@tongue sign do@@
 9204@2-Cpx@Predicate@@@APL@1999@7+@tong(u)+y+t(ot)co@tongue touch@@
 9205@Cpd@Struct@@@L4@1975@7.4@to+ni@20@@
 9206@2-Cpx@Predicate@@@CF/JCB/RAM@1983@3.6@to(r)n(i)+kro(li)@twist current@@
@@ -9254,7 +9254,7 @@
 9275@Afx@Affix@@@JCB@1988@7+@tovru@@@
 9276@2-Cpx@Predicate@@@APL@1995@7+@tov(ru)+ba(ks)o@over box@@
 9277@2-Cpx@Predicate@@@JCB/RAM@1991@2.9@tov(ru)+cadre@over dress@@
-9278@3-Cpx@Predicate@@@JWK/RAM@'00@7+@tov(ru)+kru(ma)+spa(si)@over room space@@
+9278@3-Cpx@Predicate@@@JWK/RAM@2000@7+@tov(ru)+kru(ma)+spa(si)@over room space@@
 9279@2-Cpx@Predicate@@@APL@1998@7+@tov(ru)+ku(vg)a@over cover@@
 9280@2-Cpx@Predicate@@@SLR@1995@7+@tov(ru)+(c)li(n)a@over line@@
 9281@2-Cpx@Predicate@@@L4@1975@7+@tov(ru)+mu(vd)o@over move@@
@@ -9328,7 +9328,7 @@
 9350@2-Cpx@Predicate@@@L4@1975@2.3@tri(cu)+staga@tree stem@@
 9351@Afx@Affix@@@JCB@1988@7+@troli@@@
 9352@Bor.@Predicate@@@JCB@1988@7+@Lin.@@@
-9353@Bor.@Predicate@@@APL@'00@7+@L Troglodytes troglodytes@@@
+9353@Bor.@Predicate@@@APL@2000@7+@L Troglodytes troglodytes@@@
 9354@C-Prim@Predicate@@51%@L4@1975@1.4@3/3F roc | 3/4C sh tou | 3/4S roca | 2/3E rock@@cmatroku | fagtroku | flitroku | grotroku | trokybalma | trokybamduo | trokycea | trokycli | trokyflo | trokymoa | trokyrae | trokytri@
 9355@2-Cpx@Predicate@@@JCB/RAM@1991@4.3@trok(u)+y+balma@rock ball@@
 9356@3-Cpx@Predicate@@@JCB/RAM@1991@4.3@trok(u)+y+ba(l)m(a)+du(rz)o@rock ball do@@
@@ -9419,7 +9419,7 @@
 9441@Bor.@Predicate@@@JCB/RAM@1991@4.4@Türk—@Turkish root for Turkish@@
 9442@C-Prim@Predicate@tul tue@51%@L4@1975@1.9@3/4C tuei | 2/3E leg | 2/3H tang | 3/5R golen@@betytue | betytuebongu | bufnertueprano | gantue | gantulmio | leltue | midtuedji | nertulvai | tilbybiatue | tuedji@
 9443@LW@Struct@@@L4@1975@1.0@stuli@@@
-9444@N-Prim@Predicate@@@RAM@'00@7+@Inuit@@@
+9444@N-Prim@Predicate@@@RAM@2000@7+@Inuit@@@
 9445@Afx@Affix@@@JCB@1988@7+@tugle@@@
 9446@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
 9447@I-Prim@Predicate@@@L1@1975@7.4@Int.@@@
@@ -9460,7 +9460,7 @@
 9482@LW@Struct@@@L4@1975@1.0@@@@
 9483@LW@Struct@@@L4@1975@1.0@@@@
 9484@LW@Struct@@@L4@1975@1.0@@@@
-9485@Bor.@Predicate@@@APL@'00@7+@Lakota wakan@@@
+9485@Bor.@Predicate@@@APL@2000@7+@Lakota wakan@@@
 9486@LW@Struct@@@L4@1975@1.0@@@@
 9487@Cpd@Struct@@@L4@1975@7.4@u + -zi@@@
 9488@LW@Struct@@@L4@1975@1.0@@@@
@@ -9474,7 +9474,7 @@
 9496@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 9497@Bor.@Predicate@@@JCB@1988@7+@Lin. Uria@@@
 9498@Bor.@Predicate@@@FR/RAM@1987@4.0@L. Ursa@@@
-9499@Bor.@Predicate@@@APL@'00@7+@L. Ursus horribilis@@@
+9499@Bor.@Predicate@@@APL@2000@7+@L. Ursus horribilis@@@
 9500@Bor.@Predicate@@@JCB@1988@7+@Lin. Ursa@@@
 9501@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 9502@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
@@ -9497,13 +9497,13 @@
 9519@I-Prim@Predicate@@@L4@1975@7.4@Int.@@@
 9520@Afx@Affix@@@JCB@1988@7+@valti@@@
 9521@C-Prim@Predicate@vad@31%@L4@1975@2.0@3/4C fa da | 2/7E develop | 2/7F develop er | 2/9S desenvolv er@@ckelisvalda | hisyvalda | nornurvalda | vadcko | vadhea | vadmao | vadtua | vadvei@
-9522@2-Cpx@Predicate@@@JWK@'01@7+@val(ti)+ka(ml)a@jump from @@
+9522@2-Cpx@Predicate@@@JWK@2001@7+@val(ti)+ka(ml)a@jump from @@
 9523@C-Prim@Predicate@van vaa@40%@L4@1975@1.9@4/6E violent | 3/7C bao luan | 3/7S violent o | 2/5R nasilino | 2/6F bruta@@hervantoa | kuspyvaa | nimvaa | vanbri | vanbritetri | vanfio | vangru | vanroi | vansiu | vantetri | vanynia | vanyniacli@
 9524@C-Prim@Predicate@vap@36%@L4@1975@2.9@3/3R val | 2/3C puo | 2/3F vague | 2/4G welle@@brovalpu | cmavalpu | lalvalpu | vapcli | vapmuo | vapmuocko | vapmuvmao@
-9525@N-Prim@Predicate@@@APL@'00@7+@Ger. Walzen@@@
+9525@N-Prim@Predicate@@@APL@2000@7+@Ger. Walzen@@@
 9526@C-Prim@Predicate@val vai@42%@L4@1975@1.5@4/5S volte ar | 3/4E vault | 2/4C tiao@@cutpravalbou | cutpravalreo | felvai | felvaibarta | krovai | nertulvai | pravai | sporyvai | staryvai | staryvalmao | tovyvai | valkaa | zvovai@
 9527@C-Prim@Predicate@@64%@L4@1975@5.0@ 2/2C tu | 4/5E vomit | 2/3R rva t | 2/3F vom ir | 3/5S vomit ar@@vamtydaa | vamtysakli@
-9528@2-Cpx@Predicate@@@APL/JCB@'00@7+@vamt(u)+y+da(nz)a@vomit desire@@
+9528@2-Cpx@Predicate@@@APL/JCB@2000@7+@vamt(u)+y+da(nz)a@vomit desire@@
 9529@2-Cpx@Predicate@@@APL@1995@7+@vamt(u)+y+sakli@vomit bag@@
 9530@Afx@Affix@@@JCB@1988@7+@valna@@@
 9531@2-Cpx@Predicate@@@L4@1975@1.6@va(l)n(a)+bri(ze)@violent wind@@
@@ -9512,8 +9512,8 @@
 9534@2-Cpx@Predicate@@@JCB/RAM@1991@4.1@va(l)n(a)+gru(pa)@violent group@@
 9535@Bor.@Predicate@@@JCB@1988@4.3@ISV@@@
 9536@2-Cpx@Predicate@@@L4@1975@1.9@va(l)n(a)+(g)ro(c)i@violently angry@@
-9537@2-Cpx@Predicate@@@MGE@'01@7+@va(l)n(a)+si(lt)u@violent shake @@
-9538@2-Cpx@Predicate@@@APL@'00@7+@va(l)n(a)+tetri@violent weather@@
+9537@2-Cpx@Predicate@@@MGE@2001@7+@va(l)n(a)+si(lt)u@violent shake @@
+9538@2-Cpx@Predicate@@@APL@2000@7+@va(l)n(a)+tetri@violent weather@@
 9539@2-Cpx@Predicate@@@L4@1975@5.7@va(l)n(a)+y+ni(ml)a@violent animal@@
 9540@3-Cpx@Predicate@@@L4@1975@2@va(l)n(a)+y+ni(ml)a+cli(ka)@violent animal like@@
 9541@Afx@Affix@@@JCB@1988@7+@vapro@@@
@@ -9679,7 +9679,7 @@
 9702@Cpd@Struct@@@L4@1975@1.0@vi+za@@@
 9703@4-Cpx@Predicate@@@SLR@1991@7+@viz(ka)+fan(ve)+rir(da)+pli(zo)@see reverse record use@@
 9704@2-Cpx@Predicate@@@FR@1985@4.2@viz(ka)+fi(br)u@see weak@@
-9705@2-Cpx@Predicate@@@APL@'00@7+@viz(ka)+go(dz)i@visit go@@
+9705@2-Cpx@Predicate@@@APL@2000@7+@viz(ka)+go(dz)i@visit go@@
 9706@Cpd@Struct@@@L4@1975@1.0@vi+zi@@@
 9707@C-Prim@Predicate@viz vik via@57%@L4@1975@1.0@2/2S vi | 3/3F vis ion | 2/3E vis ion | 2/3C kan | 2/3R vid yet@@banvia | cmavizrie | corvia | darnurvia | darvizrie | furvia | furviacea | furviacko | furvizmao | gravia | hapvia | hapviacue | hapviztaa | kleviadja | klivia | kotvizlei | larviasia | lilveivia | midnurvia | nenvia | nervizkaa | nornurvia | norpasnurvia | norvia | norviacko | norviacpu | nurvia | nurvizlei | paknurvia | privizlei | privizpae | pubvizlei | sacvia | selviacko | selvizlei | selvizmao | selzalvia | sninurvia | travizlei | vemvizlei | vetvia | viacko | viadja | viadri | vikcue | viksaskai | vizfanrirpli | vizfiu | vizgoi | vizkaa | vizkue | vizkukrirpli | vizlei | vizleibao | vizleisro | vizmao | viznorbli | vizrie | vizrofsu@
 9708@2-Cpx@Predicate@@@L4@1975@1.4@viz(ka)+ka(ml)a@see comer@@
@@ -9800,8 +9800,8 @@
 9823@D-Prim@Predicate@@@JCB/RAM@1994@7+@zebra@@@
 9824@LW@Struct@@@L4@1975@15+@@@@
 9825@LW@Struct@@@L4@1975@15+@@@@
-9826@I-Prim@Predicate@zep@@JWK@'02@7+@ISV@@@
-9827@I-Prim@Predicate@zet@@JWK@'02@7+@ISV@@@
+9826@I-Prim@Predicate@zep@@JWK@2002@7+@ISV@@@
+9827@I-Prim@Predicate@zet@@JWK@2002@7+@ISV@@@
 9828@LW@Struct@@@L4@1975@15@@@@
 9829@Afx@Affix@@@WG@1997@7+@@@@
 9830@Afx@Affix@@@WG@1997@7+@@@@
@@ -9864,7 +9864,7 @@
 9887@2-Cpx@Predicate@@@RAM/JCB@1991@4.8@zvo(to)+ti(sr)a@out choose@@
 9888@3-Cpx@Predicate@@@SLR@1995@7+@zvo(to)+tis(ra)+ve(sl)o@out choose vessel@@
 9889@C-Prim@Predicate@zvo@39%@L4@1975@1.0@3/4J soto | 2/3E out | 2/3R von | 2/6C wai tou@@bluzvokro | fanzvogoi | guizvo | kukyzvokro | kukyzvorua | narzvo | nenzvobatmi | smazvofodpai | telzvo | telzvospa | zvobei | zvobue | zvocpu | zvodanri | zvodio | zvofoa | zvogui | zvogunkoi | zvogunleu | zvogunpeu | zvojao | zvojaodua | zvokaa | zvokamsia | zvokosta | zvokro | zvoleu | zvomalcko | zvomerji | zvomuo | zvonomgro | zvopai | zvopendi | zvopetri | zvopeu | zvoprano | zvopuo | zvorua | zvorui | zvosaa | zvosea | zvosei | zvosia | zvosoi | zvospa | zvospetyduo | zvosui | zvotia | zvotisveo | zvotoa | zvotorspa | zvovai@
-9890@2-Cpx@Predicate@@@APL@'00@7+@zvo(to)+to(kn)a@out take@@
+9890@2-Cpx@Predicate@@@APL@2000@7+@zvo(to)+to(kn)a@out take@@
 9891@2-Cpx@Predicate@@@L4@1975@2.8@zvo(to)+tor+spa(si)@outer two space@@
 9899@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@303
 9900@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@333
