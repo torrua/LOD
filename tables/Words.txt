@@ -2870,7 +2870,7 @@
 2876@3-Cpx@Predicate@@@FR@'86@4.9@gan(ta)+tu(g)l(e)+mi(tr)o@thigh meat@@
 2877@2-Cpx@Predicate@@@APL@'00@7+@gan(ta)+y+nazbi@high nose@@
 2878@2-Cpx@Predicate@@@L4@'75@2.3@gan(ta)+y+nur+ba(lc)i@high building@@
-2879@LW@Struct@@@JC@2013-15@@gasno@@@
+2879@LW@Struct@@@JC@2013 (to '15)@@gasno@@@
 2880@3-Cpx@Predicate@@@L4@'75@1.0@ga(sn)o+r+bri(ze)+ma(dz)o@anal wind make@@
 2881@Afx@Affix@@@JCB@'88@7+@garni@@@
 2882@2-Cpx@Predicate@@@L4@'75@2.3@gar(ni)+ce(rs)i@ruler chair@@
@@ -10028,32 +10028,32 @@
 10074@Name@Name@@@RH@2014@@J. Nihongo@Japanese language@@
 10075@LW@Struct@@@RH@2015@@si-noi@@@
 10076@LW@Struct@@@RH@2015@@sun-noi@@@
-10077@LW@Struct@@@RH@2013-5@@changed from original mo@@@
-10078@LW@Struct@@@RH@2013-15@@@@@
-10079@LW@Struct@@@RH@2013-15@@@@@
-10080@LW@Struct@@@RH@2013-15@@@@@
-10081@LW@Struct@@@RH@2013-15@@@@@
-10082@LW@Struct@@@RH@2013-15@@@@@
-10083@LW@Struct@@@RH@2013-15@@@@@
-10084@LW@Struct@@@RH@2013-15@@@@@
-10085@LW@Struct@@@RH@2013-15@@@@@
-10086@LW@Struct@@@RH@2013-15@@@@@
-10087@LW@Struct@@@RH@2013-15@@@@@
-10088@LW@Struct@@@RH@2013-15@@@@@
-10089@LW@Struct@@@RH@2013-15@@@@@
-10090@LW@Struct@@@RH@2013-15@@@@@
-10091@LW@Struct@@@RH@2013-15@@@@@
-10092@LW@Struct@@@RH@2013-15@@@@@
-10093@LW@Struct@@@RH@2013-15@@@@@
-10094@LW@Struct@@@JC@2013-15@@@@@
-10095@LW@Struct@@@RH@2013-15@@@@@
-10096@2-Cpx@Predicate@@@AW@2008-15@@@@@
-10097@4-Cpx@Predicate@@@AW@2008-15@@@@@
-10098@3-Cpx@Predicate@@@SLC@2008-15@@@@@
-10099@2-Cpx@Predicate@@@SLC@2008-15@@lek-veo@electricity-vessel@@
-10100@LW@Struct@@@JC/RH@2013-15@@modification of po@@@
-10101@LW@Struct@@@RH@2013-15@@modification of pu@@@
-10102@LW@Struct@@@RH@2013-15@@modification of zo@@@
+10077@LW@Struct@@@RH@2013 (to '15)@@changed from original mo@@@
+10078@LW@Struct@@@RH@2013 (to '15)@@@@@
+10079@LW@Struct@@@RH@2013 (to '15)@@@@@
+10080@LW@Struct@@@RH@2013 (to '15)@@@@@
+10081@LW@Struct@@@RH@2013 (to '15)@@@@@
+10082@LW@Struct@@@RH@2013 (to '15)@@@@@
+10083@LW@Struct@@@RH@2013 (to '15)@@@@@
+10084@LW@Struct@@@RH@2013 (to '15)@@@@@
+10085@LW@Struct@@@RH@2013 (to '15)@@@@@
+10086@LW@Struct@@@RH@2013 (to '15)@@@@@
+10087@LW@Struct@@@RH@2013 (to '15)@@@@@
+10088@LW@Struct@@@RH@2013 (to '15)@@@@@
+10089@LW@Struct@@@RH@2013 (to '15)@@@@@
+10090@LW@Struct@@@RH@2013 (to '15)@@@@@
+10091@LW@Struct@@@RH@2013 (to '15)@@@@@
+10092@LW@Struct@@@RH@2013 (to '15)@@@@@
+10093@LW@Struct@@@RH@2013 (to '15)@@@@@
+10094@LW@Struct@@@JC@2013 (to '15)@@@@@
+10095@LW@Struct@@@RH@2013 (to '15)@@@@@
+10096@2-Cpx@Predicate@@@AW@2008 (to '15)@@@@@
+10097@4-Cpx@Predicate@@@AW@2008 (to '15)@@@@@
+10098@3-Cpx@Predicate@@@SLC@2008 (to '15)@@@@@
+10099@2-Cpx@Predicate@@@SLC@2008 (to '15)@@lek-veo@electricity-vessel@@
+10100@LW@Struct@@@JC/RH@2013 (to '15)@@modification of po@@@
+10101@LW@Struct@@@RH@2013 (to '15)@@modification of pu@@@
+10102@LW@Struct@@@RH@2013 (to '15)@@modification of zo@@@
 10103@LW@Struct@@@RH@2015@@@@@
 10104@LW@Struct@@@RH@2016@@@@@
 10105@LW@Struct@@@RH@2016@@@@@
