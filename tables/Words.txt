@@ -72,7 +72,7 @@
 72@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 73@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 74@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-75@Bor.@Predicate@@@JCB@1988@7+ Modified due to Keugru Proposal 2, August 2013(h added to eliminate repeated vowel)@ISV@@@
+75@Bor.@Predicate@@@JCB@1988 (modified due to Keugru Proposal 2, August 2013 - h added to eliminate repeated vowel)@7+@ISV@@@
 76@Bor.@Predicate@@@FR@1985@4.9@Lin. Allium spp.@@@
 77@Bor.@Predicate@@@RAM@1995@7+@L. Allium porum@@@
 78@Bor.@Predicate@@@RAM@1995@7+@L. Allium sativum@@@
@@ -1139,7 +1139,7 @@
 1139@2-Cpx@Predicate@@@L4@1975@2.3@cma(lo)+nun+re(nr)o@small thrown@@
 1140@2-Cpx@Predicate@@@JCB/RAM@1990@5.0@cma(lo)+pi(sk)u@small piece@@
 1141@3-Cpx@Predicate@@@DB@1983@2.2@cma(lo)+pi(sk)u+ce(nj)a@small piece change@@
-1142@2-Cpx@Predicate@@@RH@2013@grammar vocab project@cma(lo)+pu(rd)a@small word@@
+1142@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@cma(lo)+pu(rd)a@small word@@
 1143@3-Cpx@Predicate@@@JCB/RAM@1990@2.4@cma(lo)+re(tc)a+sa(ns)e@small difference sense@@
 1144@2-Cpx@Predicate@@@APL@1999@7+@cma(lo)+(t)re(l)u@small rod@@
 1145@3-Cpx@Predicate@@@HA/RAM@1987@4.7@cma(lo)+rol(gu)+ve(sl)o@small cylindrical vessel@@
@@ -5731,7 +5731,7 @@
 5744@2-Cpx@Predicate@@@JCB@1995@7+@nam(ci)+nur+sri(te)@name(d) written@@
 5745@2-Cpx@Predicate@@@RAM@1988@4.6@nam(ci)+p(ap)re@name paper@@
 5746@3-Cpx@Predicate@@@RAM@1988@4.6@nam(ci)+p(ap)re+do(ns)u@name paper give@@
-5747@2-Cpx@Predicate@@@RH@2013@grammar vocab project@nam(ci)+ pu(rd)a@name word@@
+5747@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@nam(ci)+ pu(rd)a@name word@@
 5748@2-Cpx@Predicate@@@L4@1975@7.4@nam(ci)+sa(np)a@name sign@@
 5749@3-Cpx@Predicate@@@L4@1975@7.4@nam(ci)+san(pa)+du(rz)o@name sign do@@
 5750@2-Cpx@Predicate@@@RAM@1987@3.6@nam(ci)+sri(te)@name write@@
@@ -10008,12 +10008,12 @@
 10053@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10054@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10055@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
-10056@3-Cpx@Predicate@@@RH@2013@grammar vocab project@FU(R)+djifoa@@@
-10057@2-Cpx@Predicate@@@RH@2013@grammar vocab project@ginru+purda@root word@@
-10058@2-Cpx@Predicate@@@RH@2013@grammar vocab project@purda+klesa@word class@@
-10059@3-Cpx@Predicate@@@RH@2013@grammar vocab project@NU(R)+cmapua@@@
-10060@3-Cpx@Predicate@@@RH@2013@grammar vocab project@NU(R)+takfoa@@@
-10061@2-Cpx@Predicate@@@RH@2013@grammar vocab project@purda+tcure@word picture@@
+10056@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@FU(R)+djifoa@@@
+10057@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@ginru+purda@root word@@
+10058@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@purda+klesa@word class@@
+10059@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@NU(R)+cmapua@@@
+10060@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@NU(R)+takfoa@@@
+10061@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@purda+tcure@word picture@@
 10062@Bor.@Predicate@@@RH@2014@@Sp. elefante@elephant@@
 10063@Bor.@Predicate@@@RH@2014@@Sp, elefante@elephant@@
 10064@Bor.@Predicate@@@RH@2014@@Sp. elefante@elephant@@
