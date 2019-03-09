@@ -1993,7 +1993,7 @@
 1997@2-Cpx@Predicate@@@L4@1975@1.0@fa(n)r(a)+la(nd)i@farm land@@
 1998@3-Cpx@Predicate@@@L4@1975@1.0@fa(n)r(a)+la(nd)i+cli(ka)@farm land like@@
 1999@Bor.@Predicate@@@JCB/RAM@1991@2.6@Name Fahrenheit@@@
-2000@2-Cpx@Predicate@@@JWK@2001@7+@fa(n)r(a)+ni(ml)a@ farm animal@@
+2000@2-Cpx@Predicate@@@JWK@2001@7+@fa(n)r(a)+ni(ml)a@farm animal@@
 2001@3-Cpx@Predicate@@@JFB@1987@3.4@fa(n)r(a)+nim(la)+ha(sf)a@farm animal house@@
 2002@N-Prim@Predicate@@@RAM@1985@4.9@Irani farsi@@@
 2003@D-Prim@Predicate@@@JFB/JCB@1988@3.4@Irani farsi@@@
@@ -2062,7 +2062,7 @@
 2066@2-Cpx@Predicate@@@APL@2000@7+@fel(da)+cu(tr)i@fall water@@
 2067@C-Prim@Predicate@fel fed fea@50%@L4@1975@1.0@3/3E fell | 3/3G fell en | 2/3C dau@@clidyfea | fanfealei | fedlei | felcko | felcti | felcui | feldzo | felfoi | felmao | felnengoi | felsanla | felsanlysolda | felsia | felvai | felvaibarta | frefelprano | hedfea | kalfea | norfelcri | rolfea@
 2068@2-Cpx@Predicate@@@RWJ@1983@2.7@fel(da)+dzo(ru)@fall walk@@
-2069@2-Cpx@Predicate@@@JCB@1988@7+@fel(da)+fo(sl)i@ fall force@@
+2069@2-Cpx@Predicate@@@JCB@1988@7+@fel(da)+fo(sl)i@fall force@@
 2070@Name@Name@@@JCB@1988@7+@Lin.@@@
 2071@2-Cpx@Predicate@@@L4@1975@1.0@fel(da)+ma(dz)o@fall make@@
 2072@3-Cpx@Predicate@@@JWK@2001@7+@fel(da)+nen(ri)+go(dz)i@fall inside go @@
@@ -2789,7 +2789,7 @@
 2795@LW@Struct@@@L4@1975@1.0@@@@
 2796@Afx@Affix@@@JCB@1988@7+@ganta@@@
 2797@Afx@Affix@@@JCB@1988@7+@gancu@@@
-2798@2-Cpx@Predicate@@@APL@1998@7+@ga(n)c(u)+to(kn)a@ win take@@
+2798@2-Cpx@Predicate@@@APL@1998@7+@ga(n)c(u)+to(kn)a@win take@@
 2799@2-Cpx@Predicate@@@L4@1975@1.5@ga(n)c(u)+y+si(tf)a@win position@@
 2800@3-Cpx@Predicate@@@L4@1975@7.4@ga(n)c(u)+y+si(t)f(a)+mo(rd)u@advantage more@@
 2801@3-Cpx@Predicate@@@SLR@1991@7.4@ga(n)c(u)+y+si(t)f(a)+to(kn)a@advantage remove@@
@@ -4342,7 +4342,7 @@
 4351@Bor.@Predicate@@@JCB@1988@7+@Lin. Cotinga@@@
 4352@2-Cpx@Predicate@@@APL@1999@7+@ko(m)t(a)+netre@computer net@@
 4353@2-Cpx@Predicate@@@APL@1985@7+@ko(m)t(a)+posta@computer mail@@
-4354@2-Cpx@Predicate@@@SLR/JJ@1993@7+@ko(m)t(a)+ra(nd)e@ computer disk@@
+4354@2-Cpx@Predicate@@@SLR/JJ@1993@7+@ko(m)t(a)+ra(nd)e@computer disk@@
 4355@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
 4356@3-Cpx@Predicate@@@SLR/RAM@1993@7+@ko(m)t(a)+viz(ka)+le(tc)i@computer display(see let)@@
 4357@LW@Struct@@@L4@1975@1.0@ckozu@@@
@@ -4750,7 +4750,7 @@
 4759@2-Cpx@Predicate@@@JCB@1988@7+@le(n)k(i)+si(lt)u@electric oscillator@@
 4760@3-Cpx@Predicate@@@APL@1998@7+@le(n)k(i)+so/r(di)+pa(tc)e@electric storage apparatus@@
 4761@2-Cpx@Predicate@@@SLR@1992@7+@le(n)k(i)+y+ka(tl)i@electric quality@@
-4762@3-Cpx@Predicate@@@JCB@1988@7+@le(n)k(i)+y+karc(i)+y+sri(te)@ electric heart writer@@
+4762@3-Cpx@Predicate@@@JCB@1988@7+@le(n)k(i)+y+karc(i)+y+sri(te)@electric heart writer@@
 4763@2-Cpx@Predicate@@@L4@1975@5.6@le(n)k(i)+y+kro(li)@electric current@@
 4764@Afx@Affix@@@JCB@1988@7+@lelpi@@@
 4765@2-Cpx@Predicate@@@APL@1998@7+@lel(pi)+ce(nj)a@level become@@
@@ -5080,7 +5080,7 @@
 5090@3-Cpx@Predicate@@@APL@2000@7+@(p)lum(a)+bed(pu)+ku(vg)a@feather bed cover@@
 5091@3-Cpx@Predicate@@@JCB/RAM@1991@4.6@(p)lum(a)+cle(si)+ma(dz)o@feathers without make@@
 5092@2-Cpx@Predicate@@@L4@1975@3.7@(p)lum(a)+du(rn)a@feather adorn@@
-5093@Name@Name@@@L4@1975@1.0@L. Luna@ moon@@
+5093@Name@Name@@@L4@1975@1.0@L. Luna@moon@@
 5094@Afx@Affix@@@JCB@1988@7+@lunra@@@
 5095@2-Cpx@Predicate@@@L4@1975@1.6@lun(ra)+fo(rm)a@moon form@@
 5096@C-Prim@Predicate@lul@46%@L4@1975@2.8@2/2H un | 3/4E wooly | 2/3F laine | 2/4R runo | 2/4S lana@@lulcli | lulkla@
@@ -7221,7 +7221,7 @@
 7235@3-Cpx@Predicate@@@JCB/RAM@1991@4.4@puc(to)+bart(a)+y+du(rz)o@push board do@@
 7236@3-Cpx@Predicate@@@RAM/SLR/APL@1995@7+@puc(to)+bla(da)+krilu@push blade wheel@@
 7237@2-Cpx@Predicate@@@SRL@1995@7+@puc(to)+bo(ts)u@push boat@@
-7238@2-Cpx@Predicate@@@L4@1975@1.0@puc(to)+ka(tl)i@ push quality@@
+7238@2-Cpx@Predicate@@@L4@1975@1.0@puc(to)+ka(tl)i@push quality@@
 7239@C-Prim@Predicate@puc puo@30%@L4@1975@2.3@2/3E push | 2/3F pouss er | 3/6G stossen | 2/5S empuj ar@@clutorpuo | dampuo | darpuo | dedtorpuo | fitlevpuo | fizpuo | flinenpuo | flipuopro | frepuo | hantorpuo | holpucrie | jmitorpuo | kerpucmei | kerpuo | kortorpuo | mocypucfoi | nilcypuo | prupro | pucbao | pucbarta | pucbartybou | pucbartyduo | pucblakrilu | pucbou | puckai | puocti | puorkarti | puorkopca | puormarmao | skapypuo | snetorpuo | tcepuo | torpuo | volpuo | zvopuo@
 7240@Afx@Affix@@@JCB@1988@7+@pudru@@@
 7241@C-Prim@Predicate@@24%@L4@1975@4.3@2/3F pouce | 3/5C mu jr | 3/6S pulgar@@pudjytraci@
@@ -7340,7 +7340,7 @@
 7356@Afx@Affix@@@JCB@1988@7+@rande@@@
 7357@2-Cpx@Predicate@@@JWK@2000@7+@ra(nd)e+ble(ka)@round look@@
 7358@2-Cpx@Predicate@@@L4@1975@2.2@ra(nd)e+ma/r(ka)@round mark@@
-7359@3-Cpx@Predicate@@@SLR@1993@7+@ra(nd)e+n+rid(le)+ma(tc)i@ round read machine@@
+7359@3-Cpx@Predicate@@@SLR@1993@7+@ra(nd)e+n+rid(le)+ma(tc)i@round read machine@@
 7360@2-Cpx@Predicate@@@SLR@1993@7+@ra(nd)e+sri(te)@disk write@@
 7361@Afx@Affix@@@JCB@1988@7+@fragu@@@
 7362@2-Cpx@Predicate@@@JCB/RAM@1991@3.3@(f)rag(u)+cko(zu)@fog cause@@
@@ -8722,7 +8722,7 @@
 8742@1-Cpx@Predicate@@@RAM/JCB@1990@3.5@sur+gru(pa)@(1st 6th) group@@
 8743@Cpd@Struct@@@RAM/JCB@1990@2.9@surira@at least a fewsome@@
 8744@3-Cpx@Predicate@@@RAM/JCB@1975@7.4@sur+ker(ti)+gru(pa)+ko(rj)i@# air group commander@@
-8745@1-Cpx@Predicate@@@RAM/JCB@1990@3.5@sur+ko(rj)i@(1st 11th)  commander@@
+8745@1-Cpx@Predicate@@@RAM/JCB@1990@3.5@sur+ko(rj)i@(1st 11th) commander@@
 8746@2-Cpx@Predicate@@@JCB@1986@9.9@sur+ku(mc)e+ra(nd)e@(insert a number) reciprocal circle@@
 8747@C-Prim@Predicate@sru@36%@L4@1975@1.8@3/4C suen | 3/4R rana | 2/3H nash | 3/6J songai@@cabsrusia | dasysru | falsrutaa | foisru | kapsrusia | kemsrusia | kiksrusia | korsru | noirselsru | nursru | plisru | ritysrusia | satsru | skapykolsru | sruciufio | sruciupoa | srudaa | srudurcue | srumarcko | srumarmao | srumra | srunakso | srutaa | stosrusia | tcosrusia@
 8748@2-Cpx@Predicate@@@RAM/JCB@1975@7.4@sur+narm(i)+y+ko(rj)i@#+army commander@@
