@@ -1832,7 +1832,7 @@
 1836@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 1837@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 1838@Name@Name@@@L4@1975@1.0@S. Espana@@@
-1839@Name@Name@@@JCB@1996 (accent corrected '16)@7+@S. Espanol@@@
+1839@Name@Name@@@JCB@1996 (corrected accent '16)@7+@S. Espanol@@@
 1840@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 1841@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 1842@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
@@ -3475,7 +3475,7 @@
 3484@D-Prim@Predicate@hin@@L4@1975@1.0@Hindi, the language@@@
 3485@Name@Name@@@JCB@1996@7+@H. Hindi@@@
 3486@D-Prim@Predicate@hin@@L4@1975@1.0@Hindi, the language@@@
-3487@Name@Name@@@L4@1975 (accent fix '16)@1.0@H. Hindustan@@@
+3487@Name@Name@@@L4@1975 (fixed accent '16)@1.0@H. Hindustan@@@
 3488@2-Cpx@Predicate@@@JCB@1996@7+@hin(da)+ta(kn)a@Hindi talker@@
 3489@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 3490@Afx@Affix@@@JCB@1988@7+@hirti@@@
@@ -3853,7 +3853,7 @@
 3862@2-Cpx@Predicate@@@JLT@1986@2.3@ka(s)f(a)+ko(rj)i@punish order@@
 3863@C-Prim@Predicate@@41%@L4@1975@5.7@3/4C kyu so | 2/3E cough | 2/6R kashiel@@@
 3864@2-Cpx@Predicate@@@L4@1975@4.0@ka(s)f(a)+ta(kn)a@punish talk@@
-3865@Bor.@Predicate@@@APL/RAM@2000 (h dropped '16)@7+@Lin. Castor spp.@@@
+3865@Bor.@Predicate@@@APL/RAM@2000 (dropped h '16)@7+@Lin. Castor spp.@@@
 3866@LW@Struct@@@L4@1975@15+@@@@
 3867@Afx@Affix@@@JCB@1988@7+@katli@@@
 3868@2-Cpx@Predicate@@@SLR@1994@7+@ka(tl)i+dja(no)@quality know@@
@@ -5896,7 +5896,7 @@
 5909@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 5910@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 5911@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-5912@Name@Name@@@JCB@1988 (close comma replaced '16)@7+@ISV@@@
+5912@Name@Name@@@JCB@1988 (replaced close comma '16)@7+@ISV@@@
 5913@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 5914@Afx@Affix@@@JCB@1988@7+@ne@@@
 5915@Cpd@Struct@@@L4@1975@3.2@ne+ra@@@
@@ -6047,7 +6047,7 @@
 6060@2-Cpx@Predicate@@@RAM@1993@7+@ni(r)n(e)+ve(sl)o@year container@@
 6061@LW@Struct@@@L4@1975@1.0@@@@
 6062@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-6063@Name@Name@@@L4@1975 (RH '14 removed accent, added Nihon alt.)@1.0@J. Nippon@@@
+6063@Name@Name@@@L4@1975 (removed accent by RH '14, added Nihon alt.)@1.0@J. Nippon@@@
 6064@Name@Name@@@JCB (corrected by RH '14)@1996@7+@J. nipon go @@@
 6065@Afx@Affix@@@JCB@1988@7+@ni@@@
 6066@Cpd@Struct@@@JCB/RAM@1991@2.6@nira@a nothing ad@@
@@ -7648,7 +7648,7 @@
 7665@2-Cpx@Predicate@@@JCB/RAM@1991@2.8@(s)ri(s)u+cko(zu)@serious cause@@
 7666@2-Cpx@Predicate@@@L4@1975@1.4@(s)ri(s)u+pro(ju)@serious produce@@
 7667@3-Cpx@Predicate@@@FR@1986@2.3@(s)ri(s)u+r+tra(du)+cu(ts)e@solemnly affirm@@
-7668@2-Cpx@Predicate@@@APL@1999 (corrected use of CV to CVh, '16)@7+@rih+has(fa)+gru(pa)@few house group@@
+7668@2-Cpx@Predicate@@@APL@1999 (corrected CV to CVh '16)@7+@rih+has(fa)+gru(pa)@few house group@@
 7669@1-Cpx@Predicate@@@APL@1999 (corrected CV to CVh '16)@7+@rih+ve(tc)i@several events@@
 7670@Afx@Affix@@@JCB@1988@7+@prizi@@@
 7671@2-Cpx@Predicate@@@L4@1975@1.6@(p)riz(i)+gru(pa)@private group@@
@@ -9751,7 +9751,7 @@
 9774@LW@Struct@@@L4@1975 (replaced by RH '16)@15+@@@@
 9775@1-Cpx@Predicate@@@JCB@1988 (modified due to abandonment of X, '16)@15+@haiu+krre (a hack!)  orig.  xai-y-kre@X ray@@
 9776@LW@Struct@@@L4@1975 (replaced by RH '16)@15+@@@@
-9777@Bor.@Predicate@@@JCB/RAM@1991 (x eliminated '16)@4.6@ISV@@@
+9777@Bor.@Predicate@@@JCB/RAM@1991 (eliminated x '16)@4.6@ISV@@@
 9778@LW@Struct@@@L4@1975@15@@@@
 9779@Afx@Affix@@@JCB@1999@7+@zakra@@@
 9780@LW@Struct@@@L4@1975@15+@@@@
@@ -9812,10 +9812,10 @@
 9835@2-Cpx@Predicate@@@APL@1995@7+@zlup(i)+y+patpe@lip pot@@
 9836@2-Cpx@Predicate@@@SLR@1995@7+@zlup(i)+y+pinti@lip paint@@
 9837@LW@Struct@@@L4@1975@15@@@@
-9838@LW@Struct@@@L4@1975 (mod by RH '16)@15+@@@@
-9839@LW@Struct@@@L4@1975 (mod by RH '16)@15+@@@@
+9838@LW@Struct@@@L4@1975 (modified by RH '16)@15+@@@@
+9839@LW@Struct@@@L4@1975 (modified by RH '16)@15+@@@@
 9840@LW@Struct@@@L4@1981@15+@dzoru@@@
-9841@O-Prim@Predicate@@@FR@1985 (initial pair 'fixed' '16)@4.6@Onamatopoetic@@@
+9841@O-Prim@Predicate@@@FR@1985 (fixed initial pair '16)@4.6@Onamatopoetic@@@
 9842@LW@Struct@@@L4@1975@15@@@@
 9843@LW@Struct@@@L4@1981@15+@@@@
 9844@LW@Struct@@@L4@1981@15+@@@@
