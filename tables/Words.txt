@@ -787,7 +787,7 @@
 787@LW@Struct@@@L4@1975@15+@@@@
 788@2-Cpx@Predicate@@@RAM/JCB@1988@4.1@ce(rs)i+gru(pa)@chair group@@
 789@Afx@Affix@@@JCB@1988@7+@cenja@@@
-790@2-Cpx@Predicate@@@PI@1987@3.9@ce(n)j(a)+(c)ke(m)o@a period of change@@
+790@2-Cpx@Predicate@@@PI@1987@3.9@ce(n)j(a)+(c)ke(m)o@period of change@@
 791@2-Cpx@Predicate@@@RAM/JCB@1993@7+@ce(n)j(a)+no(rm)a@change average@@
 792@2-Cpx@Predicate@@@RAM@1987@3.9@ce(n)j(a)+ve(tc)i@change event@@
 793@Afx@Affix@@@JCB@1988@7+@celhu@@@
@@ -1111,7 +1111,7 @@
 1111@2-Cpx@Predicate@@@RAM@1988@3.5@cma(lo)+ca(nl)i@small quantity@@
 1112@2-Cpx@Predicate@@@L4@1982@2.9@cma(lo)+ce(nj)a@small become@@
 1113@3-Cpx@Predicate@@@JCB@1988@2.9@cma(lo)+ce(n)j(a)+po(nd)a@small change respond@@
-1114@2-Cpx@Predicate@@@RAM@1987@3.0@cma(lo)+ce(tl)o@a bit wet@@
+1114@2-Cpx@Predicate@@@RAM@1987@3.0@cma(lo)+ce(tl)o@bit wet@@
 1115@2-Cpx@Predicate@@@RAM@1987@2.2@cma(lo)+ci(kt)u@small equal@@
 1116@2-Cpx@Predicate@@@JCB/RAM@1991@4.6@cma(lo)+cko(zu)@small cause@@
 1117@2-Cpx@Predicate@@@APL@2000@7+@cma(lo)+clafo@small laugh@@
@@ -5969,7 +5969,7 @@
 5982@2-Cpx@Predicate@@@L4@1975@7+@net(re)+klipu@net keep@@
 5983@2-Cpx@Predicate@@@RAM@1991@3.9@net(re)+li(tn)u@net restrain@@
 5984@Cpd@Struct@@@L4@1975@1.0@ne+to@@@
-5985@Cpd@Struct@@@L4@1975@3.0@a 12 ad@@@
+5985@Cpd@Struct@@@L4@1975@3.0@12 ad@@@
 5986@C-Prim@Predicate@net@48%@L4@1975@3.1@3/3E net | 3/4J netto | 3/4G netz | 2/3S red | 2/4R siet@@gomnetre | kotnetre | mubnetre | netfoamao | netklipu | netliu | netsio | netyjua | relnetre | ticynetre@
 5987@2-Cpx@Predicate@@@L4@1975@7.4@net(re)+si(st)o@net system@@
 5988@2-Cpx@Predicate@@@L4@1975@3.1@net(re)+y+ju(gr)a@net grasp@@
@@ -6050,7 +6050,7 @@
 6063@Name@Name@@@L4@1975 (removed accent by RH '14, added Nihon alt.)@1.0@J. Nippon@@@
 6064@Name@Name@@@JCB (corrected by RH '14)@1996@7+@J. nipon go @@@
 6065@Afx@Affix@@@JCB@1988@7+@ni@@@
-6066@Cpd@Struct@@@JCB/RAM@1991@2.6@nira@a nothing ad@@
+6066@Cpd@Struct@@@JCB/RAM@1991@2.6@nira@nothing ad@@
 6067@C-Prim@Predicate@@43%@L4@1975@2.3@3/4C niao | 2/3E bird | 3/7H chiriya@@cinynirda | menynirda | nirdynazbi | tcidynirda | tcinirda@
 6068@D-Prim@Predicate@@@JCB/RAM@1994@7+@nirda@@@
 6069@D-Prim@Predicate@@@JCB/RAM@1994@7+@nirda@@@
@@ -6548,7 +6548,7 @@
 6562@1-Cpx@Predicate@@@L4@1975@7.1@nur+pra(se)@conv of process@@
 6563@1-Cpx@Predicate@@@L4@1975@1.4@nur+prati@conv. of price@@
 6564@1-Cpx@Predicate@@@JCB/RAM@1991@5.0@nur+pro(ju)@produced@@
-6565@1-Cpx@Predicate@@@JCB/RAM@1991@2.6@nur+pu(rf)e@a comparison standard@@
+6565@1-Cpx@Predicate@@@JCB/RAM@1991@2.6@nur+pu(rf)e@comparison standard@@
 6566@2-Cpx@Predicate@@@L4@1975@1.0@nur+pun(tu)+mo(rd)u@pained(sore) more@@
 6567@1-Cpx@Predicate@@@L4@1975@1.8@nur+pu(nt)u@conv. of pain@@
 6568@1-Cpx@Predicate@@@L4@1975@2.2@nur+sa(np)a@conv. of sign@@
@@ -7734,7 +7734,7 @@
 7751@Cpd@Struct@@@APL@1999@7+@ro+na@@@
 7752@2-Cpx@Predicate@@@JCB/RAM@1991@4.9@(b)ron(a)+ma(dz)o@brown make@@
 7753@Afx@Affix@@@JCB@1988@7+@ro@@@
-7754@LW@Struct@@@JCB/RAM@1990@4.6@rora@a manyad@@
+7754@LW@Struct@@@JCB/RAM@1990@4.6@rora@manyad@@
 7755@1-Cpx@Predicate@@@JLT@1985@4.2@ror+bekti@many object@@
 7756@1-Cpx@Predicate@@@L4@1975@1.1@ror+blo(da)@many blows@@
 7757@2-Cpx@Predicate@@@JCB/RAM@1990@3.7@ror+blo(da)+ku/(t)l(a)@many blow cut@@
