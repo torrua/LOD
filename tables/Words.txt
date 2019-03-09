@@ -4049,7 +4049,7 @@
 4058@D-Prim@Predicate@@@RAM/MWZ@1975@4.1@L katma@@@
 4059@D-Prim@Predicate@@@RAM/MWZ@1975@4.1@L katma@@@
 4060@C-Prim@Predicate@@44%@L4@1975@3.8@4/4E cotton | 3/4R vata | 3/4J wata | 2/4F coton@@@
-4061@2-Cpx@Predicate@@@L4 (modified 2013)@1975@7.4@kat(li)+pu(rd)a@quality word@@
+4061@2-Cpx@Predicate@@@L4@1975 (modified 2013)@7.4@kat(li)+pu(rd)a@quality word@@
 4062@LW@Struct@@@JCB@1997@7+@kanmo@can@@
 4063@3-Cpx@Predicate@@@APL@2000@7+@ka(ng)u+r+ku(r)n(i)+ta(kn)a@dog warning talk@@
 4064@2-Cpx@Predicate@@@RAM@1988@4.5@ka(ng)u+r+ta(kn)a@dog talk@@
@@ -6048,7 +6048,7 @@
 6061@LW@Struct@@@L4@1975@1.0@@@@
 6062@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6063@Name@Name@@@L4@1975 (removed accent by RH '14, added Nihon alt.)@1.0@J. Nippon@@@
-6064@Name@Name@@@JCB (corrected by RH '14)@1996@7+@J. nipon go @@@
+6064@Name@Name@@@JCB@1996 (corrected by RH '14)@7+@J. nipon go @@@
 6065@Afx@Affix@@@JCB@1988@7+@ni@@@
 6066@Cpd@Struct@@@JCB/RAM@1991@2.6@nira@nothing ad@@
 6067@C-Prim@Predicate@@43%@L4@1975@2.3@3/4C niao | 2/3E bird | 3/7H chiriya@@cinynirda | menynirda | nirdynazbi | tcidynirda | tcinirda@
@@ -10057,4 +10057,4 @@
 10103@LW@Struct@@@RH@2015@@@@@
 10104@LW@Struct@@@RH@2016@@@@@
 10105@LW@Struct@@@RH@2016@@@@@
-10106@2-Cpx@Predicate@lei@@UA (omitted about 2000:  see nui)@2016 (but really older)@@nu(r) + letci@@@
+10106@2-Cpx@Predicate@lei@@UA@2016 (But really older. Omitted about 2000: see nui)@@nu(r) + letci@@@
