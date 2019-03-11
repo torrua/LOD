@@ -76,7 +76,7 @@
 51@1@@i@«yes»/I «wish to» …, an expression of hope/weak intention/desire.@@B-
 51@2@@i@I «hope» so/that/to … <, an expression of hope/weak intention/desire.>.@@
 51@3@% no@i@«no»/I «hope»/«wish not to», an expression of mild refusal.@@
-52@1@lao %@Na@«Aegyptopithecus», a genus of fossil monkeys found ca. 1960 in 30,000,000 year old Oligocene deposits in Egypt, may have been ancestral to apes and humans.@@
+52@1@lao %@na@«Aegyptopithecus», a genus of fossil monkeys found ca. 1960 in 30,000,000 year old Oligocene deposits in Egypt, may have been ancestral to apes and humans.@@
 53@1@@1n@B is an «aphid»/«plant louse» of the genus Aphis.@@B-
 54@1@@l@«a», Latin lower case letter, one of a pool of symbols.@@
 55@1@@1n@B is some «agar»/«agar agar», a gel prepared from seaweeds.@@B-
@@ -156,7 +156,7 @@
 111@1@@1n@B is a «gosling», an immature goose of species F.@@B-F
 112@1@@2n@B is a «gander», an male anseridine bird of species F.@@B-F
 113@1@@1n@B is a generic member of the «goose» family, an anseridine bird of species F.@@B-F
-114@1@lao %@Na@«Anthropoidea», the suborder of Primates which includes the monkeys, apes and humans.@@
+114@1@lao %@na@«Anthropoidea», the suborder of Primates which includes the monkeys, apes and humans.@@
 115@1@@1n@B is an «antigen», a substance provoking formation of an antibody.@@B-
 116@1@@2n@B is an «antitoxin» to D, substance opposing toxin ….@@B-D
 117@1@@1n@B is a member of the «Anthropoidea», a suborder of Primates including the monkeys, apes and humans. (1a) pert. to or char. of the Anthropoidea.@@B-
@@ -170,7 +170,7 @@
 124@1@@1n@B is an «Arabic» place/territory, a region inhabited by Arabs.@@B-
 125@1@@1n@B is an «Arab», person of Arabic descent.@@B-
 126@1@@1a@B pertains to the «Arab» culture.@@B-
-127@1@lao %@Na@«Archaeopteryx», a fossil Jurassic bird.@@
+127@1@lao %@na@«Archaeopteryx», a fossil Jurassic bird.@@
 128@1@@1n@B is some «silver», element 47 (Ag).@@B-
 129@1@@1n@B is some «argon», element 18, an inert gas.@@B-
 130@1@@2a@G is more «silvery», silver like than J.@@G-J
@@ -185,7 +185,7 @@
 136@1@@1v@K suffers from «arteriosclerosis», hardening of the arteries.@@K-
 136@2@@a@is «arteriosclerotic».@@
 136@3@lopo %@n@«arteriosclerosis», collective term.@@
-137@1@lao %@Na@«Arthropoda», jointed appendage invertebrates.@@
+137@1@lao %@na@«Arthropoda», jointed appendage invertebrates.@@
 138@1@@1n@B is an «artichoke», a thistle like edible plant.@@B-
 139@1@@1n@B is an «artiodactyl», an even toed ungulate.@@B-
 139@2@@a@«artiodactyl», pert to -s.@@
@@ -609,7 +609,7 @@
 410@1@@af@a combining form of ≤bilti≥, «beautiful».@@
 411@1@@1a@B is «exquisite».@@B-
 412@1@@4a@G is more «gracious» to D than J is to D. (D and D may be the same or different; if the same, is not rementioned.).@@G-DJD
-412@2@@a/av@«gracious»/«graciously».@@
+412@2@@av@«graciously».@@
 412@3@lopu %@n@«grace»/«graciousness» (mass term).@@
 412@4@pu %@n@«grace»/«graciousness» (spec. instance).@@
 413@1@@2n@B is a military «force» of government/power/political entity F.@@B-F
@@ -637,7 +637,7 @@
 422@2@@n@a «beautifier», one who-s.@@
 422@3@po %@n@an act o «beautification», making beautiful.@@
 423@1@@4a@G is more «graceful» to D than J is to D. (D and D may be the same or different; if the same, is not rementioned.).@@G-DJD
-423@2@@a/av@«graceful»/«gracefully».@@
+423@2@@av@«gracefully».@@
 423@3@lopu %@n@«grace»/«gracefulness» (mass term).@@
 423@4@pu %@n@«grace»/«gracefulness» (spec. instance).@@
 424@1@@2v@K «charm»/be «charming to» D.@@K-D
@@ -1979,7 +1979,7 @@
 1134@3@nu %@a@«miniature», pert. to diminished things.@@
 1134@4@nu %@n@a «miniature», conv. of diminish.@@
 1134@5@po %@n@a «reduction»/«diminution»/«decrease», an act of -ing something.@@
-1135@1@@Na@«Mamma»/«Mom».@@
+1135@1@@na@«Mamma»/«Mom».@@
 1136@1@@2n@B is a «hill» (ock)/«knoll» of landmass F.@@B-F
 1137@1@@1n@B is a «tack»/«brad», a small metal fastener.@@B-
 1138@1@@3v@K «tack» (s) B to D.@@K-BD
@@ -2103,7 +2103,7 @@
 1195@2@@n@a «novelty», a new thing.@@
 1195@3@lopu %@n@«newness»/«novelty», mass term of properties.@@
 1195@4@pu %@n@a «newness»/«novelty», a spec. property.@@
-1196@1@La %@Na@«New Year»'s Eve.@@
+1196@1@La %@na@«New Year»'s Eve.@@
 1197@1@@3a@D is «satisfied»/«content» by/with/about B, some thing or outcome, with respect to N.@@D-BN
 1197@2@lopo %@n@«satisfaction», mass term of state.@@
 1197@3@po %@n@an instance of «satisfaction», need -ing.@@
@@ -2205,7 +2205,7 @@
 1242@3@nu %@a@«revered», deeply respected (by …).@@
 1242@4@po %@n@an instance of «reverence» (for …).@@
 1243@1@@2n@B is a «jar»/«urn»/«vase» for/of P.@@B-P
-1244@1@La % Name@Na@The «Reverend» Name, a title of respect.@@
+1244@1@La % Name@na@The «Reverend» Name, a title of respect.@@
 1245@1@@af@a combining form of ≤corta≥, «short».@@
 1246@1@@2n@N is a «puff» of B.@@N-B
 1247@1@@1v@B «contract»/become «shorter».@@B-
@@ -3373,10 +3373,11 @@
 1850@1@@1a@B is of «European»/«Caucasian» extraction.@@B-
 1851@1@@1@N is a «European» culture.@@N-
 1852@1@@l@«epsilon», Greek lower case letter, one of a pool of symbols.@@
-1853@1@@pp,c@«after», operator before event terms/clauses.@@
-1853@2@@va@«will»/«shall» …, sign of the future tense as in 'I shall be going', 'He will be a man'.@@
-1853@3@% ta@av ph@«after»/«afterwards»/«later»/«then»/«whereat»/«whereupon»/«by-and by», a sentence modifying phrase.@@
-1853@4@% ti@av ph@«after this».@@
+1853@1@@c@«after», conjunction before clauses.@@
+1853@2@@pp@«after», operator before event terms.@@
+1853@3@@va@«will»/«shall» …, sign of the future tense as in 'I shall be going', 'He will be a man'.@@
+1853@4@% ta@av ph@«after»/«afterwards»/«later»/«then»/«whereat»/«whereupon»/«by-and by», a sentence modifying phrase.@@
+1853@5@% ti@av ph@«after this».@@
 1854@1@@af@a combining form of ≤falba≥, «fail».@@
 1855@1@@af@a combining form of ≤falba≥, «fail».@@
 1856@1@@2v@D is/are «disappointed» in expectations N.@@D-N
@@ -5617,9 +5618,9 @@
 2987@1@@2a@N is «well rooted»/«established»/«grounded» in F.@@N-F
 2988@1@@1n@N is a basic «principle» on which one's philosophy/religion etc. is based, e.g. "There is no god other than God, and Muhammed is his apostle".@@N-
 2988@2@lo %@n@basic «principles», mass term.@@
-2988@3@rau lo %@Ph@on «principle».@@
+2988@3@rau lo %@ph@on «principle».@@
 2989@1@@1n@N is a basic «principle» on which knowledge is based, e.g. conservation of mass energy.@@N-
-2989@2@coi lo %@Ph@in «principle».@@
+2989@2@coi lo %@ph@in «principle».@@
 2989@3@lo %@n@basic «principles», mass term.@@
 2990@1@@af@a combining form of ≤gleca/e/i/o≥, "«English»".@@
 2991@1@@1n@N is an element/feature/expression of the «English» language.@@N-
@@ -7679,7 +7680,7 @@
 4089@1@@2n@V is a «grade»/«form» in school F.@@V-F
 4090@1@@2n@B is the «school system» of locality F.@@B-F
 4091@1@@3@B measure(s) C in «degree K», default 1.@@B-CK
-4091@2@Da % lio 50@Ph@It has a «temperature» of 50°K.@@
+4091@2@Da % lio 50@ph@It has a «temperature» of 50°K.@@
 4092@1@@af@a combining form of ≤kemdi≥, «chemical».@@
 4093@1@@1n@B is a chemical «element», a chemically basic constituent of matter.@@B-
 4094@1@@2n@B is a «chemical», chemically pure instance of substance F.@@B-F
@@ -8326,7 +8327,7 @@
 4426@1@@2v@K «turn on»/«switch on» B, start a current in ….@@K-B
 4427@1@@3v@K is a «tide» with amplitude C and flow rate C.@@K-CC
 4427@2@fu %@n@«tidal» rate, time and place specified adverbially.@@
-4427@3@Nahu lenu % ga minmi vi la Miamis na lena denli?@Ph@When is low «tide» at Miami today?.@@
+4427@3@Nahu lenu % ga minmi vi la Miamis na lena denli?@ph@When is low «tide» at Miami today?.@@
 4427@4@nu %@n@«tidal» range, the difference between high and low tide; time and place specified adverbially.@@
 4428@1@@3v@K «write» B in/on D in a «cursive» fashion.@@K-BD
 4429@1@@3v@K «block» (up)/«obstruct» the way of B to D.@@K-BD
@@ -9109,7 +9110,7 @@
 4894@2@@a@«legal»/«juristic», pert. to laws/proscriptions, q.v.@@
 4894@3@@n@a «proscription», a law.@@
 4894@4@@vt@«proscribe» … to … under … among …, as of laws.@@
-4894@5@% fu djadou@Ph@some «legal» information.@@
+4894@5@% fu djadou@ph@some «legal» information.@@
 4894@6@lo %@n@«law», mass term.@@
 4894@7@lopu no nu %@n@«legality», mass term of props.@@
 4894@8@lopu nu %@n@«illegality», mass term of props.@@
@@ -9737,7 +9738,7 @@
 5233@1@@af@a combining form of «no».@@
 5234@1@@pp@«despite» (reason) …, used before designations of unjustified outcomes.@@
 5235@1@@c@«even though»/«although», of unproductive reasons, with ≤ki≥ in '≤norauki … ki≥; despite …, … '.@@
-5236@1@@1a/1av@«awkward» (ly).@@G-J
+5236@1@@1av@«awkward» (ly).@@G-J
 5236@2@@2a@G is more «awkward»/«clumsy» than J.@@
 5236@3@lopu %@1n@«clumsiness»/«awkwardness» (mass term).@@
 5236@4@pu %@1n@«clumsiness»/«awkwardness» (spec. instance).@@
@@ -10332,8 +10333,8 @@
 5535@1@@1v@B is/are «done for».@@B-
 5536@1@@2n@B is an/the «apparation»/«ghost»/«spectre» of D.@@B-D
 5536@2@@a@«ghostly», pert. to ghosts.@@
-5536@3@% harlii@Ph@«haunt».@@
-5536@4@% nu harlii@Ph@«haunted».@@
+5536@3@% harlii@ph@«haunt».@@
+5536@4@% nu harlii@ph@«haunted».@@
 5537@1@@2a@G is more «ghostly»/ghost like/«spectral» than J.@@G-J
 5537@2@po %@n@«ghostliness», a property.@@
 5538@1@@3v@K «choose» death by authority N for cause/group F.@@K-NF
@@ -10469,7 +10470,7 @@
 5613@2@lopu %@n@«enormity»/«greatness»/«hugeness», mass prop.@@
 5613@3@po %@n@an «enormity», a condition of being -ous.@@
 5614@1@@3v@K act «wickedly» in doing V by moral standard N.@@K-VN
-5614@2@@a/av@«wicked» (ly).@@
+5614@2@@1av@«wicked» (ly).@@
 5614@3@lopu %@n@«evil»/«wickedness», mass prop.@@
 5614@4@po %@n@an act of «evil»/«wickedness».@@
 5615@1@@3a@G is more «slanted» than J in gravity field N.@@G-JN
@@ -10488,7 +10489,7 @@
 5624@1@@af@a combining form of ≤munce≥, «community».@@
 5625@1@@2n@F is a «community» of individuals/organisms B.@@F-B
 5625@2@@a@«community»/«communal», pertaining to -s.@@
-5625@3@treci %@Ph@an «interest community», a group with common interests.@@
+5625@3@treci %@ph@an «interest community», a group with common interests.@@
 5626@1@@2n@B is some «Muenster» from S, a cheese.@@B-S
 5627@1@@p@«we»/«us»/«ourselves» (you and I and others independently) cf. ≤mu/mo, miu/mio≥.@@
 5628@1@@2v@K «bump»/«collide»/«crash with»/«run into» D.@@K-D
@@ -11067,7 +11068,7 @@
 5909@1@@1a@B is «neolithic», pert. to the new stone age.@@B-
 5910@1@@1n@B is some «neon», element 10 (Ne).@@B-
 5911@1@@1a@B is «neozoic», pert. to the Neozoic period, after the Paleozoic.@@B-
-5912@1@la %@Na@the «Neozoic», the period, after the Paleozoic.@@
+5912@1@la %@na@the «Neozoic», the period, after the Paleozoic.@@
 5913@1@@1n@B is some «neptunium», element 93 (Np).@@B-
 5914@1@@af@a combining form of ≤ne≥, «one».@@
 5915@1@@2n@an «individual»/«unit»/«monad»/«one member subset» of set …, a cardinal predicate.@@
@@ -11125,7 +11126,7 @@
 5933@1@@2n@a/the «first» term/member of series …, ordinal predicate.@@
 5933@2@@a@«first», of 1st members.@@
 5933@3@% genza@ph@first «occasion»/«time».@@
-5933@4@da pa % genza godzi@Ph@X went for the «first» time.@@
+5933@4@da pa % genza godzi@ph@X went for the «first» time.@@
 5934@1@@2v@K «meet for the first time» D, [RH recommends ≤<neri jmite>≥].@@K-D
 5935@1@@2n@G has more «energy»/capacity for doing work than J (physics) by amount C.@@G-JC
 5935@2@@a@«energetic»/«vehement», having energy/capacity for work.@@
@@ -13927,7 +13928,7 @@
 7439@2@@av@«hourly», every 60 minutes, pert. to 60 minute rhythms.@@
 7440@1@@2n@the «last» term/member in sequence/series …, an ordinal pred.@@
 7440@2@@a@«final»/«last»/«ultimate», last in some series.@@
-7440@3@% djugru@Ph@the «supreme court» of state/nation ….@@
+7440@3@% djugru@ph@the «supreme court» of state/nation ….@@
 7441@1@@1a@B is «eternal»/«everlasting»/«perpetual».@@B-
 7441@2@lo %@n@«eternity»/«perpetuity», mass term of eternal things.@@
 7441@3@lopo %@n@«eternity»/«perpetuity», mass condition.@@
@@ -15147,7 +15148,7 @@
 8149@2@@a@«reciprocal»/«oscillating»/«shaking», of that which -es.@@
 8149@3@@av@«back and forth»/«to and fro»/«side to side», in a reciprocating way.@@
 8149@4@po %@n@a «shaking»/«oscillation»/«reciprocation», a spec. state of -ing motion.@@
-8150@1@la %@Na@the «Silurian» geologic period.@@
+8150@1@la %@na@the «Silurian» geologic period.@@
 8151@1@@af@a combining form of ≤simci≥, «seem».@@
 8152@1@@1n@B is a female «lion»/«lioness», Felis leo, a carnivorous mammal.@@B-
 8153@1@@1a@B is «leonine»/«lion like», resembles or pertains to lions.@@B-
@@ -15182,7 +15183,7 @@
 8168@1@@2v@K «magnify» D, make it seem larger (intentional act).@@K-D
 8168@2@po %@n@an instance of «magnification», making … seem larger.@@
 8169@1@@2v@K is «vivid» in describing V.@@K-V
-8169@2@@av@«vivid» (ly).@@
+8169@2@@1av@«vivid» (ly).@@
 8170@1@@3n@V is the «appearance»/«look» (s) of B to D.@@V-BD
 8171@1@@af@a combining form of ≤sinma≥, «cinema».@@
 8172@1@@a@«at-most one» of …, a quantifier, usually abbreviated as ≤si≥, q.v.@@
@@ -15717,7 +15718,7 @@
 8443@1@@2n@B is a «soliton» in S, a solitary wave.@@B-S
 8444@1@@1n@B is a «sunbeam», a ray from (Earth's) sun.@@B-
 8445@1@@1a@B is «solar», pert. to earth's sun, la sol.@@B-
-8445@2@% pleksi@Ph@«solar plexus», a muscle.@@
+8445@2@% pleksi@ph@«solar plexus», a muscle.@@
 8446@1@@1v@K «suntan», «tan» in the sun.@@K-
 8447@1@@2n@B is a grain/quantity of «salt» from S.@@B-S
 8448@1@@1n@B is some «sunlight».@@B-
@@ -17486,7 +17487,7 @@
 9414@2@@a@«hateful»/«abhorrent»/«odious», pert. to one who hates.@@
 9414@3@lopu %@n@«hatefulness», mass prop.@@
 9414@4@nu %@a@«hateful», pert. to that which is -ed.@@
-9414@5@nu ge nu razdou %@Ph@is «hateful»/«justifiably hated».@@
+9414@5@nu ge nu razdou %@ph@is «hateful»/«justifiably hated».@@
 9414@6@po %@n@a «hate»/«loathing», a spec. act/state of -ing.@@
 9414@7@pu nu %@n@a «hatefulness», a prop. of being -ed.@@
 9415@1@@af@a combining form of ≤tsufi≥, «sufficient».@@
@@ -17865,7 +17866,7 @@
 9625@1@@2v@N «take place»/«happen»/«occur»/«involve» (to) objects/persons D.@@N-D
 9625@2@@n@an «event»/«happening»/«incident»/«occurrence»/«phenomenon», a happening/occurence involving ….@@
 9625@3@nu %@a@«involved» (in event …).@@
-9625@4@tu ie nu %@Ph@«How»'s it going?, well or badly?.@@
+9625@4@tu ie nu %@ph@«How»'s it going?, well or badly?.@@
 9626@1@@4v@K give «account»/«report»/«narration» P of event V to D.@@K-PVD
 9626@2@@v@«narrate»/«tell»/«report» … about event … to ….@@
 9626@3@nu %@n@an «account»/«narration»/«report», of an event.@@
@@ -18545,7 +18546,7 @@
 10059@1@@3v@X is the «structure word class» of structure word Y in language Z.@@
 10060@1@@3v@X is the «grammar class» of utterance Y in language Z.@@
 10061@1@@3v@X is a «metaphor» (in the sense of Loglan grammar) in which predicate Y modifies predicate Z.@@
-10061@2@nufu %@2v (3v)@X «modifies» Y (in metaphor Z).@@
+10061@2@nufu %@3v@X «modifies» Y (in metaphor Z).@@
 10062@1@@1n@X is an «elephant».@@
 10063@1@@1n@X is a female «elephant».@@
 10064@1@@2a@X is more «elephantine»/«elephant like» than Y.@@
@@ -18581,7 +18582,7 @@
 10095@1@@op@initial marker for acronyms, proposed mandatory for acronyms used as «dimension»s.@@
 10096@1@@3n@B is a «blog»/computer web log about V by S.@@
 10097@1@@2n@B is a «kaleidoscope» of type N.@@
-10098@1@@2n (3n)@X is more «aerodynamic» than Y (in medium Z).@@
+10098@1@@3n@X is more «aerodynamic» than Y (in medium Z).@@
 10099@1@@2n@X is a «battery» for appliance Y.@@
 10100@1@@c@short scope «event» predicate constructor, modification of ≤po≥.@@
 10101@1@@op@short scope «quality» abstractor, variant of ≤pu≥.@@
