@@ -8404,7 +8404,7 @@
 8424@Afx@Affix@@@JCB@1988@7+@sorgu@@@
 8425@2-Cpx@Predicate@@@L4@1975@7.4@so(r)g(u)+du(rn)a@ear ornament@@
 8426@2-Cpx@Predicate@@@L4@1975@7.4@so(r)g(u)+pu(nt)u@ear pain@@
-8427@LW@Struct@@@SR/JCB/RAM@1989@1.0@sonli@@@
+8427@LW@Struct@@@SLR/JCB/RAM@1989@1.0@sonli@@@
 8428@2-Cpx@Predicate@@@RAM@1989@3.6@so(nl)i+cko(zu)@sleep cause@@
 8429@2-Cpx@Predicate@@@APL@1999@7+@so(nl)i+cli(ka)@sleep like@@
 8430@2-Cpx@Predicate@@@FR/JFB@1987@3.5@so(nl)i+r+ce(nj)a@asleep become@@
@@ -8682,7 +8682,7 @@
 8702@2-Cpx@Predicate@@@JCB@1988@7+@sudn(a)+y+nerji@sudden energy@@
 8703@3-Cpx@Predicate@@@JCB/RAM@1991@2.2@sudn(a)+y+si(st)o+dja(no)@sudden system know(understand)@@
 8704@2-Cpx@Predicate@@@JFB@1984@2.6@sudn(a)+y+vri(ci)@sudden river@@
-8705@LW@Struct@@@SR/JCB/RAM@1989@1.0@@@@
+8705@LW@Struct@@@SLR/JCB/RAM@1989@1.0@@@@
 8706@LW@Struct@@@L4@1981@15+@sumji@@@
 8707@3-Cpx@Predicate@@@APL@1995@7+@su(nd)i+n+(t)rac(i)+ve(sl)o@send travel container@@
 8708@2-Cpx@Predicate@@@L4@1975@1.5@su(nd)i+r+be(gc)o@send ask@@
