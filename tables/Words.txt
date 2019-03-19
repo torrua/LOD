@@ -523,7 +523,7 @@
 523@3-Cpx@Predicate@@@SLR@1992@7+@blu(di)+to(kn)a+spi(cu)@blood take spirit@@
 524@3-Cpx@Predicate@@@RAM@1987@4.4@blu(di)+zvo(to)+kro(li)@blood out flow@@
 525@LW@Struct@@@L4@1975@1.4@@@@
-526@LW@Struct@@@L4@1981@15+@broda@@@
+526@Afx@Affix@@@L4@1981@15+@broda@@@
 527@2-Cpx@Predicate@@@L4@1975@1.1@b(r)od(a)+ce(nj)a@break change@@
 528@2-Cpx@Predicate@@@L4@1975@1.1@b(r)od(a)+cko(zu)@break cause@@
 529@2-Cpx@Predicate@@@L4@1975@1.1@b(r)od(a)+ma(dz)o@break make@@
@@ -5045,7 +5045,7 @@
 5055@2-Cpx@Predicate@@@SLR@1994@7+@log(la)+pozfa@Loglan opposed@@
 5056@2-Cpx@Predicate@@@JCB@1996@7+@log(la)+ta(kn)a@Loglan talker@@
 5057@LW@Struct@@@L4@1975@6.0@lokti@@@
-5058@LW@Struct@@@L4@1975@6.0@lokti@@@
+5058@Afx@Affix@@@L4@1975@6.0@lokti@@@
 5059@2-Cpx@Predicate@@@APL@1999@7+@lok(ti)+prano@locally run@@
 5060@2-Cpx@Predicate@@@JCB@1996@7+@lok(ti)+ta(kn)a@local talk@@
 5061@C-Prim@Predicate@lok loi@56%@L4@1975@1.4@2/2C ti | 3/4E local | 3/5S local | 3/5F local@@braloi | lokprano | loktaa | norloi | sicynorloi | telnorloi@
@@ -5387,7 +5387,7 @@
 5398@3-Cpx@Predicate@@@APL@1998@7+@mid(ju)+te(r)l(a)+mursi@mid earth sea@@
 5399@3-Cpx@Predicate@@@JCB/RAM@1982@4.5@mid(ju)+tu(gl)e+dji(ne)@mid leg joint@@
 5400@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-5401@LW@Struct@@@L4@1975@1.0@mipli@@@
+5401@Afx@Affix@@@L4@1975@1.0@mipli@@@
 5402@Afx@Affix@@@JCB@1988@7+@midju@@@
 5403@2-Cpx@Predicate@@@L4@1975@2.1@mi(d)j(u)+de(nl)i@middle day@@
 5404@Afx@Affix@@@JCB@1988@7+@mikti@@@
@@ -5601,7 +5601,7 @@
 5614@3-Cpx@Predicate@@@L4@1975@2@mu(tc)e+r+zav(lo)+ka(kt)o@much bad act@@
 5615@2-Cpx@Predicate@@@JLT@1985@2.4@mu(tc)e+slo(pu)@very slanted@@
 5616@2-Cpx@Predicate@@@L4@1975@2.0@mu(tc)e+spu(ro)@very skilled@@
-5617@LW@Struct@@@L4@1975@1.0@muzgi@@@
+5617@Afx@Affix@@@L4@1975@1.0@muzgi@@@
 5618@2-Cpx@Predicate@@@L4@1975@3.6@mu(zg)i+fo/l(ma)@music full@@
 5619@2-Cpx@Predicate@@@JCB/RAM@1990@3.3@mu(zg)i+r+balko@music balcony@@
 5620@2-Cpx@Predicate@@@JCB/RAM@1990@4.9@mu(zg)i+r+bekli@musical bell@@
@@ -7666,7 +7666,7 @@
 7683@Cpd@Struct@@@JCB/RAM@1991@3.1@Cpd: Simulaneously many and monad@@@
 7684@Cpd@Struct@@@L4@1975@1.0@@@@
 7685@3-Cpx@Predicate@@@L4@1975@1.9@(b)roc(u)+y+kuv(ga)+du(rz)o@brush cover do@@
-7686@LW@Struct@@@L4@1975@6.0@rodlu@@@
+7686@Afx@Affix@@@L4@1975@6.0@rodlu@@@
 7687@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 7688@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 7689@Bor.@Predicate@@@JCB@1988@7+@ISV@@bakteriyrodhopsini@
@@ -9396,7 +9396,7 @@
 9418@2-Cpx@Predicate@@@APL@1996@7+@tsu(fi)+mu(tc)e@sufficient much@@
 9419@Bor.@Predicate@@@JCB@1988@7+@J.@@@
 9420@LW@Struct@@@L4@1975@1.0@@@@
-9421@LW@Struct@@@L4@1975@1.0@turka@@@
+9421@Afx@Affix@@@L4@1975@1.0@turka@@@
 9422@2-Cpx@Predicate@@@JCB/RAM@1991@7+@tu(rk)a+fo/l(ma)@work full@@
 9423@2-Cpx@Predicate@@@SLR@1992@7+@tu(rk)a+fo/r(li)@work strong@@
 9424@2-Cpx@Predicate@@@KAD@1985@2.8@tu(rk)a+gru(pa)@work group@@
@@ -9411,14 +9411,14 @@
 9433@Bor.@Predicate@@@JCB@1988@7.4@ISV@@@
 9434@C-Prim@Predicate@tub@55%@L4@1975@3.2@3/3E tube | 3/4S tubo | 2/3F tube | 3/5R truba | 3/4G tube | 2/4H nali@@smaruetubli | smaruetubpli | tubcli | tubduo | tubmio@
 9435@2-Cpx@Predicate@@@RAM/JCB@1987@5.0@tub(li)+mi(tr)o@tube meat@@
-9436@LW@Struct@@@L4@1975@1.0@tugle@@@
+9436@Afx@Affix@@@L4@1975@1.0@tugle@@@
 9437@2-Cpx@Predicate@@@JCB/RAM@1982@4.5@tu(gl)e+dji(ne)@leg joint@@
 9438@Bor.@Predicate@@@JCB/RAM@1991@4.4@Türk—@Turkish root for Turkish@@
 9439@Bor.@Predicate@@@JRK@1983@3.6@Türk—@Turkish root for Turkish@@
 9440@Bor.@Predicate@@@JCB/RAM@1991@4.4@Türk—@Turkish root for Turkish@@
 9441@Bor.@Predicate@@@JCB/RAM@1991@4.4@Türk—@Turkish root for Turkish@@
 9442@C-Prim@Predicate@tul tue@51%@L4@1975@1.9@3/4C tuei | 2/3E leg | 2/3H tang | 3/5R golen@@betytue | betytuebongu | bufnertueprano | gantue | gantulmio | leltue | midtuedji | nertulvai | tilbybiatue | tuedji@
-9443@LW@Struct@@@L4@1975@1.0@stuli@@@
+9443@Afx@Affix@@@L4@1975@1.0@stuli@@@
 9444@N-Prim@Predicate@@@RAM@2000@7+@Inuit@@@
 9445@Afx@Affix@@@JCB@1988@7+@tugle@@@
 9446@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
