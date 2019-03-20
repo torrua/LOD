@@ -1817,7 +1817,7 @@
 1821@LW@Struct@@@L4@1975@1.2@@@@
 1822@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 1823@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-1824@Bor.@Predicate@@@JCB@1988@7+@ISV@@optikiyelhektroniysensi | elhiktroniysensi@
+1824@Bor.@Predicate@@@JCB@1988@7+@ISV@@optikiyelhektroniysensi | elhektroniysensi@
 1825@2-Cpx@Predicate@@@JCB@1988@7+@elhektroni+y+sensi@electron science@@
 1826@LW@Struct@@@L4@1975@15@E + -ma@@@
 1827@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
@@ -6288,7 +6288,7 @@
 6301@3-Cpx@Predicate@@@JCB/RAM@1991@3.6@sel(ji)+zav(lo)+fi(lm)o@self bad feel@@
 6302@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6303@Cpd@Struct@@@L4@1975@5.1@se+ni@70@@
-6304@C-Prim@Predicate@ses@39%@L4@1975@1.4@5/7S ciencia | 4/6E science | 2/4F science | 3/7C syue li di@@bivsensi | bivsesmao | bufsensi | djabasysensi | djabasysesmao | djasensi | djasesmao | djasocysensi | dzasensi | elhiktroniysensi | fidsensi | fidsesmao | fomsensi | garsensi | hebsensi | hebsesmao | hisysensi | hisysesmao | humsensi | humsesmao | kemsensi | kemsesmao | kiursensi | kosmysensi | lensensi | lensesmao | litysensi | livsensi | livsesmao | livspasensi | livspasesmao | lodsensi | lodsesmao | maersensi | nevsensi | nevsesduo | nevsesmao | nimsensi | nimsesmao | norsensi | numsensi | numsesmao | optikiyelhektroniysensi | paknurmaosensi | paorlivsesmao | pashumsensi | polsensi | polsesmao | prosensi | prosesmao | prosiosensi | prosiosesmao | roarmaosensi | roarmaosesduo | roarmaosesmao | sadsensi | sadsesduo | sadsesmao | sansensi | sansesmao | sesduvrai | sesmao | sespli | sesrie | sesyblifikco | sesycko | sesycle | sesymajblifikco | sesypozfa | sesysri | sesytursia | sifsensi | socysensi | socysesmao | tarsensi | tarsesmao | telsensi | telsesmao | tetysensi | tetysesmao@
+6304@C-Prim@Predicate@ses@39%@L4@1975@1.4@5/7S ciencia | 4/6E science | 2/4F science | 3/7C syue li di@@bivsensi | bivsesmao | bufsensi | djabasysensi | djabasysesmao | djasensi | djasesmao | djasocysensi | dzasensi | elhektroniysensi | fidsensi | fidsesmao | fomsensi | garsensi | hebsensi | hebsesmao | hisysensi | hisysesmao | humsensi | humsesmao | kemsensi | kemsesmao | kiursensi | kosmysensi | lensensi | lensesmao | litysensi | livsensi | livsesmao | livspasensi | livspasesmao | lodsensi | lodsesmao | maersensi | nevsensi | nevsesduo | nevsesmao | nimsensi | nimsesmao | norsensi | numsensi | numsesmao | optikiyelhektroniysensi | paknurmaosensi | paorlivsesmao | pashumsensi | polsensi | polsesmao | prosensi | prosesmao | prosiosensi | prosiosesmao | roarmaosensi | roarmaosesduo | roarmaosesmao | sadsensi | sadsesduo | sadsesmao | sansensi | sansesmao | sesduvrai | sesmao | sespli | sesrie | sesyblifikco | sesycko | sesycle | sesymajblifikco | sesypozfa | sesysri | sesytursia | sifsensi | socysensi | socysesmao | tarsensi | tarsesmao | telsensi | telsesmao | tetysensi | tetysesmao@
 6305@Bor.@Predicate@@@APL@1999@7+@LIn: Centaurea@@@
 6306@C-Prim@Predicate@seo@40%@JCB@1988@2.2@2/2F saint | 3/4E saint | 3/4S sant(o) | 3/7R sviatoi | 2/6J shinosi@@dupseo | seofra | seordei | seordrisia | seormao | seornursri | seorsia | seosta@
 6307@LW@Struct@@@L4@1975@15+@@@@
