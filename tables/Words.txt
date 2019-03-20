@@ -10058,3 +10058,20 @@
 10104@LW@Struct@@@RH@2016@@@@@
 10105@LW@Struct@@@RH@2016@@@@@
 10106@2-Cpx@Predicate@lei@@UA@2016 (But really older. Omitted about 2000: see nui)@@nu(r) + letci@@@
+10107@Afx@Affix@@@JCB@1988@7+@buste@@@
+10108@Afx@Affix@@@JCB@1988@7+@clika@@@
+10109@Afx@Affix@@@JCB@1988@7+@djitu@@@
+10110@Afx@Affix@@@JWK@2002@7+@fepti@@@
+10111@Afx@Affix@@@JWK@2002@7+@gigbi@@@
+10112@Afx@Affix@@@JWK@2002@7+@hekso@@@
+10113@Afx@Affix@@@JWK@2002@7+@hepti@@@
+10114@Afx@Affix@@@JWK@2002@7+@jakti@@@
+10115@Afx@Affix@@@JWK@2002@7+@jatgo@@@
+10116@Afx@Affix@@@JWK@2002@7+@kilbi@@@
+10117@Afx@Affix@@@JWK@2002@7+@megbi@@@
+10118@Afx@Affix@@@JWK@2002@7+@pitbi@@@
+10119@Afx@Affix@@@JWK@2002@7+@pitgo@@@
+10120@Afx@Affix@@@JWK@2002@7+@terbi@@@
+10121@Afx@Affix@@@JCB@1999@7+@zakra@@@
+10122@Afx@Affix@@@JWK@2002@7+@zepti@@@
+10123@Afx@Affix@@@JWK@2002@7+@zetgo@@@
