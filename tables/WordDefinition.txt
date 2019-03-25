@@ -5007,7 +5007,7 @@
 2706@2@@n@a «reaper»/«picker»/«harvester», one who/that which reaps.@@
 2706@3@po %@n@a «reaping»/«harvest», a spec. event of -ing.@@
 2707@1@@a@«less» … than …, antonym of some predicates.@@
-2707@2@@af@«un»—<,antonym of some preds.: 2nd conv. op.>.@@
+2707@2@@af@«un»—<, antonym of some preds.: 2nd conv. op.>.@@
 2707@3@@op@conversion of 1st & 3rd places of a predicate, «passive»s/antonyms/etc.@@
 2707@4@@va@«is -ed», passive of some predicates.@@
 2708@1@@va@will be «habitually» -ing, continuous future tense (PA).@@
@@ -7048,7 +7048,7 @@
 3779@3@nu %@a@«patched»/«darned», pertaining to something -ed.@@
 3779@4@po %@n@a «darn»/«patch», an instance of -ing.@@
 3780@1@@a@«less» … than …, antonym of some predicates.@@
-3780@2@@af@«un»—<,antonym of some preds.: 3rd conv. op.>.@@
+3780@2@@af@«un»—<, antonym of some preds.: 3rd conv. op.>.@@
 3780@3@@op@conversion of 1st & 4th places of a pred. making «passive»s/antonyms/etc.@@
 3780@4@@va@«is -ed», passive of some predicates.@@
 3781@1@@af@a combining form of ≤jugra≥, «grab».@@
@@ -12012,7 +12012,7 @@
 6382@1@@i@I'm not «disturbed»/«angry»/«irritated»/«annoyed», a denial of annoyance.@@
 6383@1@@i@I'm not «sorry»/I don't «regret» …, an denial of sympathy/regret.@@
 6384@1@@a@«less» … than …, antonym of some predicates.@@
-6384@2@@af@«un»—<,antonym of some preds.: 1st conv. op.>.@@
+6384@2@@af@«un»—<, antonym of some preds.: 1st conv. op.>.@@
 6384@3@@op@conversion of 1st & 2nd places of a predicate/«passive» voice.@@
 6384@4@@va@«is -ed», passive of some predicates.@@
 6385@1@@va@am/is/are+(now) «habitually» -ing, continuous present tense (PA).@@
