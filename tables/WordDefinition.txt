@@ -4347,7 +4347,7 @@
 2332@4@po %@n@«becoming convinced», a state/process of becoming convinced of ….@@
 2333@1@@4v@K «convinces» D/makes … convinced of the truth of sentence B by action V.@@K-DBV
 2333@2@ju %@a@«convincing», of some act that -s.@@
-2333@3@po %@n@«convincing» someone, a state/process of … 's convincing … of … by … V (K-DBV).@@
+2333@3@po %@n@«convincing» someone, a state/process of …'s convincing … of … by … V (K-DBV).@@
 2334@1@@2a@G is (more) «hardy»/«rugged»/«sturdy»/«vigourous» (than …) J.@@G-J
 2334@2@lopu %@n@«hardiness»/«sturdiness»/«vigour», mass property.@@
 2335@1@@3v@K «vividly remember» B about V.@@K-BV
@@ -7479,7 +7479,7 @@
 3988@3@lo %@n@«ethics», mass term of ethical systems.@@
 3989@1@@2n@K is «excellent» in S.@@K-S
 3989@2@lopu %@n@«excellence».@@
-3990@1@@4v@K «condemn D»'s act V/say … 's act … is bad by morals N.@@K-DVN
+3990@1@@4v@K «condemn D»'s act V/say …'s act … is bad by morals N.@@K-DVN
 3990@2@@a@«condemning», of one who -s.@@
 3990@3@@n@a «condemner», one who asserts immorality.@@
 3990@4@nu %@n@«condemned» (one said to be immoral).@@
@@ -9317,7 +9317,7 @@
 4994@1@@1v@B «comes-to-life»/«becomes alive».@@B-
 4995@1@@2v@K «resurrects»/makes B come to life.@@K-B
 4995@2@nu %@a@«resurrected», of someone restored to life.@@
-4995@3@po %@n@«resurrection», an event of … 's restoring … to life.@@
+4995@3@po %@n@«resurrection», an event of …'s restoring … to life.@@
 4996@1@@2a@G is more «barren»/«lifeless» than J is.@@G-J
 4996@2@pu %@n@«barrenness», a spec. property of being —.@@
 4997@1@@2v@B «need»/«requires» N to stay alive.@@B-N
@@ -9350,7 +9350,7 @@
 5006@1@@3v@B is genetically «related» to F in degree C.@@B-FC
 5006@2@@n@a/the «kin»/«relative» of, genetically related in some degree.@@
 5006@3@fu %@n@a degree of «kinship», a no. of relations.@@
-5006@4@lo %@n@«kin»/«relative» of …, the mass of … 's kin.@@
+5006@4@lo %@n@«kin»/«relative» of …, the mass of …'s kin.@@
 5006@5@lopu %@n@«kinship»/«relationship», the mass of such props.@@
 5006@6@pu %@n@a «kinship»/«relationship», a spec. prop. of any kin, q.v.@@
 5007@1@@1a@B is «middle-aged».@@B-
@@ -11576,7 +11576,7 @@
 6167@2@@n@«another»/«other», not the same thing as.@@
 6167@3@@v@be «different from», another thing.@@
 6167@4@lo %@n@(the) «others», the mass of such others.@@
-6168@1@@3v@K «sympathize»/feel «sympathy for» D about V, i.e. feels … 's trouble.@@K-DV
+6168@1@@3v@K «sympathize»/feel «sympathy for» D about V, i.e. feels …'s trouble.@@K-DV
 6168@2@@a@«sympathetic», of one who -izes.@@
 6168@3@po %@n@a «sympathy», a spec. state of feeling -ic.@@
 6169@1@@3v@K «meddle» in N by doing V.@@K-NV
@@ -11590,7 +11590,7 @@
 6173@1@@2v@K «simulate B»/«pretend to be» …, without malice.@@K-B
 6173@2@@n@a «simulator»/«pretender», one who -s to be ….@@
 6173@3@po %@n@a «pretension»/«pretense»/«simulation», an act of pretending to be ….@@
-6174@1@@2v@K «pity»/feel «sorry for» D, i.e. feels … 's sorrow.@@K-D
+6174@1@@2v@K «pity»/feel «sorry for» D, i.e. feels …'s sorrow.@@K-D
 6174@2@lopu %@n@«pity», general property.@@
 6174@3@nu %@a@«pitiable», conv. of pity.@@
 6174@4@po %@n@a «pity», a state/condition/instance of -ing. 'That's a pity'.@@
@@ -11998,7 +11998,7 @@
 6373@3@po nu %@n@a «fascination», a state of being -ed.@@
 6373@4@pu %@n@a «fascination», a property of a -ing thing.@@
 6374@1@@4v@K «quote»/«cite» B to D for purposes P.@@K-BDP
-6375@1@@2v@K «empathize with»/feel «empathy»/«compassion» for D, i.e. feels … 's pain.@@K-D
+6375@1@@2v@K «empathize with»/feel «empathy»/«compassion» for D, i.e. feels …'s pain.@@K-D
 6375@2@@a@«compassionate»/«empathetic», having compassion.@@
 6375@3@lopu %@n@«compassion», general property.@@
 6375@4@po %@n@an «empathy»/«compassion», a spec. act/condition.@@
@@ -14574,12 +14574,12 @@
 7820@2@@n@a «director», one who/that which -s.@@
 7820@3@po %@n@a «direction», an act of giving directions.@@
 7821@1@@3v@N «obstruct»/«block» K's way to D, nonintentional; 'water blocked the road'.@@N-KD
-7821@2@@av@in the «way», blocking … 's way to ….@@
+7821@2@@av@in the «way», blocking …'s way to ….@@
 7821@3@@n@a «bar»/«barrier»/«obstacle»/«obstruction», obstacle to … in going to ….@@
 7821@4@nu %@a@«obstructed», conv. of obstruct.@@
 7821@5@po %@n@an «obstruction», an act of -ing.@@
 7822@1@@3v@K «obstruct»/«block» B's way to D, intentional.@@K-BD
-7822@2@@av@in the «way», blocking … 's way to ….@@
+7822@2@@av@in the «way», blocking …'s way to ….@@
 7822@3@@n@an «obstructor», one who -s.@@
 7822@4@nu %@a@«obstructed», conv. of obstruct.@@
 7822@5@po %@n@an «obstruction», an act of -ing.@@
@@ -14643,7 +14643,7 @@
 7853@2@@n@«cereal»/«grain», a cereal plant.@@
 7853@3@lo %@n@«cereal»/«grain», mass term.@@
 7854@1@@af@a combining form of ≤prusa≥, «approve».@@
-7855@1@@2n@K «countenance»/«tolerate»/«approve» V, accept … 's action/behaviour.@@K-V
+7855@1@@2n@K «countenance»/«tolerate»/«approve» V, accept …'s action/behaviour.@@K-V
 7856@1@@1n@B is an element/feature/expression of the «Russian» language.@@B-
 7856@2@@a@«Russian», pert. to the Russian language.@@
 7856@3@lo %@n@«Russian», the mass of such elements.@@
