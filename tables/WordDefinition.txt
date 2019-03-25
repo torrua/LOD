@@ -6818,7 +6818,7 @@
 3634@1@@1a@B is an artefact/item/instance of «Inuit» culture.@@B-
 3635@1@@c@«implies»/«only if»/«if» … then, logical implication between sents./clauses.@@
 3635@2@@c@«not» … and or, one word between sents.@@
-3635@3@@c@«comma», in 'if …, … ' between clauses.@@
+3635@3@@c@«comma», in 'if …, …' between clauses.@@
 3636@1@@c@«either not» … or not, 1 wd. between sents/clauses.@@
 3636@2@@c@«not both» … and, a single word between sents./clauses.@@
 3637@1@@c@«not» … but, one word between sentences.@@
@@ -6833,7 +6833,7 @@
 3643@1@@c@«even though»/«although»/«despite», of unproductive causes ('although it's cold').@@
 3644@1@@c@«even though»/«although»/«despite», of unproductive motives ('although i'm hungry').@@
 3645@1@@c@«whether not» …, …, between sentences, reduces to ≤inucu≥, q.v.@@
-3645@2@@c@«comma», in 'whether not …, … ' w/sents.@@
+3645@2@@c@«comma», in 'whether not …, …' w/sents.@@
 3646@1@@c@«whether not» … not, bet. sents., reduces to ≤inucunoi≥, q.v.@@
 3647@1@@c@«even though»/«although»/«despite», of unproductive reasons ('although I earned it').@@
 3648@1@@c@«even though»/«although»/«despite», of unproductive premises ('although two is even').@@
@@ -11436,7 +11436,7 @@
 6091@2@@c@«if» … then … /«imply»/«not» … and or … <, implication between terms.(A)>.@@
 6092@1@@i@I don't «wish», an expression of wish denial.@@
 6093@1@@i@I do not «intend»/It is not my «intention» to …, an exp. of denial of strong intention.@@
-6094@1@@c@no eng. equiv. means '«not both» … and … ' as 1 word between terms.@@
+6094@1@@c@no eng. equiv. means '«not both» … and …' as 1 word between terms.@@
 6095@1@@ph@«no»/I don't «want to», an expression of moderate refusal.@@
 6096@1@@i@I do «care», denial of indifference/unconcern/absence of intention.@@
 6097@1@@1n@B is some «nobelium», a transuranic artificial element (No).@@B-
@@ -11447,8 +11447,8 @@
 6098@5@@c@«if» … then …, one word between modifiers.@@
 6099@1@@c@no eng. equiv. means '«not both» … and … ', 1 wd. between modifiers.@@
 6100@1@@c@«both not» … and …, one word between mods.@@
-6100@2@@c@no eng. equiv. means '«not» … but … ' 1 wd. between modified/ fiers.@@
-6101@1@@c@no eng. equiv. means '«neither» … nor … ' 1 wd. between modifiers.@@
+6100@2@@c@no eng. equiv. means '«not» … but …' 1 wd. between modified/ fiers.@@
+6101@1@@c@no eng. equiv. means '«neither» … nor …' 1 wd. between modifiers.@@
 6101@2@@c@«not» … and not …, one word between mods.@@
 6102@1@@c@«or» (else), exclusive sense/not … means …, between modified/fying words.@@
 6102@2@@c@«unless», not … means …, between modifiers.@@
@@ -11466,7 +11466,7 @@
 6111@1@@i@I don't «suggest», I'm not suggesting, a denial of implied intent.@@
 6112@1@@i@I «ask» not, I'm not asking, a denial that a question was implied.@@
 6113@1@@c@«not» … and not …, one word between terms.@@
-6113@2@@c@no eng. equiv. means '«neither» … nor … ' as one word between terms.@@
+6113@2@@c@no eng. equiv. means '«neither» … nor …' as one word between terms.@@
 6114@1@@i@I «request» not, denial of request for permission. "I'm not requesting, I'm demanding"@@
 6115@1@@i@I don't «suppose»/I don't «imagine», denial of supposition.@@
 6116@1@-noi@af@connective suffix as in ≤anoi, kanoi≥ etc. (A).@@
