@@ -7436,7 +7436,7 @@
 3969@4@no %@v@«cannot», not be able to do … under ….@@
 3969@5@pu %@n@an «ability»/«capability»/«talent»/«faculty», a spec. property.@@
 3969@6@pu no %@n@an «incapacity»/«inability», a spec. property.@@
-3970@1@@c@«if», in 'if … then … ', forethought implication; the material conditional, as in '≤Kanoi da brute ki da clivi.≥' — 'If X breathes, then X is alive.'.@@
+3970@1@@c@«if», in 'if … then …', forethought implication; the material conditional, as in '≤Kanoi da brute ki da clivi.≥' — 'If X breathes, then X is alive.'.@@
 3971@1@@3v@K «contend»/«compete»/«rival» with K over/about/for B.@@K-KB
 3971@2@@n@a «contender»/«competitor», one who competes.@@
 3971@3@fu %@n@a «goal», object of a competition, q.v.@@
@@ -9706,17 +9706,17 @@
 5204@2@nu %@n@a «complaint», an error -ed about.@@
 5204@3@po %@n@a «complaint», an act of -ing about errors.@@
 5205@1@@i@I «know something»/have some «idea» about …, expressing some knowledge/belief.@@
-5206@1@@c@«then», in 'if … then … ', used with ≤ki≥ as in '≤noka … ki … ≥'.@@
-5207@1@@c@«and», in 'not both … and … ', used with ≤ki≥ in '≤nokanoi … ki … ≥'.@@
-5208@1@@c@«and», in 'both not … and … ', used with ≤ki≥ as in '≤noke … ki … ≥'.@@
-5209@1@@c@«nor», in 'neither … nor … ', used with ≤ki≥ in '≤nokenoi … ki … ≥'.@@
+5206@1@@c@«then», in 'if … then …', used with ≤ki≥ as in '≤noka … ki … ≥'.@@
+5207@1@@c@«and», in 'not both … and …', used with ≤ki≥ in '≤nokanoi … ki … ≥'.@@
+5208@1@@c@«and», in 'both not … and …', used with ≤ki≥ as in '≤noke … ki … ≥'.@@
+5209@1@@c@«nor», in 'neither … nor …', used with ≤ki≥ in '≤nokenoi … ki … ≥'.@@
 5210@1@@c@«not» … means …, forethought.@@
 5210@2@@c@«or», in 'either … or …, but not both', with ≤ki≥ in '≤noko … ki … ≥'.@@
 5210@3@@c@«unless», not … means …, forethought.@@
 5211@1@@c@«not» … means not …, used with ≤ki≥ in '≤nokonoi … ki … ≥', q.v.@@
 5212@1@@pp@«despite» (cause) …, used before designations of unexpected effects.@@
 5213@1@@c@«even though»/«although», of unproductive causes, with ≤ki≥ in '≤nokouki … ki … ≥; despite …, …'.@@
-5214@1@@c@«whether», in 'not … whether … ', used with ≤ki≥ in '≤noku … ki … ≥'.@@
+5214@1@@c@«whether», in 'not … whether …', used with ≤ki≥ in '≤noku … ki … ≥'.@@
 5215@1@@c@«not» … whether not …, used with ≤ki≥ in '≤nokunoi … ki … ≥', q.v.@@
 5216@1@@af@a combining form of ≤norma≥, «average».@@
 5217@1@@3v@K «average», find the mean of distribution F to be C.@@K-FC
@@ -11423,7 +11423,7 @@
 6088@5@po nu %@n@an «arrangement», a state of being -ed.@@
 6089@1@@pm@«quote»s the following utterance as a non L formation.@@
 6090@1@@af@«in»—/«non»—/«un»—, forms «negative» of any predicate.@@
-6090@2@@av@«not»/«never», as in 'x is not … ', before predicates/operators & after indicators.@@
+6090@2@@av@«not»/«never», as in 'x is not …', before predicates/operators & after indicators.@@
 6090@3@@op@«no», generalized negative, before terms/sents or alone.@@
 6090@4@@ph@it is «not» the case that …, before sentences.@@
 6090@5@% ba@p@«none», in the sense of 'no one', q.v.@@
@@ -11445,7 +11445,7 @@
 6098@3@@c@«if» …, … between mods.@@
 6098@4@@c@«not» … and or …, one word between mods.@@
 6098@5@@c@«if» … then …, one word between modifiers.@@
-6099@1@@c@no eng. equiv. means '«not both» … and … ', 1 wd. between modifiers.@@
+6099@1@@c@no eng. equiv. means '«not both» … and …', 1 wd. between modifiers.@@
 6100@1@@c@«both not» … and …, one word between mods.@@
 6100@2@@c@no eng. equiv. means '«not» … but …' 1 wd. between modified/ fiers.@@
 6101@1@@c@no eng. equiv. means '«neither» … nor …' 1 wd. between modifiers.@@
