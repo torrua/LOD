@@ -2916,7 +2916,7 @@
 1608@1@la %@na@«Germany», the name of the country.@@
 1609@1@@1n@B is a «dolphin», a marine mammal.@@B-
 1610@1@@af@a combining form of ≤donsu≥, «give».@@
-1611@1@@3a@G is more «generous»/«liberal» than J in matter V); 'a liberal helping of … '.@@G-JV
+1611@1@@3a@G is more «generous»/«liberal» than J in matter V); 'a liberal helping of …'.@@G-JV
 1611@2@nu %@a@less «generous» than … in matter ….@@
 1611@3@nu %@a@(more) «stingy»/«miserly» (than … in matter …).@@
 1611@4@po %@n@an instance of «generosity».@@
@@ -8184,7 +8184,7 @@
 4357@1@@pp@«because of» (cause), a relative oper. before design'ns (PA).@@
 4357@2@% hu@ph@«why»/«how» (did that happen)?, by what cause?.@@
 4357@3@% ta@ph@«so then», because of that, an expression.@@
-4358@1@@c@«because»/«since»/«for»/«as», of causes, with ≤ki≥ in '≤kouki … ki …≥; because …, … '.@@
+4358@1@@c@«because»/«since»/«for»/«as», of causes, with ≤ki≥ in '≤kouki … ki …≥; because …, …'.@@
 4359@1@@af@a combining form of ≤korva≥, «curve».@@
 4360@1@@1v@V become «bowed»/«curved», intransitive.@@V-
 4361@1@@2v@N «bow»/«curve» … /make D curve, nonintentionally.@@N-D
@@ -9715,14 +9715,14 @@
 5210@3@@c@«unless», not … means …, forethought.@@
 5211@1@@c@«not» … means not …, used with ≤ki≥ in '≤nokonoi … ki … ≥', q.v.@@
 5212@1@@pp@«despite» (cause) …, used before designations of unexpected effects.@@
-5213@1@@c@«even though»/«although», of unproductive causes, with ≤ki≥ in '≤nokouki … ki … ≥; despite …, … '.@@
+5213@1@@c@«even though»/«although», of unproductive causes, with ≤ki≥ in '≤nokouki … ki … ≥; despite …, …'.@@
 5214@1@@c@«whether», in 'not … whether … ', used with ≤ki≥ in '≤noku … ki … ≥'.@@
 5215@1@@c@«not» … whether not …, used with ≤ki≥ in '≤nokunoi … ki … ≥', q.v.@@
 5216@1@@af@a combining form of ≤norma≥, «average».@@
 5217@1@@3v@K «average», find the mean of distribution F to be C.@@K-FC
 5218@1@@3n@B is the «normal form» of expression V under/within system N.@@B-VN
 5219@1@@pp@«despite» (motive) …, used before designations of unmotivated actions.@@
-5220@1@@c@«even though»/«although», of unproductive motives, with ≤ki≥ in '≤nomoiki … ki … ≥; despite …, … '.@@
+5220@1@@c@«even though»/«although», of unproductive motives, with ≤ki≥ in '≤nomoiki … ki … ≥; despite …, …'.@@
 5221@1@@2v@K become «accustomed to»/«adapted to»/«habituated to» N.@@K-N
 5222@1@@c@«whether» not …, …, bet. modified/iers, reduces to ≤nucu≥, q.v.@@
 5223@1@@c@«whether» not …, not …, bet. mods., reduces to ≤nucunoi≥, q.v.@@
@@ -9737,7 +9737,7 @@
 5232@1@@i@it does «matter whether» …, an denial of ethical indifference.@@
 5233@1@@af@a combining form of «no».@@
 5234@1@@pp@«despite» (reason) …, used before designations of unjustified outcomes.@@
-5235@1@@c@«even though»/«although», of unproductive reasons, with ≤ki≥ in '≤norauki … ki≥; despite …, … '.@@
+5235@1@@c@«even though»/«although», of unproductive reasons, with ≤ki≥ in '≤norauki … ki≥; despite …, …'.@@
 5236@1@@1av@«awkward» (ly).@@G-J
 5236@2@@2a@G is more «awkward»/«clumsy» than J.@@
 5236@3@lopu %@1n@«clumsiness»/«awkwardness» (mass term).@@
@@ -10258,7 +10258,7 @@
 5492@12@po fu %@n@a «motivation», a state of being -ed.@@
 5493@1@@pp@«in order to»/«because of» (motive), a relative oper. before design'ns (PA).@@
 5493@2@% hu@ph@«why»/«what for»/«in order to what»?, for what motive/intention/purpose?.@@
-5494@1@@c@«because»/«since»/«for»/«as», of motives, with ≤ki≥ in '≤moiki … ki … ≥; because …, … '.@@
+5494@1@@c@«because»/«since»/«for»/«as», of motives, with ≤ki≥ in '≤moiki … ki … ≥; because …, …'.@@
 5495@1@@af@a combining form of ≤molro≥, «soft».@@
 5496@1@@1v@B «soften» (actor unspecified) e.g. the chocolate softened.@@B-
 5497@1@@2n@B is a «mill», for grinding grain of place/community F.@@B-F
@@ -11569,7 +11569,7 @@
 6161@1@@2a@B is/are «harmless» to D.@@B-D
 6162@1@@af@a combining form of ≤norsa/e/i/o≥, "«Norwegian»".@@
 6163@1@@pp@«despite» (premise) …, used before designations of unentailed claims.@@
-6164@1@@c@«even though»/«although», of unproductive premises, as in '≤nosoaki … ki … ≥; despite …, … '.@@
+6164@1@@c@«even though»/«although», of unproductive premises, as in '≤nosoaki … ki … ≥; despite …, …'.@@
 6165@1@@1n@K is a «Norwegian speaker», a speaker of the … language.@@K-
 6166@1@@af@a combining form of ≤notbi≥, «other».@@
 6167@1@@2a@B is «other»/«another»/a «different»/not the «same» object/person as B.@@B-B
@@ -12026,7 +12026,7 @@
 6392@1@@2n@B is the «nucleus» of (cell/atom) F.@@B-F
 6392@2@% acdi@ph@a «nucleic acid», the basic genetic material.@@
 6393@1@@pp@«therefore» (effect) ….@@
-6394@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», causal, as used with ≤ki≥ in '≤nukouki … ki … ≥; best translated … because(cause) … '.@@
+6394@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», causal, as used with ≤ki≥ in '≤nukouki … ki … ≥; best translated … because(cause) …'.@@
 6395@1@@c@«whether» …, …, used with ≤ki≥ in '≤nuku … ki … ≥'.@@
 6396@1@@c@«whether» …, not …, with ≤ki≥ in '≤nukunoi … ki … ≥'.@@
 6397@1@@af@a combining form of ≤numcu≥, «number».@@
@@ -12042,7 +12042,7 @@
 6404@1@@1n@B is a «numeral»/«digit»/«figure».@@B-
 6404@2@@a@«numeric»/«digital», pert. to digits.@@
 6405@1@@pp@«therefore» (action) ….@@
-6406@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», motivational, used with ≤ki≥ in '≤numoiki … ki … ≥; best translated … because(motive) … '.@@
+6406@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», motivational, used with ≤ki≥ in '≤numoiki … ki … ≥; best translated … because(motive) …'.@@
 6407@1@@2n@B is a mathematical «function» for N.@@B-N
 6407@2@nu %@n@a «value» (of a mathematical function).@@
 6408@1@@1a@N is «exact»/«precise», numerically.@@N-
@@ -12062,13 +12062,13 @@
 6414@1@@1n@F is «calculus», a mathematical calculation system.@@F-
 6415@1@@af@a combining form of ≤nu≥, 2nd place «passive», before 'r'.@@
 6416@1@@pp@«nevertheless» (unexpected effect).@@
-6417@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unexpected events, as in '≤nunokouki … ki≥; best translated … despite(cause) … '.@@
+6417@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unexpected events, as in '≤nunokouki … ki≥; best translated … despite(cause) …'.@@
 6418@1@@pp@«nevertheless» (unexpected action).@@
-6419@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unmotivated acts, as in '≤nunomoiki … ki≥; best translated … despite(motive) … '.@@
+6419@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unmotivated acts, as in '≤nunomoiki … ki≥; best translated … despite(motive) …'.@@
 6420@1@@pp@«nevertheless» (unexpected decision).@@
-6421@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unjustified events, in '≤nunorauki … ki≥; best translated … despite(reason) … '.@@
+6421@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unjustified events, in '≤nunorauki … ki≥; best translated … despite(reason) …'.@@
 6422@1@@pp@«nevertheless» (unexpected consequence).@@
-6423@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unentailed sents., as in '≤nunosoaki … ki≥; best translated … despite(premise) … '.@@
+6423@1@@c@«still»/«yet»/«nevertheless»/«all the same»/«even» (so), of unentailed sents., as in '≤nunosoaki … ki≥; best translated … despite(premise) …'.@@
 6424@1@@2v@F «consist»/be «composed»/«constituted» of parts B.@@F-B
 6424@2@pu %@n@«constitution», composition, a property.@@
 6425@1@@1n@B is a «missile»/«projectile»/«shot», any thrown or fired thing.@@B-
@@ -12087,7 +12087,7 @@
 6430@1@@mod@2nd «reflexive», equivalent to inserting a second argument identical to the 1st argument. E.g. ≤Da nuo ditka≥ — he bit himself.@@
 6431@1@@af@a combining form of ≤nu≥, 2nd place «passive».@@
 6432@1@@pp@«therefore» (decision) ….@@
-6433@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of justification, with ≤ki≥ in '≤nurauki … ki … ≥; best translated … because(reason) … '.@@
+6433@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of justification, with ≤ki≥ in '≤nurauki … ki … ≥; best translated … because(reason) …'.@@
 6434@1@@2n@B is a «porter»/«concierge»/«superintendent» of F.@@B-F
 6435@1@@1n@B is a «building»/«edifice»/«structure», any built thing.@@B-
 6436@1@@2n@B is the «foundation» of building F.@@B-F
@@ -12382,7 +12382,7 @@
 6597@2@@a@«fine»/«powdery».@@
 6597@3@nu %@a@«coarse».@@
 6598@1@@pp@«therefore» (consequence) ….@@
-6599@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of entailment, with ≤ki≥ in '≤nusoaki … ki … ≥; best translated … because(premise) … '.@@
+6599@1@@c@«hence»/«consequently»/«therefore»/«thus»/«so», of entailment, with ≤ki≥ in '≤nusoaki … ki … ≥; best translated … because(premise) …'.@@
 6600@1@@3a@B is «neutral» in dispute/struggle V between parties D.@@B-VD
 6600@2@@n@a «neutral», one who is neutral.@@
 6600@3@lopo %@n@«neutrality», the mass of such states.@@
@@ -12992,7 +12992,7 @@
 6927@3@nu %@n@a «superset» of a set corresponding to a multiple.@@
 6928@1@@av@«re»/«concerning»/«as for».@@
 6928@2@% mi@ph@«as-for me»/for my «part».@@
-6929@1@pi%@pm@«decimal point»/«point»/«percent», as in 'point one/ten percent of … '.@@
+6929@1@pi%@pm@«decimal point»/«point»/«percent», as in 'point one/ten percent of …'.@@
 6930@1@@c@«until», continuously before, with clauses.@@
 6930@2@@op@continuous past tense: «was ing»/being ….@@
 6930@3@@pp@«until», continuously before, with terms.@@
@@ -13714,7 +13714,7 @@
 7315@1@@1n@B is a «scoop», an instrument/tool for scooping.@@B-
 7316@1@@af@a combining form of ≤puntu≥, «pain».@@
 7317@1@@a@«all»/«each»/«every»/«apiece» (member of set …), before ≤ba≥ series every something ….@@
-7317@2@-ra@af@-some/-ad/-et, as in '≤tora≥: «twosome»/«dyad»/«duo»/«pair»/«couple» ', the cardinal suffix; makes 2 place predicates of the form ' … is a N member subset of set … '.@@
+7317@2@-ra@af@-some/-ad/-et, as in '≤tora≥: «twosome»/«dyad»/«duo»/«pair»/«couple» ', the cardinal suffix; makes 2 place predicates of the form ' … is a N member subset of set …'.@@
 7318@1@@af@a combining form of ≤grasa≥, «grass».@@
 7319@1@@p@«whatever»/«whichever»/«whoever», every …, 'Whatever runs, eats'.@@
 7319@2@@p@«anything»/«anyone»/«anybody», every …, as in 'anything wins'.@@
@@ -13988,7 +13988,7 @@
 7473@3@po %@n@a «bargain», an event/act of -ing.@@
 7474@1@@pp@«because of» (reason), a relative oper. before design'ns (PA).@@
 7474@2@% hu@ph@«why»? for what reason?@@
-7475@1@@c@«because»/«since»/«for»/«as», of reasons, with ≤ki≥ in '≤rauki … ki … ≥; because …, … '.@@
+7475@1@@c@«because»/«since»/«for»/«as», of reasons, with ≤ki≥ in '≤rauki … ki … ≥; because …, …'.@@
 7476@1@@af@a combining form of ≤raznu≥, «reason».@@
 7477@1@@3v@K give «reasons for»/«justify act» V with reason S.@@K-VS
 7477@2@@a@«reasonable», of those who give reasons.@@
@@ -15617,7 +15617,7 @@
 8385@4@lio %@ph@«six» (6), the number six, non math.@@
 8386@1@@pp@«because of» (premise), a relative oper. before design'ns (PA).@@
 8386@2@% hu@ph@«why»?, by what premise?.@@
-8387@1@@c@«because»/«since»/«for»/«as», of premises, with ≤ki≥ in '≤soaki … ki … ≥; because …, … '.@@
+8387@1@@c@«because»/«since»/«for»/«as», of premises, with ≤ki≥ in '≤soaki … ki … ≥; because …, …'.@@
 8388@1@@af@a combining form of ≤socli≥, «interact».@@
 8389@1@@3a@G is «inferior» to J in social system/ hierarchy N.@@G-JN
 8389@2@lopu %@n@«inferiority», mass property.@@
