@@ -13253,7 +13253,7 @@
 7073@9@po no %@n@an «unpleasantness», a spec. event.@@
 7073@10@po nu %@n@a «pleasure», a state of being -ed.@@
 7073@11@pu nu %@n@a «pleasure», a quality of being -ed.@@
-7074@1@@3v@K (give a )«treat» of B to D.@@K-BD
+7074@1@@3v@K (give a) «treat» of B to D.@@K-BD
 7074@2@nu %@n@a «treat», what is given by the treater.@@
 7075@1@@2a@G is more «delicious»/«flavourful»/«flavorful» than J.@@G-J
 7076@1@@1a@B is «quaint».@@B-
@@ -15005,7 +15005,7 @@
 8057@2@pu %@n@a «haughtiness»/«arrogance», a spec. property.@@
 8058@1@@1v@K self «rule».@@K-
 8058@2@@a@«sovereign»/«autonomous».@@
-8059@1@@3v@K «do» V (by ones own «hand» ) to D.@@K-VD
+8059@1@@3v@K «do» V (by ones own «hand») to D.@@K-VD
 8060@1@@1n@B is some «selenium», element 34 (Se).@@B-
 8061@1@@2n@B is some «celery» from S.@@B-S
 8061@2@lo %@n@«celery», mass term.@@
@@ -15214,7 +15214,7 @@
 8185@3@po %@n@an instance of «synthesis».@@
 8186@1@@av@«certainly»/«certain to be», the objective sense. E.g. ≤Da sio mamla≥ — X is certainly/certain to be a mammal. Cf. ≤ia≥ for the subjective sense.@@
 8186@2@@in@«certainly», is certainly true/will certainly happen (under the circumstances implied by speech) (PA). E.g. ≤Ta sio mamla≥ — That's certainly a mammal.@@
-8186@3@@pp@(that … is ) «certain» under conditions …, used before state/event terms. E.g. ≤Da mamla sio ta≥ — (That) X is a mammal is certain under those conditions.@@
+8186@3@@pp@(that … is) «certain» under conditions …, used before state/event terms. E.g. ≤Da mamla sio ta≥ — (That) X is a mammal is certain under those conditions.@@
 8187@1@@2v@D «know»/«comprehend»/«understand» N.@@D-N
 8187@2@lopu %@n@«understanding», mass prop.@@
 8187@3@nu %@a@«understood», of known systems.@@
@@ -15779,7 +15779,7 @@
 8482@2@pu %@n@a «saltiness», a spec. property.@@
 8483@1@@1n@B is a «salty» taste/flavour.@@B-
 8484@1@@2n@B is some «sauterne», a wine from S.@@B-S
-8485@1@@2v@K (put )«salt» ( on) D.@@K-D
+8485@1@@2v@K (put) «salt» (on) D.@@K-D
 8486@1@@af@a combining form of ≤spasi≥, «space».@@
 8487@1@@4n@B is an «interval»/«distance» of C units between S and D.@@B-CSD
 8488@1@@1n@B is a «mattress»/«pad»/«pallet», as for a bed.@@B-
@@ -16599,7 +16599,7 @@
 8915@1@@2n@B is a/the «wing» of F.@@B-F
 8916@1@@3v@K «permit» B to go in D.@@K-BD
 8917@1@@1n@B is a «hydrofoil».@@B-
-8918@1@@3v@K (go by ) «wing» to D from S.@@K-DS
+8918@1@@3v@K (go by) «wing» to D from S.@@K-DS
 8919@1@@2v@K «stretch the wings» for D.@@K-D
 8920@1@@2v@K «moves through»/«passes through»/«penetrates» region/field/habitat/population N.@@K-N
 8921@1@@1n@B is a length of «chain», a connected series of links.@@B-
@@ -18279,7 +18279,7 @@
 9824@1@@l@«z», Latin lower case letter, one of a pool of symbols.@@
 9825@1@@l@«zeta», Greek lower case letter, one of a pool of symbols.@@
 9826@1@@2n@B is the 10E 21st «quantity» of F (ISV zepto).@@B-F
-9827@1@@2n@F is 10E21 fold «quantity» of B ( ISV zetta).@@F-B
+9827@1@@2n@F is 10E21 fold «quantity» of B (ISV zetta).@@F-B
 9828@1@-zi@af@the mark of «Greek» lower case vowel names as in ≤azi/ezi/izi/≥etc.@@
 9828@2@-zi@af@the point like interval space time suffix, as in ≤fazi≥ — 'right away'.@@
 9829@1@@af@attached to <predy>, means «part of» <preda> «language»; e.g. ≤lepsyzia≥ — rabbit language.@@
