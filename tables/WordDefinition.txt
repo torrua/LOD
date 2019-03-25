@@ -9738,7 +9738,7 @@
 5233@1@@af@a combining form of «no».@@
 5234@1@@pp@«despite» (reason) …, used before designations of unjustified outcomes.@@
 5235@1@@c@«even though»/«although», of unproductive reasons, with ≤ki≥ in '≤norauki … ki≥; despite …, …'.@@
-5236@1@@1av@«awkward» (ly).@@G-J
+5236@1@@1av@«awkward» (-ly).@@G-J
 5236@2@@2a@G is more «awkward»/«clumsy» than J.@@
 5236@3@lopu %@1n@«clumsiness»/«awkwardness» (mass term).@@
 5236@4@pu %@1n@«clumsiness»/«awkwardness» (spec. instance).@@
@@ -10470,7 +10470,7 @@
 5613@2@lopu %@n@«enormity»/«greatness»/«hugeness», mass prop.@@
 5613@3@po %@n@an «enormity», a condition of being -ous.@@
 5614@1@@3v@K act «wickedly» in doing V by moral standard N.@@K-VN
-5614@2@@1av@«wicked» (ly).@@
+5614@2@@1av@«wicked» (-ly).@@
 5614@3@lopu %@n@«evil»/«wickedness», mass prop.@@
 5614@4@po %@n@an act of «evil»/«wickedness».@@
 5615@1@@3a@G is more «slanted» than J in gravity field N.@@G-JN
@@ -15183,7 +15183,7 @@
 8168@1@@2v@K «magnify» D, make it seem larger (intentional act).@@K-D
 8168@2@po %@n@an instance of «magnification», making … seem larger.@@
 8169@1@@2v@K is «vivid» in describing V.@@K-V
-8169@2@@1av@«vivid» (ly).@@
+8169@2@@1av@«vivid» (-ly).@@
 8170@1@@3n@V is the «appearance»/«look» (s) of B to D.@@V-BD
 8171@1@@af@a combining form of ≤sinma≥, «cinema».@@
 8172@1@@a@«at-most one» of …, a quantifier, usually abbreviated as ≤si≥, q.v.@@
