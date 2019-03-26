@@ -3114,7 +3114,7 @@
 1720@1@@2n@N is a «flourish» of (music/instrument) B.@@N-B
 1722@1@@pp@«by» (method), a relative operator before terms (PA).@@
 1722@2@@pp@in «manner»/«mode»/«style», a relative operator before terms (PA).@@
-1722@3@% hu@q@«how»?/in what «manner»?/in what «way»?.@@
+1722@3@% hu@q@«how»?/in what «manner»?/in what «way»?@@
 1723@1@@2v@K is «willing»/«fain» to do/be P.@@K-P
 1724@1@@3v@K «act like»/«imitate» S in action V.@@K-SV
 1724@2@@n@S is a «model»/«pattern» followed by K in action V.@@
@@ -3769,7 +3769,7 @@
 2033@1@@3v@K «disturb»/«trouble»/«aggravate»/«annoy»/«vex»/«bother»/«gall» D by doing/being V.@@K-DV
 2033@2@@a@«trouble»/«troublesome»/«annoying»/«aggravating»/«vexing»/«bothersome»/«plaguing», of that which -s ….@@
 2033@3@@n@a/some «care»/«trouble»/«plague», a troubling/disturbing thing.@@
-2033@4@hu %@ph@what's the «trouble»?, what troubles?.@@
+2033@4@hu %@ph@what's the «trouble»?, what troubles?@@
 2033@5@lo %@n@«trouble»/«adversity», mass term.@@
 2033@6@nu %@a@«troubled»/«disturbed», conv. form.@@
 2033@7@nu %@v@have «care», to be troubled by ….@@
@@ -8182,7 +8182,7 @@
 4355@1@@1n@B is some «potassium», element 19 (K).@@B-
 4356@1@@2n@B is a «computer display»/«monitor» for system F.@@B-F
 4357@1@@pp@«because of» (cause), a relative oper. before design'ns (PA).@@
-4357@2@% hu@ph@«why»/«how» (did that happen)?, by what cause?.@@
+4357@2@% hu@ph@«why»/«how» (did that happen)?, by what cause?@@
 4357@3@% ta@ph@«so then», because of that, an expression.@@
 4358@1@@c@«because»/«since»/«for»/«as», of causes, with ≤ki≥ in '≤kouki … ki …≥; because …, …'.@@
 4359@1@@af@a combining form of ≤korva≥, «curve».@@
@@ -8327,7 +8327,7 @@
 4426@1@@2v@K «turn on»/«switch on» B, start a current in ….@@K-B
 4427@1@@3v@K is a «tide» with amplitude C and flow rate C.@@K-CC
 4427@2@fu %@n@«tidal» rate, time and place specified adverbially.@@
-4427@3@Nahu lenu % ga minmi vi la Miamis na lena denli?@ph@When is low «tide» at Miami today?.@@
+4427@3@Nahu lenu % ga minmi vi la Miamis na lena denli?@ph@When is low «tide» at Miami today?@@
 4427@4@nu %@n@«tidal» range, the difference between high and low tide; time and place specified adverbially.@@
 4428@1@@3v@K «write» B in/on D in a «cursive» fashion.@@K-BD
 4429@1@@3v@K «block» (up)/«obstruct» the way of B to D.@@K-BD
@@ -10257,7 +10257,7 @@
 5492@11@nu %@n@an «act»/«action», a motivated act, see motive.@@
 5492@12@po fu %@n@a «motivation», a state of being -ed.@@
 5493@1@@pp@«in order to»/«because of» (motive), a relative oper. before design'ns (PA).@@
-5493@2@% hu@ph@«why»/«what for»/«in order to what»?, for what motive/intention/purpose?.@@
+5493@2@% hu@ph@«why»/«what for»/«in order to what»?, for what motive/intention/purpose?@@
 5494@1@@c@«because»/«since»/«for»/«as», of motives, with ≤ki≥ in '≤moiki … ki … ≥; because …, …'.@@
 5495@1@@af@a combining form of ≤molro≥, «soft».@@
 5496@1@@1v@B «soften» (actor unspecified) e.g. the chocolate softened.@@B-
@@ -10652,7 +10652,7 @@
 5710@5@@va@«am»/«are»/«is» (now) -ing sign of the present tense.@@
 5710@6@% ba@av@«now and then»/«once» (upon a time) — at/during some time x.@@
 5710@7@% ba@av@«sometime»/«anytime»/«ever» — literally, at/in/during some (time) x.@@
-5710@8@% hu@q@«when»?/«during what interval»?/at what «point in time»?.@@
+5710@8@% hu@q@«when»?/«during what interval»?/at what «point in time»?@@
 5710@9@% le ckemo@av ph@at the «time of»/in that «interval», of intervals.@@
 5710@10@% le nazdei@av ph@«today».@@
 5710@11@% le nazdelnai@av ph@«today», a 24 hr period.@@
@@ -11262,7 +11262,7 @@
 6002@2@@c@all the «while»/as «long as»/«when»/«while»/«all along».@@
 6002@3@@pp@«during»/«throughout».@@
 6002@4@@va@am/is/are+(now) «-ing», continuous present tense.@@
-6002@5@% hu@q@«when»?/«throughout what interval» in time?.@@
+6002@5@% hu@q@«when»?/«throughout what interval» in time?@@
 6002@6@% ta@av@«all along», throughout that interval.@@
 6002@7@% ti@av@«all along», throughout this interval.@@
 6003@1@@1n@B is a «monster».@@B-
@@ -15616,7 +15616,7 @@
 8385@3@@l@«six» (6) (of), a description quantifier. E.g. ≤So le fumna pa merji≥ — (Some) Six of the women were married; ≤So fumna pa hijra≥ — (Some) Six women were here independently. Cf., ≤socu≥.@@
 8385@4@lio %@ph@«six» (6), the number six, non math.@@
 8386@1@@pp@«because of» (premise), a relative oper. before design'ns (PA).@@
-8386@2@% hu@ph@«why»?, by what premise?.@@
+8386@2@% hu@ph@«why»?, by what premise?@@
 8387@1@@c@«because»/«since»/«for»/«as», of premises, with ≤ki≥ in '≤soaki … ki … ≥; because …, …'.@@
 8388@1@@af@a combining form of ≤socli≥, «interact».@@
 8389@1@@3a@G is «inferior» to J in social system/ hierarchy N.@@G-JN
@@ -17095,8 +17095,8 @@
 9209@1@@2n@B is a «tornado» in F, e.g. ≤Mu pa nu tontetri≥ — We had a tornado.@@B-F
 9209@2@@a@«stormy» (of the type specified).@@
 9210@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "each of you individually" sense, the plural 2nd person multiple variable, of several persons spoken/written to independently. Cf. ≤tu≥ for the singular sense of you, ≤tou≥ for the "you all collectively" sense of you, and ≤tuu/tuo≥ for the "you and others" sense of you.@@
-9210@2@% he?@ph@«How-are-you-all»?/«What-are-you-individually»?/«What-does-each-of-you do»?.@@
-9210@3@Hu namci %?@ph@«What-are-your»(-individual) names?.@@
+9210@2@% he?@ph@«How-are-you-all»?/«What-are-you-individually»?/«What-does-each-of-you do»?@@
+9210@3@Hu namci %?@ph@«What-are-your»(-individual) names?@@
 9211@1@@af@a combining form of to, «two».@@
 9212@1@@2n@is a «pair»/«dyad»/«twosome»/«couple», a two member subset of set …, a cardinal predicate; e.g. ≤Da tora lea blanirda≥ — X is a pair of bluebirds.@@
 9212@2@@a@«dyadic»/«dual», pert. to pairs/dyads /two somes/.@@
@@ -17200,8 +17200,8 @@
 9272@2@nu %@a@«stratified», consisting of layers.@@
 9273@1@@3v@K «crochet» P from B.@@K-PB
 9274@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "group of you jointly" sense, the plural 2nd person set variable, of several persons spoken/written to jointly. Cf. ≤tu≥ for the singular sense of you, ≤too≥ for the "you all independently" sense of you, and ≤tuu/tuo≥ for the "you and others" sense of you.@@
-9274@2@% he?@ph@«What-are-you»(-as-a-group)?/«What-does-your-group do»?.@@
-9274@3@Hu namci %?@ph@«What»'s-your(-group)-name?/«What»'s-your-group called?.@@
+9274@2@% he?@ph@«What-are-you»(-as-a-group)?/«What-does-your-group do»?@@
+9274@3@Hu namci %?@ph@«What»'s-your(-group)-name?/«What»'s-your-group called?@@
 9275@1@@af@a combining form of ≤tovru≥, «above».@@
 9276@1@@2n@D is an «overhead» «locker» containing B.@@D-B
 9277@1@@2n@B is a «robe» of S.@@B-S
@@ -17497,10 +17497,10 @@
 9418@1@@3v@B is «so»/«sufficient» (in some property) that (result) P in circumstances N.@@B-PN
 9419@1@@1n@B is a «tsunami»/«tidal wave».@@B-
 9420@1@@p@«you»/«yourself»/«thee»/«thou», the singular 2nd person variable, of a person spoken/written to. Cf. ≤tou≥ & ≤tuo≥ for plural 2nd person variables.@@
-9420@2@% ie filmo@ph@«How-are you»?, How are you feeling?.@@
-9420@3@% ie nu vetci@ph@«How»'s-it going?.@@
-9420@4@% namci ie da@ph@«What»'s-your name?.@@
-9420@5@Ei % djela@ph@«How-are you»?, Are you well?.@@
+9420@2@% ie filmo@ph@«How-are you»?, How are you feeling?@@
+9420@3@% ie nu vetci@ph@«How»'s-it going?@@
+9420@4@% namci ie da@ph@«What»'s-your name?@@
+9420@5@Ei % djela@ph@«How-are you»?, Are you well?@@
 9421@1@@af@a combining form of ≤turka≥, «work».@@
 9422@1@@2a@K is «busy»/«occupied with»/«engaged in» V.@@K-V
 9422@2@@v@be «busy»/«occupied with»/«engaged in» ….@@
@@ -17543,8 +17543,8 @@
 9448@3@po %@n@an instance of «tumescence».@@
 9449@1@@2n@B is a «tumor» of F.@@B-F
 9450@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "you and others independently" sense, the plural 2nd & 3rd person multiple variable, equivalent to '≤tu, e da≥', of a person and others not present spoken/written to independently. Cf. ≤tu≥ for the singular sense of you, ≤tuu≥ for the "you and others jointly" sense of you, and ≤tou/too≥ for the plural audience sense of you.@@
-9450@2@% he?@ph@«How-are-you-all»?/«What-are-you-individually»?/«What-does-each-of-you do»?.@@
-9450@3@Hu namci %?@ph@«What-are-your»(-individual) names?.@@
+9450@2@% he?@ph@«How-are-you-all»?/«What-are-you-individually»?/«What-does-each-of-you do»?@@
+9450@3@Hu namci %?@ph@«What-are-your»(-individual) names?@@
 9451@1@@af@a combining form of ≤turka≥, «work».@@
 9452@1@@1n@B is a «planarian»/«flatworm» of the class Turbellaria.@@B-
 9453@1@lao %@na@the class «Turbellaria» of planaria, a type of flatworm.@@
@@ -17595,8 +17595,8 @@
 9481@1@@2v@K «undertake»/«agree to» do (project) P.@@K-P
 9481@2@po %@n@an «undertaking», a specific agreement to do ….@@
 9482@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "you and others jointly" sense, the plural 2nd & 3rd person set variable, equivalent to '≤tu ze da≥', of a person and others not present spoken/written to jointly. Cf. ≤tu≥ for the singular sense of you, ≤tuo≥ for the "you and others independently" sense of you, and ≤tou/too≥ for the plural audience sense of you.@@
-9482@2@% he?@ph@«What-are-you»(-as-a-group)?/«What-does-your-group do»?.@@
-9482@3@Hu namci %?@ph@«What»'s-your(-group)-name?/«What»'s-your-group called?.@@
+9482@2@% he?@ph@«What-are-you»(-as-a-group)?/«What-does-your-group do»?@@
+9482@3@Hu namci %?@ph@«What»'s-your(-group)-name?/«What»'s-your-group called?@@
 9483@1@@c@«whether» (or not), logical independence between terms.@@
 9484@1@@i@«there»!/«that»'s it!/«finally»!/at «last»/«done» …, an exp. of satisf'n.@@
 9485@1@@2a@B is «sacred» to K.@@B-K
@@ -17866,7 +17866,7 @@
 9625@1@@2v@N «take place»/«happen»/«occur»/«involve» (to) objects/persons D.@@N-D
 9625@2@@n@an «event»/«happening»/«incident»/«occurrence»/«phenomenon», a happening/occurence involving ….@@
 9625@3@nu %@a@«involved» (in event …).@@
-9625@4@tu ie nu %@ph@«How»'s it going?, well or badly?.@@
+9625@4@tu ie nu %@ph@«How»'s it going?, well or badly?@@
 9626@1@@4v@K give «account»/«report»/«narration» P of event V to D.@@K-PVD
 9626@2@@v@«narrate»/«tell»/«report» … about event … to ….@@
 9626@3@nu %@n@an «account»/«narration»/«report», of an event.@@
