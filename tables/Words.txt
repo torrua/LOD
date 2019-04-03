@@ -4586,7 +4586,7 @@
 4595@2-Cpx@Predicate@@@JCB/RAM@1980@4.7@kuv(ga)+la(rt)e@cover art@@
 4596@3-Cpx@Predicate@@@RAM@2001@7+@kuvl(a)+y+son(da)+pro(ju)@hollow sound produce@@
 4597@LW@Struct@@@L4@1975@1.0@@@@
-4598@Afx@Affix@@@JCB@1988@7+@langa@@@
+4598@LW@Struct@@@RH@1992@7+@@@@
 4599@2-Cpx@Predicate@@@L4@1975@3.6@la(ng)a+cko(zu)@long cause@@
 4600@2-Cpx@Predicate@@@JCB@1995@7+@la(ng)a+ska(lu)@long scale@@
 4601@2-Cpx@Predicate@@@RAM@1982@4.7@la(ng)a+sto(lo)@long stay@@
@@ -9945,7 +9945,7 @@
 9990@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9991@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9992@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
-9993@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
+9993@Afx@Affix@@@JCB (?)@1988 (?)@7+?@langa@@@
 9994@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9995@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9996@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
