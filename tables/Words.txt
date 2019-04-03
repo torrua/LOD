@@ -3784,7 +3784,7 @@
 3793@C-Prim@Predicate@jug jua@36%@L4@1975@1.1@3/4C jua | 2/4E grip | 2/4G griff@@filjua | foirjua | gomjua | janjua | jiurjua | juafro | juarliumai | jugfaa | jugfiu | jughou | jugkoe | jugpae | jugpai | jugrie | jugtoa | minjua | muvjua | muvjuatio | netyjua | nornurjuasto | nornurjuastosia | radjua | renjua | tedjua@
 3794@2-Cpx@Predicate@@@APL@1995@7+@jug(ra)+(t)ri(m)e@grip tool@@
 3795@2-Cpx@Predicate@@@L4@1975@7.4@jug(ra)+to(kn)a@grasp take@@
-3796@Afx@Affix@@@JCB@1988@7+@jupni@@@
+3796@LW@Struct@@@L4@1975@15+@jupni@@@
 3797@2-Cpx@Predicate@@@L4@1975@1.6@ju(pn)i+cko(zu)@opinion cause@@
 3798@2-Cpx@Predicate@@@RAM@1988@4.1@ju(pn)i+cle(si)@opinion without@@
 3799@2-Cpx@Predicate@@@WDG/JCB@1986@2.6@ju(pn)i+r+be(gc)o@opinion ask@@
@@ -9932,7 +9932,7 @@
 9977@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9978@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9979@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
-9980@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
+9980@Afx@Affix@@@JCB (?)@1988 (?)@7+?@jupni@@@
 9981@Afx@Affix@@@JCB@1988@7+@djupo@@@
 9982@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9983@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
