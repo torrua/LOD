@@ -10057,7 +10057,7 @@
 10103@LW@Struct@@@RH@2015@@@@@
 10104@LW@Struct@@@RH@2016@@@@@
 10105@LW@Struct@@@RH@2016@@@@@
-10106@2-Cpx@Predicate@lei@@UA@2016 (But really older. Omitted about 2000: see nui)@@nu(r) + letci@@@
+10106@2-Cpx@Predicate@@@UA@2016 (But really older. Omitted about 2000: see nui)@@nu(r) + letci@@@
 10107@Afx@Affix@@@JCB@1988@7+@buste@@@
 10108@Afx@Affix@@@JCB@1988@7+@clika@@@
 10109@Afx@Affix@@@JCB@1988@7+@djitu@@@
