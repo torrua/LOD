@@ -3815,7 +3815,7 @@
 3824@2-Cpx@Predicate@@@JCB/RAM@1991@2.9@jun(ti)+si(mc)i@young seem@@
 3825@2-Cpx@Predicate@@@JCB/RAM@1991@4.7@jun(ti)+staga@young stem@@
 3826@C-Prim@Predicate@jun@21%@L4@1975@1.0@2/3R yun yi | 3/7H javani | 3/8C nien ching@@genjunmao | jundia | junfemhoa | junfro | junfua | junhoa | junkasna | junmenhoa | junmeu | junpro | junsii | junstaga | kaljunkeu@
-3827@Afx@Affix@@@JCB@1988@7+@djupo@@@
+3827@LW@Struct@@@RH@1994@7+@ju+o@@@
 3828@Afx@Affix@@@JCB@1988@7+@djupo@@@
 3829@3-Cpx@Predicate@@@JCB/RAM@1991@4.1@(d)jup(o)+kin(ci)+go(dz)i@support together go@@
 3830@C-Prim@Predicate@jui@40%@L4@1975@1.4@3/4C ju i | 3/6F opinion | 3/7E opinion | 3/7S opinion | 2/6R mnieni e@@canjui | ciurjui | juicko | juicle | juirbeo | juircue | kumnurjui | paorjui | zavjui@
@@ -9933,7 +9933,7 @@
 9978@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9979@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9980@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
-9981@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
+9981@Afx@Affix@@@JCB@1988@7+@djupo@@@
 9982@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9983@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9984@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
