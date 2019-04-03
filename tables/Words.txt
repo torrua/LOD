@@ -9755,7 +9755,7 @@
 9778@LW@Struct@@@L4@1975@15@@@@
 9779@Afx@Affix@@@JCB@1999@7+@zakra@@@
 9780@LW@Struct@@@L4@1975@15+@@@@
-9781@C-Prim@Predicate@zak,zaa@46%@L4@1975@3.0@2/6S machac ar | 2/3C dza | 3/5R davka | 3/5F ecras er | 2/4E crush | 3/7G zermalm en@@nurzakrymou | zakrybue@
+9781@C-Prim@Predicate@zak zaa@46%@L4@1975@3.0@2/6S machac ar | 2/3C dza | 3/5R davka | 3/5F ecras er | 2/4E crush | 3/7G zermalm en@@nurzakrymou | zakrybue@
 9782@2-Cpx@Predicate@@@SLR@1991@3.5@zakr(a)+y+bu(st)e@grind step@@
 9783@Afx@Affix@@@JCB@1988@7+@zavlo@@@
 9784@2-Cpx@Predicate@@@APL@1995@7+@za(v)l(o)+ve(tc)i@bad event@@
