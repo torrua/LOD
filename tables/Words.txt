@@ -8707,7 +8707,7 @@
 8727@Cpd@Struct@@@L4@1975@1.0@su+ne@@@
 8728@C-Prim@Predicate@sun suo@35%@L4@1975@1.0@2/3E son | 2/3R syn | 2/3S hijo | 3/6J musuko@@bragarsuo | brusuo | detsuo | nurmersuo | sibsuo | somsuo | sundea | sunsuo | sunsuo | tersuo | torsuo@
 8729@2-Cpx@Predicate@@@L4@1975@4.7@sun(ho)+su(nh)o@son's son@@
-8730@Afx@Affix@@@JCB@1988@7+@sunho@@@
+8730@LW@Struct@@@JCB@1988@7+@@@@
 8731@Afx@Affix@@@JCB@1988@7+@supta@@@
 8732@2-Cpx@Predicate@@@L4@1975@5.0@sup(ta)+cli(ka)@soup like@@
 8733@Bor.@Predicate@@@JCB@1988@7+@Lin.@@@
@@ -9993,7 +9993,7 @@
 10038@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10039@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10040@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
-10041@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
+10041@Afx@Affix@@@JCB (?)@1988 (?)@7+?@sunho@@@
 10042@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10043@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10044@Afx@Affix@@@JCB (?)@1988 (?)@7+?@tarmu@@@
