@@ -18525,7 +18525,7 @@
 10038@1@@af@a combining form of ≤sonli≥, «sleep».@@
 10039@1@@af@a combining form of ≤surva≥, «serve».@@
 10040@1@@af@a combining form of ≤sundi≥, «send».@@
-10041@1@@af@a combining form of ≤sunho≥, «sun».@@
+10041@1@@af@a combining form of ≤sunho≥, «son».@@
 10042@1@@af@a combining form of ≤takna≥, «talk».@@
 10043@1@@af@a combining form of ≤targo≥, «argue».@@
 10044@1@@af@a combining form of ≤tarmu≥, «weapon».@@
