@@ -8858,7 +8858,7 @@
 8878@Afx@Affix@@@JCB@1988@7+@tatro@@@
 8879@N-Prim@Predicate@@@RAM@1987@5.0@Japanese tatami a standard straw mat used in flooring@@@
 8880@I-Prim@Predicate@tat@@L4@1975@1.9@Int.@@sintatro@
-8881@Afx@Affix@@@JCB@1988@7+@tarmu@@@
+8881@LW@Struct@@@SLR@1990@15+@@@@
 8882@Bor.@Predicate@@@JCB@1988@7+@Lin.@@@
 8883@Name@Name@@@JCB@1988@7+@Lin.@@@
 8884@Afx@Affix@@@JCB@1988@7+@tcaro@@@
@@ -9996,7 +9996,7 @@
 10041@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10042@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10043@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
-10044@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
+10044@Afx@Affix@@@JCB (?)@1988 (?)@7+?@tarmu@@@
 10045@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10046@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10047@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
