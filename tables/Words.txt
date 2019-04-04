@@ -2578,7 +2578,7 @@
 2584@2-Cpx@Predicate@@@RAM/JCB@1991@4.7@ma(d)z(o)+fo(rm)a@make form@@
 2585@2-Cpx@Predicate@@@JCB/RAM@1991@4.1@ma(d)z(o)+harmo@make harmonious@@
 2586@LW@Struct@@@L4@1975@15@@@@
-2587@Afx@Affix@@@JCB@1988@7+@mensa@@@
+2587@LW@Struct@@@JCB@1994@7+@@@@
 2588@2-Cpx@Predicate@@@RAM@1991@1.0@me(ns)a+cke(mo)@month interval@@
 2589@2-Cpx@Predicate@@@APL@1999@7+@me(ns)a+r+ketpi@month ticket@@
 2590@S-Prim@Predicate@@@APL@2000@7+@L. mephiti@@@
@@ -9916,7 +9916,7 @@
 9961@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9962@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9963@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
-9964@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
+9964@Afx@Affix@@@JCB (?)@1988 (?)@7+?@mensa@@@
 9965@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9966@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 9967@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
