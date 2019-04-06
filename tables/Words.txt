@@ -493,7 +493,7 @@
 493@2-Cpx@Predicate@@@L4@1975@1.0@bli(cu)+fe(kt)o@possible fact@@
 494@2-Cpx@Predicate@@@SLR@1992@7+@bli(cu)+fikco@possible fiction@@
 495@3-Cpx@Predicate@@@L4@1975@7.4@bli(cu)+kli(ri)+ma(dz)o@possible clear make@@
-496@4-Cpx@Predicate@@@L4@1975@7.4@bli(cu)+kli(ri)+ma(d)z(o)+ma(dz)o@possible clear make make;  clear make=explain@@
+496@4-Cpx@Predicate@@@L4@1975@7.4@bli(cu)+kli(ri)+ma(d)z(o)+ma(dz)o@possible clear make make; clear make=explain@@
 497@2-Cpx@Predicate@@@EM@1995@7+@bli(cu)+ku(nc)i@possible related@@
 498@2-Cpx@Predicate@@@L4@1975@1.9@bli(cu)+lilfa@possible law@@
 499@2-Cpx@Predicate@@@L4@1975@1.8@bli(cu)+ma(dz)o@possible make@@
@@ -1065,7 +1065,7 @@
 1065@2-Cpx@Predicate@@@RAM@1987@2.5@cle(si)+cko(zu)@without cause@@
 1066@2-Cpx@Predicate@@@L4@1975@2.1@cle(si)+du(rz)o@without do@@
 1067@2-Cpx@Predicate@@@APL@1998@7+@cle(si)+fi(lm)o@without feel@@
-1068@3-Cpx@Predicate@@@RAM@1987@4.9@cle(si)+gun(ti)+fo(sl)i@without country  compel@@
+1068@3-Cpx@Predicate@@@RAM@1987@4.9@cle(si)+gun(ti)+fo(sl)i@without country compel@@
 1069@2-Cpx@Predicate@@@L4@1975@2.0@cle(si)+ka(ml)a@without come@@
 1070@2-Cpx@Predicate@@@JFB@1987@2.5@cle(si)+ma(dz)o@without make@@
 1071@C-Prim@Predicate@cle@40%@L4@1975@1.0@3/3E less 2/3S sin | 2/4H siwa@@ckacle | clecea | clecko | cleduo | clefio | clegunfoi | clekaa | clemao | clespe | clevolcue | clevoltaa | comcle | ctecle | dirtiacle | dupcle | faocle | fatpencle | faucle | fiacle | fiocle | furplicle | guocle | haicle | haocle | hapckocle | hercle | herclecea | herclecko | herclemao | juicle | kalclekaa | keucle | kincle | kinclecea | kinclecko | kinclefio | kinclemao | kladycle | kofcle | koncle | krocle | kuacle | kukcle | lifclemao | limcle | limclesto | livcle | livpeecle | lumclemao | mocyclefle | musytolcle | musytolclecea | musytolclecko | musytolclemao | namcle | nebcle | nurkaocle | nurtcucle | pencle | plicle | poicle | pozpoicle | pricle | priclecei | refcle | refclecea | refclecko | refclemao | retcle | rigclecea | rigclecko | rigclemao | rufcle | sesycle | sitlivclecea | skapyclemao | skapyplaclemao | solcle | spocle | tciclecea | tciclecko | tciclemao | tcorycle | turclekeo@
@@ -1727,7 +1727,7 @@
 1729@2-Cpx@Predicate@@@JCB/RAM@1991@3.1@du(rz)o+n+ru(ln)i@do rule@@
 1730@3-Cpx@Predicate@@@JCB/RAM@1991@3.1@du(rz)o+n+rul(ni)+do(ns)u@do rule give@@
 1731@Afx@Affix@@@JCB@1988@7+@dupma@@@
-1732@2-Cpx@Predicate@@@RAM@1988@2.4@dup(ma)+cle(si)@guile  without@@
+1732@2-Cpx@Predicate@@@RAM@1988@2.4@dup(ma)+cle(si)@guile without@@
 1733@2-Cpx@Predicate@@@SLR@1991@7+@dup(ma)+cme(ni)@deceive money@@
 1734@2-Cpx@Predicate@@@L4@1975@2.0@dup(ma)+cu(ts)e@deceive say@@
 1735@2-Cpx@Predicate@@@SLR@1991@7+@dup(ma)+fasli@deceive face@@
@@ -2974,7 +2974,7 @@
 2981@4-Cpx@Predicate@@@RAM/JCB@1991@4.2@gin(ru)+kri(do)+ce(nj)a+ma(dz)o@root belief(principle) change make(alter)@@
 2982@2-Cpx@Predicate@@@JCB/RAM@1991@4.4@gin(ru)+re(tc)a@root difference@@
 2983@C-Prim@Predicate@gin giu@38%@L4@1975@2.6@2/3E root | 2/3C gen | 2/5F racine@@furgiu | ginceadaa | ginkaa | ginkriceacea | ginkriceamao | ginrea | giucli | giufro | giukri | giutra | numgiu | purgiu | sligiu | stotrigiu@
-2984@Bor.@Predicate@@@JCB@1988@7+@Int.  E guitar@@@
+2984@Bor.@Predicate@@@JCB@1988@7+@Int. E guitar@@@
 2985@LW@Struct@@@L4@1975@7.0@ginru@@@
 2986@2-Cpx@Predicate@@@L4@1975@5.2@gi(nr)u+cli(ka)@root like@@
 2987@2-Cpx@Predicate@@@SLR@1992@7+@gi(nr)u+fo/r(li)@root strong@@
@@ -4648,7 +4648,7 @@
 4657@3-Cpx@Predicate@@@FR@1987@3.1@lal(do)+(c)ke(m)o+si(mc)i@from an older time seems@@
 4658@2-Cpx@Predicate@@@APL@1985@7+@lal(do)+ku(sm)o@old custom@@
 4659@2-Cpx@Predicate@@@L4@1975@1.6@lal(do)+ma(dz)o@old make@@
-4660@2-Cpx@Predicate@@@KAC/JCB/RAM@1987@2.9@lal(do)+me(rl)i@age measure (old  measure)@@
+4660@2-Cpx@Predicate@@@KAC/JCB/RAM@1987@2.9@lal(do)+me(rl)i@age measure (old measure)@@
 4661@2-Cpx@Predicate@@@L4@1975@2.4@lal(do)+m(r)e(n)u@old man@@
 4662@2-Cpx@Predicate@@@FR@1986@2.5@lal(do)+nur+cu(ts)e@old said@@
 4663@2-Cpx@Predicate@@@L4@1975@2.4@lal(do)+pe(rn)u@old person@@
@@ -5462,7 +5462,7 @@
 5474@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 5475@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 5476@C-Prim@Predicate@mit mio@51%@L4@1975@1.6@3/3E meat | 2/3C rou | 3/5R miaso@@bercymio | gantulmio | mioflo | mioklu | miorsrohaa | miotci | mitvemsia | musmio | palmio | pamymio | pojmio | tubmio | zanynurkokmio@
-5477@3-Cpx@Predicate@@@FR@1986@5.0@mit(ro)+ve(d)m(a)+si(tf)a@meat  selling place@@
+5477@3-Cpx@Predicate@@@FR@1986@5.0@mit(ro)+ve(d)m(a)+si(tf)a@meat selling place@@
 5478@LW@Struct@@@L4@1975@1.0@@@@
 5479@2-Cpx@Predicate@@@JCB@1988@7+@mi(nk)u+r+cu(tr)i@mineral water@@
 5480@2-Cpx@Predicate@@@L4@1975@2.6@mi(nk)u+r+si(tf)a@mining place@@
@@ -8678,7 +8678,7 @@
 8698@2-Cpx@Predicate@@@JCB/RAM@1991@3.7@sudn(a)+y+bi(vd)u@sudden behaviour@@
 8699@3-Cpx@Predicate@@@FR/JCB@1990@3.1@sudn(a)+y+ce(tl)o+kra(ku)@sudden wet cry@@
 8700@2-Cpx@Predicate@@@L4@1975@1.0@sudn(a)+y+cpu(la)@sudden pull@@
-8701@2-Cpx@Predicate@@@L4@1975@1.0@sudn(a)+y+gru(pa)@sudden group@@
+8701@2-Cpx@Predicate@@@L4@1975@1.0@sudn(a)+y+gru(pa)@sudden group@@meat \xa0selling place
 8702@2-Cpx@Predicate@@@JCB@1988@7+@sudn(a)+y+nerji@sudden energy@@
 8703@3-Cpx@Predicate@@@JCB/RAM@1991@2.2@sudn(a)+y+si(st)o+dja(no)@sudden system know(understand)@@
 8704@2-Cpx@Predicate@@@JFB@1984@2.6@sudn(a)+y+vri(ci)@sudden river@@
