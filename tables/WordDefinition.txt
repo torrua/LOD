@@ -11127,7 +11127,7 @@
 5933@2@@a@«first», of 1st members.@@
 5933@3@% genza@ph@first «occasion»/«time».@@
 5933@4@da pa % genza godzi@ph@X went for the «first» time.@@
-5934@1@@2v@K «meet for the first time» D, [RH recommends ≤<neri jmite>≥].@@K-D
+5934@1@@2v@K «meet for the first time» D, [RH recommends ≤neri jmite≥].@@K-D
 5935@1@@2n@G has more «energy»/capacity for doing work than J (physics) by amount C.@@G-JC
 5935@2@@a@«energetic»/«vehement», having energy/capacity for work.@@
 5935@3@lopu %@n@«energy», mass term.@@
@@ -18526,7 +18526,7 @@
 10039@1@@af@a combining form of ≤surva≥, «serve».@@
 10040@1@@af@a combining form of ≤sundi≥, «send».@@
 10041@1@@af@a combining form of ≤sunho≥, «son».@@
-10042@1@@af@a combining form of ≤takna≥, «talk».@@
+10042@1@@af@a combining form of ≤takna≥, «talk».@@meet for the first time
 10043@1@@af@a combining form of ≤targo≥, «argue».@@
 10044@1@@af@a combining form of ≤tarmu≥, «weapon».@@
 10045@1@@af@a combining form of ≤tisra≥, «select».@@
