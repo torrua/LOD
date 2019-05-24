@@ -72,7 +72,7 @@
 72@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 73@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 74@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-75@Bor.@Predicate@@@JCB@1988 (modified due to Keugru Proposal 2, August 2013 - h added to eliminate repeated vowel)@7+@ISV@@@
+75@Bor.@Predicate@@@JCB@1988 (Keugru Proposal 2, 08 2013 - h added)@7+@ISV@@@
 76@Bor.@Predicate@@@FR@1985@4.9@Lin. Allium spp.@@@
 77@Bor.@Predicate@@@RAM@1995@7+@L. Allium porum@@@
 78@Bor.@Predicate@@@RAM@1995@7+@L. Allium sativum@@@
@@ -8678,7 +8678,7 @@
 8698@2-Cpx@Predicate@@@JCB/RAM@1991@3.7@sudn(a)+y+bi(vd)u@sudden behaviour@@
 8699@3-Cpx@Predicate@@@FR/JCB@1990@3.1@sudn(a)+y+ce(tl)o+kra(ku)@sudden wet cry@@
 8700@2-Cpx@Predicate@@@L4@1975@1.0@sudn(a)+y+cpu(la)@sudden pull@@
-8701@2-Cpx@Predicate@@@L4@1975@1.0@sudn(a)+y+gru(pa)@sudden group@@meat \xa0selling place
+8701@2-Cpx@Predicate@@@L4@1975@1.0@sudn(a)+y+gru(pa)@sudden group@@
 8702@2-Cpx@Predicate@@@JCB@1988@7+@sudn(a)+y+nerji@sudden energy@@
 8703@3-Cpx@Predicate@@@JCB/RAM@1991@2.2@sudn(a)+y+si(st)o+dja(no)@sudden system know(understand)@@
 8704@2-Cpx@Predicate@@@JFB@1984@2.6@sudn(a)+y+vri(ci)@sudden river@@
@@ -10057,7 +10057,7 @@
 10103@LW@Struct@@@RH@2015@@@@@
 10104@LW@Struct@@@RH@2016@@@@@
 10105@LW@Struct@@@RH@2016@@@@@
-10106@2-Cpx@Predicate@@@UA@2016 (But really older. Omitted about 2000: see nui)@@nu(r) + letci@@@
+10106@2-Cpx@Predicate@@@UA@2016 (Really older. Omitted about 2000: see nui)@@nu(r) + letci@@@
 10107@Afx@Affix@@@JCB@1988@7+@buste@@@
 10108@Afx@Affix@@@JCB@1988@7+@clika@@@
 10109@Afx@Affix@@@JCB@1988@7+@djitu@@@
