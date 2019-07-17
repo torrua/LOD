@@ -7835,10 +7835,10 @@
 7853@2-Cpx@Predicate@@@L4@1975@2.0@(g)run(u)+(g)ra(s)a@grain grass@@
 7854@Afx@Affix@@@JCB@1988@7+@prusa@@@
 7855@3-Cpx@Predicate@@@JFB@1987@3.6@(p)rus(a)+fasl(i)+y+du(rz)o@approve face do@@
-7856@D-Prim@Predicate@@@L4@1975@1.0@R ruski@@ruskytaa@
-7857@N-Prim@Predicate@@@JRK@1983@3.6@R ruski@@@
-7858@N-Prim@Predicate@@@L4@1975@1.0@R ruski@@@
-7859@D-Prim@Predicate@@@L4@1975@1.0@R ruski@@@
+7856@D-Prim@Predicate@ruk@@L4@1975@1.0@R ruski@@ruskytaa@
+7857@N-Prim@Predicate@ruk@@JRK@1983@3.6@R ruski@@@
+7858@N-Prim@Predicate@ruk@@L4@1975@1.0@R ruski@@@
+7859@D-Prim@Predicate@ruk@@L4@1975@1.0@R ruski@@@
 7860@Name@Name@@@JCB@1996@7+@R. Russko@@@
 7861@2-Cpx@Predicate@@@L4@1975@1.9@(p)rus(a)+kra(ku)@approve cry@@
 7862@2-Cpx@Predicate@@@JCB@1996@7+@rusk(a)+y+ta(kn)a@Russian talker@@
