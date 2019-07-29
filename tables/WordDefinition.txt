@@ -18591,20 +18591,20 @@
 10104@1@@pm@medial marker («comma») for unordered lists = finite sets.@@
 10105@1@@pm@medial marker («comma») for ordered lists.@@
 10106@1@@2v@X «may» do, is «permitted» to do, Y.@@
-100107@1@@af@a combining form of ≤buste≥, «step».@@
-100108@1@@af@a combining form of ≤clika≥, «like».@@
-100109@1@@af@a combining form of ≤djitu≥, «tight».@@
-100110@1@@af@a combining form of ≤fepti≥, «femti-».@@
-100111@1@@af@a combining form of ≤gigbi≥, «gibi-».@@
-100112@1@@af@a combining form of ≤hekso≥, «exa-».@@
-100113@1@@af@a combining form of ≤hepti≥, «atto-».@@
-100114@1@@af@a combining form of ≤jakti≥, «yocto-».@@
-100115@1@@af@a combining form of ≤jatgo≥, «yotta-».@@
-100116@1@@af@a combining form of ≤kilbi≥, «kibi-».@@
-100117@1@@af@a combining form of ≤megbi≥, «mebi-».@@
-100118@1@@af@a combining form of ≤pitbi≥, «pebi-».@@
-100119@1@@af@a combining form of ≤pitgo≥, «tera-».@@
-100120@1@@af@a combining form of ≤terbi≥, «tebi-».@@
-100121@1@@af@a combining form of ≤zakra≥, «crush».@@
-100122@1@@af@a combining form of ≤zepti≥, «zepto-».@@
-100123@1@@af@a combining form of ≤zetgo≥, «zetta-».@@
+10107@1@@af@a combining form of ≤buste≥, «step».@@
+10108@1@@af@a combining form of ≤clika≥, «like».@@
+10109@1@@af@a combining form of ≤djitu≥, «tight».@@
+10110@1@@af@a combining form of ≤fepti≥, «femti-».@@
+10111@1@@af@a combining form of ≤gigbi≥, «gibi-».@@
+10112@1@@af@a combining form of ≤hekso≥, «exa-».@@
+10113@1@@af@a combining form of ≤hepti≥, «atto-».@@
+10114@1@@af@a combining form of ≤jakti≥, «yocto-».@@
+10115@1@@af@a combining form of ≤jatgo≥, «yotta-».@@
+10116@1@@af@a combining form of ≤kilbi≥, «kibi-».@@
+10117@1@@af@a combining form of ≤megbi≥, «mebi-».@@
+10118@1@@af@a combining form of ≤pitbi≥, «pebi-».@@
+10119@1@@af@a combining form of ≤pitgo≥, «tera-».@@
+10120@1@@af@a combining form of ≤terbi≥, «tebi-».@@
+10121@1@@af@a combining form of ≤zakra≥, «crush».@@
+10122@1@@af@a combining form of ≤zepti≥, «zepto-».@@
+10123@1@@af@a combining form of ≤zetgo≥, «zetta-».@@
