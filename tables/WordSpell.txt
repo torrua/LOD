@@ -1,3 +1,4 @@
+1@ceorcaltcu@ceorcaltcu@5555555555@1@9999@
 2@ceorderflo@ceorderflo@5555555555@1@9999@
 3@cer@cer@555@1@9999@
 4@cerkopithekui@cerkopithekui@5555555555555@1@9999@
@@ -72,6 +73,7 @@
 73@alhumio@alhumio@5555555@1@9999@
 74@alkali@alkali@555555@1@9999@
 75@alkoholi@alkoholi@55555555@3@9999@
+75@alkooli@alkooli@5555555@1@3@
 76@almi@almi@5555@1@9999@
 77@alpore@alpore@555555@1@9999@
 78@alsate@alsate@555555@1@9999@
@@ -630,6 +632,7 @@
 631@brusuo@brusuo@555555@1@9999@
 632@brute@brute@55555@1@9999@
 633@brutybongu@brutybongu@5555555555@1@9999@
+633@ruerbongu@ruerbongu@555555555@1@9999@
 634@bu@bu@55@1@9999@
 635@bua@bua@555@1@9999@
 636@buc@buc@555@1@9999@
@@ -1375,6 +1378,7 @@
 1376@cutvao@cutvao@555555@1@9999@
 1377@cutvaobou@cutvaobou@555555555@1@9999@
 1378@cutvaopro@cutvaopro@555555555@1@9999@
+1379@Cvaitz, lao@cvaitz, lao@05555555555@4@9999@
 1379@Cvaitz@cvaitz@055555@1@4@
 1380@da@da@55@1@9999@
 1381@daa@daa@555@1@9999@
@@ -1385,6 +1389,7 @@
 1386@dai@dai@555@1@9999@
 1387@daigru@daigru@555555@1@9999@
 1388@DaiNaiA@dainaia@0550550@1@4@
+1388@DaiNaizA@dainaiza@05505550@4@9999@
 1389@daitcu@daitcu@555555@1@9999@
 1390@dak@dak@555@1@9999@
 1391@dakbiu@dakbiu@555555@1@9999@
@@ -1513,8 +1518,8 @@
 1514@dedkua@dedkua@555555@1@9999@
 1515@dedmra@dedmra@555555@1@9999@
 1516@dedsanduo@dedsanduo@555555555@1@9999@
-1519@dedtco@dedtco@555555@1@9999@
 1518@dedtorpuo@dedtorpuo@555555555@1@9999@
+1519@dedtco@dedtco@555555@1@9999@
 1519@dedtotco@dedtotco@55555555@1@9999@
 1520@dedyjanto@dedyjanto@555555555@1@9999@
 1521@dei@dei@555@1@9999@
@@ -1707,17 +1712,22 @@
 1708@dui@dui@555@1@9999@
 1709@duible@duible@555555@1@9999@
 1710@dumba@dumba@55555@1@4@
+1710@temba@temba@55555@4@9999@
 1711@dumbe@dumbe@55555@1@4@
+1711@tembe@tembe@55555@4@9999@
 1712@dumbi@dumbi@55555@1@4@
+1712@tembi@tembi@55555@4@9999@
 1713@dumbo@dumbo@55555@1@4@
+1713@tembo@tembo@55555@4@9999@
 1714@dumbu@dumbu@55555@1@4@
+1714@tembu@tembu@55555@4@9999@
 1715@dun@dun@555@1@9999@
 1716@dunfoa@dunfoa@555555@1@9999@
 1717@dungrasa@dungrasa@55555555@1@9999@
+1717@dunraa@dunraa@555555@1@9999@
 1718@dunlua@dunlua@555555@1@9999@
 1719@dunmao@dunmao@555555@1@9999@
 1720@dunmui@dunmui@555555@1@9999@
-1717@dunraa@dunraa@555555@1@9999@
 1722@duo@duo@555@1@9999@
 1723@duobre@duobre@555555@1@9999@
 1724@duocli@duocli@555555@1@9999@
@@ -1774,8 +1784,8 @@
 1775@duskua@duskua@555555@1@9999@
 1776@dustu@dustu@55555@1@9999@
 1777@dustycpu@dustycpu@55555555@1@9999@
-1778@dustycpuduo@dustycpuduo@55555555555@1@9999@
 1777@dusycpu@dusycpu@5555555@1@9999@
+1778@dustycpuduo@dustycpuduo@55555555555@1@9999@
 1778@dusycpuduo@dusycpuduo@5555555555@1@9999@
 1781@dut@dut@555@1@9999@
 1782@dutcea@dutcea@555555@1@9999@
@@ -1836,6 +1846,7 @@
 1837@erbio@erbio@55555@1@9999@
 1838@Espanias@espanias@05555555@1@9999@
 1839@Espanio'l@espanio'l@055555555@1@5@
+1839@Espaniol'@espaniol'@055555555@5@9999@
 1840@ethanoli@ethanoli@55555555@1@9999@
 1841@etheri@etheri@555555@1@9999@
 1842@ethileni@ethileni@55555555@1@9999@
@@ -2186,8 +2197,6 @@
 2187@fiozbu@fiozbu@555555@1@9999@
 2188@fip@fip@555@1@9999@
 2189@fipdampai@fipdampai@555555555@1@9999@
-2214@fipdji@fipdji@555555@1@9999@
-2215@fipdjidua@fipdjidua@555555555@1@9999@
 2192@fir@fir@555@1@9999@
 2193@firbiu@firbiu@555555@1@9999@
 2194@fircakcea@fircakcea@555555555@1@9999@
@@ -2210,7 +2219,9 @@
 2211@fitpri@fitpri@555555@1@9999@
 2212@fitrua@fitrua@555555@1@9999@
 2213@fitveo@fitveo@555555@1@9999@
+2214@fipdji@fipdji@555555@1@9999@
 2214@fitydji@fitydji@5555555@1@9999@
+2215@fipdjidua@fipdjidua@555555555@1@9999@
 2215@fitydjidua@fitydjidua@5555555555@1@9999@
 2216@fiu@fiu@555@1@9999@
 2217@fiudja@fiudja@555555@1@9999@
@@ -2652,6 +2663,7 @@
 2653@Fras@fras@0555@1@9999@
 2654@frasa@frasa@55555@1@9999@
 2655@frase@frase@55555@1@9999@
+2656@Franseis'@franseis'@055555555@5@9999@
 2656@Frasei's@frasei's@05555555@1@5@
 2657@frasi@frasi@55555@1@9999@
 2658@fraso@fraso@55555@1@9999@
@@ -2903,6 +2915,7 @@
 2904@gartursia@gartursia@555555555@1@9999@
 2905@gas@gas@555@1@9999@
 2906@gaslini@gaslini@5555555@1@5@
+2906@gasllini@gasllini@55555555@5@9999@
 2907@gasno@gasno@55555@1@9999@
 2908@gasti@gasti@55555@1@9999@
 2909@Gastropoda@gastropoda@0555555555@1@9999@
@@ -2913,7 +2926,6 @@
 2914@gau@gau@555@1@9999@
 2915@ge@ge@55@1@9999@
 2916@gea@gea@555@1@9999@
-2955@geersei@geersei@5555555@1@9999@
 2918@gei@gei@555@1@9999@
 2919@geifro@geifro@555555@1@9999@
 2920@gekso@gekso@55555@1@9999@
@@ -2951,6 +2963,7 @@
 2952@geoykre@geoykre@5555555@1@9999@
 2953@ger@ger@555@1@9999@
 2954@germanio@germanio@55555555@1@9999@
+2955@geersei@geersei@5555555@1@9999@
 2955@gersei@gersei@555555@1@9999@
 2956@gerseicea@gerseicea@555555555@1@9999@
 2957@ges@ges@555@1@9999@
@@ -3017,7 +3030,6 @@
 3018@gofru@gofru@55555@1@9999@
 3019@goi@goi@555@1@9999@
 3020@goidji@goidji@555555@1@9999@
-3051@goidre@goidre@555555@1@9999@
 3022@goigru@goigru@555555@1@9999@
 3023@gok@gok@555@1@9999@
 3024@gokduo@gokduo@555555@1@9999@
@@ -3047,10 +3059,12 @@
 3048@gozbei@gozbei@555555@1@9999@
 3049@gozbeo@gozbeo@555555@1@9999@
 3050@gozdio@gozdio@555555@1@9999@
+3051@goidre@goidre@555555@1@9999@
 3051@gozdre@gozdre@555555@1@9999@
 3052@gozkii@gozkii@555555@1@9999@
 3053@gozlei@gozlei@555555@1@9999@
 3054@gozleiketpi@gozleiketpi@55555555555@1@5@
+3054@gozyleiketpi@gozyleiketpi@555555555555@5@9999@
 3055@gozmao@gozmao@555555@1@9999@
 3056@gozmazpea@gozmazpea@555555555@1@9999@
 3057@goznurlei@goznurlei@555555555@1@9999@
@@ -3159,7 +3173,6 @@
 3160@gubdircea@gubdircea@555555555@1@9999@
 3161@gubdirmao@gubdirmao@555555555@1@9999@
 3162@gubdja@gubdja@555555@1@9999@
-3194@gubduo@gubduo@555555@1@9999@
 3164@gubdurcue@gubdurcue@555555555@1@9999@
 3165@gud@gud@555@1@9999@
 3166@gudbi@gudbi@55555@1@9999@
@@ -3190,6 +3203,7 @@
 3191@gudtaa@gudtaa@555555@1@9999@
 3192@gudtia@gudtia@555555@1@9999@
 3193@gudvie@gudvie@555555@1@9999@
+3194@gubduo@gubduo@555555@1@9999@
 3194@gudyduo@gudyduo@5555555@1@9999@
 3195@gue@gue@555@1@9999@
 3196@gui@gui@555@1@9999@
@@ -3484,6 +3498,7 @@
 3485@Hindis@hindis@055555@1@9999@
 3486@hindo@hindo@55555@1@9999@
 3487@Hi'ndustan@hi'ndustan@0555555555@1@5@
+3487@Hin'dustan@hin'dustan@0555555555@5@9999@
 3488@hintaa@hintaa@555555@1@9999@
 3489@hiphodermi@hiphodermi@5555555555@1@9999@
 3490@hir@hir@555@1@9999@
@@ -3670,6 +3685,7 @@
 3671@ishomeri@ishomeri@55555555@1@9999@
 3672@isoa@isoa@5555@1@9999@
 3673@israeli@israeli@5555555@1@5@
+3673@isrraeli@isrraeli@55555555@5@9999@
 3674@Italianos@italianos@055555555@1@9999@
 3675@Italias@italias@0555555@1@9999@
 3676@itrrbio@itrrbio@5555555@1@9999@
@@ -3862,6 +3878,7 @@
 3863@kafso@kafso@55555@1@9999@
 3864@kaftaa@kaftaa@555555@1@9999@
 3865@kahstrua@kahstrua@55555555@1@5@
+3865@kastrua@kastrua@5555555@5@9999@
 3866@Kai@kai@055@1@9999@
 3867@kai@kai@555@1@9999@
 3868@kaidja@kaidja@555555@1@9999@
@@ -5225,9 +5242,12 @@
 5226@nonuu@nonuu@55555@1@9999@
 5227@nonuunoi@nonuunoi@55555555@1@9999@
 5228@noo@noo@555@1@9999@
+5229@no oa@no oa@55555@5@9999@
 5229@nooa@nooa@5555@1@5@
+5230@no oe@no oe@55555@5@9999@
 5230@nooe@nooe@5555@1@5@
 5231@noonoi@noonoi@555555@1@9999@
+5232@no ou@no ou@55555@5@9999@
 5232@noou@noou@5555@1@5@
 5233@nor@nor@555@1@9999@
 5234@norau@norau@55555@1@9999@
@@ -5442,7 +5462,6 @@
 5443@minta@minta@55555@1@9999@
 5444@mintcu@mintcu@555555@1@9999@
 5445@minvei@minvei@555555@1@9999@
-8333@minynei@minynei@5555555@1@9999@
 5447@minynorkou@minynorkou@5555555555@1@9999@
 5448@mio@mio@555@1@9999@
 5449@mioflo@mioflo@555555@1@9999@
@@ -5909,6 +5928,7 @@
 5910@neonho@neonho@555555@1@9999@
 5911@neozhoika@neozhoika@555555555@1@9999@
 5912@Neozo,ik@neozo,ik@05555555@1@5@
+5912@Neozo-ik@neozo-ik@05555555@5@9999@
 5913@neptunio@neptunio@55555555@1@9999@
 5914@ner@ner@555@1@9999@
 5915@nera@nera@5555@1@9999@
@@ -5930,6 +5950,7 @@
 5931@nergenpai@nergenpai@555555555@1@9999@
 5932@nergru@nergru@555555@1@9999@
 5933@neri@neri@5555@1@9999@
+5934@nehyrihyjmi@nehyrihyjmi@55555555555@5@9999@
 5934@neriyjmi@neriyjmi@55555555@1@5@
 5935@nerji@nerji@55555@1@9999@
 5936@nerjmistu@nerjmistu@555555555@1@9999@
@@ -5987,6 +6008,7 @@
 5988@netyjua@netyjua@5555555@1@9999@
 5989@neu@neu@555@1@9999@
 5990@neurhasteni@neurhasteni@55555555555@1@9999@
+5991@neurhoni@neurhoni@55555555@5@9999@
 5991@neurroni@neurroni@55555555@1@5@
 5992@neutrrini@neutrrini@555555555@1@9999@
 5993@neutrroni@neutrroni@555555555@1@9999@
@@ -6059,8 +6081,10 @@
 6060@ninveo@ninveo@555555@1@9999@
 6061@nio@nio@555@1@9999@
 6062@niobmio@niobmio@5555555@1@9999@
+6063@Nipon@nipon@05555@4@9999@
 6063@Nipo'n@nipo'n@055555@1@4@
 6064@Nipondjin@nipondjin@055555555@1@4@
+6064@Nipongon@nipongon@05555555@4@9999@
 6065@nir@nir@555@1@9999@
 6066@nira@nira@5555@1@9999@
 6067@nirda@nirda@55555@1@9999@
@@ -6088,10 +6112,14 @@
 6089@niu@niu@555@1@9999@
 6090@no@no@55@1@9999@
 6091@noa@noa@555@1@9999@
+6092@no ae@no ae@55555@5@9999@
 6092@noae@noae@5555@1@5@
+6093@no ai@no ai@55555@5@9999@
 6093@noai@noai@5555@1@5@
 6094@noanoi@noanoi@555555@1@9999@
+6095@no ao@no ao@55555@5@9999@
 6095@noao@noao@5555@1@5@
+6096@no au@no au@55555@5@9999@
 6096@noau@noau@5555@1@5@
 6097@nobhelio@nobhelio@55555555@1@9999@
 6098@noca@noca@5555@1@9999@
@@ -6107,10 +6135,14 @@
 6108@nodlusta@nodlusta@55555555@1@9999@
 6109@nodyduvpae@nodyduvpae@5555555555@1@9999@
 6110@noe@noe@555@1@9999@
+6111@no ea@no ea@55555@5@9999@
 6111@noea@noea@5555@1@5@
+6112@no ei@no ei@55555@5@9999@
 6112@noei@noei@5555@1@5@
 6113@noenoi@noenoi@555555@1@9999@
+6114@no eo@no eo@55555@5@9999@
 6114@noeo@noeo@5555@1@5@
+6115@no eu@no eu@55555@5@9999@
 6115@noeu@noeu@5555@1@5@
 6116@noi@noi@555@1@9999@
 6117@noia@noia@5555@1@9999@
@@ -6361,7 +6393,6 @@
 6362@tec@tec@555@1@9999@
 6363@tecenera@tecenera@55555555@1@9999@
 6364@tecmao@tecmao@555555@1@9999@
-9048@tectco@tectco@555555@1@9999@
 6366@tecu@tecu@5555@1@9999@
 6367@tecycei@tecycei@5555555@1@9999@
 6368@ted@ted@555@1@9999@
@@ -6374,11 +6405,16 @@
 6375@notpuu@notpuu@555555@1@9999@
 6376@notsia@notsia@555555@1@9999@
 6377@nou@nou@555@1@9999@
+6378@no ua@no ua@55555@5@9999@
 6378@noua@noua@5555@1@5@
+6379@no ue@no ue@55555@5@9999@
 6379@noue@noue@5555@1@5@
+6380@no ui@no ui@55555@5@9999@
 6380@noui@noui@5555@1@5@
 6381@nounoi@nounoi@555555@1@9999@
+6382@no uo@no uo@55555@5@9999@
 6382@nouo@nouo@5555@1@5@
+6383@no uu@no uu@55555@5@9999@
 6383@nouu@nouu@5555@1@5@
 6384@nu@nu@55@1@9999@
 6385@nua@nua@555@1@9999@
@@ -6634,11 +6670,13 @@
 6635@orthogenesi@orthogenesi@55555555555@1@9999@
 6636@oskhiladori@oskhiladori@55555555555@1@9999@
 6637@osmio@osmio@55555@1@5@
+6637@osmmio@osmmio@555555@5@9999@
 6638@osmmosi@osmmosi@5555555@1@9999@
 6639@ostheoblasti@ostheoblasti@555555555555@1@9999@
 6640@Ostrelias@ostrelias@055555555@1@9999@
 6641@ostri@ostri@55555@1@9999@
 6642@ostro@ostro@55555@1@9999@
+6643@O'strraih@o'strraih@055555555@5@9999@
 6643@O'strraix@o'strraix@055555555@1@5@
 6644@ostrrela@ostrrela@55555555@1@9999@
 6645@ostrreli@ostrreli@55555555@1@9999@
@@ -7194,7 +7232,9 @@
 7195@prupro@prupro@555555@1@9999@
 7196@prusa@prusa@55555@1@9999@
 7197@prusysoa@prusysoa@55555555@1@9999@
+7197@rusysoa@rusysoa@5555555@1@9999@
 7198@prusysonmao@prusysonmao@55555555555@1@9999@
+7198@rusysonmao@rusysonmao@5555555555@1@9999@
 7199@prutu@prutu@55555@1@9999@
 7200@prutycue@prutycue@55555555@1@9999@
 7201@prutylidji@prutylidji@5555555555@1@9999@
@@ -7664,7 +7704,9 @@
 7665@riucko@riucko@555555@1@9999@
 7666@riupro@riupro@555555@1@9999@
 7667@riurtracue@riurtracue@5555555555@1@9999@
+7668@rihyhasgru@rihyhasgru@5555555555@5@9999@
 7668@riyhasgru@riyhasgru@555555555@1@5@
+7669@rihyvei@rihyvei@5555555@5@9999@
 7669@riyvei@riyvei@555555@1@5@
 7670@riz@riz@555@1@9999@
 7671@rizgru@rizgru@555555@1@9999@
@@ -7823,7 +7865,6 @@
 7824@rubhidio@rubhidio@55555555@1@9999@
 7825@rubli@rubli@55555@1@9999@
 7826@rue@rue@555@1@9999@
-633@ruerbongu@ruerbongu@555555555@1@9999@
 7828@ruerliu@ruerliu@5555555@1@9999@
 7829@ruesti@ruesti@555555@1@9999@
 7830@ruf@ruf@555@1@9999@
@@ -7859,8 +7900,6 @@
 7860@Ruskos@ruskos@055555@1@9999@
 7861@ruskra@ruskra@555555@1@9999@
 7862@ruskytaa@ruskytaa@55555555@1@9999@
-7197@rusysoa@rusysoa@5555555@1@9999@
-7198@rusysonmao@rusysonmao@5555555555@1@9999@
 7865@rut@rut@555@1@9999@
 7866@ruthenio@ruthenio@55555555@1@9999@
 7867@rutherfordio@rutherfordio@555555555555@1@9999@
@@ -8329,6 +8368,7 @@
 8330@smiliu@smiliu@555555@1@9999@
 8331@smimao@smimao@555555@1@9999@
 8332@smina@smina@55555@1@9999@
+8333@minynei@minynei@5555555@1@9999@
 8333@sminynei@sminynei@55555555@1@9999@
 8334@smiprano@smiprano@55555555@1@9999@
 8335@smisea@smisea@555555@1@9999@
@@ -9032,10 +9072,15 @@
 9033@tertro@tertro@555555@1@9999@
 9034@teryritglopa@teryritglopa@555555555555@1@9999@
 9035@testi@testi@55555@1@9999@
+9036@testhuda@testhuda@55555555@5@9999@
 9036@testuda@testuda@5555555@1@5@
+9037@testhude@testhude@55555555@5@9999@
 9037@testude@testude@5555555@1@5@
+9038@testhudi@testhudi@55555555@5@9999@
 9038@testudi@testudi@5555555@1@5@
+9039@testhudo@testhudo@55555555@5@9999@
 9039@testudo@testudo@5555555@1@5@
+9040@testhudu@testhudu@55555555@5@9999@
 9040@testudu@testudu@5555555@1@5@
 9041@tet@tet@555@1@9999@
 9042@tetcu@tetcu@55555@1@9999@
@@ -9044,6 +9089,7 @@
 9045@tetysensi@tetysensi@555555555@1@9999@
 9046@tetysesmao@tetysesmao@5555555555@1@9999@
 9047@teu@teu@555@1@9999@
+9048@tectco@tectco@555555@1@9999@
 9048@teutco@teutco@555555@1@9999@
 9049@ti@ti@55@1@9999@
 9050@tia@tia@555@1@9999@
@@ -9564,6 +9610,7 @@
 9565@vava@vava@5555@1@9999@
 9566@vavi@vavi@5555@1@9999@
 9567@vavu@vavu@5555@1@9999@
+9568@vahyhansiu@vahyhansiu@5555555555@5@9999@
 9568@vayhansiu@vayhansiu@555555555@1@5@
 9569@vaza@vaza@5555@1@9999@
 9570@vazi@vazi@5555@1@9999@
@@ -9619,6 +9666,7 @@
 9620@veslo@veslo@55555@1@9999@
 9621@vesmao@vesmao@555555@1@9999@
 9622@vestrnu@vestrnu@5555555@1@5@
+9622@vestrrnu@vestrrnu@55555555@5@9999@
 9623@vet@vet@555@1@9999@
 9624@vetcea@vetcea@555555@1@9999@
 9625@vetci@vetci@55555@1@9999@
@@ -9709,7 +9757,9 @@
 9710@vizkukrirpli@vizkukrirpli@555555555555@1@9999@
 9711@vizlei@vizlei@555555@1@9999@
 9712@vizleibao@vizleibao@555555555@1@5@
+9712@vizyleibao@vizyleibao@5555555555@5@9999@
 9713@vizleisro@vizleisro@555555555@1@5@
+9713@vizyleisro@vizyleisro@5555555555@5@9999@
 9714@vizmao@vizmao@555555@1@9999@
 9715@viznorbli@viznorbli@555555555@1@9999@
 9716@vizrie@vizrie@555555@1@9999@
@@ -9770,10 +9820,14 @@
 9771@vuza@vuza@5555@1@9999@
 9772@vuzi@vuzi@5555@1@9999@
 9773@vuzu@vuzu@5555@1@9999@
+9774@Haiu@haiu@0555@5@9999@
 9774@Xai@xai@055@1@5@
+9775@haiukrre@haiukrre@55555555@5@9999@
 9775@xaiykre@xaiykre@5555555@1@5@
+9776@heiu@heiu@5555@5@9999@
 9776@xei@xei@555@1@5@
 9777@xenhono@xenhono@5555555@1@5@
+9777@zenhono@zenhono@5555555@5@9999@
 9778@za@za@55@1@9999@
 9779@zaa@zaa@555@1@9999@
 9780@Zai@zai@055@1@9999@
@@ -9835,8 +9889,11 @@
 9836@zlupypinti@zlupypinti@5555555555@1@9999@
 9837@zo@zo@55@1@9999@
 9838@zoa@zoa@555@1@5@
+9838@zoo@zoo@555@5@9999@
+9839@zoa@zoa@555@5@9999@
 9839@zoi@zoi@555@1@5@
 9840@zou@zou@555@1@9999@
+9841@zlizu@zlizu@55555@5@9999@
 9841@zrizu@zrizu@55555@1@5@
 9842@zu@zu@55@1@9999@
 9843@zua@zua@555@1@9999@
@@ -9888,8 +9945,6 @@
 9889@zvoto@zvoto@55555@1@9999@
 9890@zvotoa@zvotoa@555555@1@9999@
 9891@zvotorspa@zvotorspa@555555555@1@9999@
-75@alkooli@alkooli@5555555@1@3@
-1@ceorcaltcu@ceorcaltcu@5555555555@1@9999@
 9899@bei@bei@555@1@9999@
 9900@beo@beo@555@1@9999@
 9901@cei@cei@555@1@9999@
@@ -10038,11 +10093,6 @@
 10059@nurcmapua@nurcmapua@555555555@4@9999@
 10060@nurtakfoa@nurtakfoa@555555555@4@9999@
 10061@purtcu@purtcu@555555@4@9999@
-1713@tembo@tembo@55555@4@9999@
-1710@temba@temba@55555@4@9999@
-1711@tembe@tembe@55555@4@9999@
-1712@tembi@tembi@55555@4@9999@
-1714@tembu@tembu@55555@4@9999@
 10062@elhefantu@elhefantu@555555555@4@9999@
 10063@elhefanta@elhefanta@555555555@4@9999@
 10064@elhefante@elhefante@555555555@4@9999@
@@ -10053,50 +10103,8 @@
 10069@hathi@hathi@55555@4@9999@
 10070@hatho@hatho@55555@4@9999@
 10071@hathu@hathu@55555@4@9999@
-6063@Nipon@nipon@05555@4@9999@
 10073@Nihon@nihon@05555@4@9999@
-6064@Nipongon@nipongon@05555555@4@9999@
 10074@Nihongon@nihongon@05555555@4@9999@
-1379@Cvaitz, lao@cvaitz, lao@05555555555@4@9999@
-1388@DaiNaizA@dainaiza@05505550@4@9999@
-1839@Espaniol'@espaniol'@055555555@5@9999@
-2656@Franseis'@franseis'@055555555@5@9999@
-2906@gasllini@gasllini@55555555@5@9999@
-3054@gozyleiketpi@gozyleiketpi@555555555555@5@9999@
-3487@Hin'dustan@hin'dustan@0555555555@5@9999@
-3673@isrraeli@isrraeli@55555555@5@9999@
-3865@kastrua@kastrua@5555555@5@9999@
-5912@Neozo-ik@neozo-ik@05555555@5@9999@
-5934@nehyrihyjmi@nehyrihyjmi@55555555555@5@9999@
-6092@no ae@no ae@55555@5@9999@
-6093@no ai@no ai@55555@5@9999@
-6095@no ao@no ao@55555@5@9999@
-6096@no au@no au@55555@5@9999@
-6111@no ea@no ea@55555@5@9999@
-6112@no ei@no ei@55555@5@9999@
-6114@no eo@no eo@55555@5@9999@
-6115@no eu@no eu@55555@5@9999@
-5230@no oe@no oe@55555@5@9999@
-5232@no ou@no ou@55555@5@9999@
-6378@no ua@no ua@55555@5@9999@
-6379@no ue@no ue@55555@5@9999@
-6380@no ui@no ui@55555@5@9999@
-6382@no uo@no uo@55555@5@9999@
-6383@no uu@no uu@55555@5@9999@
-6637@osmmio@osmmio@555555@5@9999@
-6643@O'strraih@o'strraih@055555555@5@9999@
-7668@rihyhasgru@rihyhasgru@5555555555@5@9999@
-7669@rihyvei@rihyvei@5555555@5@9999@
-9036@testhuda@testhuda@55555555@5@9999@
-9037@testhude@testhude@55555555@5@9999@
-9038@testhudi@testhudi@55555555@5@9999@
-9039@testhudo@testhudo@55555555@5@9999@
-9040@testhudu@testhudu@55555555@5@9999@
-9568@vahyhansiu@vahyhansiu@5555555555@5@9999@
-9622@vestrrnu@vestrrnu@55555555@5@9999@
-9712@vizyleibao@vizyleibao@5555555555@5@9999@
-9713@vizyleisro@vizyleisro@5555555555@5@9999@
-9777@zenhono@zenhono@5555555@5@9999@
 10075@sinoi@sinoi@55555@5@9999@
 10076@sunoi@sunoi@55555@5@9999@
 10077@moa@moa@555@5@9999@
@@ -10122,17 +10130,9 @@
 10097@bilfoavizrie@bilfoavizrie@555555555555@5@9999@
 10098@flekukfoa@flekukfoa@555555555@5@9999@
 10099@lekveo@lekveo@555555@5@9999@
-5991@neurhoni@neurhoni@55555555@5@9999@
-5229@no oa@no oa@55555@5@9999@
-9841@zlizu@zlizu@55555@5@9999@
 10100@poi@poi@555@5@9999@
 10101@pui@pui@555@5@9999@
 10102@zoi@zoi@555@5@9999@
-9774@Haiu@haiu@0555@5@9999@
-9775@haiukrre@haiukrre@55555555@5@9999@
-9776@heiu@heiu@5555@5@9999@
-9839@zoa@zoa@555@5@9999@
-9838@zoo@zoo@555@5@9999@
 10103@seu@seu@555@5@9999@
 10104@zeia@zeia@5555@5@9999@
 10105@zeio@zeio@5555@5@9999@
