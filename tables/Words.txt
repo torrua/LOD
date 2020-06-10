@@ -8725,7 +8725,7 @@
 8745@1-Cpx@Predicate@@@JCB/RAM@1990@3.5@sur+ko(rj)i@(1st 11th) commander@@
 8746@2-Cpx@Predicate@@@JCB@1986@9.9@sur+ku(mc)e+ra(nd)e@(insert a number) reciprocal circle@@
 8747@C-Prim@Predicate@sru@36%@L4@1975@1.8@3/4C suen | 3/4R rana | 2/3H nash | 3/6J songai@@cabsrusia | dasysru | falsrutaa | foisru | kapsrusia | kemsrusia | kiksrusia | korsru | noirselsru | nursru | plisru | ritysrusia | satsru | skapykolsru | sruciufio | sruciupoa | srudaa | srudurcue | srumarcko | srumarmao | srumra | srunakso | srutaa | stosrusia | tcosrusia@
-8748@2-Cpx@Predicate@@@JCB/RAM@1975@7.4@sur+narm(i)+y+ko(rj)i@#+army commander@@
+8748@2-Cpx@Predicate@@@JCB/RAM@1975@7.4@sur+narm(i)+y+ko(rj)i@# army commander@@
 8749@2-Cpx@Predicate@@@RAM@1987@3.4@sur+narm(i)+y+pa(rt)i@army part@@
 8750@1-Cpx@Predicate@@@FR/JCB/RAM@1993@4.7@sur+po(rl)i@(1st 6th) power@@
 8751@2-Cpx@Predicate@@@RAM@1993@4.7@sur+soc(li)+y+si(tf)a@# social position@@
