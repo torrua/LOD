@@ -1600,7 +1600,7 @@
 1601@2-Cpx@Predicate@@@JFB@1984@3.8@dju(di)+si(tf)a@judge place@@
 1602@2-Cpx@Predicate@@@L4@1975@1.5@dju(di)+spa(si)@judge space@@
 1603@LW@Struct@@@L4@1975@1.0@@@@
-1604@Afx@Affix@@@JCB@1996@7+@dotc @@@
+1604@Afx@Affix@@@JCB@1996@7+@dotc@@@
 1605@Cpd@Struct@@@L4@1975@15@do+ci+ne@@@
 1606@2-Cpx@Predicate@@@JCB@1996@7+@do(t)c(a)+ta(kn)a@German talker@@
 1607@Name@Name@@@JCB@1996@7+@G. Deutsch@@@
@@ -2980,7 +2980,7 @@
 2987@2-Cpx@Predicate@@@SLR@1992@7+@gi(nr)u+fo/r(li)@root strong@@
 2988@2-Cpx@Predicate@@@JCB/RAM@1983@2.3@gi(nr)u+kri(do)@root belief@@
 2989@2-Cpx@Predicate@@@JCB/RAM@1983@2.3@gi(nr)u+tra(du)@root truth@@
-2990@Afx@Affix@@@JCB@1996@7+@glec @@@
+2990@Afx@Affix@@@JCB@1996@7+@glec@@@
 2991@N-Prim@Predicate@gle@@L4@1975@1.0@E English@@gletaa | norgle@
 2992@D-Prim@Predicate@gle@@JCB/JFB@1988@3.4@E English@@@
 2993@D-Prim@Predicate@gle@@L4@1975@1.0@E English@@@
@@ -3469,7 +3469,7 @@
 3478@Afx@Affix@@@JCB@1988@7+@hijra@@@
 3479@3-Cpx@Predicate@@@SLR@1994@7+@hij(ra)+kin(ci)+be(gc)o@attend accompany request@@
 3480@C-Prim@Predicate@hia hij@48%@L4@1975@2.3@3/3E here | 2/3C jer | 2/3G hier@@hijkinbeo | norhia | norhiakao | norhialei@
-3481@Afx@Affix@@@JCB@1996@7+@hind @@@
+3481@Afx@Affix@@@JCB@1996@7+@hind@@@
 3482@N-Prim@Predicate@hin@@L4@1975@1.0@Hindi, the language@@hintaa@
 3483@D-Prim@Predicate@hin@@JCB/JFB@1988@2.2@Hindi, the language@@@
 3484@D-Prim@Predicate@hin@@L4@1975@1.0@Hindi, the language@@@
@@ -5031,7 +5031,7 @@
 5041@3-Cpx@Predicate@@@L4@1975@7.4@lod(ji)+se(n)s(i)+ma(dz)o@logic scientist@@
 5042@2-Cpx@Predicate@@@JCB/RAM@1991@7+@lod(ji)+spe(ni)@logic experience@@
 5043@LW@Struct@@@L4@1975@1.0@@@@
-5044@Afx@Affix@@@JCB@1996@7+@logl @@@
+5044@Afx@Affix@@@JCB@1996@7+@logl@@@
 5045@2-Cpx@Predicate@@@SLR@1993@7+@log(la)+ci(rn)a@Loglan learn@@
 5046@2-Cpx@Predicate@@@SLR@1994@7+@log(la)+di(tc)a@Loglan teach@@
 5047@2-Cpx@Predicate@@@SLR@1994@7+@log(la)+du(rz)o@Loglan do@@
@@ -6146,7 +6146,7 @@
 6159@2-Cpx@Predicate@@@FR/JFB@1986@2.5@nor+y+(s)ri(s)u+cu(ts)e@not serious say@@
 6160@1-Cpx@Predicate@@@L4@1975@9.7@nor+y+ru(ln)i@no rule@@
 6161@2-Cpx@Predicate@@@FR/JCB/RAM@1991@5.0@nor+zav(lo)+du(rz)o@not bad do@@
-6162@Afx@Affix@@@JCB@1996@7+@nors @@@
+6162@Afx@Affix@@@JCB@1996@7+@nors@@@
 6163@Cpd@Struct@@@L4@1975@1.0@no+snola@@@
 6164@Cpd@Struct@@@L4@1975@1.0@no+snola+ki@@@
 6165@2-Cpx@Predicate@@@JCB@1996@7+@no(r)s(a)+ta(kn)a@Norwegian talker@@
@@ -7092,7 +7092,7 @@
 7106@2-Cpx@Predicate@@@JFB@1988@4.3@po(rl)i+r+to(kn)a@power take@@
 7107@Afx@Affix@@@JCB@1988@7+@porju@@@
 7108@2-Cpx@Predicate@@@L4@1975@3.9@po(r)j(u)+mi(tr)o@hog meat@@
-7109@Afx@Affix@@@JCB@1996@7+@polk @@@
+7109@Afx@Affix@@@JCB@1996@7+@polk@@@
 7110@2-Cpx@Predicate@@@JCB@1996@7+@po(l)k(a)+ta(kn)a@Polish talker@@
 7111@Afx@Affix@@@JCB@1988@7+@poldi@@@
 7112@C-Prim@Predicate@@47%@L4@1975@1.0@3/3C pao | 2/3E run | 2/3G renn en@@bufnertueprano | darprano | frefelprano | kukprano | lokprano | pleprano | pranyprikaa | smiprano | zvoprano@
@@ -7719,7 +7719,7 @@
 7736@2-Cpx@Predicate@@@JCB/RAM@1991@3.8@rol(gu)+so(nd)a@rolling sound@@
 7737@2-Cpx@Predicate@@@L4@1975@1.8@rol(gu)+spori@roll spring@@
 7738@2-Cpx@Predicate@@@JFB@1987@3.2@rol(gu)+ve(sl)o@cylindrical container@@
-7739@Afx@Affix@@@JCB@1996@7+@romn @@@
+7739@Afx@Affix@@@JCB@1996@7+@romn@@@
 7740@Name@Name@@@L4@1975@15@Ital. Roma@@@
 7741@Bor.@Predicate@@@JCB@2001@7+@romany@@@
 7742@Bor.@Predicate@@@JCB@2001@7+@romany@@@
@@ -7805,7 +7805,7 @@
 7822@3-Cpx@Predicate@@@L4@1975@1.7@ru(tm)a+r+sti(se)+ma(dz)o@way stop make@@
 7823@I-Prim@Predicate@@@JWK@2000@7+@Incomplete, based on ruby, rubis,Rubin,rubino@@@
 7824@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-7825@N-Prim@Predicate@@@L4@1975@1.0@R rubl @@@
+7825@N-Prim@Predicate@@@L4@1975@1.0@R rubl@@@
 7826@Afx@Affix@@@JCB@1988@7+@brute@@@
 7828@2-Cpx@Predicate@@@RAM@1988@4.7@(b)ru(t)e+r+li(tn)u@breath restrain@@
 7829@2-Cpx@Predicate@@@NT/RAM@1988@4.7@(b)ru(t)e+sti(se)@breath stop@@
@@ -7815,7 +7815,7 @@
 7833@2-Cpx@Predicate@@@L4@1975@2.3@(t)ruf(a)+y+(d)ju(p)o@roof support@@
 7834@Afx@Affix@@@JCB@1988@7+@rulni@@@
 7835@2-Cpx@Predicate@@@JCB/RAM@1990@4.2@ru(ln)i+tro(li)@rule control@@
-7836@Afx@Affix@@@JCB@1996@7+@rusk @@@
+7836@Afx@Affix@@@JCB@1996@7+@rusk@@@
 7837@Afx@Affix@@@JCB@1988@7+@rulni@@@
 7838@3-Cpx@Predicate@@@JCB/RRM@1990@3.9@rul(ni)+biv(du)+ma(dz)o@rule behave make@@
 7839@3-Cpx@Predicate@@@RAM@1991@4.3@rul(ni)+ce(nj)a+ma(dz)o@formal change make@@
@@ -8756,7 +8756,7 @@
 8776@2-Cpx@Predicate@@@L4@1975@1.9@su(r)v(a)+m(r)e(n)u@serving man@@
 8777@2-Cpx@Predicate@@@FR/JFB@1987@3.2@su(r)v(a)+prati@service price@@
 8778@Cpd@Struct@@@APL/JCB@2000@7+@su+zo@@@
-8779@Afx@Affix@@@JCB@1996@7+@sven @@@
+8779@Afx@Affix@@@JCB@1996@7+@sven@@@
 8780@D-Prim@Predicate@sve@@L4@1975@1.0@Sw svensk@@svetaa@
 8781@D-Prim@Predicate@sve@@L4@1975@1.0@Sw svensk@@@
 8782@N-Prim@Predicate@sve@@L4@1975@1.0@Sw svensk@@@
