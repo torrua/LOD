@@ -737,8 +737,8 @@
 466@1@@1n@K is a «psychologist»/«behavior scientist».@@K-
 467@1@@1a@B is «Byzantine».@@B-
 468@1@@af@a combining form of {blada}, «blade».@@
-469@1@@2a@G is «whiter» than J.@@G-J
-469@2@@n@a «white», a white thing/fig., person.@@
+469@1@@2a@G is more «white»/«whiter» than J.@@G-J
+469@2@@n@a «white», a white thing/object.@@
 469@3@lopu %@n@«white», the colour, mass term.@@
 469@4@pu %@n@a «whiteness», a spec. property.@@
 470@1@@2n@B is the sharp «edge» of tool/weapon F.@@B-F
@@ -749,8 +749,8 @@
 474@1@@2n@B is the «blade» of F.@@B-F
 475@1@@2n@B is a «rotor»/«propeller»/«screw» of F.@@B-F
 476@1@@1n@B is an «axe».@@B-
-477@1@@2a@G is «bluer» than J.@@G-J
-477@2@@a@«blue», a blue coloured thing.@@
+477@1@@2a@G is more «blue»/«bluer» than J.@@G-J
+477@2@@a@«blue», a blue coloured thing/object.@@
 477@3@@n@«blue», a blue thing.@@
 477@4@lopu %@n@«blue», the colour, mass term.@@
 477@5@pu %@n@«blueness», a spec. property.@@
@@ -1016,7 +1016,7 @@
 618@6@po nu %@n@a «fracture»/«break», a process of being broken.@@
 619@1@@1n@B is some «bromine», element 35 (Br).@@B-
 620@1@@1n@B is a «crag».@@B-
-621@1@@2a@G is «browner» than J.@@G-J
+621@1@@2a@G is more «brown»/«browner» than J.@@G-J
 621@2@@a@«brown».@@
 621@3@@n@a «brown», a brown thing/fig., person.@@
 621@4@lopu %@n@«brown», the colour, a mass term.@@
@@ -5835,8 +5835,8 @@
 3102@1@@2n@B is a/the «lyric»/«libretto»/«words» of song F.@@B-F
 3102@2@@a@«lyrical», pert. to lyrics.@@
 3103@1@@1n@B is/are (a) «bagpipe»/«bagpipes».@@B-
-3104@1@@2a@G is «greyer» than J.@@G-J
-3104@2@@n@a «grey», a grey colored thing.@@
+3104@1@@2a@G is more «grey»/«greyer» than J.@@G-J
+3104@2@@n@a «grey», a grey colored thing/object.@@
 3104@3@lo %@n@«grey», the mass of all grey things.@@
 3104@4@lopu %@n@«grey», the color, mass term.@@
 3104@5@pu %@n@a «greyness», a spec. property.@@
@@ -9876,7 +9876,7 @@
 5287@1@@1@B is «deaf», unable to hear.@@B-
 5288@1@@1n@B is a «beast», a non human animal.@@B-
 5289@1@@2a@G is more «orange» than J.@@G-J
-5289@2@@n@an «orange», any orange colored thing.@@
+5289@2@@n@an «orange», any orange colored thing/object.@@
 5289@3@lopu %@n@«orange», the color, mass term.@@
 5289@4@pu %@n@an «orangeness», a spec. property.@@
 5290@1@@4a@G is (more) «insignificant»/«unimportant» than J to D in respects N.@@G-JDN
@@ -12842,7 +12842,7 @@
 6862@1@@2n@B is a «hide»/«pelt»/«skin»/piece of «leather» from animal S.@@B-S
 6862@2@@a@«leather»/«skin»/«hide», made of leather.@@
 6863@1@@2a@G is more «yellow» than J.@@G-J
-6863@2@@n@a «yellow», a yellow thing/person.@@
+6863@2@@n@a «yellow», a yellow thing/object.@@
 6863@3@lopu %@n@«yellow», the color, mass term.@@
 6863@4@pu %@n@a «yellowness», a spec. property.@@
 6864@1@@2n@B is a «pelvis» of F.@@B-F
@@ -14044,7 +14044,7 @@
 7500@1@@2v@K «redden» D, makes ... red, intentional.@@K-D
 7501@1@@2a@G is «redder» than J.@@G-J
 7501@2@@a@«red», redder than ....@@
-7501@3@@n@a «red», a red colored thing/person.@@
+7501@3@@n@a «red», a red colored thing/object.@@
 7501@4@lopu %@n@«red», the color, mass term.@@
 7501@5@pu %@n@a «redness», a spec. property.@@
 7502@1@@1n@B is an American «robin», a red breasted thrush.@@B-
@@ -18608,3 +18608,44 @@
 10121@1@@af@a combining form of {zakra}, «crush».@@
 10122@1@@af@a combining form of {zepti}, «zepto-».@@
 10123@1@@af@a combining form of {zetgo}, «zetta-».@@
+10124@1@@2a@G is «blacker» than J.@@G-J
+10124@2@@a@«black», blacker than ....@@
+10124@3@@n@a «black», a black thing/object.@@
+10124@4@lopu %@n@«black», the color, mass term.@@
+10124@5@pu %@n@a «blackness», a spec. property.@@
+10125@1@@af@a combining form of {nigro}, «black».@@
+10126@1@@2v@B «blacken»/«become black» by V.@@B-V
+10127@1@@3a@G is «darker»/less «brilliant» than J in light N.@@G-JN
+10127@2@@a@«dark»/«sombre», in color, sombre, incomplete form.@@
+10127@3@lopu %@n@«sombreness»/«darkness», the mass of such props.@@
+10127@4@pu %@n@a «sombreness»/«darkness», a prop. of a spec. color.@@
+10128@1@@1n@B is some «molasses»/«treacle».@@B-
+10129@1@@2a@G is more «black»/«blacker» than J.@@G-J
+10129@2@@a@«black», blacker than ....@@
+10129@3@@n@a «black», a black colored thing/object.@@
+10129@4@lopu %@n@«black», the color, mass term.@@
+10129@5@pu %@n@a «blackness», a spec. property.@@
+10130@1@@af@a combining form of {hekri}, «black».@@
+10131@1@@2v@B «blacken»/«become black» by V.@@B-V
+10132@1@@3a@G is «darker»/less «brilliant» than J in light N.@@G-JN
+10132@2@@a@«dark»/«sombre», in color, sombre, incomplete form.@@
+10132@3@lopu %@n@«sombreness»/«darkness», the mass of such props.@@
+10132@4@pu %@n@a «sombreness»/«darkness», a prop. of a spec. color.@@
+10133@1@@3v@B «become»/«change naturally»/«vary» into P from S, as auxiliary for intransitive, passive or cause unspecified causations.@@B-PS
+10133@2@@a@«changing»/«changeable»/«unsettled»/«fickle», naturally, without intervention.@@
+10133@3@lopo %@n@«change», mass term.@@
+10133@4@po %@n@a «becoming», an event/process of changing.@@
+10133@5@po %@n@a «change»/«transition», a spec. event/process.@@
+10133@6@pu %@n@a «changeability», a spec. property.@@
+10134@1@@3a@B is «alike»/«similar to»/«like» B in features N.@@B-BN
+10134@2@@n@a «likeness», that which is similiar to ....@@
+10134@3@fu %@n@a «similarity», that in which ... is -lar.@@
+10134@4@pu %@n@a «similarity», a property of like things.@@
+10135@1@@3a@G is «sweeter» than J to D.@@G-JD
+10135@2@@a@«sweet»/«sugary», i.e. sweeter than ....@@
+10135@3@@n@a «candy»/«goody»/«sweet», that which is sweet.@@
+10135@4@lopu %@n@«sweetness», collective prop.@@
+10136@1@@1n@B is a body/expanse/portion/drop of «water».@@B-
+10136@2@@a@«aquatic», pert. to water.@@
+10136@3@lo %@n@«water», mass term.@@
+10137@1@@2v@B «blacken»/«become black» by V.@@B-V
