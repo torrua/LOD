@@ -4518,8 +4518,8 @@
 2404@1@@2v@N «cool»/«refresh» D, non intentional, as a refreshing breeze.@@N-D
 2405@1@@2v@K «cool»/«refresh» D, intentional.@@K-D
 2406@1@@2v@B «climatize»/«air condition» D.@@B-D
-2406@2@@n@ ... is an «air-conditioner».@@
-2406@3@nu %@pp@ ... is «air-conditioned».@@
+2406@2@@n@... is an «air-conditioner».@@
+2406@3@nu %@pp@... is «air-conditioned».@@
 2407@1@@2v@K «solace»/«comfort»/«console»/«reassure» D, make ... comfortable.@@K-D
 2407@2@@v@make ... «comfortable»/give «comfort to» ....@@
 2407@3@nu %@a@«consolable», of that being -ed.@@
@@ -5279,8 +5279,8 @@
 2821@1@@1@B is some «gallium», element 31 (Ga).@@B-
 2822@1@@1n@B measures C in «gallon» (s), a unit of liquid volume more or less than 4 liters, depending on location. Specify {merko} or {gleco}.@@B-C
 2822@2@@n@n «gallons», something measuring n .... E.g. {Vedma dio mi fe galno je gasoline} -- Sell to me five gallons of gasoline.@@
-2822@3@gleco %@2n@ ... measure(s) ... in Imperial «gallon» (s) (80 Imperial Fl. oz.), default 1.@@
-2822@4@merko %@2n@ ... measure(s) ... in US «gallon» (s) (64 US Fl. oz.), default 1.@@
+2822@3@gleco %@2n@... measure(s) ... in Imperial «gallon» (s) (80 Imperial Fl. oz.), default 1.@@
+2822@4@merko %@2n@... measure(s) ... in US «gallon» (s) (64 US Fl. oz.), default 1.@@
 2823@1@@2n@B is a «department»/«faculty»/«division»/«branch»/«section» of organization F.@@B-F
 2824@1@@2n@K is a «role»/«position» in (organization) F.@@K-F
 2825@1@@1@B is a «gamete», a sexual reproductive cell.@@B-
@@ -5472,7 +5472,7 @@
 2914@1@@op@strong potentiality marker: operator between predicates.@@
 2914@2@@va@«can» ....@@
 2915@1@@op@«for a»/«type of», as in 'large for a girls school', the grouping oper.@@
-2915@2@-ge@af@ connective suffix: as in {age}.@@
+2915@2@-ge@af@connective suffix: as in {age}.@@
 2916@1@@av@«again»/I «repeat», a discourse operator (UI).@@
 2918@1@@l@«g», Latin lower case letter, one of a pool of symbols.@@
 2919@1@@3a@K is «acquisitive» of B in conditions N.@@K-BN
@@ -7782,7 +7782,7 @@
 4145@1@@2n@B is an «academy» of F.@@B-F
 4146@1@@3v@K «cry»/«shout» a warning to D of danger V.@@K-DV
 4146@2@@v@give an «alarm to»/«warn» ... of ....@@
-4146@3@po %@n@an «alarm»/«warning»/«shout», a sp. act of -ing. E.g. "Watch out"@@
+4146@3@po %@n@an «alarm»/«warning»/«shout», a sp. act of -ing. E.g. "Watch out".@@
 4147@1@@c@«then»/«or»/«and»/«nor» etc., infix mark of forethought connections.@@
 4148@1@@pm@(«delete» previous word).@@
 4149@1@@af@a combining form of {kicmu}, «doctor».@@
@@ -8370,7 +8370,7 @@
 4449@1@@2n@B is a «chamber»/«room» of F, an enclosed portion of house.@@B-F
 4450@1@@2n@B is a «suite» (of rooms) in building F.@@B-F
 4451@1@@c@«whether» (or not), forethought logical independence with {ki} in '{ku ... ki ... }'.@@
-4452@1@@ms@ ... «over»/«divided by» ... -- the division operator (/ or ÷), math.@@
+4452@1@@ms@... «over»/«divided by» ... -- the division operator (/ or ÷), math.@@
 4453@1@@1a@B is «coverless».@@B-
 4454@1@@2n@B is a «quantum» of F, the smallest unit of energy.@@B-F
 4455@1@@2n@B is a «quark» of type F, the current smallest hadron component.@@B-F
@@ -8415,7 +8415,7 @@
 4477@2@pu %@n@an «extensiveness», a spec. prop.@@
 4478@1@@af@a combining form of {kunci}, «kin».@@
 4479@1@@3v@K «relate» B to B, find a relation between ... and.@@K-BB
-4480@1@@ms@ ... «under»/«dividing» ... -- the inverse division operator (\), math.@@
+4480@1@@ms@... «under»/«dividing» ... -- the inverse division operator (\), math.@@
 4481@1@@af@a combining form of {kunci}, «kin».@@
 4482@1@@1n@B is some «quinine», an antimalarial drug.@@B-
 4483@1@@3n@G is a closer «relation»/«kin» than J is to D.@@G-JD
@@ -8463,7 +8463,7 @@
 4504@2@@n@«dispatcher»/«shipper» of ... from ... to ..., one who -s.@@
 4504@3@nu %@a@«dispatched», that which is -ed from ... from ... to ....@@
 4504@4@po %@n@an instance of «shipment»/«dispatch» of ... from ... to ....@@
-4505@1@@1v@K «spin»/«whirl», (cause unspecified), "The paper whirled through the air"@@K-
+4505@1@@1v@K «spin»/«whirl», (cause unspecified), "The paper whirled through the air".@@K-
 4506@1@@2v@N «spin»/«whirl» D, (nonintentional cause) "The wind spins the prayer wheels".@@N-D
 4507@1@@2v@K «spin»/«whirl» D, (intentional act).@@K-D
 4508@1@@3n@P is a «sketch» of S by K.@@P-SK
@@ -8993,7 +8993,7 @@
 4825@3@lo %@n@«left», mass term for the direction.@@
 4826@1@@2v@N «turn» B left/«laevorotate»/«levorotate» (polarized light in the last instances).@@N-B
 4826@2@@a@«laevorotatory»/«levorotatory», pert. to a substance that rotates polarized light anticlockwise.@@
-4827@1@@pm@ «quote»/(“), the utterance which looks/sounds like ..., the left «quotation» mark, used with {lu}.@@
+4827@1@@pm@«quote»/(“), the utterance which looks/sounds like ..., the left «quotation» mark, used with {lu}.@@
 4828@1@@c@«like»/(just) «as»/in the «way that».@@
 4828@2@@pp@«like»/«similar to», before clauses/terms.@@
 4828@3@% ba@av@«anyway»/in some «manner».@@
@@ -9469,7 +9469,7 @@
 5071@1@@3v@K «pick» flowers B from S.@@K-BS
 5072@1@@1n@B is a «lei»/«wreath»/«ring» of flowers.@@B-
 5073@1@@pm@The left hand marker of an ordered «list».@@
-5074@1@@pm@ end «quote»/(”) (the right «quotation» mark, used with {li}).@@
+5074@1@@pm@end «quote»/(”) (the right «quotation» mark, used with {li}).@@
 5075@1@@op@the right hand closure of an unordered «set».@@
 5076@1@@2a@G is more «feathery»/like a feather than J is.@@G-J
 5076@2@pu %@n@a «featheriness», a spec. property.@@
@@ -11467,7 +11467,7 @@
 6112@1@@i@I «ask» not, I'm not asking, a denial that a question was implied.@@
 6113@1@@c@«not» ... and not ..., one word between terms.@@
 6113@2@@c@no eng. equiv. means '«neither» ... nor ...' as one word between terms.@@
-6114@1@@i@I «request» not, denial of request for permission. "I'm not requesting, I'm demanding"@@
+6114@1@@i@I «request» not, denial of request for permission. "I'm not requesting, I'm demanding".@@
 6115@1@@i@I don't «suppose»/I don't «imagine», denial of supposition.@@
 6116@1@-noi@af@connective suffix as in {anoi, kanoi} etc. (A).@@
 6117@1@@i@I'm not «sure»/«certain», an denial of conviction.@@
@@ -12473,7 +12473,7 @@
 6654@1@@av@«before», tense operator before predicates.@@
 6654@2@@c@«before», conjunction before clauses.@@
 6654@3@@pp@«before», operator before event terms.@@
-6654@4@@va@ ... -ed, sign of the «past» tense.@@
+6654@4@@va@... -ed, sign of the «past» tense.@@
 6654@5@% ta@av ph@«formerly»/«before» that.@@
 6654@6@% ti@av ph@«before this».@@
 6655@1@@af@a combining form of {patce}, «apparatus».@@
@@ -13270,7 +13270,7 @@
 7081@1@@3v@K «perfume»/«scent» D with B.@@K-DB
 7082@1@@1n@B is some «plutonium», element 94 (Pu).@@B-
 7083@1@@c@«that», event op., as in 'x said that y came'.@@
-7083@2@@op@ ... «-ing»/«-hood»/«-ion»/«-ment»/«-ness» to ..., the «event»/act/state/condition oper.@@
+7083@2@@op@... «-ing»/«-hood»/«-ion»/«-ment»/«-ness» to ..., the «event»/act/state/condition oper.@@
 7083@3@@va@«to» ..., infinitive, as in 'to swim is good'.@@
 7083@4@% da fremi de@ph@a sp. «friendship» between x and y.@@
 7084@1@@af@a combining form of {ponda}, «respond».@@
@@ -14184,7 +14184,7 @@
 7578@5@po %@n@a «liberation»/«deliverance», an act of -ing.@@
 7578@6@po nu %@n@some «freedom»/«liberty», a state of being freed.@@
 7579@1@@a@«several»/a «few»/«some»/a small number of set ..., a quantifying operator.@@
-7579@2@-ri@af@ ... -st/-nd/-rd/-th as in '{tori}: «second», the ordinal suffix, postfixed to integers.@@
+7579@2@-ri@af@... -st/-nd/-rd/-th as in '{tori}: «second», the ordinal suffix, postfixed to integers.@@
 7580@1@@af@a combining form of {briga}, «brave».@@
 7581@1@@1n@B is some «ribose», a pentose sugar.@@B-
 7582@1@@1n@B is a «ribosome», a cell organelle.@@B-
@@ -14349,7 +14349,7 @@
 7670@1@@af@a combining form of {prizi}, «private».@@
 7671@1@@2n@B is a «club»/private «association»/«society» including member(s) F.@@B-F
 7672@1@@a@«many»/a large number of set ..., a quantifying operator.@@
-7672@2@-ro@af@ ... -st/-nd/-rd/-th, the quality ordinal suffix, postfixed to integers, e.g. {le tori gudbi bedpu} -- the second-best bed.@@
+7672@2@-ro@af@... -st/-nd/-rd/-th, the quality ordinal suffix, postfixed to integers, e.g. {le tori gudbi bedpu} -- the second-best bed.@@
 7673@1@@af@a combining form of {rodja}, «grow».@@
 7674@1@@2n@S is a «culture»/«medium»/«substrate» for growing P.@@S-P
 7675@1@@1n@B is a/the «grain», growth mark(s) of, as of wood.@@B-
@@ -15328,7 +15328,7 @@
 8229@3@nu %@n@a «mass».@@
 8230@1@@2n@The shortest «distance» between two specified points B, pl. set, measures C scale units.@@B-C
 8230@2@@n@a measurable «distance».@@
-8230@3@nu %@n@ ... a dimensioned number, is the «length»/«distance» between points ..., pl. set.@@
+8230@3@nu %@n@... a dimensioned number, is the «length»/«distance» between points ..., pl. set.@@
 8231@1@@3v@K «weigh» B on scale/balance V.@@K-BV
 8232@1@@1n@B is a serving/quantity of «coffee» from source S.@@B-S
 8233@1@@2v@B, a point in 3 space above a planet, or a flying object, or a building or other vertical object, measures C scalar units in «height»/rises ... scalar units vertically above the surface of the planet or its own base.@@B-C
@@ -16219,7 +16219,7 @@
 8702@2@@2n@a «pulse» of ....@@
 8703@1@@2n@D have a sudden «insight» about N, a "Eureka" incident.@@D-N
 8704@1@@2n@V is a «torrent» of F.@@V-F
-8705@1@@op@ converts a «onamatopoetic» sound to a predicate '{Le katma pa sue miao.}' -- 'The cat meouwed.' (PREDA).@@
+8705@1@@op@converts a «onamatopoetic» sound to a predicate '{Le katma pa sue miao.}' -- 'The cat meouwed.' (PREDA).@@
 8706@1@@av@«also»/«too»/«moreover»/«besides»/«as well»/in «addition»/«furthermore», a discourse operator (UI).@@
 8706@2@@av@«neither»/«either»/«nor», in the senses 'He didn't either/Neither did he/Nor did he'.@@
 8706@3@% ue@av@«even», as in 'I couldn't remember even the simplest tunes.'.@@
