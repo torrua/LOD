@@ -1018,7 +1018,7 @@
 620@1@@1n@B is a «crag».@@B-
 621@1@@2a@G is more «brown»/«browner» than J.@@G-J
 621@2@@a@«brown».@@
-621@3@@n@a «brown», a brown thing/fig., person.@@
+621@3@@n@a «brown», a brown thing/object.@@
 621@4@lopu %@n@«brown», the colour, a mass term.@@
 621@5@pu %@n@a «brownness», a specific property.@@
 622@1@@1n@B is a «bronchus», a main branch of the windpipe.@@B-
@@ -11302,7 +11302,7 @@
 6020@4@pu %@n@a «sombreness»/«darkness», a prop. of a spec. color.@@
 6021@1@@2a@G is «blacker» than J.@@G-J
 6021@2@@a@«black», blacker than ....@@
-6021@3@@n@a «black»/«negro», a black colored thing/person.@@
+6021@3@@n@a «black»/«negro», a black colored thing/object.@@
 6021@4@lopu %@n@«black», the color, mass term.@@
 6021@5@pu %@n@a «blackness», a spec. property.@@
 6022@1@la %@na@«Negro» (member of any group called negroes).@@
