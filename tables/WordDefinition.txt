@@ -18626,7 +18626,7 @@
 10129@4@lopu %@n@«black», the color, mass term.@@
 10129@5@pu %@n@a «blackness», a spec. property.@@
 10130@1@@af@a combining form of {hekri}, «black».@@
-10131@1@@2v@B «blacken»/«become black» by V.@@B-V
+10131@1@@1n@B is some «molasses»/«treacle».@@B-
 10132@1@@3a@G is «darker»/less «brilliant» than J in light N.@@G-JN
 10132@2@@a@«dark»/«sombre», in color, sombre, incomplete form.@@
 10132@3@lopu %@n@«sombreness»/«darkness», the mass of such props.@@
