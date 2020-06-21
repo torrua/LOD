@@ -5661,7 +5661,7 @@
 5674@4-Cpx@Predicate@@@JCB/RAM@1991@4.9@mus(lo)+y+t(r)ol(i)+cle(si)+cko(zu)@muscle control without cause@@
 5675@4-Cpx@Predicate@@@JCB/RAM@1991@4.9@mus(lo)+y+t(r)ol(i)+cle(si)+ma(dz)o@muscle control without make@@
 5676@Afx@Affix@@@JCB@1988@7+@mutce@@@
-5677@C-Prim@Predicate@muc mue mut@53%@L4@1975@1.5@4/4S much o | 3/4E mu0ch | 2/3C shen | 3/5R ochen@@getmue | lipmue | mromue | mrotsumue | mucdou | mucfua | mucgudbi | mucgutra | muchai | muchaisia | muckou | mucmeu | mucmue | mucnei | mucpao | mucpoi | mucpuu | mucrai | mucrea | mucria | muecma | muegro | muerzavkao | mueslo | muespu | mutkubviu | mutkusti | mutmoutsu | mutneicko | mutnencea | mutnenmao | mutnorhai | mutnorkou | mutpuncko | mutpunmao | nurmucmao | nurmue | selmucdou | tsumue@
+5677@C-Prim@Predicate@muc mue mut@53%@L4@1975@1.5@4/4S much o | 3/4E much | 2/3C shen | 3/5R ochen@@getmue | lipmue | mromue | mrotsumue | mucdou | mucfua | mucgudbi | mucgutra | muchai | muchaisia | muckou | mucmeu | mucmue | mucnei | mucpao | mucpoi | mucpuu | mucrai | mucrea | mucria | muecma | muegro | muerzavkao | mueslo | muespu | mutkubviu | mutkusti | mutmoutsu | mutneicko | mutnencea | mutnenmao | mutnorhai | mutnorkou | mutpuncko | mutpunmao | nurmucmao | nurmue | selmucdou | tsumue@
 5678@3-Cpx@Predicate@@@JWK@2000@7+@mut(ce)+kub(ra)+vi(dj)u@very wide view@@
 5679@2-Cpx@Predicate@@@RAM@1988@4.4@mut(ce)+kusti@very costly@@
 5680@3-Cpx@Predicate@@@JFB@1984@3.3@mut(ce)+mo(rd)u+tsu(fi)@much more than sufficient@@
