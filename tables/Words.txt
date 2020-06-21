@@ -10080,7 +10080,7 @@
 10126@2-Cpx@Predicate@@@APL@2000@7+@nig(ro)+ce(nj)a@black become (deprecated, replace with {heircea})@@
 10127@2-Cpx@Predicate@@@L4@1975@7.4@nig(ro)+cli(ka)@dark like (deprecated, replace with {heicli})@@
 10128@3-Cpx@Predicate@@@JJ@1993@7+@nig(ro)+sli(ti)+cu(tr)i@black sweet water (deprecated, replace with {heirslicui})@@
-10129@C-Prim@Predicate@hei@@RH@2019@1.0@borrowed from Lojban, xekri @Lojban xekri, black@heircea | heicli | heirslicui@
+10129@C-Prim@Predicate@hei@@RH@2019@1.0@borrowed from Lojban, xekri@Lojban xekri, black@heircea | heicli | heirslicui@
 10130@Afx@Affix@@@RH@2019@@hekri@@@
 10131@3-Cpx@Predicate@@@JJ/RH@2019 (original 1993)@7+@he(kr)i+r+sli(ti)+cu(tr)i@black sweet water@@
 10132@2-Cpx@Predicate@@@L4/RH@2019 (original 1975)@7.4@he(kr)i+cli(ka)@dark like@@
