@@ -5927,8 +5927,8 @@
 5909@neolhiti@neolhiti@55555555@1@9999@
 5910@neonho@neonho@555555@1@9999@
 5911@neozhoika@neozhoika@555555555@1@9999@
-5912@Neozo,ik@neozo,ik@05555555@1@5@
 5912@Neozo-ik@neozo-ik@05555555@5@9999@
+5912@Neozo,ik@neozo,ik@05555555@1@5@
 5913@neptunio@neptunio@55555555@1@9999@
 5914@ner@ner@555@1@9999@
 5915@nera@nera@5555@1@9999@
@@ -6081,8 +6081,8 @@
 6060@ninveo@ninveo@555555@1@9999@
 6061@nio@nio@555@1@9999@
 6062@niobmio@niobmio@5555555@1@9999@
-6063@Nipon@nipon@05555@4@9999@
 6063@Nipo'n@nipo'n@055555@1@4@
+6063@Nipon@nipon@05555@4@9999@
 6064@Nipondjin@nipondjin@055555555@1@4@
 6064@Nipongon@nipongon@05555555@4@9999@
 6065@nir@nir@555@1@9999@
