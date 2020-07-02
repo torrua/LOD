@@ -1114,7 +1114,7 @@
 674@1@@1v@K «giggle».@@K-
 675@1@@3v@K «ridicule»/«make fun of» D by V.@@K-DV
 675@2@lopu %@n@«ridicule», mass property.@@
-675@3@po %@n@an instance of «riducling» (of ... by doing ...).@@
+675@3@po %@n@an instance of «ridiculing» (of ... by doing ...).@@
 676@1@@4a@G is more «foolish» about D than J is about D.@@G-DJD
 677@1@@av@«however»/«but»/on the «contrary», a discourse operator (UI).@@
 678@1@@3v@K «pace off»/«measure» D (by stepping) to be C.@@K-DC
@@ -2079,7 +2079,7 @@
 1189@6@po %@n@a «quantification», an instance of -ing.@@
 1190@1@@af@a combining form of {cnida}, «need».@@
 1191@1@@3v@K «satisfy» the need of D for/to do V.@@K-DV
-1191@2@@a@«satisfactory», of need satisifying things.@@
+1191@2@@a@«satisfactory», of need satisfying things.@@
 1191@3@lopo nu %@n@«satisfaction», mass term, states.@@
 1191@4@lopu %@n@«satisfaction», mass term, properties.@@
 1191@5@nu %@a@«satisfied», conv. of satisfy.@@
@@ -2136,7 +2136,7 @@
 1213@1@@pp@«according to»/in «principle», a relative oper. before design'ns (PA).@@B-F
 1213@2@-ta@av@«accordingly», according to that (rule).@@
 1213@3@% ba@av ph@by «rule», according to some rule x.@@
-1213@4@% hu@q@«how»?/«according to whatrule»/method?, a question about procedure.@@
+1213@4@% hu@q@«how»?/«according to what rule»/method?, a question about procedure.@@
 1214@1@@af@a combining form of {colku}, «silk».@@
 1215@1@@2a@G is more «silky»/«silken»/«silk like» than J.@@G-J
 1215@2@pu %@n@a «silkiness», a spec. property.@@
@@ -2615,7 +2615,7 @@
 1469@1@@af@a combining form of {daspa}, «responsible».@@
 1470@1@@3v@K «commission»/«charge» D to do V, gives ... the responsibility for ....@@K-DV
 1470@2@@n@a «commissioner», one who gives commissions.@@
-1470@3@fu %@n@a «charge»/«commission», a commisson/charged act/deed.@@
+1470@3@fu %@n@a «charge»/«commission», a commission/charged act/deed.@@
 1470@4@nu %@a@«commissioned», of one -ed to do ....@@
 1470@5@nu %@n@a «commission», those given a commission.@@
 1470@6@po %@n@a «commission», an act of -ing someone.@@
@@ -2797,11 +2797,11 @@
 1562@7@po nu %@n@an «illness»/«sickness», a spec. state of being ill.@@
 1562@8@pu %@n@«healthiness», a spec. property.@@
 1563@1@@2v@K «digest» D.@@K-D
-1563@2@no nu %@n@«indigestable», neg. of digestable.@@
-1563@3@nu %@a@«digestable», can be -ed.@@
+1563@2@no nu %@n@«indigestible», neg. of digestible.@@
+1563@3@nu %@a@«digestible», can be -ed.@@
 1563@4@po %@n@«digestion», a process of -ing.@@
 1563@5@po no nu %@n@an «indigestion», a spec. state.@@
-1563@6@pu nu %@n@«digestability», a property.@@
+1563@6@pu nu %@n@«digestibility», a property.@@
 1564@1@@4v@K «owe» C to D for loan/service S.@@K-CDS
 1564@2@@a@«indebted»/«owing», incomplete form.@@
 1564@3@@n@a «debtor», one who owes ... to ... for ....@@
@@ -3327,7 +3327,7 @@
 1820@1@@1n@B is an «aegyptopithecine», a member of the genus Aegyptopithecus.@@B-
 1820@2@@a@«aegyptopithecine», characteristic of or pertaining to the -s.@@
 1821@1@@i@is that «so»/is it «true that» ..., a question about the truth of ....@@B-
-1821@2@-ei@af@the mark of «Latin» lower case consonant names, in bei/cei/dei/etc.@@
+1821@2@-ei@af@the mark of «Latin» lower case consonant names, in {bei/cei/dei}/etc.@@
 1821@3@% tu djela?@i@«how are you»?/«how do you feel»? (literal sense).@@
 1822@1@@1@B is some «einsteinium», a transuranic element.@@B-
 1823@1@@2n@B is an «echinoderm» of type F.@@B-F
@@ -3952,7 +3952,7 @@
 2135@2@@c@ever «since», some event, with clauses.@@
 2135@3@@op@continuous future tense: «will» be -ing/being ....@@
 2135@4@@pp@(ever) «since», continuously after, with terms.@@
-2135@5@% ta@av ph@ever «since», «thereafter», that time, a modifying phrase.@@
+2135@5@% ta@av ph@ever «since», «thereafter», that time<, a modifying phrase.>.@@
 2135@6@% ti@av ph@ever «since», «thereafter», this time<, a modifying phrase.>.@@
 2136@1@@2v@N «frighten»/«scare» B by V, nonintentionally, as of an incident.@@K-BV
 2136@2@@a@«frightening»/«scary»/«fearsome», actively causing fear.@@
@@ -4769,7 +4769,7 @@
 2553@2@@n@a «marker», that which -s.@@
 2554@1@@3n@B is a «spot»/«mark» on D made by S.@@B-DS
 2554@2@nu %@n@«spotted»/«marked», having a mark.@@
-2555@1@@2n@B measures C in «mile» (s), approximately 1.6 kilometres.@@B-C
+2555@1@@2n@B measures C in «mile» (s), approximately 1.6 kilometers.@@B-C
 2556@1@@1n@B is a portion/quantity of «marmalade».@@B-
 2556@2@@a@«marmalade» (n), made of marmalade.@@
 2556@3@lo %@n@«marmalade» (n), mass term.@@
@@ -6052,8 +6052,8 @@
 3194@1@@3v@K «benefit» D by doing V.@@K-DV
 3194@2@@n@«benefactor», one who -s.@@
 3194@3@po %@n@a spec. «benefit» instance.@@
-3195@1@@pm@(right boundary mark for je/jue phrases only).@@
-3196@1@@pm@(right boundary mark for ji/ja/jiV/jaV clauses only).@@
+3195@1@@pm@(right boundary mark for {je/jue} phrases only).@@
+3196@1@@pm@(right boundary mark for {ji/ja/ji}V/{ja}V clauses only).@@
 3197@1@@1n@B is a «patriot», one who loves his country dearly.@@B-
 3197@2@@a@«patriotic», pert. to a --.@@
 3197@3@lopu %@n@«patriotism», mass property of -s.@@
@@ -6395,7 +6395,7 @@
 3371@1@@1n@B is an «antiperspirant».@@B-
 3372@1@@q@«is a what»?/«is what kind of» ...?/«how», the predicate interrogative, used to request a predicate phrase or word. E.g. {Da he?} -- X is a what? {Da he mrenu?} -- X is what kind of man?@@
 3372@2@Tu %?@ph@You're what?/«How are you»?@@
-3373@1@@pp@«through»/with the «help of»/«by», a relative oper. before design'ns (PA).@@
+3373@1@@pp@«through»/with the «help of»/«by», a relative oper. before {de}sign'ns (PA).@@
 3373@2@% ba@av@«helpfully», helping someone, a mod. phrase.@@
 3373@3@% hu@q@«how», with whose help, an interrogative.@@
 3373@4@% la Gan@ph@By «God», with God's help.@@
@@ -6936,7 +6936,7 @@
 3709@1@@3n@B is an «alley» between S and D.@@B-SD
 3710@1@@2n@F is 10E24 fold «quantity» of B. (ISV yotta).@@F-B
 3711@1@@pp@«of»/«by»/«for»/«from»/«of»/«to»<, before 2nd arguments in descriptions.>.@@
-3711@2@@op@linking oper.:a generalized preposition before 2nd args. in descr'ns.@@
+3711@2@@op@linking oper.: a generalized preposition before 2nd args. in descr'ns.@@
 3712@1@@l@«j», Latin lower case letter, one of a pool of symbols.@@
 3713@1@@af@a combining form of {djela}, «well».@@
 3714@1@@2a@G is «prettier»/more «comely»/healthily beautiful than J is.@@G-J
@@ -7322,7 +7322,7 @@
 3910@1@@2n@B is an «adult» of species F.@@B-F
 3910@2@@a@«mature»/«adult», pert. to any species.@@
 3910@3@lopo %@n@«adulthood», collective state/condition.@@
-3911@1@@2n@C is a «generation» (the average period of time between birth and parenthoood) in species/society F.@@C-F
+3911@1@@2n@C is a «generation» (the average period of time between birth and parenthood) in species/society F.@@C-F
 3912@1@@1a@B is «still»/«noiseless»/«silent»/completely «quiet».@@B-
 3912@2@@i@be «silent»!, w/o 1st argument, an imper.@@
 3912@3@po %@n@a «silence»/«noiselessness», a spec. state/condition.@@
@@ -7796,7 +7796,7 @@
 4151@6@po %@n@a «treatment», medical, a spec. event.@@
 4152@1@@av@«parenthetically», parentheses as spoken.@@
 4152@2@@pm@(left «parenthesis»), used with {kiu} as in '{kie ... kiu}'.@@
-4153@1@@pp@«with»/«accompanied by», a relative oper. before design'ns (PA).@@
+4153@1@@pp@«with»/«accompanied by», a relative oper. before {de}sign'ns (PA).@@
 4154@1@@1@K «walk together».@@K-
 4155@1@@af@a combining form of {kinku}, «sharp».@@
 4156@1@@2v@K «sharpen» D, nonintentional.@@K-D
@@ -8181,7 +8181,7 @@
 4354@3@stifa %@ph@a computer «hard disk».@@
 4355@1@@1n@B is some «potassium», element 19 (K).@@B-
 4356@1@@2n@B is a «computer display»/«monitor» for system F.@@B-F
-4357@1@@pp@«because of» (cause), a relative oper. before design'ns (PA).@@
+4357@1@@pp@«because of» (cause), a relative oper. before {de}sign'ns (PA).@@
 4357@2@% hu@ph@«why»/«how» (did that happen)?, by what cause?@@
 4357@3@% ta@ph@«so then», because of that, an expression.@@
 4358@1@@c@«because»/«since»/«for»/«as», of causes, with {ki} in '{kouki ... ki ...}; because ..., ...'.@@
@@ -11868,7 +11868,7 @@
 6304@3@@n@a «science», a scientific fact/law about ....@@
 6304@4@lo %@n@«science», the mass of such facts/laws.@@
 6305@1@@1n@B is a «cornflower».@@B-
-6306@1@@1a@B is «holy»/«sacred»/«revered»/«spiritual», pert. to religiouly respected by people K.@@B-K
+6306@1@@1a@B is «holy»/«sacred»/«revered»/«spiritual», pert. to religiously respected by people K.@@B-K
 6306@2@@n@a «saint», a -- person.@@
 6306@3@lopo %@n@«holiness», mass term of states.@@
 6306@4@lopu %@n@«holiness»/«sacredness», mass term for property.@@
@@ -12903,7 +12903,7 @@
 6892@1@@2v@D «know» (s) person F.@@D-F
 6893@1@@3n@K is a «reference»/«evaluator» of person B in situation N.@@K-BN
 6894@1@@2v@K «remember»/«recognize» person B.@@K-B
-6895@1@@2a@G is more «crowded» than J (with peoople).@@G-J
+6895@1@@2a@G is more «crowded» than J (with people).@@G-J
 6896@1@@1n@B is a passenger «ship»/«liner».@@B-
 6897@1@@2n@B is a «peroxide» of F.@@B-F
 6898@1@@2a@G is more «individualistic» than J.@@G-J
@@ -12962,7 +12962,7 @@
 6915@1@@2a@B is «evident»/«clear» to D.@@B-D
 6915@2@@av@«evidently»/«patently»/«clearly».@@
 6916@1@@3v@K «make relevant» to D.@@K-BD
-6917@1@@2n@B is worth C in «peso» (s), latin American unit of currency.@@B-C
+6917@1@@2n@B is worth C in «peso» (s), Latin American unit of currency.@@B-C
 6917@2@lo %@n@(the) «peso», the mass of all pesos.@@
 6918@1@@2n@B is worth C in «peseta» (s), Spanish unit of currency.@@B-C
 6918@2@lo %@n@(the) «peseta», the mass of all pesetas.@@
@@ -12980,7 +12980,7 @@
 6923@1@@2n@B is a «prick»/«stab» with S, a pointed hole made by ....@@B-S
 6924@1@@2v@K «sharpen»/«point» D, makes ... pointed.@@K-D
 6924@2@@n@a «point», the pointed part of ....@@
-6924@3@nu %@a@«pointed», artifically, conv. of sharpen.@@
+6924@3@nu %@a@«pointed», artificially, conv. of sharpen.@@
 6925@1@@3v@K «share out»/«spread»/«distribute» B to/among D.@@K-BD
 6925@2@@n@a «distributor», one who/that which -es.@@
 6925@3@nu %@a@«distributable», capable of being -ed.@@
@@ -14161,7 +14161,7 @@
 7572@1@@4n@K is a «tourist» visiting D from S via V.@@K-DSV
 7573@1@@3n@K «discharge»/let «go»/«release» D from B (court, prison etc.).@@K-DB
 7573@2@po %@n@a «discharge»/«release» (of ... from ...).@@
-7574@1@@1a@B is «wild»/«untame»/«free»/«undomesticated».@@B-
+7574@1@@1a@B is «wild»/«untamed»/«free»/«undomesticated».@@B-
 7574@2@@n@some «wildlife», any instance of untamed life.@@
 7574@3@lo %@n@«wildlife», mass term of wild things.@@
 7574@4@lopo %@n@«wildness», mass term of conditions.@@
@@ -14263,7 +14263,7 @@
 7623@1@@1a@B is an «Amerind» place/territory, a region inhabited by Amerinds.@@B-
 7624@1@@1n@B is an «American Indian»/«Amerind»+(person).@@B-
 7624@2@@a@«Amerind»/«Indian», of Indian origin.@@
-7624@3@lo %@n@(the) «Indian»/Indians, the mass of all indians.@@
+7624@3@lo %@n@(the) «Indian»/Indians, the mass of all Indians.@@
 7625@1@@1n@B is an element/feature/expression of an «American Indian»/«Amerind»+culture.@@B-
 7625@2@@a@«Amerind»/«Indian», of Indian culture.@@
 7625@3@lo %@n@«Indian», the mass of all Amerind culture.@@
@@ -15615,7 +15615,7 @@
 8385@2@@af@the «digit six» (6), as in {fofeso} (456).@@
 8385@3@@l@«six» (6) (of), a description quantifier. E.g. {So le fumna pa merji} -- (Some) Six of the women were married; {So fumna pa hijra} -- (Some) Six women were here independently. Cf., {socu}.@@
 8385@4@lio %@ph@«six» (6), the number six, non math.@@
-8386@1@@pp@«because of» (premise), a relative oper. before design'ns (PA).@@
+8386@1@@pp@«because of» (premise), a relative oper. before {de}sign'ns (PA).@@
 8386@2@% hu@ph@«why»?, by what premise?@@
 8387@1@@c@«because»/«since»/«for»/«as», of premises, with {ki} in '{soaki ... ki ... }; because ..., ...'.@@
 8388@1@@af@a combining form of {socli}, «interact».@@
@@ -16426,7 +16426,7 @@
 8814@1@@2n@B is a «phoneme»/«sound class» of language F.@@B-F
 8815@1@@3v@K «interrupt» D by V.@@K-DV
 8815@2@lopo %@n@an instance of «interruption».@@
-8816@1@@2a@G is more «notable»/«noteworthy»/«remarkable»/«worthy» oftalk/comment than J.@@G-J
+8816@1@@2a@G is more «notable»/«noteworthy»/«remarkable»/«worthy» of talk/comment than J.@@G-J
 8817@1@@3v@K «lecture»/«read» (aloud) B to D.@@K-BD
 8817@2@@n@a «lecturer», one who reads aloud.@@
 8817@3@nu %@n@a «lecture», something read aloud.@@
@@ -16513,7 +16513,7 @@
 8865@3@fu %@a@«disputable», of an argued proposition.@@
 8865@4@fu %@n@an «argument»/«issue», an argued proposition.@@
 8865@5@lopo %@n@«argument», mass term of acts.@@
-8865@6@po %@n@an «argument»/«dispute»/«disputation»/«controvercy», a spec. act of -ing.@@
+8865@6@po %@n@an «argument»/«dispute»/«disputation»/«controversy», a spec. act of -ing.@@
 8866@1@@2a@D is «tired»/«fatigued»/«weary» by effort V.@@D-V
 8866@2@@av@«tiredly»/«wearily», in a tired manner.@@
 8866@3@lopu %@n@«fatigue»/«weariness», mass prop.@@
@@ -17576,7 +17576,7 @@
 9468@1@@3n@B is a «workshift» from time S to time D, referring to the interval.@@B-SD
 9469@1@@3n@F is a «workshift» from time S to time D (referring to its members).@@F-SD
 9470@1@@3v@K «assign»/«order»/«tell» D to do V.@@K-DV
-9470@2@fu %@n@an «assignment», ork -ed.@@
+9470@2@fu %@n@an «assignment», work -ed.@@
 9470@3@nu %@n@an «assignee», ne -ed work.@@
 9470@4@po %@n@an «assignment», spec. instance of -ing.@@
 9471@1@@1n@K is a «workaholic».@@K-
@@ -17724,7 +17724,7 @@
 9553@2@nu %@a@«appreciated», something -ed.@@
 9553@3@po %@n@an «appreciation»/«appraisal», a spec. value rating.@@
 9553@4@pu %@n@an «appreciation», a spec. property of -ing.@@
-9554@1@@2n@B is an «antique», valuably old with value C.@@B-C
+9554@1@@2n@B is an «antique», valuable old with value C.@@B-C
 9555@1@@4v@B have «value» of C to D for use P.@@B-CDP
 9555@2@@a@«valuable», having value.@@
 9555@3@@n@a «value», a specific -ed thing.@@
@@ -17864,7 +17864,7 @@
 9624@1@@2v@N become «real»/«realized» to/by D.@@N-D
 9624@2@po %@n@a «realization», an event/process of becoming real.@@
 9625@1@@2v@N «take place»/«happen»/«occur»/«involve» (to) objects/persons D.@@N-D
-9625@2@@n@an «event»/«happening»/«incident»/«occurrence»/«phenomenon», a happening/occurence involving ....@@
+9625@2@@n@an «event»/«happening»/«incident»/«occurrence»/«phenomenon», a happening/occurrence involving ....@@
 9625@3@nu %@a@«involved» (in event ...).@@
 9625@4@tu ie nu %@ph@«How»'s it going?, well or badly?@@
 9626@1@@4v@K give «account»/«report»/«narration» P of event V to D.@@K-PVD
