@@ -699,7 +699,7 @@
 453@2@% ba@ph@«could»/«might»/«would possibly», as used in subjective subjunctive sentences in which the causal condition is missing. E.g. {Mi hapci biumia ba} -- I might be happy (in some mental place/under some unspecified condition x).@@
 454@1@@2a@K is «harsh» in behaviour N - see specific sense words.@@K-N
 454@2@lopu %@n@«harshness»/«severity» (in behaviour ...).@@
-455@1@@pp@«could»/«might»/«would possibly», the objective subjunctive operator; used before an argument, usually a lepo clause, to give the accompanying predicate a subjunctive sense (PA). E.g. {Mi hapci biuvie lepo mi bragai} -- I am possibly happy in the possible world where I am king (I might be happy if I were king). Cf. {biumia} for the subjective sense of this subjunctive.@@
+455@1@@pp@«could»/«might»/«would possibly», the objective subjunctive operator; used before an argument, usually a {lepo} clause, to give the accompanying predicate a subjunctive sense (PA). E.g. {Mi hapci biuvie lepo mi bragai} -- I am possibly happy in the possible world where I am king (I might be happy if I were king). Cf. {biumia} for the subjective sense of this subjunctive.@@
 455@2@% ba@ph@«could»/«might»/«would possibly», as used in objective subjunctive sentences in which the causal condition is missing. E.g. {Mi hapci biuvie ba} -- I might be happy (in some possible world/under some unspecified condition x). Cf. {biumia ba} for the subjective version of this subjunctive.@@
 456@1@@af@a combining form of {bivdu}, «behave».@@
 457@1@@3v@V «adapt»/«adjust»/«fit» behavior to situation N by V.@@V-NV
@@ -1201,7 +1201,7 @@
 729@2@@a@«quantitative», pert. to quantities.@@
 729@3@nu %@n@is a/the «stuff»/«material»/«supply» from which ..., a measured quantity, is taken.@@
 730@1@@2n@B is a «sample» of F, a random sample, as for polling.@@B-F
-731@1@@c@«if»/«or not», bet. modified/ fying words, e.g. 'wise if good, man'.@@
+731@1@@c@«if»/«or not», bet. modified/fying words, e.g. 'wise if good, man'.@@
 732@1@@4v@K «wager»/«gamble»/«bet» B with K that/on V.@@K-BKV
 732@2@@n@a «gambler»/«better»/«wagerer», one who -s.@@
 732@3@nu %@n@a «bet»/«gamble»/«wager», the thing -ed.@@
@@ -1321,7 +1321,7 @@
 802@5@po %@n@a «change»/«transition», a spec. event/process.@@
 802@6@pu %@n@a «changeability», a spec. property.@@
 803@1@@c@«both» ... and not ... -- one word between mods.@@
-803@2@@c@«but»/«and»+not, bet. modified/ fying words, e.g. 'wise but not good, man'.@@
+803@2@@c@«but»/«and»+not, bet. modified/fying words, e.g. 'wise but not good, man'.@@
 804@1@@2n@B is a «hundredth» part of F, international prefix.@@B-F
 805@1@@l@«chi», Greek lower case letter, one of a pool of symbols.@@
 806@1@@2v@N «dampen»/«wet»/«moisten» D, nonintentional.@@N-D
@@ -2190,7 +2190,7 @@
 1237@1@@c@«either» ... or, exclusive, between mods.@@
 1237@2@@c@«mean» not, a connective between modifiers.@@
 1237@3@@c@«or» ... but not both, one word between mods.@@
-1237@4@@c@«or» (else)/«unless», excl. sense with modified/ fying words, e.g. 'bad or good man'.@@
+1237@4@@c@«or» (else)/«unless», excl. sense with modified/fying words, e.g. 'bad or good man'.@@
 1238@1@@2n@B is the «bottom»/«deepest part» of F.@@B-F
 1239@1@@2v@K «reflect» (s) /«consider»/«contemplate»/«ponder»/«meditate»/«brood»/«think deeply» about V.@@K-V
 1239@2@@a@«pensive»/«preoccupied», meditating on ....@@
@@ -2467,7 +2467,7 @@
 1391@2@po %@n@a «disposition», a state of being -ed to ....@@
 1391@3@pu %@n@a «disposition»/«tendency», a behavioral property.@@
 1392@1@@3n@N is the «temper»/«disposition» of D in situation V.@@N-DV
-1393@1@@3a@state/event V is «likely» to be/happen/has a «probability greater than» 0.5 of being/happening umder conditions N given knowledge system S.@@V-NS
+1393@1@@3a@state/event V is «likely» to be/happen/has a «probability greater than» 0.5 of being/happening under conditions N given knowledge system S.@@V-NS
 1393@2@@a@«probable», of likely states/events.@@
 1393@3@@n@«likelihood», a probable event.@@
 1393@4@lopu %@n@«probability», the mass of such properties.@@
@@ -3604,7 +3604,7 @@
 1957@2@po %@n@a «reversal», an event of becoming -ed.@@
 1958@1@@2v@K «take apart»/«disassemble»/«unmake» D.@@K-D
 1958@2@@n@a «disassembly», an act of -ing something.@@
-1959@1@@2v@K «erase»/«efface»/«dele»/«rub out» B.@@K-B
+1959@1@@2v@K «erase»/«efface»/«delete»/«rub out» B.@@K-B
 1959@2@@a@«erasing» (of ...).@@
 1959@3@@n@«eraser» (of ...), that which -s.@@
 1959@4@nu %@a@«erased» (by ...).@@
@@ -3625,7 +3625,7 @@
 1964@4@lopu nu %@n@«displeasure», mass quality of being -ed.@@
 1964@5@nu %@n@«displeased» (by ... by ...).@@
 1964@6@po nu %@n@a «displeasure», state of being -ed.@@
-1965@1@@3n@K «deinstall» (s) program V from system F.@@K-VF
+1965@1@@3n@K «deinstall»/«uninstall» (s) program V from system F.@@K-VF
 1966@1@@2n@B is a «farm» in countryside F.@@B-F
 1966@2@@a@«agrarian», pert. to farming.@@
 1966@3@nu %@a@«rural»/«rustic», pert. to farm country.@@
@@ -3763,7 +3763,7 @@
 2031@2@@a@«concerned»/«worried»/«troubled»/«disturbed» about ....@@
 2031@3@lopo %@n@«worry»/«concern»/«anxiety», mass term.@@
 2031@4@po %@n@a «worry»/«concern», a spec. instance.@@
-2032@1@@2v@K are «bold»/«act boldly»/have «nerve»/«chutspah» in situation N.@@K-N
+2032@1@@2v@K are «bold»/«act boldly»/have «nerve»/«chutzpah» in situation N.@@K-N
 2032@2@lopu %@n@«boldness»/«nerve», mass property.@@
 2032@3@po %@n@«boldness»/«nerve», an act/event of daring.@@
 2033@1@@3v@K «disturb»/«trouble»/«aggravate»/«annoy»/«vex»/«bother»/«gall» D by doing/being V.@@K-DV
@@ -4276,7 +4276,7 @@
 2296@1@@pp@Wholes/Sets/Collectives, case tag («whole»/«set»/«collective»).@@
 2297@1@@a@«four»/«quadruple»/«quartet», a «tetrad» of ... acting together, an indefinite set describer. E.g. {Focu mrenu pa hijra} -- Some four men/A group of four men were here together. Cf., {Fo mrenu pa hijra} -- Some four men were here independently.@@
 2298@1@@af@a combining form of {foldi}, «fold».@@
-2299@1@@2v@B «fold» (self). (Da --. X -s itself.) (B-).@@B-B
+2299@1@@2v@B «fold» (self). ({Da --}. X -s itself.) (B-).@@B-B
 2300@1@@1n@B is a «folding chair».@@B-
 2301@1@@2v@N «fold» (object) D (unintentional).@@N-D
 2302@1@@1v@B «crumple», become crumpled (actor unspecified).@@B-
@@ -4332,7 +4332,7 @@
 2329@1@@2v@K «lust»/«crave» for B.@@K-B
 2329@2@po %@n@a «lust»/«craving» for ....@@
 2330@1@@2n@a «fold» in (object) ....@@B-F
-2330@2@@2n@B is a «fold» in (object) F (Da --. X is a --.).@@
+2330@2@@2n@B is a «fold» in (object) F ({Da --}. X is a --.).@@
 2331@1@@2a@K is «sure»/certain/«definite»/«convinced»/«positive» of the truth of sentence B.@@K-B
 2331@2@lopo no %@n@«uncertainty»/«unsureness», mass state term.@@
 2331@3@no %@a@«uncertain»/«unsure», not sure of ..., neg. form.@@
@@ -4952,7 +4952,7 @@
 2681@2@lopo %@n@«friendship», mass term of states.@@
 2681@3@po %@n@a «friendship», a state of being a friend.@@
 2681@4@po da % de@ph@a «friendship», spec., between ... and ....@@
-2682@1@@3v@K «promote» D to level/rank V, advance a persons position in the ganlista.@@K-DV
+2682@1@@3v@K «promote» D to level/rank V, advance a persons position in the {ganlista}.@@K-DV
 2682@2@po %@1n@a «promotion», spec. inst. of personal advancement.@@
 2683@1@@2pp@V is in «front of» B.@@V-B
 2683@2@@a@«forward»/«front»/«anterior», pert. to that which is forward.@@
@@ -5399,7 +5399,7 @@
 2874@1@@2n@B is the top/upper «surface» of F.@@B-F
 2875@1@@2n@B is a «thigh»/upper «leg» of F.@@B-F
 2876@1@@1n@B is a «ham».@@B-
-2877@1@@2a@K is «snooty» to D, thinks daself superior.@@K-D
+2877@1@@2a@K is «snooty» to D, thinks {da}self superior.@@K-D
 2878@1@@1n@B is a «tower», any high structure/building.@@B-
 2879@1@@op@constructor for special letters.@@
 2880@1@@1v@K «fart»/«pass wind».@@K-
@@ -5854,7 +5854,7 @@
 3109@2@@a@«symphonic», pert. to symphonies.@@
 3109@3@@n@a «symphony», a large orchestra.@@
 3110@1@@1n@B is a «ship»/big «boat».@@B-
-3110@2@lo %@n@«shipping», mass termn.@@
+3110@2@lo %@n@«shipping», mass term.@@
 3111@1@@4v@K «ship» B to D from S.@@K-BDS
 3111@2@@n@a «shipper», one who ships something.@@
 3111@3@lopo %@n@«shipping», mass term of acts.@@
@@ -5966,7 +5966,7 @@
 3166@5@lopu %@n@(the) «good»/«acceptability», mass term of props.@@
 3166@6@pu %@n@a «goodness»/«acceptability»/«quality», goodness, a spec. prop.@@
 3167@1@@2a@K is «decent»/«respectable» in doing/being V.@@K-V
-3168@1@@3a@G, an event/circumsatnce, is «luckier»/more «fortunate»/«lucky» than J for V.@@G-JV
+3168@1@@3a@G, an event/circumstance, is «luckier»/more «fortunate»/«lucky» than J for V.@@G-JV
 3168@2@@a@«lucky»/«fortunate», as of events.@@
 3168@3@@n@the/some «luck»/«fortune», a spec. instance of good luck.@@
 3168@4@lo %@n@«luck»/«fortune», mass term.@@
@@ -12017,7 +12017,7 @@
 6384@4@@va@«is -ed», passive of some predicates.@@
 6385@1@@va@am/is/are+(now) «habitually» -ing, continuous present tense (PA).@@
 6386@1@@c@«whether» ..., ... as one wd. between modifiers.@@
-6387@1@@c@«whether» ... not ..., between modified/ fying words.@@
+6387@1@@c@«whether» ... not ..., between modified/fying words.@@
 6388@1@@h@«Mr»/«Ms»/«Mrs», an attitudinal indicating both distance and neutrality; part of the series '{rie/kae/nue/fie/die}', q.v.; always follows a designation/vocative. E.g. '{Smiq, Nue.}' -- 'Smith, Mr.' ('Mr. Smith'); '{Ne nu sange nue}' 'A suggestion toward which.@@
 6389@1@@op@reorders the 1st three places of a {preda} as 231.@@
 6390@1@@op@exchanges the 2nd and 3rd places of a predicate.@@
