@@ -21,7 +21,7 @@
 21@2-Cpx@Predicate@@@JCB/RAM@1991@3.2@cet(lo)+brili@wet shine@@
 22@2-Cpx@Predicate@@@L4@1975@5.7@cet(lo)+ce(nj)a@wet become@@
 23@2-Cpx@Predicate@@@CF@1983@3.6@cet(lo)+la(nd)i@wet land@@
-24@C-Prim@Predicate@ceo cet@46%@L4@1975@2.9@3/3C sh lo | 2/3E...et | 2/6J nureta@@ceocko | ceokra | ceorcaltcu | ceorderflo | cetbrili | cetcea | cetlai | cetmao | cetmou | cetydeu | cmaceo | sudnyceokra@
+24@C-Prim@Predicate@ceo cet@46%@L4@1975@2.9@3/3C sh lo | 2/3E wet | 2/6J nureta@@ceocko | ceokra | ceorcaltcu | ceorderflo | cetbrili | cetcea | cetlai | cetmao | cetmou | cetydeu | cmaceo | sudnyceokra@
 25@2-Cpx@Predicate@@@L4@1975@2.9@cet(lo)+ma(dz)o@wet make@@
 26@2-Cpx@Predicate@@@L4@1975@2.9@cet(lo)+mo(rd)u@damp more@@
 27@2-Cpx@Predicate@@@JLT@1985@4.2@cet(lo)+y+de(rt)u@wet dirt@@
