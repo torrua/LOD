@@ -4841,7 +4841,7 @@
 4850@3-Cpx@Predicate@@@JCB/RAM@1991@4.1@lid(ji)+gru(pa)+djo(ri)@religious group member@@
 4851@3-Cpx@Predicate@@@FR/RAM@1985@3.4@lid(ji)+gru(pa)+ha(sf)a@religious group house@@
 4852@3-Cpx@Predicate@@@RAM@1987@3.0@lid(ji)+gud(bi)+nuzvo@religious good news@@
-4853@C-Prim@Predicate@lid@45%@L4@1975@1.6@3/5C jiao | 5/8S religios o | 4/8E religious | 4/8F religion | 3/8G religioen | 3/9R rieligioz nii | 4@@lidbardygei | lidclu | lidfia | lidfiu | lidflo | lidfro | lidfua | lidfuamunce | lidfumhaa | lidgarpai | lidgru | lidgrudjo | lidgruhaa | lidgudnuzvo | lidkao | lidkri | lidkrisio | lidkru | lidnurgri | lidpipstu | lidpozfa | lidselkasfa | lidtraci | lidydia | lidyzavbiu | lidzao | narlidydia | prutylidji@
+4853@C-Prim@Predicate@lid@45%@L4@1975@1.6@3/5C jiao | 5/8S religios o | 4/8E religious | 4/8F religion | 3/8G religioen | 3/9R rieligioz nii@@lidbardygei | lidclu | lidfia | lidfiu | lidflo | lidfro | lidfua | lidfuamunce | lidfumhaa | lidgarpai | lidgru | lidgrudjo | lidgruhaa | lidgudnuzvo | lidkao | lidkri | lidkrisio | lidkru | lidnurgri | lidpipstu | lidpozfa | lidselkasfa | lidtraci | lidydia | lidyzavbiu | lidzao | narlidydia | prutylidji@
 4854@2-Cpx@Predicate@@@L4@1975@2.9@lid(ji)+ka(kt)o@religious act@@
 4855@2-Cpx@Predicate@@@L4@1975@7.4@lid(ji)+kri(do)@religion believe@@
 4856@3-Cpx@Predicate@@@L4@1975@1.6@lid(ji)+kri(do)+si(st)o@religion creed@@
