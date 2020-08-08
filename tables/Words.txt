@@ -610,7 +610,7 @@
 610@Afx@Affix@@@JCB@1988@7+@broko@@@
 611@2-Cpx@Predicate@@@L4@1975@15@bro(ko)+cli(ka)@break more@@
 612@C-Prim@Predicate@roc rou@52%@L4@1975@5.6@3/4E brush | 3/4F brosse | 2/3C shua | 4/6S brocha | 3/6J burashi@@datrou | datyrocduo | datyrocpli | fordyrocduo | heryrocduo | heryrocpli | lagrou | lagyrocduo | pinrou | rocduo | rocykuvduo@
-613@C-Prim@Predicate@bod@62%@L4@1975@1.1@2/2C da 3/4E broke 2/4R loma t 2/4S romp er 2/4F bris er | 2/4G brech en@@bodcea | bodcko | bodmao | bodmonbia | radbodcea | siorbodcea@
+613@C-Prim@Predicate@bod@62%@L4@1975@1.1@2/2C da | 3/4E broke | 2/4R loma t | 2/4S romp er | 2/4F bris er | 2/4G brech en@@bodcea | bodcko | bodmao | bodmonbia | radbodcea | siorbodcea@
 614@2-Cpx@Predicate@@@JFB@1987@2.5@bro(ko)+fi(br)u@break weak@@
 615@2-Cpx@Predicate@@@SLR@1992@7+@bro(ko)+fo/r(li)@break strong@@
 616@C-Prim@Predicate@bro@41%@L4@1975@2.3@4/4E broke | 3/4S roto | 1/2J kowa su | 2/4F bris er@@brocli | brofiu | brofro | brolia | bromao | bromoa | brovalpu | ckenorbro | nenbromao | rorbro | rorbrocea | rorbrocko | rorbromao | spanorbro@
@@ -793,7 +793,7 @@
 793@Afx@Affix@@@JCB@1988@7+@celhu@@@
 794@S-Prim@Predicate@cel@@PI@1991@4.1@ISV cel(l/lule/ula)@@nercelsidza | secycelpro@
 795@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-796@C-Prim@Predicate@@37%@L4@1975@4.5@3/4E shelf | 2/4H khana 2/4J tana | 2/5R polka | 2/6S anaque@@celnybao | celnysea@
+796@C-Prim@Predicate@@37%@L4@1975@4.5@3/4E shelf | 2/4H khana | 2/4J tana | 2/5R polka | 2/6S anaque@@celnybao | celnysea@
 797@2-Cpx@Predicate@@@JCB/JPC/RAM@1985@4.7@celn(a)+y+ba(ks)o@shelf box@@
 798@2-Cpx@Predicate@@@L4@1975@7.4@celn(a)+y+se(tf)a@shelf set@@
 799@S-Prim@Predicate@@@JCB/RAM@1991@2.6@Name Celsius@@@
@@ -1068,7 +1068,7 @@
 1068@3-Cpx@Predicate@@@RAM@1987@4.9@cle(si)+gun(ti)+fo(sl)i@without country compel@@
 1069@2-Cpx@Predicate@@@L4@1975@2.0@cle(si)+ka(ml)a@without come@@
 1070@2-Cpx@Predicate@@@JFB@1987@2.5@cle(si)+ma(dz)o@without make@@
-1071@C-Prim@Predicate@cle@40%@L4@1975@1.0@3/3E less 2/3S sin | 2/4H siwa@@ckacle | clecea | clecko | cleduo | clefio | clegunfoi | clekaa | clemao | clespe | clevolcue | clevoltaa | comcle | ctecle | dirtiacle | dupcle | faocle | fatpencle | faucle | fiacle | fiocle | furplicle | guocle | haicle | haocle | hapckocle | hercle | herclecea | herclecko | herclemao | juicle | kalclekaa | keucle | kincle | kinclecea | kinclecko | kinclefio | kinclemao | kladycle | kofcle | koncle | krocle | kuacle | kukcle | lifclemao | limcle | limclesto | livcle | livpeecle | lumclemao | mocyclefle | musytolcle | musytolclecea | musytolclecko | musytolclemao | namcle | nebcle | nurkaocle | nurtcucle | pencle | plicle | poicle | pozpoicle | pricle | priclecei | refcle | refclecea | refclecko | refclemao | retcle | rigclecea | rigclecko | rigclemao | rufcle | sesycle | sitlivclecea | skapyclemao | skapyplaclemao | solcle | spocle | tciclecea | tciclecko | tciclemao | tcorycle | turclekeo@
+1071@C-Prim@Predicate@cle@40%@L4@1975@1.0@3/3E less | 2/3S sin | 2/4H siwa@@ckacle | clecea | clecko | cleduo | clefio | clegunfoi | clekaa | clemao | clespe | clevolcue | clevoltaa | comcle | ctecle | dirtiacle | dupcle | faocle | fatpencle | faucle | fiacle | fiocle | furplicle | guocle | haicle | haocle | hapckocle | hercle | herclecea | herclecko | herclemao | juicle | kalclekaa | keucle | kincle | kinclecea | kinclecko | kinclefio | kinclemao | kladycle | kofcle | koncle | krocle | kuacle | kukcle | lifclemao | limcle | limclesto | livcle | livpeecle | lumclemao | mocyclefle | musytolcle | musytolclecea | musytolclecko | musytolclemao | namcle | nebcle | nurkaocle | nurtcucle | pencle | plicle | poicle | pozpoicle | pricle | priclecei | refcle | refclecea | refclecko | refclemao | retcle | rigclecea | rigclecko | rigclemao | rufcle | sesycle | sitlivclecea | skapyclemao | skapyplaclemao | solcle | spocle | tciclecea | tciclecko | tciclemao | tcorycle | turclekeo@
 1072@2-Cpx@Predicate@@@JCB/RAM@1990@2.8@cle(si)+spe(ni)@without experiencing@@
 1073@3-Cpx@Predicate@@@RAM@1987@2.7@cle(si)+vol(si)+cu(ts)e@without voice say@@
 1074@3-Cpx@Predicate@@@RAM@1987@2.7@cle(si)+vol(si)+ta(kn)a@without voice talk@@
@@ -2552,11 +2552,11 @@
 2558@I-Prim@Predicate@@@JCB/RAM@1991@3.4@International@@@
 2559@D-Prim@Predicate@@@JCB/RAM@1994@7+@marpi@@@
 2560@D-Prim@Predicate@@@JCB/RAM@1994@7+@marpi@@@
-2561@C-Prim@Predicate@@41%@L4@1975@3.4@3/4H sarp | 2/3C mang 2/5E serpent 2/5F serpent 2/5G serpent@@marpytaa@
+2561@C-Prim@Predicate@@41%@L4@1975@3.4@3/4H sarp | 2/3C mang | 2/5E serpent | 2/5F serpent | 2/5G serpent@@marpytaa@
 2562@D-Prim@Predicate@@@JCB/RAM@1994@7+@marpi@@@
 2563@D-Prim@Predicate@@@JCB/RAM@1994@7+@marpi@@@
 2564@2-Cpx@Predicate@@@JCB/RAM@1988@4.7@marp(i)+y+ta(kn)a@snake talk@@
-2565@C-Prim@Predicate@@33%@JCB@1988@7+@4/5S morsa 3/4F morse 3/6E walrus 3/6G Walross 2/4R morzh@@@
+2565@C-Prim@Predicate@@33%@JCB@1988@7+@4/5S morsa | 3/4F morse | 3/6E walrus | 3/6G Walross | 2/4R morzh@@@
 2566@Bor.@Predicate@@@JCB@1988@7+@IV@@@
 2567@D-Prim@Predicate@@@JCB/RAM@1994@7+@marsa@@@
 2568@2-Cpx@Predicate@@@FR@1987@3.9@mar(ka)+se(tf)a@mark set@@
@@ -2666,7 +2666,7 @@
 2672@2-Cpx@Predicate@@@L4@1975@1.6@fre(na)+kra(ku)@front call@@
 2673@2-Cpx@Predicate@@@JCB/RAM@1990@2.5@fre(na)+(c)li(n)a@front(facing) line@@
 2674@2-Cpx@Predicate@@@SLR@1991@7+@fre(na)+litla@front light@@
-2675@C-Prim@Predicate@@42%@PI@1988@3.6@4/5C feng lo | 2/3S loco | 3/4H frail 2/6E crazy@@frelycea | frelycko | frelyfro | frelykaoflo | frelymao@
+2675@C-Prim@Predicate@@42%@PI@1988@3.6@4/5C feng lo | 2/3S loco | 3/4H frail | 2/6E crazy@@frelycea | frelycko | frelyfro | frelykaoflo | frelymao@
 2676@2-Cpx@Predicate@@@JCB/RAM@1991@2.5@frel(o)+y+ce(nj)a@mad become@@
 2677@2-Cpx@Predicate@@@JCB/RAM@1991@2.5@frel(o)+y+cko(zu)@mad cause@@
 2678@2-Cpx@Predicate@@@SLR@1992@7+@frel(o)+y+fo/r(li)@insane strong@@
@@ -2898,7 +2898,7 @@
 2904@3-Cpx@Predicate@@@L4@1975@1.4@gar(ni)+tur(ka)+si(tf)a@official position@@
 2905@Afx@Affix@@@JCB@1988@7+@gasno@@@
 2906@Bor.@Predicate@@@APL@1999 (fixed bad joint '16)@7+@E. gasoline@@@
-2907@C-Prim@Predicate@gao gas@50%@L4@1975@1.0@2/2E arse (br. pron.) 3/3S ano | 3/6C gang men@@gaorbrimao | vrigao@
+2907@C-Prim@Predicate@gao gas@50%@L4@1975@1.0@2/2E arse (br. pron.) | 3/3S ano | 3/6C gang men@@gaorbrimao | vrigao@
 2908@C-Prim@Predicate@@52%@L4@1975@3.1@3/4E steel | 3/4F acier | 2/3C gang | 2/4R stal | 2/5S acero@@gastycli@
 2909@Name@Name@@@JCB@1988@7+@Lin.@@@
 2910@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
@@ -4317,7 +4317,7 @@
 4326@2-Cpx@Predicate@@@L4@1975@1.0@kor(ti)+fo(rm)a@body form@@
 4327@2-Cpx@Predicate@@@SLR@1992@7+@kor(ti)+fo/r(li)@body strong@@
 4328@C-Prim@Predicate@koi koj@52%@L4@1975@1.0@2/3C ji | 2/3F ord re | 2/3G ord en | 2/4E order | 3/6R ordier | 3/6J kunrei | 2/5S orden ar@@bicfoskoi | botkoi | botkoisia | ferkoi | forkoi | foskoi | kafkoi | kamkoi | kerkoi | kickoi | koicli | koiflo | koifro | koitro | kojfiu | kojgaa | kojhelgru | kojkao | kojklaki | kojpoa | kojtiaklaki | lankoi | murkoi | narmykoi | nerkoi | nernerkoi | nernirkoi | noirsifkoi | norkoiduo | norkoiduoflo | peckoi | peirkoipre | serkoi | sorkoi | surbougrukoi | surkergrukoi | surkoi | surnarmykoi | tcorykoi | tedkoi | terkoi | torkoi | turkoi | verkoi | vorkoi | zvogunkoi@
-4329@C-Prim@Predicate@@53%@L4@1975@6.5@4/4E cork | 4/4G kork 4/6J koruku | 3/6R probka | 3/6S corcho@@fankorkyduo | korkycpurie | korkyduo@
+4329@C-Prim@Predicate@@53%@L4@1975@6.5@4/4E cork | 4/4G kork | 4/6J koruku | 3/6R probka | 3/6S corcho@@fankorkyduo | korkycpurie | korkyduo@
 4330@2-Cpx@Predicate@@@JCB/RAM@1990@2.1@kor(ti)+kukra@body swift@@
 4331@3-Cpx@Predicate@@@SLR@1995@7+@kork(a)+y+cpu(la)+(t)ri(m)e@cork pull tool@@
 4332@2-Cpx@Predicate@@@L4@1975@6.5@kork(a)+y+du(rz)o@cork do@@
@@ -5392,7 +5392,7 @@
 5403@2-Cpx@Predicate@@@L4@1975@2.1@mi(d)j(u)+de(nl)i@middle day@@
 5404@Afx@Affix@@@JCB@1988@7+@mikti@@@
 5405@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-5406@C-Prim@Predicate@mis@42%@L4@1975@2.2@3/4E mi3/4H mila na | 3/4S mezcla | 2/3G misch en | 3/6R mieshat@@hebmismia | majymiksa | misfio | misflocko | misfurckosei | mismai | mismao | mispai | misycea | misycko | misysupta@
+5406@C-Prim@Predicate@mis@42%@L4@1975@2.2@3/4E mi | 3/4H mila na | 3/4S mezcla | 2/3G misch en | 3/6R mieshat@@hebmismia | majymiksa | misfio | misflocko | misfurckosei | mismai | mismao | mispai | misycea | misycko | misysupta@
 5407@I-Prim@Predicate@mik@@JCB@1989@7+@Int@@@
 5408@Afx@Affix@@@JCB@1988@7+@milti@@@
 5409@C-Prim@Predicate@@45%@L4@1975@1.4@4/5E mild | 3/4G mild | 3/5C win lo | 2/5H sushil@@clumildo | mildymao | mildymou | mildysiu@
@@ -5718,7 +5718,7 @@
 5731@Afx@Affix@@@JCB@1988@7+@najda@@@
 5732@2-Cpx@Predicate@@@L4@1975@6.5@naj(da)+blo(da)@knife hit@@
 5733@C-Prim@Predicate@naj@45%@L4@1975@2.9@2/3C dao | 2/3R nozh | 2/4E knife | 3/6S navaja | 2/5J naifu@@blonajda | najblo@
-5734@C-Prim@Predicate@@36%@L4@1975@3.7@3/3J nao su | 2/4E fi3/6C nung hao | 2/4F fix er@@josynakso | jurnakso | mairnakso | patnakso | pognakso | srunakso | tcanakso | tcanaksysia@
+5734@C-Prim@Predicate@@36%@L4@1975@3.7@3/3J nao su | 2/4E fi | 3/6C nung hao | 2/4F fix er@@josynakso | jurnakso | mairnakso | patnakso | pognakso | srunakso | tcanakso | tcanaksysia@
 5735@Afx@Affix@@@JCB@1988@7+@naldi@@@
 5736@C-Prim@Predicate@nal@40%@L4@1975@3.0@2/3E nail | 2/3C ding | 2/5H nakhun@@cmanaldi | cmanalduo | gronaldi | nalduo | nalpeatirca@
 5737@2-Cpx@Predicate@@@L4@1975@4.6@nal(di)+du(rz)o@nail do@@
@@ -6190,7 +6190,7 @@
 6203@2-Cpx@Predicate@@@FR@1987@3.5@pol(di)+sekre@state secretary@@
 6204@2-Cpx@Predicate@@@L4@1975@7.4@pol(di)+sensi@politics science@@
 6205@3-Cpx@Predicate@@@L4@1975@7.4@pol(di)+se(n)s(i)+ma(dz)o@political scientist@@
-6206@N-Prim@Predicate@@@JCB@1991@4.1@4/5F police | 5/7S policia 5/8R politsia 5/8G Polizei 3/5E police@@polsyduo | polsygru@
+6206@N-Prim@Predicate@@@JCB@1991@4.1@4/5F police | 5/7S policia | 5/8R politsia | 5/8G Polizei | 3/5E police@@polsyduo | polsygru@
 6207@2-Cpx@Predicate@@@JCB/RAM@1991@4.1@pols(i)+y+du(rz)o@police do@@
 6208@2-Cpx@Predicate@@@JCB/RAM@1991@4.1@pols(i)+y+gru(pa)@police group@@
 6209@2-Cpx@Predicate@@@L4@1975@2.1@pol(di)+ti(sr)a@political choose@@
@@ -6948,7 +6948,7 @@
 6962@C-Prim@Predicate@pil@57%@L4@1975@3.7@3/4E plane | 3/4S plan a | 3/4G plan | 2/3C ping | 3/5R plosk ii@@curpilkoe | norpilno | pilblo | pilfitpi | pilfoa | pilklurie | pilkoe | pilsni | sucypilno | tolpilno | totpilno@
 6963@2-Cpx@Predicate@@@L4@1975@2.2@pil(no)+sni(re)@plane near@@
 6964@Afx@Affix@@@JCB@1988@7+@pinti@@@
-6965@C-Prim@Predicate@pic@71%@L4@1975@1.0@2/2E pee | 2/3C shao | 2/3R pis at | 2/3F pis er | 2/3G piss en | 3/5H pesh2/4S urin ar@@dralypinca | picgodru | picpro | picveo | picyketli | picypatpe@
+6965@C-Prim@Predicate@pic@71%@L4@1975@1.0@2/2E pee | 2/3C shao | 2/3R pis at | 2/3F pis er | 2/3G piss en | 3/5H pesh | 2/4S urin ar@@dralypinca | picgodru | picpro | picveo | picyketli | picypatpe@
 6966@C-Prim@Predicate@pid@29%@L4@1975@4.0@3/3J pin | 2/3E pin | 2/5H alpin@@klopinda | pidyduo@
 6967@2-Cpx@Predicate@@@L4@1975@1.5@pin(ti)+du(rz)o@paint do@@
 6968@Cpd@Struct@@@L4@1975@7.4@pi+ne@.1@@
@@ -8873,7 +8873,7 @@
 8893@C-Prim@Predicate@cal@37%@L4@1975@1.4@2/3E wall | 2/3G wall | 3/5C chiang@@caldao | caldaohou | calhou | calsaa | calsea | calsia | caltoe | ceorcaltcu | fildytcali | haftcali | hedtcali@
 8894@2-Cpx@Predicate@@@SLR@1994@7+@tca(ro)+nakso@car fix@@
 8895@3-Cpx@Predicate@@@APL@1995@7+@tca(ro)+naks(o)+y+si(tf)a@car fix place@@
-8896@C-Prim@Predicate@cae can@48%@L4@1975@1.0@3/5E chance 2/5C ouran | 2/6H sanyog 3/4R shans | 3/4F chance | 3/4G chance | 4/6J chansu |@@caejmi | cancao | canciekla | candui | cangoi | canjui | cankao | cankri | canmii | canple | cansaa | canspo | cantia | cantorni | drecankri | gudcae | gudcanspe | rapcae | rorcanple | zavcae | zavcanpeu | zavcanplu@
+8896@C-Prim@Predicate@cae can@48%@L4@1975@1.0@3/5E chance | 2/5C ouran | 2/6H sanyog | 3/4R shans | 3/4F chance | 3/4G chance | 4/6J chansu@@caejmi | cancao | canciekla | candui | cangoi | canjui | cankao | cankri | canmii | canple | cansaa | canspo | cantia | cantorni | drecankri | gudcae | gudcanspe | rapcae | rorcanple | zavcae | zavcanpeu | zavcanplu@
 8897@2-Cpx@Predicate@@@JCB/RAM@1990@2.6@tca(ro)+ne(nr)i@car in@@
 8898@C-Prim@Predicate@tca@58%@L4@1975@2.2@3/3F char | 2/7J jidosha | 3/4S carro | 2/3E car | 2/3C che | 2/4H gari | 2/4G karren@@beitca | bertcaduo | bicytcagru | cputca | fitlevpletca | folcurtca | ractca | tcabapra | tcabei | tcacuo | tcafrecuo | tcagoi | tcakro | tcakukrua | tcanakso | tcanaksysia | tcanei | tcasro | tcasto | tcastosia | tcatraci | tcatro | trecputca@
 8899@2-Cpx@Predicate@@@APL@1995@7+@tca(ro)+so/r(di)@car store@@
