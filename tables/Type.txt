@@ -1,18 +1,18 @@
-Acr.@Acronym@Bor@False
-Afx@Affix@Little@True
-Illegal@Illegal@Illegal@False
-Name@Name@Bor@False
-1-Cpx@Predicate@Cpx@True
-2-Cpx@Predicate@Cpx@True
-3-Cpx@Predicate@Cpx@True
-4-Cpx@Predicate@Cpx@True
-Bor.@Predicate@Bor@False
-C-Prim@Predicate@Prim@False
-D-Prim@Predicate@Prim@False
-I-Prim@Predicate@Prim@False
-L-Prim@Predicate@Prim@False
-N-Prim@Predicate@Prim@False
-O-Prim@Predicate@Prim@False
-S-Prim@Predicate@Prim@False
-Cpd@Struct@Little@True
-LW@Struct@Little@True
+Acr.@Acronym@Bor@False@Acronym, e.g. DaiNaiA, "DNA".
+Afx@Affix@Little@True@Affix.
+Illegal@Illegal@Illegal@False@
+Name@Name@Bor@False@A name, a proper noun.
+1-Cpx@Predicate@Cpx@True@
+2-Cpx@Predicate@Cpx@True@Two-term Complex E.g. flicea, from fli(du)+ce(nj)a=liquid-become.
+3-Cpx@Predicate@Cpx@True@Three-term Complex E.g. tarsesmao, from tar(ci)+se(n)s(i)+ma(dz)o=star-science-make.
+4-Cpx@Predicate@Cpx@True@Four-term Complex E.g. blidensaecko, from bli(cu)+den(ro)+sa(ns)e+cko(zu)=possible-danger-sense-cause.
+Bor.@Predicate@Bor@False@Borrowing, a word that has been borrowed from one language, but carefully spelled so that it can't be mistaken for another kind of Loglan predicate.
+C-Prim@Predicate@Prim@False@Composite Primitives, drawn from several target languages in a way that might make them recognizable in most of them. (See Loglan 1 Section 6.3.)
+D-Prim@Predicate@Prim@False@Derived Primitive, one of the primitives that follows the cultural (language, nationality, culture) or animal (male, female, infant, resembling, unspecified) declension.
+I-Prim@Predicate@Prim@False@International Primitives, drawn from a single word of international scope. E.g. telfo from "telephone".
+L-Prim@Predicate@Prim@False@Loglan Primitives, a small group of primitives that were drawn from other Loglan words. E.g. logla from the name Loglan.
+N-Prim@Predicate@Prim@False@Native Primitives, drawn from a single source language. E.g. dolra from the English "dollar".
+O-Prim@Predicate@Prim@False@Onomatopoetic E.g zbuma, to explode.
+S-Prim@Predicate@Prim@False@Scientific Primitive, drawn from the international vocabulary of science. E.g. lidro from Hydrogen.
+Cpd@Struct@Little@True@Compound Little Word E.g. enoi from e+no, "and not".
+LW@Struct@Little@True@Little Word, a small word used to give Loglan its grammatical structure.
