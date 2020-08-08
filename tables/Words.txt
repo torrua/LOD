@@ -441,7 +441,7 @@
 441@2-Cpx@Predicate@@@SLR@1995@7+@bis(li)+y+kuspo@ice spread@@
 442@2-Cpx@Predicate@@@JRK@1985@4.4@bis(li)+y+skapi@ice skin@@
 443@Afx@Affix@@@JCB@1988@7+@bitsa@@@
-444@C-Prim@Predicate@@45%@L4@1975@4.8@4/4 R bich | 3/4C bien | 3/6G peitsche | 2/5E switch | 2/4J muchi@@bitcyduo@
+444@C-Prim@Predicate@@45%@L4@1975@4.8@4/4R bich | 3/4C bien | 3/6G peitsche | 2/5E switch | 2/4J muchi@@bitcyduo@
 445@2-Cpx@Predicate@@@L4@1975@4.8@bitc(e)+y+du(rz)o@whip do@@
 446@S-Prim@Predicate@@@SLR@1993@7+@Int.@@vorbithi@
 447@2-Cpx@Predicate@@@JFB@1984@3.8@bit(sa)+litla@between light@@
@@ -3237,10 +3237,10 @@
 3246@2-Cpx@Predicate@@@L4@1975@6.1@ha(r)d(u)+cko(zu)@hard cause@@
 3247@2-Cpx@Predicate@@@L4@1975@1.6@ha(r)d(u)+fasli@hard face@@
 3248@2-Cpx@Predicate@@@FR@1985@4.5@ha(r)d(u)+fitpi@hard feet@@
-3249@N-Prim@Predicate@@@JCB@1985@4.3@C ya si ya | J Ajiya | E Asia@@@
-3250@D-Prim@Predicate@@@JCB@1985@4.3@C ya si ya | J Ajiya | E Asia@@@
-3251@D-Prim@Predicate@@@JCB@1985@4.3@C ya si ya | J Ajiya | E Asia@@@
-3252@D-Prim@Predicate@@@JCB@1985@4.3@C ya si ya | J Ajiya | E Asia@@@
+3249@N-Prim@Predicate@@@JCB@1985@4.3@0/0C ya si ya | 0/0J Ajiya | 0/0E Asia@@@
+3250@D-Prim@Predicate@@@JCB@1985@4.3@0/0C ya si ya | 0/0J Ajiya | 0/0E Asia@@@
+3251@D-Prim@Predicate@@@JCB@1985@4.3@0/0C ya si ya | 0/0J Ajiya | 0/0E Asia@@@
+3252@D-Prim@Predicate@@@JCB@1985@4.3@0/0C ya si ya | 0/0J Ajiya | 0/0E Asia@@@
 3253@2-Cpx@Predicate@@@JLT@1985@4.3@ha(r)d(u)+kapma@hard hat@@
 3254@2-Cpx@Predicate@@@JCB/RAM@1991@4.3@ha(r)d(u)+ma(dz)o@hard make@@
 3255@2-Cpx@Predicate@@@JCB/RAM@1990@5.0@ha(r)d(u)+skapi@hard skin@@
@@ -6176,7 +6176,7 @@
 6189@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6190@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6191@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-6192@C-Prim@Predicate@@64%@JCB@1991@2.6@3/3 E pole | 3/3 F pole | 3/3 G Pol | 3/4 S polo | 3/5 R polus | 3/6 C pei ji@@safpolji@
+6192@C-Prim@Predicate@@64%@JCB@1991@2.6@3/3E pole | 3/3F pole | 3/3G Pol | 3/4S polo | 3/5R polus | 3/6C pei ji@@safpolji@
 6193@N-Prim@Predicate@pok@@JRK@1983@3.6@polski, Polish word@@poktaa@
 6194@D-Prim@Predicate@pok@@JRK@1983@3.6@polski, Polish word@@@
 6195@D-Prim@Predicate@pok@@JRK@1983@3.6@polski, Polish word@@@
@@ -6311,7 +6311,7 @@
 6324@C-Prim@Predicate@@43%@L4@1975@5.4@3/4E chin | 3/4C syia ba | 2/3G kinn@@tcinyherfa@
 6325@2-Cpx@Predicate@@@FR@1985@4.5@t(it)ci+nirda@eat bird@@
 6326@2-Cpx@Predicate@@@KAD/RAM@1985@2.8@tcin(a)+y+herfa@chin hair@@
-6327@C-Prim@Predicate@@38%@PI@1987@5.0@2/2 C hsi | 4/6 J mushiro | 3/6 H chatai | 2/7 R rogoja@@@
+6327@C-Prim@Predicate@@38%@PI@1987@5.0@2/2C hsi | 4/6J mushiro | 3/6H chatai | 2/7R rogoja@@@
 6328@Afx@Affix@@@JCB@1988@7+@totco@@@
 6329@I-Prim@Predicate@@@L4@1975@5.4@Int.@@@
 6330@C-Prim@Predicate@@38%@L4@1975@2.3@4/9G autoritaet | 2/5C chyuan | 3/10R avtoritiet | 4/7S autoriz ar | 4/7F autorite | 3/7E authorize@@tcorycle | tcorydou | tcorykoi | tcorymarduo | tcorymra | tcorynurdongru | tcorynurdou | tcorypozfa@
@@ -6766,7 +6766,7 @@
 6780@2-Cpx@Predicate@@@APL@1998@7+@pas(ko)+hisri@before history@@
 6781@3-Cpx@Predicate@@@JCB@1988@7+@pas(ko)+hum(ni)+sensi@past human science@@
 6782@2-Cpx@Predicate@@@L4@1975@2.2@pas(ko)+ka(kt)o@before act@@
-6783@C-Prim@Predicate@pak pao pas@42%@L4@1975@1.4@3/4 F passé | 2/3 C kou | 4/6 S pasado | 2/4E past@@darpao | hispao | hisypasnao | lispao | lisyneapao | melpao | mucpao | natpaspai | nedpao | nerpasdei | nerpasnai | norpaskia | norpasnurvia | pakcia | pakcue | paknomtai | paknurmaosensi | paknurpei | paknurpli | paknurvia | pakpuapli | pakstimao | paktciha | paobra | paodja | paodju | paorjui | paorlinkui | paorlivsesmao | paosri | pasdribuu | pasfurvea | pasgoi | pasgozdio | pashisri | pashumsensi | paskao | pasnai | pasnie | pasnoa | pastaa | pasvei | pasviu | snipao | terpasdei | tetpaocue | torpasdei | torpasnai | tsepao@
+6783@C-Prim@Predicate@pak pao pas@42%@L4@1975@1.4@3/4F passé | 2/3C kou | 4/6S pasado | 2/4E past@@darpao | hispao | hisypasnao | lispao | lisyneapao | melpao | mucpao | natpaspai | nedpao | nerpasdei | nerpasnai | norpaskia | norpasnurvia | pakcia | pakcue | paknomtai | paknurmaosensi | paknurpei | paknurpli | paknurvia | pakpuapli | pakstimao | paktciha | paobra | paodja | paodju | paorjui | paorlinkui | paorlivsesmao | paosri | pasdribuu | pasfurvea | pasgoi | pasgozdio | pashisri | pashumsensi | paskao | pasnai | pasnie | pasnoa | pastaa | pasvei | pasviu | snipao | terpasdei | tetpaocue | torpasdei | torpasnai | tsepao@
 6784@2-Cpx@Predicate@@@L4@1975@1.0@pas(ko)+na(tl)i@before night@@
 6785@2-Cpx@Predicate@@@JCB/RAM@1991@4.3@pas(ko)+ni(rn)e@before year@@
 6786@2-Cpx@Predicate@@@JCB@1984@2.6@pas(ko)+no(rm)a@before average@@
@@ -6862,7 +6862,7 @@
 6876@2-Cpx@Predicate@@@SLR@1992@7+@pen(so)+fo/r(li)@thought strong@@
 6877@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6878@C-Prim@Predicate@pej@40%@L4@1975@6.6@3/5E sponge | 2/5H spanj | 2/4F eponge | 3/7S esponja | 2/6J kaimen | 2/7C hai mie@@pejduo | pejycli@
-6879@C-Prim@Predicate@pee@35%@PI@1987@1.3@3/5 E parent | 3/5 S padre | 3/5 C ken pen@@livpeecle | nurmerpee | parpee | peebru | peefra | penrygui | penrykai | penrysitci | penrysoe | rarnurpee | samterpee | samtorpee | tispee | torpee | torsamtorpee@
+6879@C-Prim@Predicate@pee@35%@PI@1987@1.3@3/5E parent | 3/5S padre | 3/5C ken pen@@livpeecle | nurmerpee | parpee | peebru | peefra | penrygui | penrykai | penrysitci | penrysoe | rarnurpee | samterpee | samtorpee | tispee | torpee | torsamtorpee@
 6880@2-Cpx@Predicate@@@JCB/RAM@1991@7+@pen(so)+(t)ri(m)e@think tool@@
 6881@2-Cpx@Predicate@@@L4@1975@1.0@penr(e)+y+gu(nt)i@parent land@@
 6882@2-Cpx@Predicate@@@JCB/RAM@1991@4.9@penr(e)+y+ka(tl)i@parent quality@@
@@ -6886,7 +6886,7 @@
 6900@2-Cpx@Predicate@@@JCB@1983@2.2@per(nu)+karti@people cart@@
 6901@2-Cpx@Predicate@@@L4@1975@7.4@per(nu)+kri(do)@person believe@@
 6902@3-Cpx@Predicate@@@L4@1975@7.4@per(nu)+kri(do)+si(st)o@person creed@@
-6903@C-Prim@Predicate@@57%@PI@1988@2.5@3/3 E pearl | 4/4 R perl | 5/5 S perla | 4/4 F perle | 4/5 G Perle@@@
+6903@C-Prim@Predicate@@57%@PI@1988@2.5@3/3E pearl | 4/4R perl | 5/5S perla | 4/4F perle | 4/5G Perle@@@
 6904@C-Prim@Predicate@per peu@54%@L4@1975@1.0@3/4E person | 3/4C ren u | 4/6F personne | 4/6G person | 4/7R persona | 4/7S persona@@cefpeu | danrypeu | dirdonpeu | dupypeu | grupersange | grupeu | jiorpeu | lalpeu | lanpeu | macpeu | murpeu | nornespeu | norsicpeu | noryrispeu | notgunpeu | notpeu | perdja | perdju | perdri | perflo | pergrobou | perjiokri | perkaisei | perkarti | perkri | perkrisio | perperti | perpli | perplisti | persange | perspi | pertsitoa | plekaopeu | ralperpli | rorperkri | rorperkrisio | rorpeu | stupeu | tepypeu | vempeu | zavcanpeu | zavpeu | zvogunpeu | zvopeu@
 6905@2-Cpx@Predicate@@@JCB/JJ@1993@7+@per(nu)+perti@person pertaining@@
 6906@2-Cpx@Predicate@@@L4@1975@4.4@per(nu)+pli(zo)@person use@@
@@ -7289,7 +7289,7 @@
 7304@2-Cpx@Predicate@@@RAM@1988@4.1@pur(da)+nable@word problem@@
 7305@2-Cpx@Predicate@@@JCB/JLT/RAM@1985@4.3@pur(da)+pa(rt)i@word part@@
 7306@4-Cpx@Predicate@@@APL@2000@7+@pur(da)+pa(rt)i+past(i)+y+du(rz)o@word part paste do@@
-7307@C-Prim@Predicate@pup@48%@PI@1988@4.3@5/6 R purpur | 5/6 G purpur | 4/5 F pourpre | 3/4 E purple | 5/6 S purpura | 2/8 J murasaki@@labpurpu@
+7307@C-Prim@Predicate@pup@48%@PI@1988@4.3@5/6R purpur | 5/6G purpur | 4/5F pourpre | 3/4E purple | 5/6S purpura | 2/8J murasaki@@labpurpu@
 7308@2-Cpx@Predicate@@@L4@1975@1.4@pur(da)+pu(rf)e@word perfect@@
 7309@3-Cpx@Predicate@@@APL@1999@7+@pur(da)+pu(rf)e+mo(rd)u@word perfect more@@
 7311@2-Cpx@Predicate@@@JCB/SLR@1991@7+@pur(da)+ti(sr)a@word choose@@
@@ -7407,7 +7407,7 @@
 7423@Afx@Affix@@@JCB@1988@7+@rapcu@@@
 7424@2-Cpx@Predicate@@@JCB/RAM@1991@1.0@rap(cu)+(t)ca(n)e@ripe chance@@
 7425@2-Cpx@Predicate@@@JCB/RAM@1991@3.0@rap(cu)+ce(nj)a@ripe become@@
-7426@C-Prim@Predicate@rap@49%@PI@1988@2.5@2/2 C shu | 3/4 E ripe | 2/4 G reif@@rapcae | rapcea@
+7426@C-Prim@Predicate@rap@49%@PI@1988@2.5@2/2C shu | 3/4E ripe | 2/4G reif@@rapcae | rapcea@
 7427@S-Prim@Predicate@@@RAM@1995@7+@L. Brassica rapa@@@
 7428@Bor.@Predicate@@@JCB/RAM@1990@3.6@from Raptores birds of prey@@@
 7429@Afx@Affix@@@JCB@1988@7+@ra@@@
