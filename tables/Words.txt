@@ -509,7 +509,7 @@
 509@2-Cpx@Predicate@@@L4@1975@1.0@blo(da)+fa(lb)a@hit fail@@
 510@2-Cpx@Predicate@@@APL@1999@7+@blo(da)+ho(ld)u@strike hole@@
 511@2-Cpx@Predicate@@@L4@1975@4.2@blo(da)+ku/(t)l(a)@strike cut@@
-512@C-Prim@Predicate@@54%@PI@1988@4.6@4/4R blok | 4/4F bloc | 4/4G Block | 4/5S bloque | 3/4E block | w/5H kunda@@@
+512@C-Prim@Predicate@@54%@PI@1988@4.6@4/4R blok | 4/4F bloc | 4/4G Block | 4/5S bloque | 3/4E block | 2/5H kunda@@@
 513@2-Cpx@Predicate@@@FR/RAM@1987@4.9@blo(da)+najda@strike knife@@
 514@3-Cpx@Predicate@@@RAM@1987@2.2@blo(da)+son(da)+ma(dz)o@hit sound make@@
 515@2-Cpx@Predicate@@@JCB@1987@3.1@blo(da)+sti(se)@blow stopper@@
@@ -1650,7 +1650,7 @@
 1651@D-Prim@Predicate@@@JCB@1990@4.4@dralu@@@
 1652@D-Prim@Predicate@@@JCB@1990@4.4@dralu@@@
 1653@D-Prim@Predicate@@@JCB@1990@4.4@dralu@@@
-1654@C-Prim@Predicate@@43%@JCB@1990@4.4@2/3C lung | 3/5F dragon | 3/5G Drache | 3/6R drakoy | 3/6S dragon/3/6E dragon@@dralypinca@
+1654@C-Prim@Predicate@@43%@JCB@1990@4.4@2/3C lung | 3/5F dragon | 3/5G Drache | 3/6R drakoy | 3/6S dragon | 3/6E dragon@@dralypinca@
 1655@2-Cpx@Predicate@@@JCB@1999@7+@dral(u)+y+pinca@dragon urine@@
 1656@2-Cpx@Predicate@@@L4@1975@2.1@dra(ni)+ma(dz)o@dry make@@
 1657@3-Cpx@Predicate@@@APL@1999@7+@dra(ni)+ma(dz)o+kla(bu)@dry make cloth@@
