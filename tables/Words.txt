@@ -4772,7 +4772,7 @@
 4781@2-Cpx@Predicate@@@SLR@1992@7+@len(gu)+fo/r(li)@language strong@@
 4782@C-Prim@Predicate@len leu@34%@L4@1975@1.0@5/6S lengua | 3/4F langue | 2/5C yu yen | 3/8E language@@damleu | hansanleu | lenfoa | lenfro | lenhou | lenkofmou | lenkou | lenpli | lensensi | lensesmao | lenspe | lensri | leudja | notlenfoa | notlensea | pebleu | pogleu | rorlensia | rorlentaa | smileu | zvogunleu | zvoleu@
 4783@2-Cpx@Predicate@@@APL@1996@7+@len(gu)+ho(ld)u@language hole@@
-4784@C-Prim@Predicate@lek@42%@L4@1975@3.0@4/5J denki | 2/4C dien | 4/8S electric o | 4/8F electrique | 4/8G elektrisch | 3/8E electric | 4/13R e@@cutlekykro | cutlenki | lekdjisia | lekflo | lekpli | leksio | leksiu | leksropae | lekykai | lekykarcysri | lekykro | nornurliulekykro@
+4784@C-Prim@Predicate@lek@42%@L4@1975@3.0@4/5J denki | 2/4C dien | 4/8S electric o | 4/8F electrique | 4/8G elektrisch | 3/8E electric | 4/13R elektricheskiy@@cutlekykro | cutlenki | lekdjisia | lekflo | lekpli | leksio | leksiu | leksropae | lekykai | lekykarcysri | lekykro | nornurliulekykro@
 4785@3-Cpx@Predicate@@@SLR@1994@7+@len(gu)+ko(m)f(u)+mo(rd)u@language comfortable more@@
 4786@2-Cpx@Predicate@@@SLR@1994@7+@len(gu)+ko(mf)u@language comfortable@@
 4787@2-Cpx@Predicate@@@SLR@1994@7+@len(gu)+pli(zo)@language use@@
@@ -9321,7 +9321,7 @@
 9343@C-Prim@Predicate@til@32%@L4@1975@2.7@3/5C yen li | 2/4S atra er | 2/6E attract | 2/8R pritykgiv at@@buftrili | fantrili | tilmou | tilnitci@
 9344@Name@Name@@@JCB@1988@7+@Lin.@@@
 9345@Bor.@Predicate@@@JCB@1988@7+@Lin.@@@
-9346@C-Prim@Predicate@rie rim@31%@L4@1975@2.9@4/11S instrumento | 2/6C chi jyu | 3/7F instrument | 4/10E instrument | 4/10G instrument | 4/11R ins@@caprie | casrie | cmavizrie | darvizrie | delsanrie | fadklurie | fordyvlacyrie | hatmelrie | hirtakrie | holpucrie | holskorie | jugrie | jurnyrie | korkycpurie | lelckorie | minrie | penrie | pilklurie | racrie | riermao | rimcaslo | rimplilae | selblerie | sesrie | vizrie@
+9346@C-Prim@Predicate@rie rim@31%@L4@1975@2.9@4/11S instrumento | 2/6C chi jyu | 3/7F instrument | 4/10E instrument | 4/10G instrument | 4/11R instrument@@caprie | casrie | cmavizrie | darvizrie | delsanrie | fadklurie | fordyvlacyrie | hatmelrie | hirtakrie | holpucrie | holskorie | jugrie | jurnyrie | korkycpurie | lelckorie | minrie | penrie | pilklurie | racrie | riermao | rimcaslo | rimplilae | selblerie | sesrie | vizrie@
 9347@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 9348@2-Cpx@Predicate@@@JRK@1985@2.7@tri(cu)+ru(tm)a@tree way@@
 9349@2-Cpx@Predicate@@@L4@1975@4.9@tri(cu)+skapi@tree skin@@
