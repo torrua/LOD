@@ -3062,7 +3062,7 @@
 3070@2-Cpx@Predicate@@@JCB/RAM@1990@3.9@gra(da)+la(nd)i@great land@@
 3071@2-Cpx@Predicate@@@JWK@2000@7+@gra(da)+madji@great magician@@
 3072@2-Cpx@Predicate@@@MP@1983@3.1@gra(da)+mi(lf)a@great meal@@
-3073@C-Prim@Predicate@@66%@L4@1975@7.4@4/4H gram | 4/4R gram | 5/5S gramo | 4/4F gramme | 4/4 gramm | 3/4E gram | 4/6J guramu@@kilgramo | megygramo | milgramo@
+3073@C-Prim@Predicate@@66%@L4@1975@7.4@4/4H gram | 4/4R gram | 5/5S gramo | 4/4F gramme | 3/4E gram | 4/6J guramu@@kilgramo | megygramo | milgramo@
 3074@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 3075@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 3076@2-Cpx@Predicate@@@APL@2000@7+@gra(da)+po(rl)i@great power@@
