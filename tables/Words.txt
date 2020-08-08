@@ -410,7 +410,7 @@
 410@Afx@Affix@@@JCB@1988@7+@bilti@@@
 411@2-Cpx@Predicate@@@APL@1999@7+@bil(ti)+bi(lt)i@beautiful beautiful@@
 412@2-Cpx@Predicate@@@JCB@1990@3.3@bil(ti)+bi(vd)u@beautiful behaviour@@
-413@C-Prim@Predicate@bic@36%@L4@1975@2.4@3/6E militia  | 2/4C bieng | 3/7SS militar | 2/7F militaire | 3/8G Militaer@@bicfoskoi | bicfregoi | bicgru | bickri | bicykompi | bicykrisio | bicykunkatca | bicysurgru | bicytcagru | kerbilca | murbilca | pebspubilca@
+413@C-Prim@Predicate@bic@36%@L4@1975@2.4@3/6E militia  | 2/4C bieng | 3/7S militar | 2/7F militaire | 3/8G Militaer@@bicfoskoi | bicfregoi | bicgru | bickri | bicykompi | bicykrisio | bicykunkatca | bicysurgru | bicytcagru | kerbilca | murbilca | pebspubilca@
 414@2-Cpx@Predicate@@@RAM@1991@1.5@bil(ti)+ce(nj)a@beautiful become@@
 415@2-Cpx@Predicate@@@RAM@1991@1.5@bil(ti)+cko(zu)@beautiful cause@@
 416@2-Cpx@Predicate@@@JCB/RAM@1988@4.1@bil(ti)+da(nc)i@beautifully designed@@
@@ -2449,7 +2449,7 @@
 2455@Afx@Affix@@@JCB@1988@7+@kompi@@@
 2456@C-Prim@Predicate@@50%@L4@1975@6.0@3/3E comb | 3/4C mu shu | 2/3G kamm@@komcyduo@
 2457@2-Cpx@Predicate@@@L4@1975@6.0@komc(u)+y+du(rz)o@comb do@@
-2458@C-Prim@Predicate@kof kou@41%@L4@1975@2.3@3/4E comfy | 3/5Fconfort | 4/7G komfort | 2/4C shu fu@@kofcko | kofcle | kofdamni | kofhai | kofhatro | kofkleda | kofkledycea | kofkledycko | kofkledymao | kofkledypae | kofmao | kofmou | lenkofmou | lenkou | minynorkou | muckou | mutnorkou | norkofcko | norkou | nurkofcko@
+2458@C-Prim@Predicate@kof kou@41%@L4@1975@2.3@3/4E comfy | 3/5F confort | 4/7G komfort | 2/4C shu fu@@kofcko | kofcle | kofdamni | kofhai | kofhatro | kofkleda | kofkledycea | kofkledycko | kofkledymao | kofkledypae | kofmao | kofmou | lenkofmou | lenkou | minynorkou | muckou | mutnorkou | norkofcko | norkou | nurkofcko@
 2459@C-Prim@Predicate@kom@33%@L4@1975@1.0@4/7E company | 4/7H kampani | 4/7G kompagnie | 4/8S compania | 3/7F compagnie@@bicykompi | capkompi | flekompi | kompou | ralkompi@
 2460@2-Cpx@Predicate@@@JCB/RAM@1990@15+@kom(pi)+po(ns)u@company possess@@
 2461@I-Prim@Predicate@kot@@SLR@1993@7+@Int@@kotnetre | kotposta | kotrae | kotvizlei | masykomta@
@@ -2498,7 +2498,7 @@
 2504@2-Cpx@Predicate@@@SLR@1993@7+@ma(n)k(o)+vlaci@mouth wash@@
 2505@2-Cpx@Predicate@@@RAM@2001@7+@ma(n)k(o)+y+kraco@mouth crush(into pulp)@@
 2506@Afx@Affix@@@JCB@1988@7+@malbi@@@
-2507@C-Prim@Predicate@mal@48%@L4@1975@1.6@3/3S mal | 2/3C bing | 4/6F maladie | 3/5J...amai | 3/6E malady@@bludrumalbi | kuspynurmalbi | malblabi | malcea | malcko | malfiu | malfro | malhatro | malmao | malpetri | malsatci | malsulba | malylabcea | muvmalbi | snimalcko | volfiumalbi | zvomalcko@
+2507@C-Prim@Predicate@mal@48%@L4@1975@1.6@3/3S mal | 2/3C bing | 4/6F maladie | 3/5J ...amai | 3/6E malady@@bludrumalbi | kuspynurmalbi | malblabi | malcea | malcko | malfiu | malfro | malhatro | malmao | malpetri | malsatci | malsulba | malylabcea | muvmalbi | snimalcko | volfiumalbi | zvomalcko@
 2508@2-Cpx@Predicate@@@JFB@1984@2.3@mal(bi)+blabi@sickly white@@
 2509@2-Cpx@Predicate@@@JFB@1984@2.6@mal(bi)+ce(nj)a@sick become@@
 2510@2-Cpx@Predicate@@@JFB@1984@2.6@mal(bi)+cko(zu)@sick cause@@
@@ -2951,7 +2951,7 @@
 2958@2-Cpx@Predicate@@@SLR@1991@7+@ges(ko)+fundi@guest fond@@
 2959@3-Cpx@Predicate@@@JCB/RAM@1991@2.8@ges(ko)+go(dz)i+si(tf)a@guest go place@@
 2960@2-Cpx@Predicate@@@JCB/RAM@1991@3.7@ges(ko)+ha(sf)a@guest house@@
-2961@C-Prim@Predicate@geo ges@57%@JCB/RAM@1991@2.1@2/2Cko | 3/4Eguest | 2/4Rgost | 2/4G Gast | 2/6S huested@@fomgeojmi | fosgeo | geocka | geojmi | geosto | gesfundi | gesgoisia | geshaa | hapgesvei | hasgeo | nurgeo | pubnurgeo@
+2961@C-Prim@Predicate@geo ges@57%@JCB/RAM@1991@2.1@2/2C ko | 3/4E guest | 2/4R gost | 2/4G Gast | 2/6S huested@@fomgeojmi | fosgeo | geocka | geojmi | geosto | gesfundi | gesgoisia | geshaa | hapgesvei | hasgeo | nurgeo | pubnurgeo@
 2962@Afx@Affix@@@JCB@1988@7+@getsi@@@
 2963@2-Cpx@Predicate@@@L4@1975@7.4@get(si)+fundi@get like@@
 2964@2-Cpx@Predicate@@@SLR@1992@7+@get(si)+mu(tc)e@get much@@
@@ -5124,7 +5124,7 @@
 5134@3-Cpx@Predicate@@@FR/RAM@1993@4.7@men(di)+fer+soc(li)+y+si(tf)a@male 5 social position@@
 5135@3-Cpx@Predicate@@@FR/RAM@1993@4.7@men(di)+for+soc(li)+y+si(tf)a@male 4 social position@@
 5136@3-Cpx@Predicate@@@JCB/RAM@1990@4.1@men(di)+kasn(i)+y+ta(kn)a@bull talk@@
-5137@C-Prim@Predicate@mek@32%@L4@1975@1.0@2/2J me | 2/3C...en | 2/6E ocular@@kubmekble | mekcui | mekcuo | mekherfa | mekherpinti | mekleo | mekmei | meksanmao | mektovherfa | mekykiu | tanmekble | tormenki@
+5137@C-Prim@Predicate@mek@32%@L4@1975@1.0@2/2J me | 2/3C ...en | 2/6E ocular@@kubmekble | mekcui | mekcuo | mekherfa | mekherpinti | mekleo | mekmei | meksanmao | mektovherfa | mekykiu | tanmekble | tormenki@
 5138@2-Cpx@Predicate@@@JCB/RAM@1991@3.1@men(di)+po(rl)i@male power@@
 5139@C-Prim@Predicate@mea@37%@L4/RAM@1975@1.0@3/3S mes | 3/5G monat | 2/4E month | 3/6H mahina | 4/8R miesiats@@fermea | formea | meacke | mearketpi | nermea | nernermea | nernirmea | nertormea | rarmea | sermea | sormea | termea | tormea | vermea | vormea@
 5140@3-Cpx@Predicate@@@FR/RAM@1993@4.7@men(di)+sur+soc(li)+y+si(tf)a@male (rank) social position@@
@@ -5449,7 +5449,7 @@
 5461@3-Cpx@Predicate@@@RAM@1987@2.8@mi(k)s(a)+fur+cko(zu)+se(tc)i@mixed circumstances@@
 5462@2-Cpx@Predicate@@@L4@1975@7.4@mi(k)s(a)+ma(tc)i@mixture machine@@
 5463@2-Cpx@Predicate@@@L4@1975@2.2@mi(k)s(a)+ma(dz)o@mixture make@@
-5464@C-Prim@Predicate@@43%@L4@1975@4.8@3/4C...u mi | 3/4R mais | 3/4S maiz | 3/4F mais | 3/4G mais@@zbumisme@
+5464@C-Prim@Predicate@@43%@L4@1975@4.8@3/4C ...u mi | 3/4R mais | 3/4S maiz | 3/4F mais | 3/4G mais@@zbumisme@
 5465@2-Cpx@Predicate@@@JCB@1988@7+@mi(k)s(a)+pa(rt)i@mixture part@@
 5466@N-Prim@Predicate@@@RAM@1988@4.7@Arabic misr@Egypt@@
 5467@D-Prim@Predicate@@@RAM@1988@4.7@misri@@@
@@ -6784,7 +6784,7 @@
 6798@C-Prim@Predicate@pac pae@37%@L4@1975@3.7@3/3C chi | 3/6R apparat | 3/6G apparat | 3/7S aparato | 2/7E apparatus@@balpae | bamkuspypae | botliupae | bourtolpae | capypae | dirtolpae | hirsonpae | jugpae | kofkledypae | kokpae | kopypae | krapae | kunpae | kunsonpae | latflepae | leksropae | livpae | metysaspae | minfauplepae | muzpae | nodyduvpae | pacdou | pacgei | pacmao | pedsilpae | plepae | privizpae | rorholpae | skipae | sniklupae | tokvempae@
 6799@Bor.@Predicate@@@L1@1989@8.1@ISV@@@
 6800@Bor.@Predicate@@@L1@1989@8.1@ISV@@@
-6801@C-Prim@Predicate@pam@47%@JCB/RAM@1991@10+@3/4F paté | 3/5E(I) pasta | 3/5H mathri | 3/5S(I) pasta | 2/4C mien@@pambalma | pamfru | pamymio@
+6801@C-Prim@Predicate@pam@47%@JCB/RAM@1991@10+@3/4F paté | 3/5E (I) pasta | 3/5H mathri | 3/5S (I) pasta | 2/4C mien@@pambalma | pamfru | pamymio@
 6802@2-Cpx@Predicate@@@APL@2000@7+@pat(pe)+nakso@pot repair@@
 6803@C-Prim@Predicate@pat@52%@L4@1975@2.3@3/3E pot | 3/4S pote | 2/3C pen@@patcai | patnakso | picypatpe | zlupypatpe@
 6804@LW@Struct@@@APL/JCB@2000@7+@@@@
@@ -9723,7 +9723,7 @@
 9746@1-Cpx@Predicate@@@JCB/RAM@1990@3.5@vor+ko(rj)i@8th commander@@
 9747@1-Cpx@Predicate@@@JCB@1988@2.1@vor+me(ns)a@8 month@@
 9748@1-Cpx@Predicate@@@JCB/RAM@1990@3.5@vor+tro(li)@8th controller@@
-9749@C-Prim@Predicate@@37%@L4@1975@6.0@2/23C kan | 2/4E liver | 2/5S higado | 2/5J kanzo@@@
+9749@C-Prim@Predicate@@37%@L4@1975@6.0@2/3C kan | 2/4E liver | 2/5S higado | 2/5J kanzo@@@
 9750@Afx@Affix@@@JCB@1988@7+@vreti@@@
 9751@2-Cpx@Predicate@@@L4@1975@1.0@vre(ti)+co(rt)a@erect short@@
 9752@2-Cpx@Predicate@@@L4@1975@3.3@vre(ti)+(d)ju(p)o@vert. support@@
