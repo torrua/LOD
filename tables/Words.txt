@@ -10047,17 +10047,17 @@
 10093@LW@Struct@@@RH@2013 (to '15)@@@@@
 10094@LW@Struct@@@JC@2013 (to '15)@@@@@
 10095@LW@Struct@@@RH@2013 (to '15)@@@@@
-10096@2-Cpx@Predicate@@@AW@2008 (to '15)@@@@@
-10097@4-Cpx@Predicate@@@AW@2008 (to '15)@@@@@
-10098@3-Cpx@Predicate@@@SLC@2008 (to '15)@@@@@
-10099@2-Cpx@Predicate@@@SLC@2008 (to '15)@@lek-veo@electricity-vessel@@
+10096@2-Cpx@Predicate@@@AW@2008 (to '15)@@net(re)+y+rirda@net record@@
+10097@4-Cpx@Predicate@@@AW@2008 (to '15)@@bil(ti)+fo(rm)a+viz(ka)+(t)ri(m)e@beautiful form see instrument@@
+10098@3-Cpx@Predicate@@@SLC@2008 (to '15)@@fle(ti)+kuk(ra)+fo(rm)a@flying quick form@@
+10099@2-Cpx@Predicate@@@SLC@2008 (to '15)@@le(n)k(i)+ve(sl)o@electricity vessel@@
 10100@LW@Struct@@@JC/RH@2013 (to '15)@@modification of po@@@
 10101@LW@Struct@@@RH@2013 (to '15)@@modification of pu@@@
 10102@LW@Struct@@@RH@2013 (to '15)@@modification of zo@@@
 10103@LW@Struct@@@RH@2015@@@@@
 10104@LW@Struct@@@RH@2016@@@@@
 10105@LW@Struct@@@RH@2016@@@@@
-10106@2-Cpx@Predicate@@@UA@2016 (Really older. Omitted about 2000: see nui)@@nu(r) + letci@@@
+10106@2-Cpx@Predicate@@@UA@2016 (Really older. Omitted about 2000: see nui)@@nu(r)+letci@@@
 10107@Afx@Affix@@@JCB@1988@7+@buste@@@
 10108@Afx@Affix@@@JCB@1988@7+@clika@@@
 10109@Afx@Affix@@@JCB@1988@7+@djitu@@@
