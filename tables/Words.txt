@@ -5731,7 +5731,7 @@
 5744@2-Cpx@Predicate@@@JCB@1995@7+@nam(ci)+nur+sri(te)@name(d) written@@
 5745@2-Cpx@Predicate@@@RAM@1988@4.6@nam(ci)+p(ap)re@name paper@@
 5746@3-Cpx@Predicate@@@RAM@1988@4.6@nam(ci)+p(ap)re+do(ns)u@name paper give@@
-5747@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@nam(ci)+ pu(rd)a@name word@@
+5747@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@nam(ci)+pu(rd)a@name word@@
 5748@2-Cpx@Predicate@@@L4@1975@7.4@nam(ci)+sa(np)a@name sign@@
 5749@3-Cpx@Predicate@@@L4@1975@7.4@nam(ci)+san(pa)+du(rz)o@name sign do@@
 5750@2-Cpx@Predicate@@@RAM@1987@3.6@nam(ci)+sri(te)@name write@@
@@ -9543,7 +9543,7 @@
 9565@Cpd@Struct@@@L4@1975@1.0@va+va@@@
 9566@Cpd@Struct@@@L4@1975@1.0@va+vi@@@
 9567@Cpd@Struct@@@L4@1975@1.0@va+vu@@@
-9568@2-Cpx@Predicate@@@APL@1999 (corrected CV to CVh '16)@7+@vay+han(co)+si(lt)u@nearby hand shake@@
+9568@2-Cpx@Predicate@@@APL@1999 (corrected CV to CVh '16)@7+@vah+y+han(co)+si(lt)u@nearby hand shake@@
 9569@Cpd@Struct@@@L4@1975@7.4@va+za@@@
 9570@Cpd@Struct@@@L4@1975@1.0@va+zi@@@
 9571@Cpd@Struct@@@L4@1975@7.4@va+zu@@@
@@ -10010,7 +10010,7 @@
 10055@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10056@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@fur+dji(ne)+fo(rm)a@@@
 10057@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@gi(nr)u+r+pu(rd)a@root word@@
-10058@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@pur(da)+kle(sa)@word class@@
+10058@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@pur(da)+kle(si)@word class@@
 10059@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@nur+cma(lo)+pu(rd)a@@@
 10060@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@nur+tak(na)+fo(rm)a@@@
 10061@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@pur(da)+tcu(re)@word picture@@
