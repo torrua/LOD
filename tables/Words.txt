@@ -10008,12 +10008,12 @@
 10053@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10054@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
 10055@Afx@Affix@@@JCB (?)@1988 (?)@7+?@@@@
-10056@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@FU(R)+djifoa@@@
-10057@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@ginru+purda@root word@@
-10058@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@purda+klesa@word class@@
-10059@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@NU(R)+cmapua@@@
-10060@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@NU(R)+takfoa@@@
-10061@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@purda+tcure@word picture@@
+10056@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@fur+dji(ne)+fo(rm)a@@@
+10057@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@gi(nr)u+r+pu(rd)a@root word@@
+10058@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@pur(da)+kle(sa)@word class@@
+10059@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@nur+cma(lo)+pu(rd)a@@@
+10060@3-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@nur+tak(na)+fo(rm)a@@@
+10061@2-Cpx@Predicate@@@RH@2013@N (grammar vocab project)@pur(da)+tcu(re)@word picture@@
 10062@Bor.@Predicate@@@RH@2014@@Sp. elefante@elephant@@
 10063@Bor.@Predicate@@@RH@2014@@Sp, elefante@elephant@@
 10064@Bor.@Predicate@@@RH@2014@@Sp. elefante@elephant@@
