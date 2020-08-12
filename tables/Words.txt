@@ -5918,7 +5918,7 @@
 5931@2-Cpx@Predicate@@@JCB@1988@7+@ner+gen(za)+pa(rt)i@one again part@@
 5932@1-Cpx@Predicate@@@JCB/RAM@1990@3.5@ner+gru(pa)@1st group@@
 5933@Cpd@Struct@@@L4@1975@7.6@ne+ri@@@
-5934@2-Cpx@Predicate@@@APL@1999 (fixed awkward '16)@7+@neh+y+rih+y+jmi(te) [not really feasible]@first meet@@
+5934@2-Cpx@Predicate@@@APL@1999 (fixed awkward '16)@7+@neh+y+rih+y+jmi(te)@first meet [not really feasible]@@
 5935@I-Prim@Predicate@nej@@L4@1975@3.6@Int.@@derhatnerji | nejflo | nejycai | nejycti | sudnynerji@
 5936@2-Cpx@Predicate@@@SLR@1994@7+@ner+jmi(te)+stu(ci)@first meet story@@
 5937@1-Cpx@Predicate@@@L4@1975@7.4@ner+ka(tl)i@1 property@@
