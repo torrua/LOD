@@ -5918,7 +5918,7 @@
 5931@2-Cpx@Predicate@@@JCB@1988@7+@ner+gen(za)+pa(rt)i@one again part@@
 5932@1-Cpx@Predicate@@@JCB/RAM@1990@3.5@ner+gru(pa)@1st group@@
 5933@Cpd@Struct@@@L4@1975@7.6@ne+ri@@@
-5934@2-Cpx@Predicate@@@APL@1999 (fixed awkward '16)@7+@neri+y+jmi(te) [not really feasible]@first meet@@
+5934@2-Cpx@Predicate@@@APL@1999 (fixed awkward '16)@7+@neh+y+rih+y+jmi(te) [not really feasible]@first meet@@
 5935@I-Prim@Predicate@nej@@L4@1975@3.6@Int.@@derhatnerji | nejflo | nejycai | nejycti | sudnynerji@
 5936@2-Cpx@Predicate@@@SLR@1994@7+@ner+jmi(te)+stu(ci)@first meet story@@
 5937@1-Cpx@Predicate@@@L4@1975@7.4@ner+ka(tl)i@1 property@@
@@ -7648,8 +7648,8 @@
 7665@2-Cpx@Predicate@@@JCB/RAM@1991@2.8@(s)ri(s)u+cko(zu)@serious cause@@
 7666@2-Cpx@Predicate@@@L4@1975@1.4@(s)ri(s)u+pro(ju)@serious produce@@
 7667@3-Cpx@Predicate@@@FR@1986@2.3@(s)ri(s)u+r+tra(du)+cu(ts)e@solemnly affirm@@
-7668@2-Cpx@Predicate@@@APL@1999 (corrected CV to CVh '16)@7+@rih+has(fa)+gru(pa)@few house group@@
-7669@1-Cpx@Predicate@@@APL@1999 (corrected CV to CVh '16)@7+@rih+ve(tc)i@several events@@
+7668@2-Cpx@Predicate@@@APL@1999 (corrected CV to CVh '16)@7+@rih+y+has(fa)+gru(pa)@few house group@@
+7669@1-Cpx@Predicate@@@APL@1999 (corrected CV to CVh '16)@7+@rih+y+ve(tc)i@several events@@
 7670@Afx@Affix@@@JCB@1988@7+@prizi@@@
 7671@2-Cpx@Predicate@@@L4@1975@1.6@(p)riz(i)+gru(pa)@private group@@
 7672@LW@Struct@@@L4@1975@1.0@@@@
