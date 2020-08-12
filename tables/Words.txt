@@ -9749,7 +9749,7 @@
 9772@Cpd@Struct@@@L4@1975@7.4@@@@
 9773@Cpd@Struct@@@L4@1975@7.4@@@@
 9774@LW@Struct@@@L4@1975 (replaced by RH '16)@15+@@@@
-9775@1-Cpx@Predicate@@@JCB@1988 (modified due to abandonment of X, '16)@15+@haiu+krre (a hack!)  orig.  xai-y-kre@X ray@@
+9775@1-Cpx@Predicate@@@JCB@1988 (modified due to abandonment of X, '16)@15+@Haiu+kre(ni)@X ray (a hack! - orig. xai-y-kre)@@
 9776@LW@Struct@@@L4@1975 (replaced by RH '16)@15+@@@@
 9777@Bor.@Predicate@@@JCB/RAM@1991 (eliminated x '16)@4.6@ISV@@@
 9778@LW@Struct@@@L4@1975@15@@@@
