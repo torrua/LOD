@@ -1,6 +1,5 @@
 Acr.@Acronym@Bor@False@Acronym, e.g. DaiNaiA, "DNA".
 Afx@Affix@Little@True@Affix.
-Illegal@Illegal@Illegal@False@
 Name@Name@Bor@False@A name, a proper noun.
 1-Cpx@Predicate@Cpx@True@
 2-Cpx@Predicate@Cpx@True@Two-term Complex E.g. flicea, from fli(du)+ce(nj)a=liquid-become.
