@@ -876,7 +876,7 @@
 876@C-Prim@Predicate@@36%@L4@1975@2.3@3/6F delicat | 4/9R dielikatn yi | 3/7E delicate | 3/7S delicad o | 2/5H komal | 3/8C jiao nen@@dilkybii | dilkynitci | nordilko@
 877@2-Cpx@Predicate@@@FR@1987@3.2@dilk(o)+y+bi(lt)i@delicately beautiful@@
 878@2-Cpx@Predicate@@@RAM@1987@2.3@dilk(o)+y+nitci@delicate neat@@
-879@C-Prim@Predicate@dil@32%@L4@1975@1.4@4/5C dai li | 4/5J dairi | 2/9E represent | 2/9R priedstav lyat@@dilgai | dilgaifundi | dilgru | diltia | gundilri | lardilri | lildilri | poldilri | predydilri@
+879@C-Prim@Predicate@dil@32%@L4@1975@1.4@4/5C dai li | 4/5J dairi | 2/9E represent | 2/9R priedstav lyat@@dilgai | dilgaifundi | dilgru | diltia | gundilri | lardilri | lildilri | poldilri@
 880@2-Cpx@Predicate@@@JCB/RAM@1990@4.3@dil(ri)+ti(sr)a@represent choose@@
 881@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 882@LW@Struct@@@L4@1975@15+@dirco@@@
@@ -7115,7 +7115,6 @@
 7129@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 7130@2-Cpx@Predicate@@@JFB@1987@3.2@p(ap)re+cme(ni)@paper (type of) money.@@
 7131@3-Cpx@Predicate@@@RAM@1987@2.1@p(ap)re+cme(ni)+ve(sl)o@money vessel@@
-7132@2-Cpx@Predicate@@@JCB/RAM@1991@2.8@pred(a)+y+dilri@predicate representative@@
 7133@3-Cpx@Predicate@@@SLR@1995@7+@p(ap)re+fo(l)d(i)+la(rt)e@paper fold art@@
 7134@C-Prim@Predicate@@45%@L4@1975@2.0@5/7R pliennik | 3/5E prison | 3/7S prision | 3/7G gefaengnis | 2/5C jien | 2/5F prison@@dorpreni | prenyhaa | prenyhafsea | prenyspe@
 7135@2-Cpx@Predicate@@@L4@1975@2.0@pren(i)+y+ha(sf)a@prisoner house@@

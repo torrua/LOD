@@ -1444,6 +1444,7 @@
 879@1@@3v@K «represent» person(s) D in matter/situation V.@@K-DV
 879@2@@n@an «agent»/ «representative» of absent person(s) ... in matter/situation ....@@
 879@3@po %@n@a «representation», general, a spec. act.@@
+879@4@@2n@attached to <predy>, means «vice» of ..., e.g. a vice president.@@
 880@1@@4v@K «delegate»/«deputize» D to do V for P.@@K-DVP
 880@2@@a@«delegating»/«deputizing» (... to do ... for ...), pertaining to the act.@@
 880@3@nu %@n@«delegate»/«deputy» (by ... to do ... for ...), the one -ed.@@
@@ -13373,7 +13374,6 @@
 7129@1@@2n@B is a «precipitin» for antibody D.@@B-D
 7130@1@@3n@B is a «bank note», a piece of paper currency of amount C usable in country/monetary system N.@@B-CN
 7131@1@@1n@B is a «wallet»/«note case», for paper money.@@B-
-7132@1@@2n@B is a «vice» (predicate) of F, e.g. a vice president.@@B-F
 7133@1@@3n@B is an instance of «origami» representing P and made by K.@@B-PK
 7134@1@@3n@B is a «prisoner» of K being held for doing/being N.@@B-KN
 7134@2@fu %@n@an «offense», of a prisoner, q.v.@@
