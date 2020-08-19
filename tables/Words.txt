@@ -6571,7 +6571,7 @@
 6585@1-Cpx@Predicate@@@JPC@1985@4.7@nur+ti(sr)a@selected@@
 6586@2-Cpx@Predicate@@@SLR@1991@7+@nur+ti(sr)a+tciha@selected child@@
 6587@2-Cpx@Predicate@@@BW/JCB/RAM@1983@3.3@nur+tif(ru)+se(tc)i@offered set@@
-6588@2-Cpx@Predicate@@@JCB@2000@1.0@nur+tis(ri)+ge(nr)u@selected genes@@
+6588@2-Cpx@Predicate@@@JCB@2000@1.0@nur+tis(ra)+ge(nr)u@selected genes@@
 6589@1-Cpx@Predicate@@@L4@1975@3.0@nur+treci@conv. of interesting@@
 6590@1-Cpx@Predicate@@@L4@1975@7.4@nur+va(tl)u@conv. of value@@
 6591@1-Cpx@Predicate@@@L4@1975@1.5@nur+ve(dm)a@conv. of sell@@
