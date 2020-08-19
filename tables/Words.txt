@@ -334,13 +334,13 @@
 334@Afx@Affix@@@JCB@1988@7+@berti@@@
 335@N-Prim@Predicate@@@RAM@1986@5.0@Arabic brbr@Berber; Barbary, North African peoples and region@@
 336@D-Prim@Predicate@@@RAM@1986@5.0@Arabic brbr@Berber; Barbary, North African peoples and region@@
-337@D-Prim@Predicate@@@JCB/RAM@1991@2.6@from berci@@@
-338@D-Prim@Predicate@@@L4@1975@3.0@from berci@@@
+337@D-Prim@Predicate@@@JCB/RAM@1991@2.6@berci@@@
+338@D-Prim@Predicate@@@L4@1975@3.0@berci@@@
 339@C-Prim@Predicate@@38%@JCB/RAM@1991@3.0@3/3H bher | 2/3E sheep | 3/5F brebis | 2/5R baran@@bercykeu | bercymio@
-340@D-Prim@Predicate@@@L4@1975@3.0@from berci@@@
-341@D-Prim@Predicate@@@L4@1975@3.0@from berci@@@
-342@2-Cpx@Predicate@@@JLT@1985@4.3@berc(i)+y+ke(rj)u@sheep care@@
-343@2-Cpx@Predicate@@@FR@1986@5.0@berc(i)+y+mi(tr)o@sheep meat@@
+340@D-Prim@Predicate@@@L4@1975@3.0@berci@@@
+341@D-Prim@Predicate@@@L4@1975@3.0@berci@@@
+342@2-Cpx@Predicate@@@JLT@1985@4.3@berc(u)+y+ke(rj)u@sheep care@@
+343@2-Cpx@Predicate@@@FR@1986@5.0@berc(u)+y+mi(tr)o@sheep meat@@
 344@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 345@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 346@2-Cpx@Predicate@@@APL@1998@7+@ber(ti)+ko(rc)e@carry cords@@
