@@ -332,8 +332,8 @@
 332@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 333@LW@Struct@@@L4@1975@15+@@@@
 334@Afx@Affix@@@JCB@1988@7+@berti@@@
-335@N-Prim@Predicate@@@RAM@1986@5.0@Arabic brbr@Berber; Barbary,North African peoples&region@@
-336@D-Prim@Predicate@@@RAM@1986@5.0@Arabic brbr@Berber; Barbary,North African peoples&region@@
+335@N-Prim@Predicate@@@RAM@1986@5.0@Arabic brbr@Berber; Barbary, North African peoples and region@@
+336@D-Prim@Predicate@@@RAM@1986@5.0@Arabic brbr@Berber; Barbary, North African peoples and region@@
 337@D-Prim@Predicate@@@JCB/RAM@1991@2.6@from berci@@@
 338@D-Prim@Predicate@@@L4@1975@3.0@from berci@@@
 339@C-Prim@Predicate@@38%@JCB/RAM@1991@3.0@3/3H bher | 2/3E sheep | 3/5F brebis | 2/5R baran@@bercykeu | bercymio@
@@ -2565,9 +2565,9 @@
 2571@D-Prim@Predicate@@@JCB/RAM@1994@7+@marsa@@@
 2572@C-Prim@Predicate@mae@51%@L4@1975@1.7@4/4E mart | 4/5G markt | 3/4F marche | 3/6J maketto | 2/5H bazar | 2/5R bazar | 2/7S mercado@@maersensi@
 2573@S-Prim@Predicate@@@JJ@1995@7+@Mars, the planet@@@
-2574@D-Prim@Predicate@@@JJ@1995@7+@the planet Mars@@@
-2575@D-Prim@Predicate@@@JJ@1995@7+@the planet Mars@@@
-2576@D-Prim@Predicate@@@JJ@1995@7+@the planet Mars@@@
+2574@D-Prim@Predicate@@@JJ@1995@7+@marza@@@
+2575@D-Prim@Predicate@@@JJ@1995@7+@marza@@@
+2576@D-Prim@Predicate@@@JJ@1995@7+@marza@@@
 2577@Afx@Affix@@@JCB@1988@7+@maksi@@@
 2578@2-Cpx@Predicate@@@APL@1998@7+@ma(k)s(i)+y+komta@maximum computer@@
 2579@Afx@Affix@@@JCB@1988@7+@matma@@@
@@ -5039,7 +5039,7 @@
 5049@Name@Name@@@L4@1975@15@Log. Loglan@@@
 5050@D-Prim@Predicate@@@JRK@1983@3.6@Loglan, the language@@@
 5051@D-Prim@Predicate@@@L4@1975@1.0@Loglan, the language@@cnulogli@
-5052@D-Prim@Predicate@@@L4@1975@1.0@<Loglan, the language@@@
+5052@D-Prim@Predicate@@@L4@1975@1.0@Loglan, the language@@@
 5053@2-Cpx@Predicate@@@SLR@1993@7+@log(la)+ma(dz)o@Loglan make@@
 5054@2-Cpx@Predicate@@@SLR@1993@7+@log(la)+pli(zo)@Loglan use@@
 5055@2-Cpx@Predicate@@@SLR@1994@7+@log(la)+pozfa@Loglan opposed@@
@@ -7366,9 +7366,9 @@
 7383@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 7384@2-Cpx@Predicate@@@L4@1975@1.0@(d)rak(a)+ma(dz)o@dark make@@
 7385@D-Prim@Predicate@@@APL/JCB@1995@7+@from L rakni@@@
-7386@D-Prim@Predicate@@@APL/JCB@1995@7+@from L. rakni@@@
+7386@D-Prim@Predicate@@@APL/JCB@1995@7+@from L rakni@@@
 7387@S-Prim@Predicate@@@APL/JCB@1995@7+@ISV arachnid@@@
-7388@D-Prim@Predicate@@@APL/JCB@1995@7+@from L. rakni@@@
+7388@D-Prim@Predicate@@@APL/JCB@1995@7+@from L rakni@@@
 7389@D-Prim@Predicate@@@APL/JCB@1995@7+@from L rakni@@@
 7390@2-Cpx@Predicate@@@JCB/RAM@1987@5.0@(d)rak(a)+nur+fasli@dark faced@@
 7391@Afx@Affix@@@JCB@1988@7+@prali@@@
