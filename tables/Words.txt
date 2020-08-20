@@ -9739,7 +9739,7 @@
 9763@2-Cpx@Predicate@@@JCB@1988@7+@vri(ci)+por+kanpi@river (swimming event)@@
 9764@2-Cpx@Predicate@@@APL@1999@7+@vri(ci)+taksi@river taxi@@
 9765@LW@Struct@@@L4@1975@1.0@@@@
-9766@S-Prim@Predicate@@@RAM@1987@4.3@Lin.Vulpes@@@
+9766@S-Prim@Predicate@@@RAM@1987@4.3@Lin. Vulpes@@@
 9767@Bor.@Predicate@@@JCB/RAM@1991@4.6@Lin.@@@
 9768@Cpd@Struct@@@L4@1975@1.0@@@@
 9769@Cpd@Struct@@@L4@1975@1.0@@@@
