@@ -3029,7 +3029,7 @@
 3037@Afx@Affix@@@JCB@1988@7+@gotri@@@
 3038@C-Prim@Predicate@goa@42%@L4@1975@4.9@3/3E goat | 3/5S chiva | 2/6C shang yang@@@
 3039@D-Prim@Predicate@@@JCB/RAM@1994@7+@gotca@@@
-3040@D-Prim@Predicate@@@JCB/RAM@1988@4.3@from gotca@@@
+3040@D-Prim@Predicate@@@JCB/RAM@1988@4.3@gotca@@@
 3041@D-Prim@Predicate@@@JCB/RAM@1994@7+@gotca@@@
 3042@D-Prim@Predicate@@@JCB/RAM@1994@7+@gotca@@@
 3043@2-Cpx@Predicate@@@L4@1975@7.4@got(ri)+pra(se)@industry process@@
@@ -6222,10 +6222,10 @@
 6235@Afx@Affix@@@JCB@1988@7+@po@@@
 6236@Bor.@Predicate@@@JCB@1988@7+@Lin. Porifera@@@
 6237@Name@Name@@@JCB@1988@7+@Lin.@@@
-6238@D-Prim@Predicate@@@L4@1975@3.6@from porju@@@
-6239@D-Prim@Predicate@@@L4@1975@3.6@from porju@@@
-6240@D-Prim@Predicate@@@L4@1975@3.6@from porju@@@
-6241@D-Prim@Predicate@@@L4@1975@3.6@from porju@@@
+6238@D-Prim@Predicate@@@L4@1975@3.6@porju@@@
+6239@D-Prim@Predicate@@@L4@1975@3.6@porju@@@
+6240@D-Prim@Predicate@@@L4@1975@3.6@porju@@@
+6241@D-Prim@Predicate@@@L4@1975@3.6@porju@@@
 6242@C-Prim@Predicate@poj@44%@L4@1975@3.9@3/3F porc | 3/4E pork | 2/3C ju@@pojmio@
 6243@C-Prim@Predicate@poi@51%@L4@1975@1.0@2/2C li | 3/4E power | 3/5S poder@@durfompoi | femferpoi | femforpoi | femnerpoi | fempoi | femsorpoi | femsurpoi | femterpoi | femtorpoi | ferpoi | forpoi | grapoi | liornurpoi | menpoi | mucpoi | nerpoi | poicka | poicle | poiflo | poimro | poipli | poirbeo | poircea | poirceadaa | poirkamda | poirpozfa | poirtoa | pozpoicle | rarpoi | sorpoi | surpoi | takpoi | terpoi | torpoi | turnurpoi@
 6244@I-Prim@Predicate@@@JCB@1988@7+@Int@@@
