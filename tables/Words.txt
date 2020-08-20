@@ -2461,8 +2461,8 @@
 2467@3-Cpx@Predicate@@@RAM@1993@7+@mag(ne)+fe(kt)o+so/r(di)@magnetic memory(fact store)@@
 2468@2-Cpx@Predicate@@@TED@2002@7+@mag(ne)+me(rl)i@magnetic measure@@
 2469@I-Prim@Predicate@mag@@JCB@1989@7+@ISV@@magfao | magfeosro | magmei@
-2470@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
-2471@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
+2470@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
+2471@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 2472@LW@Struct@@@L4@1975@15+@@@@
 2473@Afx@Affix@@@JCB@1988@7+@matci@@@
 2474@2-Cpx@Predicate@@@RAM@1991@4.6@ma(tc)i+cli(ka)@machine like@@
@@ -2490,7 +2490,7 @@
 2496@2-Cpx@Predicate@@@L4@1975@6.0@ma(n)k(o)+cpu(la)@mouth pull@@
 2497@2-Cpx@Predicate@@@FR/RAM@1988@4.6@ma(n)k(o)+nazbi@mouth nose@@
 2498@N-Prim@Predicate@@@L4@1975@1.0@G Mark@@@
-2499@S-Prim@Predicate@mas@@JCB@1988@7+@ISV.@@masykomta@
+2499@S-Prim@Predicate@mas@@JCB@1988@7+@ISV@@masykomta@
 2500@2-Cpx@Predicate@@@JFB@1987@2.1@ma(n)k(o)+spali@mouth side@@
 2501@2-Cpx@Predicate@@@RAM@1987@5.0@ma(n)k(o)+te(tc)u@mouth stretch@@
 2502@2-Cpx@Predicate@@@APL@1995@7+@ma(n)k(o)+trufa@mouth roof@@
@@ -2504,8 +2504,8 @@
 2510@2-Cpx@Predicate@@@JFB@1984@2.6@mal(bi)+cko(zu)@sick cause@@
 2511@2-Cpx@Predicate@@@SLR@1992@7+@mal(bi)+fi(br)u@sickness weak@@
 2512@2-Cpx@Predicate@@@SLR@1992@7+@mal(bi)+fo/r(li)@sickness strong@@
-2513@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
-2514@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
+2513@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
+2514@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 2515@2-Cpx@Predicate@@@JLT@1986@2.9@mal(bi)+hatro@sick hot@@
 2516@2-Cpx@Predicate@@@JFB@1984@2.6@mal(bi)+ma(dz)o@sick make@@
 2517@C-Prim@Predicate@man@41%@L4@1975@2.5@2/3C nai | 4/6R moloko | 2/4E milk | 2/4G milch@@mancli | mansia@
@@ -2513,7 +2513,7 @@
 2519@2-Cpx@Predicate@@@FR/JCB/RAM@1985@4.6@mal(bi)+satci@sickness start@@
 2520@2-Cpx@Predicate@@@APL@2000@7+@mal(bi)+sulba@sore swelling@@
 2521@S-Prim@Predicate@@@APL@2001@7+@malt@@maltycli@
-2522@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
+2522@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 2523@2-Cpx@Predicate@@@RAM@2001@7+@malt(i)+y+cli(ka)@malt like@@
 2524@3-Cpx@Predicate@@@FR/JCB/RAM@1987@2.9@mal(bi)+y+(b)lab(i)+ce(nj)a@sickly white become@@
 2525@Afx@Affix@@@JCB@1988@7+@matma@@@
@@ -2530,9 +2530,9 @@
 2536@Afx@Affix@@@JCB@1988@7+@malna@@@
 2537@2-Cpx@Predicate@@@L4@1975@7.2@ma(l)n(a)+cli(ka)@milk like@@
 2538@C-Prim@Predicate@@42%@L4@1975@2.2@4/5S manej ar | 2/3C pan | 3/6E manage | 2/7H prabandh@@sadmande@
-2539@S-Prim@Predicate@@@JCB@1988@7+@ISV.@@@
-2540@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
-2541@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
+2539@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
+2540@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
+2541@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 2542@C-Prim@Predicate@mak@46%@L4@1975@1.0@2/2J ko | 3/4E mouth | 2/3C kou | 2/4G mund@@conmakvlaci | makbri | makbricko | makcai | makcpu | maknazbi | makspali | makteu | maktrufa | makvao | makvlaci | makykraco@
 2543@2-Cpx@Predicate@@@FR@1986@4.9@ma(l)n(a)+si(tf)a@milk place@@
 2544@D-Prim@Predicate@@@JCB/RAM@1994@7+@manti@@@
@@ -8820,7 +8820,7 @@
 8841@2-Cpx@Predicate@@@L4@1975@2.8@t(r)an(a)+clidu@turning slip@@
 8842@2-Cpx@Predicate@@@JCB/RAM@1990@3.2@t(r)an(a)+di(rc)o@turn direction@@
 8843@2-Cpx@Predicate@@@JFB@1984@3.9@t(r)an(a)+fi(lm)o@rotate feel@@
-8844@S-Prim@Predicate@@@JCB@1988@7+@ISV.@@@
+8844@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
 8845@3-Cpx@Predicate@@@JFB@1988@4.4@t(r)an(a)+hol(du)+ma(dz)o@turn hole make@@
 8846@2-Cpx@Predicate@@@SLR@1991@7+@t(r)an(a)+krani@turn drive@@
 8847@2-Cpx@Predicate@@@FR/JCB/RAM@1987@4.1@t(r)an(a)+(c)li(n)a@rotate line@@
@@ -8830,7 +8830,7 @@
 8851@2-Cpx@Predicate@@@L4@1975@1.0@t(r)an(a)+ma(dz)o@turn make@@
 8852@3-Cpx@Predicate@@@JWK@2001@7+@t(r)an(a)+me(n)k(i)+ble(ka)@turn eye look@@
 8853@2-Cpx@Predicate@@@JJ@1993@7+@t(r)an(a)+mu(vd)o@turn move@@
-8854@Bor.@Predicate@@@JCB@1988@7+@ISV.@@@
+8854@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 8855@4-Cpx@Predicate@@@APL@1995@7+@t(r)an(a)+tcel(a)+y+fle(ti)+ma(tc)i@rotate wing fly machine@@
 8856@2-Cpx@Predicate@@@RWJ@1983@2.7@t(r)an(a)+y+dzo(ru)@rotate walk@@
 8857@LW@Struct@@@L4@1975@1.0@targo@@@
