@@ -701,7 +701,7 @@
 701@I-Prim@Predicate@@@APL@1998@7+@Farsi?@@@
 702@2-Cpx@Predicate@@@L4@1975@3.2@(t)cak(u)+y+ka(kt)o@shock act@@
 703@Afx@Affix@@@JCB@1988@7+@tcali@@@
-704@S-Prim@Predicate@@@JCB@1988@3.7@L. calcium ISV@@@
+704@S-Prim@Predicate@@@JCB@1988@3.7@L. ISV calcium@@@
 705@2-Cpx@Predicate@@@L4@1975@1.4@(t)cal(i)+da(rt)o@wall door@@
 706@3-Cpx@Predicate@@@APL@1998@7+@(t)cal(i)+da(rt)o+ho(ld)u@wall door hole@@
 707@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
@@ -968,7 +968,7 @@
 968@2-Cpx@Predicate@@@L4@1975@7.4@cim(ra)+cli(ka)@summer like@@
 969@2-Cpx@Predicate@@@L4@1975@2.3@cim(ra)+fu(tc)i@summer after@@
 970@D-Prim@Predicate@@@JCB@1988@7+@cimpe@@@
-971@S-Prim@Predicate@@@JCB@1988@7+@abbreviation of cimpenizi@@@
+971@L-Prim@Predicate@@@JCB@1988@7+@abbreviation of cimpenizi@@@
 972@Bor.@Predicate@@@JCB@1988@7+@Lin.@@@
 973@D-Prim@Predicate@@@JCB@1988@7+@cimpe@@@
 974@D-Prim@Predicate@@@JCB@1988@7+@cimpe@@@
@@ -3261,7 +3261,7 @@
 3270@2-Cpx@Predicate@@@APL@1997@7+@ha(pc)i+jmi(te)@happily meet@@
 3271@2-Cpx@Predicate@@@RAM@1993@3.0@ha(pc)i+r+bi(vd)u@happy behave@@
 3272@2-Cpx@Predicate@@@JCB/RAM@1991@2.9@ha(pc)i+spe(ni)@happily experience@@
-3273@S-Prim@Predicate@@@APL@2000@7+@Gk. acne L. acne vulgaris@@@
+3273@S-Prim@Predicate@@@APL@2000@7+@Gk. acne; L. acne vulgaris@@@
 3274@Afx@Affix@@@JCB@1988@7+@harmo@@@
 3275@2-Cpx@Predicate@@@L4@1975@2.7@ha(r)m(o)+se(tc)i@harmony set@@
 3276@2-Cpx@Predicate@@@RWJ@1983@3.0@ha(r)m(o)+to(gr)i@harmony agree@@
@@ -8593,7 +8593,7 @@
 8614@2-Cpx@Predicate@@@JLT@1985@4.3@stif(a)+y+ma(dz)o@stiff make@@
 8615@Bor.@Predicate@@@JCB@1988@7+@E. Stilton@@@
 8616@2-Cpx@Predicate@@@L4@1982@2.7@sti(se)+ma(dz)o@stop make@@
-8617@S-Prim@Predicate@@@JCB@1988@2.5@E. tin L. stannum@@stinycli@
+8617@S-Prim@Predicate@@@JCB@1988@2.5@E. tin; L. stannum@@stinycli@
 8618@2-Cpx@Predicate@@@L4@1975@7.4@stin(o)+y+cli(ka)@tin like@@
 8619@C-Prim@Predicate@tie tir@54%@JCB/RAM@1991@2.5@3/4E stair | 3/7F escalier | 3/4H sirhi | 4/7R stupien | 3/5G treppe | 2/4C lo ti@@bertirsei | daortie | kubtie | muvtirsei | tirfoa | tirsei | tirseireu@
 8620@Bor.@Predicate@@@FR/JCB/RAM@1985@4.9@Lin. Striges@@@
