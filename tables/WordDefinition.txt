@@ -1632,7 +1632,6 @@
 971@1@@1a@N pertains to a «chimpanzee», is chimpanzee like.@@N-
 972@1@@1n@B is a «chimpanzee» ({Kongo chimpenzi}).@@B-
 973@1@@1n@B is an infant «chimpanzee».@@B-
-973@2@@n@B is an infant «chimpanzee».@@
 974@1@@1n@B is a male «chimpanzee».@@B-
 975@1@@1n@B is a «chimpanzee» (generic term).@@B-
 976@1@@2n@B is the «summer» season of year C.@@B-C
