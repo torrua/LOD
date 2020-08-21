@@ -6711,7 +6711,7 @@
 6725@I-Prim@Predicate@@@L4@1975@7.3@Int.@@@
 6726@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6727@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-6728@S-Prim@Predicate@@@JCB@1991@4.3@3/4E pine | 2/3C sung | 3/5J matsu | 2/4S pino | 2/4G Pinie | 3/8H sanaubar@@@
+6728@C-Prim@Predicate@@@JCB@1991@4.3@3/4E pine | 2/3C sung | 3/5J matsu | 2/4S pino | 2/4G Pinie | 3/8H sanaubar@@@
 6729@Bor.@Predicate@@@RAM@2001@7+@L. Pan troglodytes@@@
 6730@C-Prim@Predicate@@38%@L4@1975@5.6@2/4C ku dz | 3/7H patlun | 2/5E pants | 3/8R herbalon | 2/6S herbalone s | 2/6G herbalone@@jitpantu | nenpantu | pantyjuo@
 6731@2-Cpx@Predicate@@@SLR@1995@7+@pant(u)+y+(d)ju(p)o@pants support@@
