@@ -92,7 +92,7 @@
 92@Bor.@Predicate@@@SLR@1992@7+@US Ameslan@@@
 93@Bor.@Predicate@@@SLR@1992@7+@US Ameslan@@@
 94@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
-95@Bor.@Predicate@@@L4@1981@7+@L Anguilli@@@
+95@Bor.@Predicate@@@L4@1981@7+@L. Anguilli@@@
 96@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 97@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 98@Bor.@Predicate@@@RAM@1995@7+@L. Ananas comosus@@@
@@ -2422,11 +2422,11 @@
 2428@2-Cpx@Predicate@@@L4@1975@2.8@kok(fa)+y+kru(ma)@cook room@@
 2429@Afx@Affix@@@JCB@1988@7+@kolro@@@
 2430@S-Prim@Predicate@@@RAM@1988@3.9@Lin. Columba@@@
-2431@S-Prim@Predicate@@@RAM@1988@3.9@L kolba@@@
-2432@S-Prim@Predicate@@@RAM@1988@3.9@L kolba@@@
-2433@S-Prim@Predicate@@@RAM@1988@3.9@L kolba@@@
+2431@S-Prim@Predicate@@@RAM@1988@3.9@kolba@@@
+2432@S-Prim@Predicate@@@RAM@1988@3.9@kolba@@@
+2433@S-Prim@Predicate@@@RAM@1988@3.9@kolba@@@
 2434@2-Cpx@Predicate@@@JJ@1993@2.9@kol(ro)+brili@colour brilliance@@
-2435@S-Prim@Predicate@@@RAM@1988@3.9@L kolba@@@
+2435@S-Prim@Predicate@@@RAM@1988@3.9@kolba@@@
 2436@3-Cpx@Predicate@@@FR/JCB@1985@4.7@kol(ro)+don(su)+cti(fu)@color give stuff@@
 2437@2-Cpx@Predicate@@@JCB/RAM@1990@2.1@kol(ro)+do(ns)u@color give@@
 2438@2-Cpx@Predicate@@@JLT@1985@4.3@kol(ro)+d(i)r(l)u@color lose@@
@@ -4424,12 +4424,12 @@
 4433@S-Prim@Predicate@@@JCB/RAM@1995@7+@L. Daucis carota@@@
 4434@2-Cpx@Predicate@@@RAM@1987@4.5@kro(li)+ta(kn)a@flow talk@@
 4435@2-Cpx@Predicate@@@RAM/SLR@1993@7+@kro(li)+tro(li)@flow controller@@
-4436@S-Prim@Predicate@@@JCB/RAM@1990@4.7@L krovi@@@
+4436@S-Prim@Predicate@@@JCB/RAM@1990@4.7@krovi@@@
 4437@2-Cpx@Predicate@@@FR@1985@2.4@kro(li)+va(lt)i@stream jumping@@
-4438@S-Prim@Predicate@@@JCB/RAM@1990@4.7@L krovi@@@
+4438@S-Prim@Predicate@@@JCB/RAM@1990@4.7@krovi@@@
 4439@S-Prim@Predicate@@@JCB/RAM@1990@4.7@Lin. Corvus@@@
-4440@S-Prim@Predicate@@@JCB/RAM@1990@4.7@L krovi@@@
-4441@S-Prim@Predicate@@@JCB/RAM@1990@4.7@L krovi@@@
+4440@S-Prim@Predicate@@@JCB/RAM@1990@4.7@krovi@@@
+4441@S-Prim@Predicate@@@JCB/RAM@1990@4.7@krovi@@@
 4442@Afx@Affix@@@JCB@1988@7+@kruma@@@
 4443@2-Cpx@Predicate@@@L4@1975@2.3@kru(ma)+ja(gl)o@room angle@@
 4444@2-Cpx@Predicate@@@RAM@1987@3.0@kru(ma)+ki(nc)i@room companion@@
@@ -5160,7 +5160,7 @@
 5170@2-Cpx@Predicate@@@L4@1975@1.0@mer(ji)+m(r)e(n)u@married man@@
 5171@2-Cpx@Predicate@@@L4@1975@1.0@mer(ji)+ti(fr)u@married offer@@
 5172@Afx@Affix@@@JCB@1988@7+@metli@@@
-5173@I-Prim@Predicate@@@JCB@1983@4.6@L micca@wick@@
+5173@I-Prim@Predicate@@@JCB@1983@4.6@L. micca@wick@@
 5174@2-Cpx@Predicate@@@L4@1975@4.8@met(li)+cli(ka)@metal like@@
 5175@3-Cpx@Predicate@@@RAM@1987@4.9@met(li)+fo(r)m(a)+do(ns)u@metal form give@@
 5176@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
@@ -6712,7 +6712,7 @@
 6726@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6727@Bor.@Predicate@@@JCB@1988@7+@ISV@@@
 6728@S-Prim@Predicate@@@JCB@1991@4.3@3/4E pine | 2/3C sung | 3/5J matsu | 2/4S pino | 2/4G Pinie | 3/8H sanaubar@@@
-6729@Bor.@Predicate@@@RAM@2001@7+@L Pan troglodytes@@@
+6729@Bor.@Predicate@@@RAM@2001@7+@L. Pan troglodytes@@@
 6730@C-Prim@Predicate@@38%@L4@1975@5.6@2/4C ku dz | 3/7H patlun | 2/5E pants | 3/8R herbalon | 2/6S herbalone s | 2/6G herbalone@@jitpantu | nenpantu | pantyjuo@
 6731@2-Cpx@Predicate@@@SLR@1995@7+@pant(u)+y+(d)ju(p)o@pants support@@
 6732@Afx@Affix@@@JCB@1988@7+@pasko@@@
@@ -6738,7 +6738,7 @@
 6752@D-Prim@Predicate@@@JCB@1994@7+@pardu@@@
 6753@D-Prim@Predicate@@@JCB@1994@7+@pardu@@@
 6754@D-Prim@Predicate@@@JCB@1994@7+@pardu@@@
-6755@S-Prim@Predicate@@@JCB@1994@7+@L pardus@@@
+6755@S-Prim@Predicate@@@JCB@1994@7+@L. pardus@@@
 6756@2-Cpx@Predicate@@@JCB/RAM@1987@2.8@par(ti)+du(vr)i@parts discover@@
 6757@3-Cpx@Predicate@@@L4@1975@7.4@par(ti)+fa(nd)o+ma(dz)o@part end@@
 6758@3-Cpx@Predicate@@@L4@1975@2.2@par(ti)+gru(pa)+ki(nc)i@party comp'n@@
@@ -6844,7 +6844,7 @@
 6858@Afx@Affix@@@JCB@1988@7+@penja@@@
 6859@2-Cpx@Predicate@@@L4@1975@6.6@pe(n)j(a)+du(rz)o@sponge do@@
 6860@2-Cpx@Predicate@@@L4@1975@7.4@pe(n)j(a)+y+cli(ka)@sponge like@@
-6861@Bor.@Predicate@@@APL/RAM@1998@7+@L Pectinidae@@@
+6861@Bor.@Predicate@@@APL/RAM@1998@7+@L. Pectinidae@@@
 6862@C-Prim@Predicate@@51%@L4@1975@3.8@2/2C pi | 3/4E pelt | 3/4S piel@@hebpelpi@
 6863@C-Prim@Predicate@@38%@L4@1975@2.0@3/4E yellow | 3/4R zhelt yoi | 2/4H pila | 2/4G gelb@@@
 6864@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
@@ -8285,7 +8285,7 @@
 8306@C-Prim@Predicate@sma@38%@L4@1975@2.4@3/4E smoke | 2/3C yan@@smaflo | smapli | smapro | smarua | smarue | smaruetubli | smaruetubpli | smazvofodpai@
 8307@2-Cpx@Predicate@@@L4@1975@2.6@sma(no)+pli(zo)@smoke use@@
 8308@2-Cpx@Predicate@@@L4@1975@2.7@sma(no)+pro(ju)@smoke produce@@
-8309@Bor.@Predicate@@@JWK@2000@7+@L smaragdus@@@
+8309@Bor.@Predicate@@@JWK@2000@7+@L. smaragdus@@@
 8310@2-Cpx@Predicate@@@KAC@1983@2.9@sma(no)+ru(tm)a@smoke route@@
 8311@2-Cpx@Predicate@@@L4@1975@2.7@sma(no)+(b)ru(t)e@smoke breathe@@
 8312@3-Cpx@Predicate@@@RAM@1988@3.2@sma(no)+(b)ru(t)e+tubli@smoke breathe tube@@
@@ -8583,7 +8583,7 @@
 8604@C-Prim@Predicate@ste@47%@L4@1975@1.4@4/5E state | 2/3C ti i | 4/9S sentencia | 5/12R sientientsia@@bufste | ciuste | falcueste | klimaoste | norste | norstetaa | nurmoiste | rarste | rarstemao | stegru | stepai | stesei | stetrudui | trastemao@
 8605@3-Cpx@Predicate@@@RAM@1995@7+@ste(ti)+tru(ke)+du(vr)i@sentence structure discover@@
 8606@Afx@Affix@@@JCB@1988@7+@stise@@@
-8607@S-Prim@Predicate@@@JCB@1988@7+@Lat stibium@@@
+8607@S-Prim@Predicate@@@JCB@1988@7+@L. stibium@@@
 8608@2-Cpx@Predicate@@@RAM@1987@2.7@sti(se)+ce(nj)a@stop become@@
 8609@2-Cpx@Predicate@@@RAM@1987@2.7@sti(se)+cko(zu)@stop cause@@
 8610@2-Cpx@Predicate@@@L4@1975@2.8@sti(se)+clidu@stopping slip@@
@@ -8799,7 +8799,7 @@
 8820@2-Cpx@Predicate@@@L4@1975@2.4@ta(r)l(e)+cko(zu)@tired cause@@
 8821@S-Prim@Predicate@@@JCB@1988@7+@ISV@@@
 8822@2-Cpx@Predicate@@@APL@1995@7+@ta(r)l(e)+metli@tired metal@@
-8823@S-Prim@Predicate@@@JCB@1988@7+@L Thallium@@@
+8823@S-Prim@Predicate@@@JCB@1988@7+@L. Thallium@@@
 8824@N-Prim@Predicate@@@L4@1975@1.0@Ital. italiano@@talnytaa@
 8825@D-Prim@Predicate@@@JRK@1983@3.6@Ital. italiano@@@
 8826@D-Prim@Predicate@@@L4@1975@1.0@Ital. italiano@@@
@@ -8995,7 +8995,7 @@
 9016@N-Prim@Predicate@@@RAM@1988@4.9@E. turkey, a native American bird@@@
 9017@1-Cpx@Predicate@@@L4@1975@7.4@ter+ku/(t)l(a)@three cut@@
 9018@1-Cpx@Predicate@@@JCB/RAM@1990@3.5@ter+ko(rj)i@3rd commander@@
-9019@L-Prim@Predicate@tel@@L4@1975@7.4@L terra@@midtelmursi | telbie | telfoa | telfomspa | telkeo | telnorloi | telsensi | telsesmao | telzvo | telzvospa@
+9019@L-Prim@Predicate@tel@@L4@1975@7.4@L. terra@@midtelmursi | telbie | telfoa | telfomspa | telkeo | telnorloi | telsensi | telsesmao | telzvo | telzvospa@
 9020@1-Cpx@Predicate@@@RAM@1991@2.8@ter+ma(tm)a@three father@@
 9021@1-Cpx@Predicate@@@FR@1986@5.0@ter+ma(dz)o@three make@@
 9022@1-Cpx@Predicate@@@JCB@1988@2.1@ter+me(ns)a@3 month@@
@@ -9327,7 +9327,7 @@
 9350@2-Cpx@Predicate@@@L4@1975@2.3@tri(cu)+staga@tree stem@@
 9351@Afx@Affix@@@JCB@1988@7+@troli@@@
 9352@Bor.@Predicate@@@JCB@1988@7+@Lin.@@@
-9353@Bor.@Predicate@@@APL@2000@7+@L Troglodytes troglodytes@@@
+9353@Bor.@Predicate@@@APL@2000@7+@L. Troglodytes troglodytes@@@
 9354@C-Prim@Predicate@@51%@L4@1975@1.4@3/3F roc | 3/4C sh tou | 3/4S roca | 2/3E rock@@cmatroku | fagtroku | flitroku | grotroku | trokybalma | trokybamduo | trokycea | trokycli | trokyflo | trokymoa | trokyrae | trokytri@
 9355@2-Cpx@Predicate@@@JCB/RAM@1991@4.3@trok(u)+y+balma@rock ball@@
 9356@3-Cpx@Predicate@@@JCB/RAM@1991@4.3@trok(u)+y+ba(l)m(a)+du(rz)o@rock ball do@@
