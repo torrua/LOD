@@ -2279,8 +2279,8 @@
 1288@2@@a@«stormy» (of the type specified).@@
 1289@1@@2a@G is «rainier»/more rain full than J.@@G-J
 1289@2@pu %@n@a «raininess», a spec. property.@@
-1290@1@ba %@ph@it's «raining».@@
-1290@2@@2v@A quantity of «rain» falls on victim D from cloud S.@@D-S
+1290@1@@2v@B is a quantity of «rain» falls on victim D from cloud S.@@B-DS
+1290@2@ba %@ph@it's «raining».@@
 1290@3@nu %@n@«rain cloud», something that rains on ....@@
 1290@4@lopo %@n@«rain», mass term of events.@@
 1290@5@po %@n@some «rain», a spec. event/act of -ing.@@
@@ -18546,16 +18546,16 @@
 10060@1@@3v@X is the «grammar class» of utterance Y in language Z.@@
 10061@1@@3v@X is a «metaphor» (in the sense of Loglan grammar) in which predicate Y modifies predicate Z.@@
 10061@2@nufu %@3v@X «modifies» Y (in metaphor Z).@@
-10062@1@@1n@X is an «elephant».@@
-10063@1@@1n@X is a female «elephant».@@
-10064@1@@2a@X is more «elephantine»/«elephant like» than Y.@@
-10065@1@@1n@X is a male «elephant».@@
-10066@1@@1n@X is an infant «elephant».@@
-10067@1@@1n@X is a female Asian «elephant».@@
-10068@1@@2a@X is more «elephantine»/«elephant like» than Y.@@
-10069@1@@1n@X is an infant Asian «elephant».@@
-10070@1@@1n@X is a male Asian «elephant».@@
-10071@1@@1n@X is an Asian «elephant».@@
+10062@1@@1n@B is an «elephant».@@B-
+10063@1@@1n@B is a female «elephant».@@B-
+10064@1@@2a@G is more «elephantine»/«elephant like» than J.@@G-J
+10065@1@@1n@B is a male «elephant».@@B-
+10066@1@@1n@B is an infant «elephant».@@B-
+10067@1@@1n@B is a female Asian «elephant».@@B-
+10068@1@@2a@G is more «elephantine»/«elephant like» than J.@@G-J
+10069@1@@1n@B is an infant Asian «elephant».@@B-
+10070@1@@1n@B is a male Asian «elephant».@@B-
+10071@1@@1n@B is an Asian «elephant».@@B-
 10073@1@la %@na@«Japan», the name of the country.@@
 10074@1@la %@na@«Japanese», the language.@@
 10075@1@@af@«more than», quantifier prefix.@@
@@ -18579,17 +18579,17 @@
 10093@1@@i@attitudinal expressing apology, I'm «sorry».@@
 10094@1@@op@LW for constructing compounds from predicate words (and LWs under some circumstances).@@
 10095@1@@op@initial marker for acronyms, proposed mandatory for acronyms used as «dimension»s.@@
-10096@1@@3n@B is a «blog»/computer web log about V by S.@@
-10097@1@@2n@B is a «kaleidoscope» of type N.@@
-10098@1@@3n@X is more «aerodynamic» than Y (in medium Z).@@
-10099@1@@2n@X is a «battery» for appliance Y.@@
+10096@1@@3n@B is a «blog»/computer web log about V by S.@@B-VS
+10097@1@@2n@B is a «kaleidoscope» of type N.@@B-N
+10098@1@@3n@G is more «aerodynamic» than J in medium N.@@G-JN
+10099@1@@2n@B is a «battery» for appliance D.@@B-D
 10100@1@@c@short scope «event» predicate constructor, modification of {po}.@@
 10101@1@@op@short scope «quality» abstractor, variant of {pu}.@@
 10102@1@@op@short scope «quantity» abstractor, variant of {zo}.@@
 10103@1@@i@attitudinal marking «answer»s.@@
 10104@1@@pm@medial marker («comma») for unordered lists = finite sets.@@
 10105@1@@pm@medial marker («comma») for ordered lists.@@
-10106@1@@2v@X «may» do, is «permitted» to do, Y.@@
+10106@1@@2v@K «may» do/is «permitted» to do V.@@K-V
 10107@1@@af@a combining form of {buste}, «step».@@
 10108@1@@af@a combining form of {clika}, «like».@@
 10109@1@@af@a combining form of {djitu}, «tight».@@
