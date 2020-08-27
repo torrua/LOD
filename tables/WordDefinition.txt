@@ -83,7 +83,7 @@
 56@1@@1n@B is a plant of the genus «Ageratum».@@B-
 57@1@@i@I «will»/«consent to»/«intend to» ... <, an exp. of consent/strong intention.>.@@
 57@2@@i@«yes»/«certainly»/«of-course»/«OK»/«decidedly»/«by-all means», an exp. of consent/strong intention.@@
-57@3@-ai@af@the mark of «Latin» upper case consonant names, as in {Bai/Cai/Dai}/etc.@@
+57@3@-ai@af@the mark of «Latin» upper case consonant names, as in {Bai}/{Cai}/{Dai}/etc.@@
 57@4@% fazi@ph@«just going to»/«about to», intended immed. action, as '{ai mi fazi godzi}'.@@
 57@5@% no@ph@«certainly not»/I «refuse»/«of course not»<, an exp. of unwillingness.>.@@
 57@6@% no@ph@«no»/I «will not»/«by-no means», an expression of unwillingness/strong refusal.@@
@@ -1415,7 +1415,7 @@
 864@1@@1n@V is «teacher training»/«education», as in College of Education.@@V-
 865@1@@1n@V is a «precept».@@V-
 866@1@@3v@K «lecture»/«teach» D about subject V, as a professor -s.@@K-DV
-867@1@@h@«dear»/«darling»/«precious», etc., an attitudinal indicating love/intimacy; part of the series '{rie/kae/nue/fie/die}', q.v.; always used after a designation/vocative. E.g. '{Meris, Die}' -- ' Mary, Dear' used as the salutation of a letter. (DIE).@@
+867@1@@h@«dear»/«darling»/«precious», etc., an attitudinal indicating love/intimacy; part of the series '{rie}/{kae}/{nue}/{fie}/{die}', q.v.; always used after a designation/vocative. E.g. '{Meris, Die}' -- ' Mary, Dear' used as the salutation of a letter. (DIE).@@
 868@1@@1n@B is a «diaeresis»/«dieresis», a mark ¨ to indicate vowels are to be pronounced separately.@@B-
 869@1@@1@B is a «diesel», a type of internal combustion motor.@@B-
 869@2@@a@«diesel», pert. to -- motors and fuel.@@
@@ -3327,7 +3327,7 @@
 1820@1@@1n@B is an «aegyptopithecine», a member of the genus Aegyptopithecus.@@B-
 1820@2@@a@«aegyptopithecine», characteristic of or pertaining to the -s.@@
 1821@1@@i@is that «so»/is it «true that» ..., a question about the truth of ....@@B-
-1821@2@-ei@af@the mark of «Latin» lower case consonant names, in {bei/cei/dei}/etc.@@
+1821@2@-ei@af@the mark of «Latin» lower case consonant names, in {bei}/{cei}/{dei}/etc.@@
 1821@3@% tu djela?@i@«how are you»?/«how do you feel»? (literal sense).@@
 1822@1@@1@B is some «einsteinium», a transuranic element.@@B-
 1823@1@@2n@B is an «echinoderm» of type F.@@B-F
@@ -3350,7 +3350,7 @@
 1833@1@@1@B is an «enzyme», a biological catalyst.@@B-
 1833@2@@a@«enzymatic», pert. to enzymes.@@
 1834@1@@i@«please»/«will you let»/«may» I ..., request for permission, a petition, e.g. '{Eo mi godzi}' -- Please, may I go.@@B-
-1834@2@-eo@af@the mark of «Greek» lower case consonant names, as in {beo/ceo/deo}/etc.@@
+1834@2@-eo@af@the mark of «Greek» lower case consonant names, as in {beo}/{ceo}/{deo}/etc.@@
 1834@3@% la Gan begdou@ph@May «God» «grant».@@
 1835@1@@2v@D shows «epitaxy»/epitaxic growth with respect to substrate B.@@D-B
 1835@2@lo %@n@«epitaxy», mass term.@@
@@ -3946,7 +3946,7 @@
 2132@2@lopo %@n@«fertilization», mass term.@@
 2132@3@po %@n@a «fertilization», a process of -ing.@@
 2133@1@@av@in «fact»/«actually», a discourse operator (UI).@@
-2134@1@-fi@af@the mark of «Latin» lower case vowel names, as in {afi/efi/ifi}/etc.@@
+2134@1@-fi@af@the mark of «Latin» lower case vowel names, as in {afi}/{efi}/{ifi}/etc.@@
 2134@2@-fi@af@the mark of «ordinals», as in {nefi}, firstly.@@
 2135@1@@av@«henceforth»/«thereafter», from now on, before predicates.@@
 2135@2@@c@ever «since», some event, with clauses.@@
@@ -4004,7 +4004,7 @@
 2158@3@lo %@n@«physics», mass term of instances.@@
 2159@1@@1n@K is a «physicist».@@K-
 2160@1@@3n@B is a physical «obstacle» in F to V.@@B-FV
-2161@1@@h@«comrade»/«brother»/«sister», an attitudinal indicating comradeship/friendship or the intimacy of fellow members/co workers; part of the series '{rie/kae/nue/fie/die}', q.v.; always used after a designation/vocative. E.g. '{Djan, Fie}' -- 'John, Friend' used as the salutation of a letter. (DIE).@@
+2161@1@@h@«comrade»/«brother»/«sister», an attitudinal indicating comradeship/friendship or the intimacy of fellow members/co workers; part of the series '{rie}/{kae}/{nue}/{fie}/{die}', q.v.; always used after a designation/vocative. E.g. '{Djan, Fie}' -- 'John, Friend' used as the salutation of a letter. (DIE).@@
 2162@1@@1n@B is a «fig», a fruit of the fig tree.@@B-
 2162@2@@a@«fig», pert. to -s.@@
 2163@1@@af@a combining form of {fildi}, «field».@@
@@ -6052,8 +6052,8 @@
 3194@1@@3v@K «benefit» D by doing V.@@K-DV
 3194@2@@n@«benefactor», one who -s.@@
 3194@3@po %@n@a spec. «benefit» instance.@@
-3195@1@@pm@(right boundary mark for {je/jue} phrases only).@@
-3196@1@@pm@(right boundary mark for {ji/ja/ji}V/{ja}V clauses only).@@
+3195@1@@pm@(right boundary mark for {je}/{jue} phrases only).@@
+3196@1@@pm@(right boundary mark for {ji}/{ja}/{ji}V/{ja}V clauses only).@@
 3197@1@@1n@B is a «patriot», one who loves his country dearly.@@B-
 3197@2@@a@«patriotic», pert. to a --.@@
 3197@3@lopu %@n@«patriotism», mass property of -s.@@
@@ -7182,7 +7182,7 @@
 3855@2@@a@«defiant» to ... about ..., pertaining to one who -ies.@@
 3855@3@lopu %@n@«defiance», mass property.@@
 3855@4@po %@n@an instance of «defiance» to ... about ....@@
-3856@1@@h@«gentle», as in gentleman, gentle reader, an attitudinal expressing a respectful distance and near social equality; part of the series '{rie/kae/nue/fie/die}', q.v.; always used after a designation/vocative. E.g. '{Hoi Plizo, Kae}' -- 'O User, Gentleperson', 'Gentle User'. (DIE).@@
+3856@1@@h@«gentle», as in gentleman, gentle reader, an attitudinal expressing a respectful distance and near social equality; part of the series '{rie}/{kae}/{nue}/{fie}/{die}', q.v.; always used after a designation/vocative. E.g. '{Hoi Plizo, Kae}' -- 'O User, Gentleperson', 'Gentle User'. (DIE).@@
 3857@1@@2v@K «remain aware» of N.@@K-N
 3858@1@@af@a combining form of {kasfa}, «punish».@@
 3859@1@@4v@K «condemn»/«sentence»/«damn»/«convict» (person) D to (sentence) P for (crime) V.@@K-DPV
@@ -8218,7 +8218,7 @@
 4372@2@@n@a «crier», one who cries out.@@
 4372@3@po %@n@a «crying»/«cry», an act of -ing out.@@
 4373@1@@2n@B is a «cranberry» from S.@@B-S
-4374@1@@4v@K «drive»/«herd» /make ... go B to D from S via V, when ... ing animals/people; cf. {bapra/tcabapra/tcatro} for mechanical senses of 'drive'.@@K-BDSV
+4374@1@@4v@K «drive»/«herd» /make ... go B to D from S via V, when ... ing animals/people; cf. {bapra}/{tcabapra}/{tcatro} for mechanical senses of 'drive'.@@K-BDSV
 4374@2@@n@a «drover»/«herder»/«herdsman», a driver of animals.@@
 4374@3@fu %@n@a «destination», of a drive, q.v.@@
 4374@4@po %@n@a «drive», an act of -ing animals/people (e.g. enemy soldiers).@@
@@ -9523,7 +9523,7 @@
 5109@3@@av@«westward», from the west.@@
 5109@4@@pp@«west of» ..., toward the west from ....@@
 5110@1@@1n@B is some «lutetium», element 71 (Lu).@@B-
-5111@1@-ma@af@the mark of «Latin» upper case vowel names, as in {ama/ema/ima/oma/uma}.@@
+5111@1@-ma@af@the mark of «Latin» upper case vowel names, as in {ama}/{ema}/{ima}/{oma}/{uma}.@@
 5111@2@-ma@ms@«hundred», as in {toma}, 200.@@
 5112@1@@af@a combining form of {matma}, «mother».@@
 5113@1@@af@a combining form of {matci}, «machine».@@
@@ -10175,7 +10175,7 @@
 5447@1@@2a@B is «nervous»/«uneasy»/«anxious» about F.@@B-F
 5447@2@lopo %@1n@«nerves»/«nervousness», the mass of such states.@@
 5447@3@po %@1n@«nerves»/«nervousness»/«uneasiness», a spec.state of being -ous.@@
-5448@1@@p@«we»/«us»/«ourselves», in the "I/me and others independently" sense, the 1st & 3rd person multiple variable. Equivalent to '{mi, e da}'. Cf. {mu/mo} for the "you and I/me" sense of we/us, and {muu/muo} for the "you and I and others" sense of we/us.@@
+5448@1@@p@«we»/«us»/«ourselves», in the "I/me and others independently" sense, the 1st & 3rd person multiple variable. Equivalent to '{mi, e da}'. Cf. {mu}/{mo} for the "you and I/me" sense of we/us, and {muu}/{muo} for the "you and I and others" sense of we/us.@@
 5449@1@@2a@G is «meatier» than J is.@@G-J
 5449@2@@a@«meaty», meatier than ....@@
 5450@1@@1n@B is a «butcher», a preparer of meat for sale.@@B-
@@ -10227,13 +10227,13 @@
 5476@2@@a@«meat», made of meat.@@
 5476@3@lo %@n@«meat», mass term.@@
 5477@1@@1n@V is a «butcher» shop, a meat store.@@V-
-5478@1@@p@«we»/«us»/«ourselves», in the "I/me and others jointly" sense, the 1st & 3rd person set variable. Equivalent to '{mi ze da}'. Cf. {mu/mo} for the "you and I/me" sense of we/us, and {muu/muo} for the "you and I and others" sense of we/us.@@
+5478@1@@p@«we»/«us»/«ourselves», in the "I/me and others jointly" sense, the 1st & 3rd person set variable. Equivalent to '{mi ze da}'. Cf. {mu}/{mo} for the "you and I/me" sense of we/us, and {muu}/{muo} for the "you and I and others" sense of we/us.@@
 5479@1@@2n@B is «mineral water» from source S.@@B-S
 5480@1@@2n@B is a «mine» of P, a place for extracting mineral(s).@@B-P
 5481@1@@3v@K «mine» P from S, removes mineral ... from ... by mining.@@K-PS
 5481@2@@n@a «miner», one who -s minerals/ores.@@
 5482@1@@1n@B is a «miner», one who mines.@@B-
-5483@1@@p@«we»/«us»/«ourselves», in the "you and I/me independently" sense, the 1st & 2nd person multiple variable. Equivalent to '{mi, e tu}'. Cf. {mu} for the "you and I/me jointly" sense of we/us, {miu/mio} for the "I and others" sense of we/us, and {muu/muo} for the "you and I and others" sense of we/us.@@
+5483@1@@p@«we»/«us»/«ourselves», in the "you and I/me independently" sense, the 1st & 2nd person multiple variable. Equivalent to '{mi, e tu}'. Cf. {mu} for the "you and I/me jointly" sense of we/us, {miu}/{mio} for the "I and others" sense of we/us, and {muu}/{muo} for the "you and I and others" sense of we/us.@@
 5484@1@@af@a combining form of {monca}, «mountain».@@
 5485@1@@af@a combining form of {motci}, «motor».@@
 5486@1@@2v@K «motorize» D, furnish with a motor.@@K-D
@@ -10410,7 +10410,7 @@
 5579@1@@3v@B is «too»/so «excessive» (in some property) that (result) P in circumstances N.@@B-PN
 5580@1@@v@K is «greedy»/«gourmand». Cf. {mrotsudaa}.@@
 5581@1@@1n@B is a «hammer», an instrument for -ing.@@B-
-5582@1@@p@«we»/«us»/«ourselves», in the "you and I/me jointly" sense, the 1st & 2nd person set variable. Equivalent to '{mi ze tu}'. Cf. {mo} for the "you and I/me independently" sense of we/us, {miu/mio} for the "I and others" sense of we/us, and {muu/muo} for the "you and I and others" sense of we/us.@@
+5582@1@@p@«we»/«us»/«ourselves», in the "you and I/me jointly" sense, the 1st & 2nd person set variable. Equivalent to '{mi ze tu}'. Cf. {mo} for the "you and I/me independently" sense of we/us, {miu}/{mio} for the "I and others" sense of we/us, and {muu}/{muo} for the "you and I and others" sense of we/us.@@
 5583@1@@af@a combining form of {mubre}, «wood».@@
 5584@1@@2a@G is more «wooden»/wood like than J.@@G-J
 5585@1@@2v@K «cuts wood»/«chops wood» for purpose P.@@K-P
@@ -10491,7 +10491,7 @@
 5625@2@@a@«community»/«communal», pertaining to -s.@@
 5625@3@treci %@ph@an «interest community», a group with common interests.@@
 5626@1@@2n@B is some «Muenster» from S, a cheese.@@B-S
-5627@1@@p@«we»/«us»/«ourselves» (you and I and others independently) cf. {mu/mo, miu/mio}.@@
+5627@1@@p@«we»/«us»/«ourselves» (you and I and others independently) cf. {mu}/{mo}, {miu}/{mio}.@@
 5628@1@@2v@K «bump»/«collide»/«crash with»/«run into» D.@@K-D
 5628@2@po %@n@a «collision»/«bump»/«crash», an act/event of -ing.@@
 5629@1@@4v@K «move»/«remove» B to D from S, nonintentional.@@K-BDS
@@ -10602,7 +10602,7 @@
 5687@3@fu %@n@«torment»/«torture», resulting from -ing (of ... by actor ...).@@
 5687@4@nu %@a@«tormented»/«harrowed»/«tortured» (by ... by ...), pert. to one -ed.@@
 5687@5@po nu %@n@an instance of being «tortured»/«torture».@@
-5688@1@@p@«we»/«us»/«ourselves» (you and I with others jointly) cf. {mu/mo} and {miu mio}.@@
+5688@1@@p@«we»/«us»/«ourselves» (you and I with others jointly) cf. {mu}/{mo} and {miu}/{mio}.@@
 5689@1@@af@a combining form of {muvdo}, «move».@@
 5690@1@@2v@P is the «carriage»/«bearing» of S.@@P-S
 5691@1@@2n@V is a «crash» of B, the sound of collision.@@V-B
@@ -12018,7 +12018,7 @@
 6385@1@@va@am/is/are+(now) «habitually» -ing, continuous present tense (PA).@@
 6386@1@@c@«whether» ..., ... as one wd. between modifiers.@@
 6387@1@@c@«whether» ... not ..., between modified/fying words.@@
-6388@1@@h@«Mr»/«Ms»/«Mrs», an attitudinal indicating both distance and neutrality; part of the series '{rie/kae/nue/fie/die}', q.v.; always follows a designation/vocative. E.g. '{Smiq, Nue.}' -- 'Smith, Mr.' ('Mr. Smith'); '{Ne nu sange nue}' 'A suggestion toward which.@@
+6388@1@@h@«Mr»/«Ms»/«Mrs», an attitudinal indicating both distance and neutrality; part of the series '{rie}/{kae}/{nue}/{fie}/{die}', q.v.; always follows a designation/vocative. E.g. '{Smiq, Nue.}' -- 'Smith, Mr.' ('Mr. Smith'); '{Ne nu sange nue}' 'A suggestion toward which.@@
 6389@1@@op@reorders the 1st three places of a {preda} as 231.@@
 6390@1@@op@exchanges the 2nd and 3rd places of a predicate.@@
 6391@1@@aux@«may»/is «permitted to» ..., objective sense used before predicates (PA). E.g. {Tu nui godzi da} -- You may/are permitted to go to X. Cf. {oi} for subjective sense: {Oi tu godzi da} -- You may go to X.@@
@@ -14203,7 +14203,7 @@
 7591@1@@3v@K let «read» book B by D c.f. {vizlei}.@@K-BD
 7592@1@@2v@K «experience» B «vicariously» by reading about it.@@K-B
 7593@1@@2v@K «discover»/«find out» B by reading about it.@@K-B
-7594@1@@h@«sir»/«madam»/«sire»/«m»'am/«honorable», an attitudinal used by an inferior addressing a superior; part of the series '{rie/kae/nue/fie/die}', q.v.; always follows a designation/vocative. E.g. '{Gandias Smiq, Rie}' -- 'Professor Smith, Sir'. (DIE).@@
+7594@1@@h@«sir»/«madam»/«sire»/«m»'am/«honorable», an attitudinal used by an inferior addressing a superior; part of the series '{rie}/{kae}/{nue}/{fie}/{die}', q.v.; always follows a designation/vocative. E.g. '{Gandias Smiq, Rie}' -- 'Professor Smith, Sir'. (DIE).@@
 7595@1@@1n@B is an «instrument maker».@@B-
 7596@1@@af@a combining form of {briga}, «brave».@@
 7597@1@@2v@D is «discouraged» about V.@@D-V
@@ -17093,7 +17093,7 @@
 9208@3@merko %@2v@weigh in US «ton» (s) (2000 lbs) ....@@
 9209@1@@2n@B is a «tornado» in F, e.g. {Mu pa nu tontetri} -- We had a tornado.@@B-F
 9209@2@@a@«stormy» (of the type specified).@@
-9210@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "each of you individually" sense, the plural 2nd person multiple variable, of several persons spoken/written to independently. Cf. {tu} for the singular sense of you, {tou} for the "you all collectively" sense of you, and {tuu/tuo} for the "you and others" sense of you.@@
+9210@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "each of you individually" sense, the plural 2nd person multiple variable, of several persons spoken/written to independently. Cf. {tu} for the singular sense of you, {tou} for the "you all collectively" sense of you, and {tuu}/{tuo} for the "you and others" sense of you.@@
 9210@2@% he?@ph@«How-are-you-all»?/«What-are-you-individually»?/«What-does-each-of-you do»?@@
 9210@3@Hu namci %?@ph@«What-are-your»(-individual) names?@@
 9211@1@@af@a combining form of to, «two».@@
@@ -17198,7 +17198,7 @@
 9272@1@@2n@B is a «stratum»/«layer»/«level» of relatively homogeneous matter in a stratified whole F, a substance, artifact, or fluid.@@B-F
 9272@2@nu %@a@«stratified», consisting of layers.@@
 9273@1@@3v@K «crochet» P from B.@@K-PB
-9274@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "group of you jointly" sense, the plural 2nd person set variable, of several persons spoken/written to jointly. Cf. {tu} for the singular sense of you, {too} for the "you all independently" sense of you, and {tuu/tuo} for the "you and others" sense of you.@@
+9274@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "group of you jointly" sense, the plural 2nd person set variable, of several persons spoken/written to jointly. Cf. {tu} for the singular sense of you, {too} for the "you all independently" sense of you, and {tuu}/{tuo} for the "you and others" sense of you.@@
 9274@2@% he?@ph@«What-are-you»(-as-a-group)?/«What-does-your-group do»?@@
 9274@3@Hu namci %?@ph@«What»'s-your(-group)-name?/«What»'s-your-group called?@@
 9275@1@@af@a combining form of {tovru}, «above».@@
@@ -17541,7 +17541,7 @@
 9448@2@@a@«tumescent».@@
 9448@3@po %@n@an instance of «tumescence».@@
 9449@1@@2n@B is a «tumor» of F.@@B-F
-9450@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "you and others independently" sense, the plural 2nd & 3rd person multiple variable, equivalent to '{tu, e da}', of a person and others not present spoken/written to independently. Cf. {tu} for the singular sense of you, {tuu} for the "you and others jointly" sense of you, and {tou/too} for the plural audience sense of you.@@
+9450@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "you and others independently" sense, the plural 2nd & 3rd person multiple variable, equivalent to '{tu, e da}', of a person and others not present spoken/written to independently. Cf. {tu} for the singular sense of you, {tuu} for the "you and others jointly" sense of you, and {tou}/{too} for the plural audience sense of you.@@
 9450@2@% he?@ph@«How-are-you-all»?/«What-are-you-individually»?/«What-does-each-of-you do»?@@
 9450@3@Hu namci %?@ph@«What-are-your»(-individual) names?@@
 9451@1@@af@a combining form of {turka}, «work».@@
@@ -17593,7 +17593,7 @@
 9480@1@@1n@B is a «worktable»/«workbench».@@B-
 9481@1@@2v@K «undertake»/«agree to» do (project) P.@@K-P
 9481@2@po %@n@an «undertaking», a specific agreement to do ....@@
-9482@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "you and others jointly" sense, the plural 2nd & 3rd person set variable, equivalent to '{tu ze da}', of a person and others not present spoken/written to jointly. Cf. {tu} for the singular sense of you, {tuo} for the "you and others independently" sense of you, and {tou/too} for the plural audience sense of you.@@
+9482@1@@p@«you»/«y»'all/«you all»/«yourselves», in the "you and others jointly" sense, the plural 2nd & 3rd person set variable, equivalent to '{tu ze da}', of a person and others not present spoken/written to jointly. Cf. {tu} for the singular sense of you, {tuo} for the "you and others independently" sense of you, and {tou}/{too} for the plural audience sense of you.@@
 9482@2@% he?@ph@«What-are-you»(-as-a-group)?/«What-does-your-group do»?@@
 9482@3@Hu namci %?@ph@«What»'s-your(-group)-name?/«What»'s-your-group called?@@
 9483@1@@c@«whether» (or not), logical independence between terms.@@
@@ -18279,7 +18279,7 @@
 9825@1@@l@«zeta», Greek lower case letter, one of a pool of symbols.@@
 9826@1@@2n@B is the 10E 21st «quantity» of F (ISV zepto).@@B-F
 9827@1@@2n@F is 10E21 fold «quantity» of B (ISV zetta).@@F-B
-9828@1@-zi@af@the mark of «Greek» lower case vowel names as in {azi/ezi/izi/}etc.@@
+9828@1@-zi@af@the mark of «Greek» lower case vowel names as in {azi}/{ezi}/{izi}/etc.@@
 9828@2@-zi@af@the point like interval space time suffix, as in {fazi} -- 'right away'.@@
 9829@1@@af@attached to <predy>, means «part of» <preda> «language»; e.g. {lepsyzia} -- rabbit language.@@
 9830@1@@af@attached to <predy>, means «part of» <preda> «territory»; e.g. {lepsyzie} -- rabbit territory.@@
