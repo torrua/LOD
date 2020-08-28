@@ -9461,7 +9461,7 @@
 9484@LW@Struct@@@L4@1975@1.0@@@@
 9485@Bor.@Predicate@@@APL@2000@7+@Lakota wakan@@@
 9486@LW@Struct@@@L4@1975@1.0@@@@
-9487@Cpd@Struct@@@L4@1975@7.4@u + -zi@@@
+9487@Cpd@Struct@@@L4@1975@7.4@u + -fi@@@
 9488@LW@Struct@@@L4@1975@1.0@@@@
 9489@Bor.@Predicate@@@JCB@1992@4.9@ISV@@@
 9490@Bor.@Predicate@@@FR@1986@4.9@Lin. Ulmus@@@
