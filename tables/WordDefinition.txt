@@ -11955,7 +11955,7 @@
 6354@1@@3n@B is a «picture»/«drawing» of S made by K.@@B-SK
 6354@2@@a@«pictorial», of pictures/illustrations.@@
 6355@1@@5n@V is a «pictogram»/«glyph» indicating B to S prompting behaviour P in situation N.@@V-BSPN
-6356@1@@3n@P is an «animated cartoon» about V by S.@@P-VS
+6356@1@@3n@P is an animated «cartoon» about V by S.@@P-VS
 6357@1@@2n@P is a «comic strip» drawn by S.@@P-S
 6358@1@@4v@K «describe» S as P to D.@@K-SPD
 6358@2@fu %@a@«descriptive», pert. to descriptions.@@
