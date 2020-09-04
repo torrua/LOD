@@ -643,7 +643,7 @@
 424@1@@2v@K «charm»/be «charming to» D.@@K-D
 424@2@@a@«charming», pert. to those who --.@@
 424@3@lopu %@n@«charm», mass prop.@@
-424@4@pu %@n@«charm», spec.property of -ers.@@
+424@4@pu %@n@«charm», spec. property of -ers.@@
 425@1@@2v@K play «billiards» with K.@@K-K
 425@2@@n@a «billiard player».@@
 425@3@lopo %@n@«billiards», the mass of such games.@@
@@ -713,7 +713,7 @@
 459@2@@n@a «trainer», one who -s.@@
 459@3@lopo %@n@«training»/«conditioning», mass term.@@
 459@4@nu %@a@«trained», of that which/one who is -d.@@
-459@5@po %@n@some «training»/«conditioning», spec.instance.@@
+459@5@po %@n@some «training»/«conditioning», spec. instance.@@
 460@1@@3v@K «behave»/exhibit behaviour P, an action/behavior, in setting/situation N. Cf. {clibiu} for role modeled behavior.@@K-PN
 460@2@@a@«psychological», pert. to behavior.@@
 460@3@lo nu %@n@«behavior», the mass of all such -iors.@@
@@ -854,14 +854,14 @@
 530@1@@2n@B is a «gorge»/«canyon» of river/stream S.@@B-S
 531@1@@af@a combining form of {botci}, «boy».@@
 532@1@@2a@G is more «boyish»/«boylike» than J.@@G-J
-532@2@pu %@n@a «boyishness», a spec.prop.@@
+532@2@pu %@n@a «boyishness», a spec. prop.@@
 533@1@@1@B is a «Beaujolais», a French red wine.@@B-
 534@1@@1n@B is a «bomb», an exploding weapon.@@B-
 534@2@lo %@n@«bomb» (s), mass term.@@
 535@1@@2n@B is a «bomber» aircraft of airforce F.@@B-F
 536@1@@af@a combining form of {bongu}, «bone».@@
 537@1@@2a@G is more «bony»/«bonier» than J.@@G-J
-537@2@pu %@n@a/some «boniness», a spec.prop.@@
+537@2@pu %@n@a/some «boniness», a spec. prop.@@
 538@1@@2n@B is a «bone» of F.@@B-F
 538@2@@a@«bone», made of bone.@@
 538@3@lo %@n@«bone», mass term.@@
@@ -2210,7 +2210,7 @@
 1246@1@@2n@N is a «puff» of B.@@N-B
 1247@1@@1v@B «contract»/become «shorter».@@B-
 1247@2@lopo %@n@«contraction», mass term.@@
-1247@3@po %@n@a «contraction», a spec. act/state of -ing.1 7.@@
+1247@3@po %@n@a «contraction», a spec. act/state of -ing.@@
 1248@1@@2v@V «curtail»/«cut off» D (involuntary cause).@@V-D
 1248@2@nu %@a@«curtailed», the thing -ed.@@
 1248@3@po %@n@a «curtailing»/«cutting off», an instance of -ing.@@
@@ -3934,7 +3934,7 @@
 2127@3@@n@a «wastrel»/«spendthrift», one who squanders ....@@
 2127@4@lopu %@n@«wastefulness», mass term, properties.@@
 2127@5@nu %@n@a «waste», that which is -ed.@@
-2127@6@po %@n@«waste», spec.inst.@@
+2127@6@po %@n@«waste», spec. inst.@@
 2128@1@@2n@K is «prudent»/«thrifty» in V, wastes not, wants not.@@K-V
 2128@2@lopu %@n@«prudence»/«thriftiness», mass property.@@
 2129@1@@1v@D «perish»/«spoil»/«turn», as perishable foods.@@D-
@@ -4507,7 +4507,7 @@
 2401@3@@av@«forcefully», in a forceful manner.@@
 2401@4@@n@«force», a spec. factor forcing ... to do/be.@@
 2401@5@fu %@a@«forced», of forced actions/effects.@@
-2401@6@lo %@n@«force in general», the mass of spec ....s.@@
+2401@6@lo %@n@«force in general», the mass of spec. ...s.@@
 2401@7@nu %@a@«forced», of one forced to do something.@@
 2401@8@po %@n@«compulsion», an act of compelling/forcing, q.v.@@
 2401@9@pu %@n@«forcefulness», a spec. property.@@
@@ -5011,7 +5011,7 @@
 2707@3@@op@conversion of 1st & 3rd places of a predicate, «passive»s/antonyms/etc.@@
 2707@4@@va@«is -ed», passive of some predicates.@@
 2708@1@@va@will be «habitually» -ing, continuous future tense (PA).@@
-2709@1@@2a@G is more «feminine»/«womanly»/«womanish»+than J, of non women.@@G-J
+2709@1@@2a@G is more «feminine»/«womanly»/«womanish» than J, of non women.@@G-J
 2709@2@lopu %@n@«femininity»/«womanliness», mass term, props.@@
 2709@3@pu %@n@a «femininity»/«womanliness», a spec. property of non women.@@
 2710@1@@af@a combining form of {futci}, «after».@@
@@ -5065,7 +5065,7 @@
 2730@3@@av@«richly»/«wealthily», in a rich manner.@@
 2730@4@lopu %@n@«wealth», mass term of properties.@@
 2730@5@pu %@n@some «wealth», a spec. property.@@
-2731@1@@3a@G is more «eloquent» than J is.in language D.@@G-JD
+2731@1@@3a@G is more «eloquent» than J is in language D.@@G-JD
 2731@2@lopu %@n@the mass property of «eloquence».@@
 2731@3@po %@n@an instance of «eloquence».@@
 2732@1@@voc@«Madam»/«Mrs»/«Woman», a vocative, as in 'oh Madam!'.@@
@@ -6461,7 +6461,7 @@
 3411@3@po %@n@a «helplessness», a spec. state.@@
 3412@1@@2a@G is (more) «helpful»/«accommodating» (than ...) J.@@G-J
 3412@2@lopu %@n@«helpfulness», mass property.@@
-3413@1@@3v@K «do» P on behalf/for the sake+of D /«intend» ... to help ....@@K-PD
+3413@1@@3v@K «do» P on behalf/for the sake of D /«intend» ... to help ....@@K-PD
 3413@2@@av@for the «sake of» ....@@
 3414@1@@3v@K «resort» to V for D.@@K-VD
 3415@1@@2n@B arethe «staff» of F, general term for staff of all sorts.@@B-F
@@ -8125,8 +8125,8 @@
 4321@3@po %@n@an «adaptation», a spec. state/process.@@
 4321@4@pu %@n@an «adaptability», a spec. prop. of bodies.@@
 4322@1@@1@B is some «cordite», a smokeless propellant.@@B-
-4323@1@@2n@B is a «toilet»/«john»/«convenience»/«loo»/«lavatory»/«W».C., the room.@@B-C
-4324@1@@2n@B is a «toilet»/«john»/«convenience»/«loo»/«lavatory»/«W».C., the appliance.@@B-C
+4323@1@@2n@B is a «toilet»/«john»/«convenience»/«loo»/«lavatory»/«WC», the room.@@B-C
+4324@1@@2n@B is a «toilet»/«john»/«convenience»/«loo»/«lavatory»/«WC», the appliance.@@B-C
 4325@1@@3a@K is «physically weak»/«frail» at task V and conditions N.@@K-VN
 4326@1@@2n@B is the «figure»/«shape»/«body form» of F.@@B-F
 4327@1@@3a@K is «physically strong»/«hardy» at task V and conditions N.@@K-VN
@@ -8343,7 +8343,7 @@
 4432@2@@n@an «interrupter», one who -s.@@
 4432@3@po %@n@an «interruption», an act/event of -ing.@@
 4433@1@@1n@B is a «carrot».@@B-
-4434@1@@3a@G is more «fluent» than J is.in matter D.@@G-JD
+4434@1@@3a@G is more «fluent» than J is in matter D.@@G-JD
 4434@2@lopu %@n@the mass property of «fluency».@@
 4434@3@po %@n@an instance of «fluency».@@
 4435@1@@2n@B is a «faucet»/«tap»/«valve»/«volume control»/«dimmer» of/in F, a device for controlling flow. Material may be specified as {cuirkrotroli}.@@B-F
@@ -8960,7 +8960,7 @@
 4805@3@po %@n@a «correspondence», an act of -ing.@@
 4806@1@@af@a combining form of {lesta}, «east».@@
 4807@1@La %@1n@the «Orient»/«East» (parts of Eastern Asia).@@
-4808@1@@2a@G is more «eastern»/«easterly»+than J.@@G-J
+4808@1@@2a@G is more «eastern»/«easterly» than J.@@G-J
 4808@2@@av@«eastward», in an easterly way.@@
 4808@3@@pp@«east» of ..., toward the east.@@
 4809@1@@af@a combining form of {letci}, «permit».@@
@@ -9518,7 +9518,7 @@
 5106@1@@1v@K «howl», a wolf like cry.@@K-
 5107@1@@4v@K «walk stealthily» from S to D via V.@@K-SDV
 5108@1@@af@a combining form of {lusta}, «west».@@
-5109@1@@2a@G is more «western»/«westerly»+than J is.@@G-J
+5109@1@@2a@G is more «western»/«westerly» than J is.@@G-J
 5109@2@@av@«westward», in a westerly way.@@
 5109@3@@av@«westward», from the west.@@
 5109@4@@pp@«west of» ..., toward the west from ....@@
@@ -9983,7 +9983,7 @@
 5334@1@@1n@B is an «eternal»/«absolute»/«unchanging» truth.@@B-
 5334@2@@a@«veritable», of verities/absolute truths.@@
 5334@3@@n@a «verity», an absolute truth.@@
-5334@4@lo %@n@«absolute»/«eternal»+truth, mass term of instances.@@
+5334@4@lo %@n@«absolute»/«eternal» truth, mass term of instances.@@
 5335@1@@2n@B is a «pond» in F, a quiet part in a stream/river.@@B-F
 5336@1@@3a@K is/are «determined» that/to do P about V.@@K-PV
 5336@2@lopo %@n@«determination», mass term of states.@@
@@ -10174,7 +10174,7 @@
 5445@2@@n@an «abstraction», a property perceived mentally, e.g. truth, justice.@@
 5447@1@@2a@B is «nervous»/«uneasy»/«anxious» about F.@@B-F
 5447@2@lopo %@1n@«nerves»/«nervousness», the mass of such states.@@
-5447@3@po %@1n@«nerves»/«nervousness»/«uneasiness», a spec.state of being -ous.@@
+5447@3@po %@1n@«nerves»/«nervousness»/«uneasiness», a spec. state of being -ous.@@
 5448@1@@p@«we»/«us»/«ourselves», in the "I/me and others independently" sense, the 1st & 3rd person multiple variable. Equivalent to '{mi, e da}'. Cf. {mu}/{mo} for the "you and I/me" sense of we/us, and {muu}/{muo} for the "you and I and others" sense of we/us.@@
 5449@1@@2a@G is «meatier» than J is.@@G-J
 5449@2@@a@«meaty», meatier than ....@@
@@ -14256,14 +14256,14 @@
 7619@2@@n@a «whistler», one who -s.@@
 7620@1@@3n@N is a «technology» for producing P used by people K.@@N-PK
 7621@1@@af@a combining form of {rinje}, «ring».@@
-7622@1@@1n@B is an element/feature/expression of an «American Indian»/«Amerind»+language.@@B-
+7622@1@@1n@B is an element/feature/expression of an «American Indian»/«Amerind» language.@@B-
 7622@2@@a@«Amerind»/«Indian», of Indian language.@@
 7622@3@lo %@n@«Indian», the mass of all Amerind languages.@@
 7623@1@@1a@B is an «Amerind» place/territory, a region inhabited by Amerinds.@@B-
-7624@1@@1n@B is an «American Indian»/«Amerind»+(person).@@B-
+7624@1@@1n@B is an «American Indian»/«Amerind» (person).@@B-
 7624@2@@a@«Amerind»/«Indian», of Indian origin.@@
 7624@3@lo %@n@(the) «Indian»/Indians, the mass of all Indians.@@
-7625@1@@1n@B is an element/feature/expression of an «American Indian»/«Amerind»+culture.@@B-
+7625@1@@1n@B is an element/feature/expression of an «American Indian»/«Amerind» culture.@@B-
 7625@2@@a@«Amerind»/«Indian», of Indian culture.@@
 7625@3@lo %@n@«Indian», the mass of all Amerind culture.@@
 7626@1@@3n@V is a «siege», the surrounding and blockading of B by K.@@V-BK
@@ -14566,7 +14566,7 @@
 7814@1@@3v@K «hammer»/«drive» B into D.@@K-BD
 7815@1@@2n@B is a «rose», a flower from S.@@B-S
 7816@1@@1n@B is a «rosebush».@@B-
-7817@1@@a@«enough»/a «sufficient»/«ample»/«adequate»+number of set ..., a quantifying operator.@@
+7817@1@@a@«enough»/a «sufficient»/«ample»/«adequate» number of set ..., a quantifying operator.@@
 7818@1@@af@a combining form of {rutma}, «route».@@
 7819@1@@2v@K «stray» from V.@@K-V
 7820@1@@4v@K «direct» (s), give directions to D from S to (person) B.@@K-DSB
@@ -14678,7 +14678,7 @@
 7875@1@@af@a combining form of {satci}, «start».@@
 7876@1@@2v@K «found»/«originate» B.@@K-B
 7876@2@@n@a «founder»/«originator»/«author», originator of ....@@
-7876@3@lopu %@n@«originality», mass prop.of a founder.@@
+7876@3@lopu %@n@«originality», mass prop. of a founder.@@
 7876@4@nu %@n@a «foundation», that which is founded.@@
 7877@1@@3v@K «begin»/«commence»/«start doing» P by/with N.@@K-PN
 7877@2@@n@a «beginner» at ....@@
@@ -15073,7 +15073,7 @@
 8105@1@@3n@B is a «nephew» of D through sibling S.@@B-DS
 8106@1@@af@a combining form of {sitci}, «city».@@
 8107@1@@2n@B is a «citizen» of city F.@@B-F
-8108@1@@2n@B is the «city»/«town»+hall, the government building of community F.@@B-F
+8108@1@@2n@B is the «city»/«town» hall, the government building of community F.@@B-F
 8109@1@@2n@B is a «section»/«district»/«quarter»/«borough» of city F.@@B-F
 8110@1@@3n@B is a «tram»/«streetcar»/«trolley» with route V through city F.@@B-VF
 8111@1@@2n@B is the «mayor» of F, the chief magistrate of a city or borough.@@B-F
@@ -15295,7 +15295,7 @@
 8212@1@@3n@V is the «place»/«situation»/«spot»/«position»/«site»/«location» of B in reference frame N.@@V-BN
 8212@2@fu %@n@a «frame» of reference, of a position, q.v.@@
 8212@3@nu %@a@«situated»/«located» at, converse of site/location.@@
-8213@1@@n@B is a «jay» from S, a family of corvine birds v.blanysitha.@@
+8213@1@@n@B is a «jay» from S, a family of corvine birds v. blanysitha.@@
 8214@1@@1vi@B is «deserted»/«abandoned».@@B-
 8215@1@@a@«at-most two» of ..., a quantifying operator.@@
 8216@1@@i@you're «welcome», reply to an expression of gratitude.@@
@@ -17600,7 +17600,7 @@
 9484@1@@i@«there»!/«that»'s it!/«finally»!/at «last»/«done» ..., an exp. of satisf'n.@@
 9485@1@@2a@B is «sacred» to K.@@B-K
 9486@1@@i@«indeed»!/«oh»!/«really»!/«well»!/«what» ... <, exp./exclamation of surprise.>.@@
-9486@2@@i@how «interesting»/«surprising»+that ..., exp./exclamation of surprise.@@
+9486@2@@i@how «interesting»/«surprising» that ..., exp./exclamation of surprise.@@
 9487@1@@l@«u», latin lower case letter, one of a pool of symbols.@@
 9488@1@@i@«fine»!/«good»!/oh! ..., an exp./exclamation of pleasure.@@
 9488@2@@i@how «nice»!/I am «happy»/«pleased» that ..., an exp./exclamation of pleasure.@@
@@ -17953,7 +17953,7 @@
 9661@3@po %@n@an «eclipse», generic term.@@
 9662@1@@af@a combining form of {vizka}, «see».@@
 9663@1@@3v@K «remark»/«comment»/«observe», make remark P to D.@@K-PD
-9663@2@nu %@n@a «remark»/«comment»/«observation», that which is said, conv.form.@@
+9663@2@nu %@n@a «remark»/«comment»/«observation», that which is said, conv. form.@@
 9663@3@po %@n@a «remark»/«comment»/«observation», an act/event of -ing.@@
 9664@1@@2n@B is the sense of «vision»/«sight»/«eyesight» of organism F.@@B-F
 9664@2@@a@«visual», pert. to vision/sight.@@
@@ -18195,7 +18195,7 @@
 9791@5@lopu %@n@«harmfulness», mass prop. of -ful acts.@@
 9791@6@nu %@a@«harmed», one who is -ed by another.@@
 9791@7@nu %@n@a «victim», of harm (q.v.) by another.@@
-9791@8@nu %@v@«sustain»/«suffer»+harm, from ..., conv. of--.@@
+9791@8@nu %@v@«sustain»/«suffer» harm, from ..., conv. of--.@@
 9792@1@@3v@K «abuse»/«maltreat» D by V.@@K-DV
 9792@2@@a@«abusive», pertaining to --.@@
 9792@3@@n@«abuser», one who -s.@@
