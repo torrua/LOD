@@ -1705,7 +1705,7 @@
 1018@1@@2v@K is «inconsiderate»/«thoughtless» about V, not kind about.@@K-V
 1019@1@@2n@B is a «cafe»/«coffee house» of place/community F.@@B-F
 1020@1@@2av@G is more «kindly» than J.@@G-J
-1021@1@@4a@G is «kinder»/more «kindly» to D1 than J is to D2. G may be the same person as J or D1 may be the same as D2.@@G-DJD
+1021@1@@4a@G is «kinder»/more «kindly» to D(1) than J is to D(2). G may be the same person as J or D(1) may be the same as D(2).@@G-DJD
 1021@2@nu %@a@«less kind to» ... than ... is to ..., conv. form.@@
 1022@1@@2a@K is «kind» to D.@@K-D
 1022@2@@av@«kindly», pert. to those who are kind.@@
