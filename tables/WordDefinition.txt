@@ -2168,7 +2168,7 @@
 1225@1@@af@a combining form of {condi}, «deep».@@
 1226@1@@1v@K (pl.) «look deeply at each other».@@K-
 1227@1@@2v@V «deepen» D, make(s) ... deeper, nonintentional.@@V-D
-1227@2@po %@n@a «deepening», an act/process of of -ing.@@
+1227@2@po %@n@a «deepening», an act/process of -ing.@@
 1228@1@@2n@B is a «pool» in F, a deep part in a river/stream.@@B-F
 1229@1@@3n@B is a «channel»/deep-water way between S and S.@@B-SS
 1230@1@@3a@G is «deeper»/more «profound» than J by C.@@G-JC
@@ -2186,7 +2186,7 @@
 1234@3@po %@n@an instance of «grief».@@
 1235@1@@2n@K «gargle» (s) with V.@@K-V
 1236@1@@3v@K «deepen» D by V, make ... deeper, intentional.@@K-DV
-1236@2@po %@n@a «deepening», an act/process of of -ing.@@
+1236@2@po %@n@a «deepening», an act/process of -ing.@@
 1237@1@@c@«either» ... or, exclusive, between mods.@@
 1237@2@@c@«mean» not, a connective between modifiers.@@
 1237@3@@c@«or» ... but not both, one word between mods.@@
@@ -4999,7 +4999,7 @@
 2701@1@@2n@B is a «stone»/«pit» from fruit F (for large stones as in peaches, mangoes, cherries).@@B-F
 2702@1@@1@B is some «fructose», a common sugar.@@B-
 2703@1@@2n@B is a «blossom»/«flower» of F, a fruit producing plant.@@B-F
-2704@1@@2n@B is a/the «peel»/«husk»/«rind» of of edible fruit, nut, or root F.@@B-F
+2704@1@@2n@B is a/the «peel»/«husk»/«rind» of edible fruit, nut, or root F.@@B-F
 2705@1@@2n@B is a «fruit» of F.@@B-F
 2705@2@@a@«fruit», made of fruit.@@
 2705@3@lo %@n@«fruit», mass term of instances.@@
