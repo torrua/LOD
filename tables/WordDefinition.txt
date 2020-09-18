@@ -14235,7 +14235,6 @@
 7610@1@@2v@D is «dazzled» by V.@@D-V
 7610@2@@a@«dazzling», that which -s.@@
 7610@3@nu %@2n@«dazzle» --.@@
-7610@3@nu %@2n@«dazzle» --.@@
 7611@1@@3v@K «triumph» over D in battle/competition V.@@K-DV
 7611@2@@a@«triumphant».@@
 7611@3@po %@n@a (specific) «triumph».@@
