@@ -18648,3 +18648,6 @@
 10136@2@@a@«aquatic», pert. to water.@@
 10136@3@lo %@n@«water», mass term.@@
 10137@1@@2v@B «blacken»/«become black» by V.@@B-V
+10138@1@@4v@K «jump out»/«leap out»/«pop out» of/outside S to D via V.@@K-SDV
+10138@2@po %@n@an «jump out», an act of -ing.@@
+10138@3@po %@n@an instance of «jumping out».@@

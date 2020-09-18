@@ -10088,3 +10088,4 @@
 10135@C-Prim@Predicate@sli@46%@L4@1975@1.4@3/4E sweet | 3/5R slast | 2/4C tien | 2/4H mitha@@heirslicui | norsli | norslilicgrato | slibii | slicko | slicui | sligiu | slilio | slimao@
 10136@C-Prim@Predicate@cui cut@40%@L4@1975@1.0@3/4E water | 3/4C shuei@@bancycui | concui | concuirua | cuicli | cuidru | cuiflo | cuirclimao | cuirduo | cuirsatci | cuirtcenorbli | cutblabou | cutflemai | cuthou | cutkua | cutlaiflemai | cutlekykro | cutlenki | cutpalgoi | cutpinti | cutpravalbou | cutpravalreo | cutraa | cutrua | cutvao | cutvaobou | cutvaopro | fagcui | felcui | grocuiflemai | heirslicui | kukcui | mekcui | miurcui | norconcui | normuvcui | nurconcuidzo | slicui@
 10137@2-Cpx@Predicate@@@APL/RH@2019 (original 2000)@7+@he(kr)i+r+ce(nj)a@black become@@
+10138@2-Cpx@Predicate@@@JCB@1994@@zvo(to)+va(lt)i@out jump@@
