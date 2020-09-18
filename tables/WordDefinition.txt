@@ -475,7 +475,7 @@
 316@4@po %@n@an «interpretation»/«clarification» (of ... as ... for ...).@@
 317@1@@2n@V is the/some «traffic» in/of F.@@V-F
 318@1@@2v@V «line up» D, unintentionally cause ... to be placed linearly.@@V-D
-319@1@@2v@K «line up»/«queue up» D. intentionally cause ... to be placed linearly.@@K-D
+319@1@@2v@K «line up»/«queue up» D, intentionally cause ... to be placed linearly.@@K-D
 319@2@@n@«aligner», one who lines ... up.@@
 319@3@lopo %@n@«alignment», mass term.@@
 319@4@po %@n@an instance of «alignment».@@
@@ -1341,7 +1341,7 @@
 817@1@@2n@F is «tenfold» of B, international prefix.@@F-B
 818@1@@af@a combining form of {denli}, «day».@@
 819@1@@1n@V is a/the «sunset».@@V-
-820@1@@2n@B is a «day» of month/year F, any 24hr. period.@@B-F
+820@1@@2n@B is a «day» of month/year F, any 24 hour period.@@B-F
 821@1@@2n@V measure(s) C in «day»(s).@@V-C
 822@1@@2n@B is the «date» of event V, specified day of month and year.@@B-V
 823@1@@1n@B is a «date stamp».@@B-
@@ -5090,7 +5090,7 @@
 2742@1@@3n@K feel(s) «obliged»/«obligated» by rule/custom S to do P.@@K-SP
 2742@2@fu %@n@a «obligation» by rule or custom.@@
 2743@1@@op@reorders the 1st three places of a predicate as 312.@@
-2744@1@@mod@3rd «reflexive», equivalent to inserting a third argument identical to the first argument. c.f. {nuo}.@@
+2744@1@@mod@3rd «reflexive», equivalent to inserting a third argument identical to the first argument. C.f. {nuo}.@@
 2745@1@@af@a combining form of {fu}, third place «passive».@@
 2746@1@@3n@N is a «condition»/«circumstance»/«factor» in the situation V of F.@@N-VF
 2746@2@po %@a@is «conditional», an event of something being a condition.@@
@@ -6242,7 +6242,7 @@
 3297@1@@2n@B is a «hand shape» of F.@@B-F
 3298@1@@3n@F is a «sign language» used by K in situation N.@@F-KN
 3299@1@@3v@K «gesture»/«sign»/«signal» to D to do V.@@K-DV
-3300@1@@1v@K (pl.) «shake hands» (with each other) v. {hansiu} -- K shakes hands with D.@@K-
+3300@1@@1v@K (pl.) «shake hands» (with each other). Viz. {hansiu} -- K shakes hands with D.@@K-
 3301@1@@2v@K «shake hands» with D.@@K-D
 3301@2@po %@n@a «handshake», an act of -ing.@@
 3302@1@@2v@K «clap» (hands) for purpose P.@@K-P
@@ -7136,7 +7136,7 @@
 3826@5@lopo %@n@«youth», mass term of states.@@
 3826@6@po %@n@«youth», a spec. state of being young.@@
 3826@7@pu %@n@the «youth»/«youthfulness», a spec. property of being young.@@
-3827@1@@mod@4th reflexive. Equivalent to inserting a fourth argument identical to the first argument. c.f. {nuo}.@@
+3827@1@@mod@4th reflexive. Equivalent to inserting a fourth argument identical to the first argument. C.f. {nuo}.@@
 3828@1@@af@a combining form of {djupo}, «support».@@
 3829@1@@3v@K «rally» behind D for P, get together for support.@@K-DP
 3830@1@@3v@K «think»/«opine»/tentatively «believe» that N is true of S.@@K-NS
@@ -7388,7 +7388,7 @@
 3945@1@@4v@K «come»/«go» from S to D via V.@@K-SDV
 3945@2@@i@«come» here!, w/o; 1st arg., an imperative.@@
 3945@3@fu %@n@a «destination», of coming/going from ... to ....@@
-3945@4@nu %@n@a «start», of coming/going from ... to ..., q.v ....@@
+3945@4@nu %@n@a «start», of coming/going from ... to ..., q.v. ....@@
 3945@5@po %@n@a «coming»/«going», an event/act of coming/going from somewhere.@@
 3946@1@@3n@B is a «camp»/«encampment» of F at N, a temporary dwelling place.@@B-FN
 3947@1@@2v@K «encamp» at B.@@K-B
@@ -8737,7 +8737,7 @@
 4666@1@lao %@na@a «Lamellibranchia», a bivalve mollusc.@@
 4667@1@@1n@B is a «lamellibranch», a bivalve mollusc.@@B-
 4668@1@@af@a combining form of {landi}, «land».@@
-4669@1@@3n@B is a «peninsula» attached to landmass F flanked by waters N v. {murbaa} gulf.@@B-FN
+4669@1@@3n@B is a «peninsula» attached to landmass F flanked by waters N. Viz. {murbaa} gulf.@@B-FN
 4670@1@@2n@B is a/the «shore»/«coast»/«coastline»/«seashore» of F.@@B-F
 4670@2@@a@«coastal», pert. to coasts.@@
 4671@1@@2n@B is a «cape»/«headland» on land F.@@B-F
@@ -14200,7 +14200,7 @@
 7590@2@@n@a «reader», one who -s.@@
 7590@3@nu %@a@«readable», conv. of read.@@
 7590@4@po %@n@a «reading», an act/event of -ing.@@
-7591@1@@3v@K let «read» book B by D c.f. {vizlei}.@@K-BD
+7591@1@@3v@K let «read» book B by D. Cf. {vizlei}.@@K-BD
 7592@1@@2v@K «experience» B «vicariously» by reading about it.@@K-B
 7593@1@@2v@K «discover»/«find out» B by reading about it.@@K-B
 7594@1@@h@«sir»/«madam»/«sire»/«m»'am/«honorable», an attitudinal used by an inferior addressing a superior; part of the series '{rie}/{kae}/{nue}/{fie}/{die}', q.v.; always follows a designation/vocative. E.g. '{Gandias Smiq, Rie}' -- 'Professor Smith, Sir'. (DIE).@@
@@ -14234,6 +14234,7 @@
 7609@1@@2v@N «brighten» D, cause to become bright.@@N-D
 7610@1@@2v@D is «dazzled» by V.@@D-V
 7610@2@@a@«dazzling», that which -s.@@
+7610@3@nu %@2n@«dazzle» --.@@
 7610@3@nu %@2n@«dazzle» --.@@
 7611@1@@3v@K «triumph» over D in battle/competition V.@@K-DV
 7611@2@@a@«triumphant».@@
@@ -14438,7 +14439,7 @@
 7729@1@@4v@K «roll» B, make ... roll to D from S, intentional.@@K-BDS
 7730@1@@1v@D is/are «rocked» (unspecified actor) The baby was rocked.@@D-
 7731@1@@1n@B is a «rocking chair».@@B-
-7732@1@@2v@K «rock» D. as a baby (intentional act).@@K-D
+7732@1@@2v@K «rock» D, as a baby (intentional act).@@K-D
 7733@1@@1v@K «roll», from side to side.@@K-
 7733@2@@a@«rocking»/«rolling».@@
 7733@3@@vi@«rock», back and forth.@@
@@ -15295,7 +15296,7 @@
 8212@1@@3n@V is the «place»/«situation»/«spot»/«position»/«site»/«location» of B in reference frame N.@@V-BN
 8212@2@fu %@n@a «frame» of reference, of a position, q.v.@@
 8212@3@nu %@a@«situated»/«located» at, converse of site/location.@@
-8213@1@@n@B is a «jay» from S, a family of corvine birds v. blanysitha.@@
+8213@1@@n@B is a «jay» from S, a family of corvine birds. Viz. {blanysitha}.@@
 8214@1@@1vi@B is «deserted»/«abandoned».@@B-
 8215@1@@a@«at-most two» of ..., a quantifying operator.@@
 8216@1@@i@you're «welcome», reply to an expression of gratitude.@@
@@ -18121,7 +18122,7 @@
 9751@3@lopu %@n@«shortness», mass prop.@@
 9752@1@@3n@B is a «column»/«post» supporting load C in structure F.@@B-CF
 9753@1@@1a@«tall».@@G-J
-9753@2@@2a@G is «taller» than J, in the vertical dimension. v.{vrecoa}.@@
+9753@2@@2a@G is «taller» than J, in the vertical dimension. C.f. {vrecoa}.@@
 9753@3@pu %@2n@the «stature» of ..., its height property.@@
 9754@1@@1n@B is a «cliff»/«bluff»/«crag», a vertical land face.@@B-
 9755@1@@2v@K «take off» «vertically» in gravity field F.@@K-F
@@ -18167,7 +18168,7 @@
 9774@1@@l@«X», Latin upper case letter, one of a pool of symbols. The former {Xai} is no longer suitable as X is no longer a Loglan letter.@@
 9775@1@@2n@B is some «X radiation» from source S.@@B-S
 9775@2@nu %@n@an «X ray» source.@@
-9776@1@@l@«x», Latin lower case letter, one of a pool of symbols. [original {xei} no longer suitable as x is not a Loglan letter any more].@@
+9776@1@@l@«x», Latin lower case letter, one of a pool of symbols. Original {xei} no longer suitable as x is not a Loglan letter any more.@@
 9777@1@@1n@B is some «xenon», element 54 (Xe).@@B-
 9778@1@-za@af@the short interval space time suffix, as in {faza}, 'soon'.@@
 9779@1@@af@a combining form of {zakra}, «crush» to pulp.@@
