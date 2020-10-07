@@ -45,7 +45,7 @@
 30@2@lopo %@n@«shadiness», mass term.@@
 30@3@po %@n@a «shadiness», a spec. state/condition.@@
 31@1@@c@«hyphen», open hyphen between words.@@B-
-31@2@-ci%@af@«sub» as in 'x sub 1', generates subscripted variables.@@
+31@2@-ci %@af@«sub» as in 'x sub 1', generates subscripted variables.@@
 32@1@@av@«similarly»/«like the foregoing», a discourse operator (UI).@@
 33@1@@3a@G is more «learned»/scholarly in field(s) B than J.@@G-BJ
 33@2@@n@a «scholar», one who is learned.@@
@@ -286,8 +286,8 @@
 205@1@@af@a combining form of {balma}, «sphere».@@
 206@1@@2a@G is more «spheroidal»/sphere like than J.@@G-J
 206@2@@n@a «spheroid», a sphere like, ball shaped thing.@@
-207@1@@1a@«spherical», pertaining to geometrical spheres.@@B-CC
-207@2@@3n@B is a «sphere», a geometrical figure with center C and radius C.@@
+207@1@@1a@«spherical», pertaining to geometrical spheres.@@
+207@2@@3n@B is a «sphere», a geometrical figure with center C and radius C.@@B-CC
 207@3@lopu %@1n@«sphericity» (mass term).@@
 207@4@pu %@1n@«sphericity», sp. property.@@
 208@1@@1n@B is a «globe», a spherical map.@@B-
@@ -353,7 +353,7 @@
 245@1@@2v@K «bottle»(s) D, put ... into bottles.@@K-D
 245@2@@n@«bottler», one who/that which -s.@@
 245@3@nu %@a@«bottled».@@
-246@1@@3v@K «work»/«operate» machine/vehicle B for use/end/function/goal P.@@K-DP
+246@1@@3v@K «work»/«operate» machine/vehicle B for use/end/function/goal P.@@K-BP
 246@2@@n@an «operator», one who -s a machine ....@@
 246@3@no nu %@a@«inoperable», unable to be -d.@@
 246@4@nu %@a@«operable»/«working», able to be -d.@@
@@ -1443,8 +1443,8 @@
 878@1@@2a@G is more «dainty» than J.@@G-J
 879@1@@3v@K «represent» person(s) D in matter/situation V.@@K-DV
 879@2@@n@an «agent»/ «representative» of absent person(s) ... in matter/situation ....@@
-879@3@po %@n@a «representation», general, a spec. act.@@
-879@4@@2n@attached to <predy>, means «vice» of ..., e.g. a vice president.@@
+879@3@@2n@attached to <predy>, means «vice» of ..., e.g. a vice president.@@
+879@4@po %@n@a «representation», general, a spec. act.@@
 880@1@@4v@K «delegate»/«deputize» D to do V for P.@@K-DVP
 880@2@@a@«delegating»/«deputizing» (... to do ... for ...), pertaining to the act.@@
 880@3@nu %@n@«delegate»/«deputy» (by ... to do ... for ...), the one -ed.@@
@@ -1467,7 +1467,7 @@
 889@1@@2v@K is «fond of» D/feel «affection for» ... /feels that ... is dear/precious.@@K-D
 889@2@@a@«affectionate»/«fond of», of those who feel -ion.@@
 889@3@po %@n@an «affection»/«fondness», a spec. state of feeling.@@
-890@1@@2v@K «cherish» (es) D.@@K-D
+890@1@@2v@K «cherish»(es) D.@@K-D
 890@2@@n@a «treasurer», one who keeps a treasure.@@
 890@3@nu %@a@«cherished», conv. of cherish.@@
 890@4@nu %@n@a «treasure», that which is -ed.@@
@@ -1615,7 +1615,7 @@
 961@7@pu %@n@an «equality», dimensional, a spec. property.@@
 961@8@pu no %@n@an «inequality», neg. of equality.@@
 962@1@@af@a combining form of {citlu}, «detail».@@
-963@1@@3v@K «investigate» B for/on behalf of D.@@K-BD
+963@1@@3v@K «investigate»/«research» B for/on behalf of D.@@K-BD
 963@2@@n@an «investigator»/«researcher».@@
 964@1@@2n@B is an «island»/«isle» in body of water F.@@B-F
 964@2@@a@«insular», pert. to islands.@@
@@ -1967,7 +1967,7 @@
 1129@1@@1n@B is a «pony», a small horse.@@B-
 1130@1@@2n@B is a «ditch» to drain F.@@B-F
 1131@1@@2n@B is a «small»/«lower case» «letter» from set/font F.@@B-F
-1132@1@@2a@J is «smaller»/«littler»/«lesser» than G, in bulk/mass by amount C.@@J-GC
+1132@1@@2a@J is more «small»/«smaller»/«littler»/«lesser» than G, in bulk/mass by amount C.@@J-GC
 1132@2@@av@a «little»/«somewhat», in a small way/degree.@@
 1132@3@% le da@a@«least», smaller than anything in a set ....@@
 1132@4@% ra ba@a@«least», smaller than anything.@@
@@ -3631,7 +3631,7 @@
 1966@3@nu %@a@«rural»/«rustic», pert. to farm country.@@
 1966@4@nu %@n@«farm country», converse of farm.@@
 1966@5@pu %@a@«agricultural», the property of a farm (?).@@
-1967@1@@2v@K «undress» (es) D, «remove clothing» from ....@@K-D
+1967@1@@2v@K «undress»(es) D, «remove clothing» from ....@@K-D
 1968@1@@2v@K «undress» (by removing)/«remove» clothing B.@@K-B
 1968@2@@v@«strip»/«doff»/«disrobe»/«undress», take off clothing.@@
 1969@1@@4v@K «rewind» record/tape D to position C on machine B.@@K-DCB
@@ -3894,7 +3894,7 @@
 2108@2@@n@a «truth», an empirical truth under rules ....@@
 2108@3@lopu %@n@«truth», empirical, mass term.@@
 2108@4@pu %@n@a «truth», empirical, a property.@@
-2109@1@@2n@B is 10E 15th «quantity» of F. (ISV femti).@@B-F
+2109@1@@2n@B is 10E 15th «quantity» of F. (ISV «femto»).@@B-F
 2110@1@@af@a combining form of {fe}, «five».@@
 2111@1@@2n@B is a «quintet»/«pentad»/«five member» subset of set F, a cardinal predicate; e.g. {Da fera lea golfu} -- X is a fivesome at golf/of golfers.@@
 2112@1@@2n@C measures five «cents», 5/100ths of monetary unit F.@@C-F
@@ -4644,8 +4644,8 @@
 2471@1@@2n@P measures C in «magneton»(s), a unit of magnetic moment.@@P-C
 2472@1@@l@«M», Latin upper case letter, one of a pool of symbols.@@
 2473@1@@af@a combining form of {matci}, «machine».@@
-2474@1@@1av@«mechanically», pert. to a machine like behaviour.@@G-VJ
-2474@2@@3a@G is (more) «mechanical» in action V (than J), a machine like behaviour.@@
+2474@1@@1av@«mechanically», pert. to a machine like behaviour.@@
+2474@2@@3a@G is (more) «mechanical» in action V (than J), a machine like behaviour.@@G-VJ
 2475@1@@5v@K «fly» B to D from S via V.@@K-BDSV
 2475@2@@n@a «pilot»/«flier», pilot, one who flies machines.@@
 2475@3@po %@n@a «flight», an act of piloting, q.v.@@
@@ -4688,7 +4688,7 @@
 2501@2@po %@n@a «yawn», a specific instance.@@
 2502@1@@2n@B is a/the «palate» of F.@@B-F
 2503@1@@2n@P is a «breath» of S, air breathed out.@@P-S
-2504@1@@2n@K «wash» (es) the «mouth» with «mouthwash» V.@@K-V
+2504@1@@2n@K «wash»(es) the «mouth» with «mouthwash» V.@@K-V
 2504@2@nu %@n@a «mouthwash».@@
 2505@1@@2v@K «chew»/«munch» B.@@K-B
 2506@1@@af@a combining form of {malbi}, «sick».@@
@@ -5126,7 +5126,7 @@
 2753@3@pu %@a@«receptive».@@
 2754@1@@3n@B is a «department»/«section»/«administrative unit» in company/university/organization F, with functions/duties P.@@B-FP
 2754@2@@a@«departmental», pert. to departments.@@
-2755@1@@3n@B is an «organization» of elements/parts/people B with purpose/function P.@@F-BP
+2755@1@@3n@F is an «organization» of elements/parts/people B with purpose/function P.@@F-BP
 2755@2@@a@«organizational», pert. to organizations.@@
 2756@1@@2v@F is the «substrate»/«parent» of B.@@F-B
 2756@2@nu %@2v@be «rooted» in, e.g. Physics is rooted in mathematics.@@
@@ -5308,7 +5308,7 @@
 2836@2@lopu %@n@«courtesy», mass property.@@
 2836@3@po %@n@a specific instance of «courtesy».@@
 2837@1@@4v@K «pull»/«draw» B up from S to D.@@K-BSD
-2838@1@@4v@K «win»/«gain» prize/honor/resource B from rival(s)/competitors F in struggle V in domain/circumstances/conditions N.@@K-BPFVN
+2838@1@@5v@K «win»/«gain» prize/honor/resource B from rival(s)/competitors F in struggle V in domain/circumstances/conditions N.@@K-BFVN
 2838@2@@a@«victorious», of winners in general.@@
 2838@3@@n@a «victor»/«winner», of prize ... in contest ... over ....@@
 2838@4@lopo %@n@«victory», mass term of acts.@@
@@ -6067,7 +6067,7 @@
 3200@2@@n@a «nationalist»/«patriot», of persons.@@
 3200@3@lopu %@n@«patriotism», mass term.@@
 3200@4@pu %@n@a «patriotism», property of being patriotic.@@
-3201@1@@2n@B is the «national emblem» of country F.@@B-D
+3201@1@@2n@B is the «national emblem» of country F.@@B-F
 3202@1@@2a@N is «abroad», out of country S.@@N-S
 3202@2@@2v@be «abroad», away from country ....@@
 3203@1@@1n@B is some «gumbo»/«okra», a vegetable.@@B-
@@ -6761,7 +6761,7 @@
 3600@1@@1n@B is a male «ape».@@B-
 3601@1@@1n@B is an «ape», non specific.@@B-
 3602@1@@af@a combining form of {hutri}, «destroy».@@
-3603@1@@2v@K «destroy»/«ruin»/«wreck»/lay «waste»/«ravage» D.@@K-D
+3603@1@@2v@K «destroy»/«ruin»/«wreck»/«lay waste»/«ravage» D.@@K-D
 3603@2@@a@«destructive», of that which/one who -s.@@
 3603@3@@n@a «destroyer», one who/that which -s.@@
 3603@4@no nu %@a@«indestructible», neg. of destructible.@@
@@ -6805,7 +6805,7 @@
 3624@1@@2a@D is «immune» to B.@@D-B
 3625@1@@c@«that», in order that, motiv'l with clauses.@@
 3625@2@@c@«because»/«since»/«for»/«as», of motives, as in 'because I wanted it'.@@
-3626@1@@2n@B measures C in «inch» (es), a unit measuring 2.54cm.@@B-C
+3626@1@@2n@B measures C in «inch»(es), a unit measuring 2.54 cm.@@B-C
 3627@1@@1@B is some «indium», element 49 (In).@@B-
 3628@1@@1n@D suffers from «flu»/«influenza».@@D-
 3628@2@lopo %@n@«influenza», the mass of ... cases.@@
@@ -11165,9 +11165,9 @@
 5954@1@@2n@B is (a/the) «yesterday»/«day before»/«eve of» day F.@@B-F
 5955@1@@2n@B is a/the «night» before day F.@@B-F
 5955@2@@n@a/the «last»/«yesterday» night, yesterday's night, incomplete.@@
-5956@1@@2v@K «concentrate» on V.@@K-V
-5956@2@lopu %@n@«concentration»/«single mindedness», mass term.@@
-5956@3@po %@n@an instance of «concentration».@@
+5956@1@@2v@K «concentrate»/«focus» on V.@@K-V
+5956@2@lopu %@n@«concentration»/«single mindedness»/«focus», mass term.@@
+5956@3@po %@n@an instance of «concentration»/«focus».@@
 5957@1@@4v@B «correspond» to B in systems/sets F and F, respectively.@@B-BFF
 5957@2@@a@«respective», of corresponding things.@@
 5957@3@@av@«respectively», in a one to one way.@@
@@ -12342,7 +12342,7 @@
 6573@2@@2n@B is a «case»/«argument» of predicate/verb F.@@
 6574@1@@2n@N is a «dimension», scalable property of B, pl.set.@@N-B
 6575@1@@1n@B is a «seat», anything one can sit on.@@B-
-6576@1@@3@B is a written «note»/«message»/«work»/ «text»/«theme»/«composition»/«document» about V written by K.@@B-VK
+6576@1@@3@B is a written «note»/«message»/«work»/«text»/«theme»/«composition»/«document» about V written by K.@@B-VK
 6576@2@lo %@1n@«literature», the mass of written material on/about topic ....@@
 6577@1@@2n@D is a/the «victim of»/is «injured by» V.@@D-V
 6578@1@@2n@B is a «part»/«role»/«character» in play/drama F.@@B-F
@@ -14954,7 +14954,7 @@
 8026@2@@af@the «digit seven» (7), as in {sevove} (789).@@
 8026@3@@l@«seven» (7) (of), a description quantifier. E.g. {Se le fumna pa merji} -- (Some) Seven of the women were married; {Se fumna pa hijra} -- (Some) Seven women were here independently. Cf., {secu}.@@
 8026@4@lio %@ph@«seven» (7), the number seven, non math.@@
-8027@1@@pp@«instead of»/in «place of», a relative oper. before design'ns (PA).@@
+8027@1@@pp@«instead»/«instead of»/in «place of», a relative oper. before design'ns (PA).@@
 8028@1@@af@a combining form of {sekci}, «court», «flirt».@@
 8029@1@@2a@G is more «sexy», disposed to sexual behavior than J is.@@G-J
 8029@2@lopu %@n@«sexiness», mass prop.@@
@@ -16584,7 +16584,7 @@
 8906@1@@2v@B run «through» (body) D, as a sword might.@@B-D
 8907@1@@2n@B is some «Cheddar» from S, a cheese.@@B-S
 8908@1@@4v@K «walk through» N on the way to D from S.@@K-NDS
-8909@1@@2v@B «go through»/«run through» N to D from S. E.g. {La Tigris tcegoi la Irak lo mursi lo monca.} -- The Tigris runs through Iraq to the sea from the mountains.@@B-N
+8909@1@@4v@B «go through»/«run through» N to D from S. E.g. {La Tigris tcegoi la Irak lo mursi lo monca.} -- The Tigris runs through Iraq to the sea from the mountains.@@B-NDS
 8910@1@@2v@N «pierce»/«puncture»/«perforate»/make a «hole» in D, nonintentional.@@N-D
 8910@2@@n@a «punch», any device for making holes.@@
 8910@3@nu %@a@«punctured»/«perforated».@@
@@ -16662,7 +16662,7 @@
 8949@1@@2n@D is a «listener»/«spectator»/«audience member» of/at performance V.@@D-V
 8949@2@lo %@n@«listeners»/«spectators»/«audience», mass term.@@
 8950@1@@2a@G is more «attentive» than J.@@G-J
-8951@1@@2a@K is «attentive»/«concentrated»/«single minded» to/on/about V.@@K-V
+8951@1@@2a@K is «attentive»/«focused»/«concentrated»/«single minded» to/on/about V.@@K-V
 8952@1@@2n@D are «listeners»/«spectators»/«audience» of performance V.@@D-V
 8953@1@@2v@K «bark»/«shout» about V, used of any attention or alarm cry.@@K-V
 8953@2@po %@n@a «shout»/«bark», attention calling, an act/event.@@
@@ -17983,7 +17983,7 @@
 9677@3@lo %@n@«wine», mass term.@@
 9678@1@@1n@K is a «wine maker»/«vintner».@@K-
 9678@2@po %@n@a «vintage», an event of wine making.@@
-9679@1@@1n@B is a «wine store»/«wine cellar».@@F-
+9679@1@@1n@B is a «wine store»/«wine cellar».@@B-
 9680@1@@1n@B is some «vinegar».@@B-
 9681@1@@1n@B is an «alcoholic», one who suffers from alcoholism.@@B-
 9681@2@@a@«alcoholic» (a), of persons.@@
@@ -18137,7 +18137,7 @@
 9761@1@@3n@B is a «river» draining basin N of land mass F.@@B-NF
 9762@1@@2n@B is a/the «mouth» of river F.@@B-F
 9763@1@@3@B is a «swimming race» from S to D. (Use of {por} is considered poor Loglan).@@B-SD
-9764@1@@1n@B is a «river-taxi» of waterway system F.@@B-
+9764@1@@2n@B is a «river-taxi» of waterway system F.@@B-F
 9765@1@@av@«far» (away)/«away» from here, before predicates.@@
 9765@2@@av@«there», in the far distance (a location op.).@@
 9765@3@@c@«far»/«away» from where, before clauses.@@
@@ -18435,7 +18435,7 @@
 9949@1@@af@a combining form of {dirco}, «direction».@@
 9950@1@@af@a combining form of {citre}, «thread».@@
 9951@1@@af@a combining form of {cirzo}, «scissors».@@
-9952@1@@af@a combining form of {ciktu} «equal to»/«equally»/«as much as» that makes comparative predas out of non comparative ones. E.g. {ckaciu} -- out of {ckano} (X is kind to Y): {Da ckaciu de di do} -- X is as kind to Y as Z is kind to W. Cf. {mou}.@@
+9952@1@@af@a combining form of {ciktu}, «equal to»/«equally»/«as much as» that makes comparative predas out of non comparative ones. E.g. {ckaciu} -- out of {ckano} (X is kind to Y): {Da ckaciu de di do} -- X is as kind to Y as Z is kind to W. Cf. {mou}.@@
 9953@1@@af@a combining form of {corta}, «short».@@
 9954@1@@af@a combining form of {cutri}, «water».@@
 9955@1@@af@a combining form of {donsu}, «give».@@
@@ -18447,7 +18447,7 @@
 9961@1@@af@a combining form of {firpa}, «fear».@@
 9962@1@@af@a combining form of {forma}, «form».@@
 9963@1@@af@a combining form of {fosli}, «force».@@
-9964@1@@af@a combining form of {mensa}, «month».@@K-VV
+9964@1@@af@a combining form of {mensa}, «month».@@
 9965@1@@af@a combining form of {fumna}, «woman».@@
 9966@1@@af@a combining form of {futci}, «after».@@
 9967@1@@af@a combining form of {gasno}, «anus».@@
@@ -18482,7 +18482,7 @@
 9996@1@@af@a combining form of {letra}, «letter».@@
 9997@1@@af@a combining form of {lengu}, «language».@@
 9998@1@@af@a combining form of {clina}, «line».@@
-9999@1@@af@a combining form of {clivi}, «live».@@B-P
+9999@1@@af@a combining form of {clivi}, «live».@@
 10000@1@@af@a combining form of {likro}, «liquor».@@
 10001@1@@af@a combining form of {litnu}, «restrain».@@
 10002@1@@af@a combining form of {flora}, «flower».@@
@@ -18492,7 +18492,7 @@
 10006@1@@af@a combining form of {mitro}, «meat».@@
 10007@1@@af@a combining form of {minku}, «mineral».@@
 10008@1@@af@a combining form of {modvi}, «motive».@@
-10009@1@@af@a combining form of {mordu} «more»/ er than that makes comparative predas out of non comparative ones. E.g. {ckamou} -- out of {ckano} (X is kind to Y): {Da ckamou de di do} -- X is kinder to Y than Z is kind to W. Cf. {ciu}.@@
+10009@1@@af@a combining form of {mordu}, «more»/ er than that makes comparative predas out of non comparative ones. E.g. {ckamou} -- out of {ckano} (X is kind to Y): {Da ckamou de di do} -- X is kinder to Y than Z is kind to W. Cf. {ciu}.@@
 10010@1@@af@a combining form of {muvdo}, «move».@@
 10011@1@@af@a combining form of {nadzo}, «now».@@
 10012@1@@af@a combining form of {nedza}, «next».@@
@@ -18593,7 +18593,7 @@
 10107@1@@af@a combining form of {buste}, «step».@@
 10108@1@@af@a combining form of {clika}, «like».@@
 10109@1@@af@a combining form of {djitu}, «tight».@@
-10110@1@@af@a combining form of {fepti}, «femti-».@@
+10110@1@@af@a combining form of {fepti}, «femto-».@@
 10111@1@@af@a combining form of {gigbi}, «gibi-».@@
 10112@1@@af@a combining form of {hekso}, «exa-».@@
 10113@1@@af@a combining form of {hepti}, «atto-».@@
@@ -18651,3 +18651,12 @@
 10138@1@@4v@K «jump out»/«leap out»/«pop out» of/outside S to D via V.@@K-SDV
 10138@2@po %@n@an «jump out», an act of -ing.@@
 10138@3@po %@n@an instance of «jumping out».@@
+10139@1@@a@«two thousand» of ..., a quantifying operator, in math. exp., formerly {tomo}.@@
+10139@2@@n@«two» thousand, the number, math. exp.@@
+10139@3@lio %@n@«two» thousand, the number, non math.@@
+10140@1@@a@«two million» of ..., a quantifying operator, in math. exp., formerly {tomomo}.@@
+10140@2@@n@«two» million, the number, math. exp.@@
+10140@3@lio %@n@«two» million, the number, non math.@@
+10141@1@@a@«two billion» of ..., a quantifying operator, in math. exp., formerly {tomomomo}.@@
+10141@2@@n@«two» billion, the number, math. exp.@@
+10141@3@lio %@n@«two» billion, the number, non math.@@
